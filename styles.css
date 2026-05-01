@@ -409,8 +409,7 @@ input:focus, select:focus, textarea:focus {
   box-shadow: 0 4px 11px rgba(0, 0, 0, 0.3);
 }
 
-.case-marker.worker_death_recent,
-.case-marker.worker_death_older { background: var(--death); }
+.case-marker.worker_death_recent { background: var(--death); }
 .case-marker.strike_ongoing { background: var(--strike); }
 .case-marker.strike_ended { background: var(--ended); }
 .case-marker.mesem_school { background: var(--mesem); }
