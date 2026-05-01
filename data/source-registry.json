@@ -824,6 +824,7 @@
       "data_file": "data/incidents.json",
       "sources": [
         "https://artigercek.com/emek/balikesirde-maden-ocaginda-is-cinayeti-343431h",
+        "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
         "https://bianet.org/haber/akademisyenlerden-tutuklu-sendikaci-mehmet-turkmen-ve-sirma-hali-iscilerine-destek-317894",
         "https://bianet.org/haber/antalyada-konteyner-yangini-hamile-kadin-ve-5-cocuk-hayatini-kaybetti-317877",
         "https://bianet.org/haber/bu-yilin-85-inci-cocuk-isci-olumu-9-yasindaki-isa-simsek-hayatini-kaybetti-314032",

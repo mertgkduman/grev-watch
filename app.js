@@ -243,6 +243,7 @@ const COPY = {
     },
     geocodePrecision: {
       exact: "tam koordinat",
+      venue_approx: "miting yeri yaklaşık",
       district_centroid: "ilçe merkezi",
       province_centroid: "il merkezi",
       unknown: "bilinmiyor",
@@ -396,6 +397,7 @@ const COPY = {
     },
     geocodePrecision: {
       exact: "exact",
+      venue_approx: "approx. venue",
       district_centroid: "district centroid",
       province_centroid: "province centroid",
       unknown: "unknown",
