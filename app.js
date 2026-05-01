@@ -112,6 +112,7 @@ const LAYER_ORDER = [
 ];
 const DEFAULT_LAYERS = ["worker_death_recent", "strike_ongoing", "union_arrest_current"];
 const QUICK_LAYERS = ["worker_death_recent", "strike_ongoing", "union_arrest_current", "mesem_school"];
+const DATE_RANGES = ["all", "last_30_days", "last_3_months", "last_6_months"];
 
 const LAYER_COLORS = {
   worker_death_recent: "#111111",
@@ -135,8 +136,15 @@ const COPY = {
       panelTitle: "Kayıtları daralt",
       search: "Ara",
       searchPlaceholder: "İşveren, sendika, okul, il...",
+      dateRange: "Tarih aralığı",
       province: "İl",
       sector: "Sektör",
+      dateRanges: {
+        all: "Tüm tarihler",
+        last_30_days: "Son 30 gün",
+        last_3_months: "Son 3 ay",
+        last_6_months: "Son 6 ay",
+      },
       allProvinces: "Tüm iller",
       allSectors: "Tüm sektörler",
       layers: "Katmanlar",
@@ -276,8 +284,15 @@ const COPY = {
       panelTitle: "Narrow records",
       search: "Search",
       searchPlaceholder: "Employer, union, school, province...",
+      dateRange: "Date range",
       province: "Province",
       sector: "Sector",
+      dateRanges: {
+        all: "All dates",
+        last_30_days: "Last 30 days",
+        last_3_months: "Last 3 months",
+        last_6_months: "Last 6 months",
+      },
       allProvinces: "All provinces",
       allSectors: "All sectors",
       layers: "Layers",
@@ -422,6 +437,7 @@ const state = {
   layerFilters: new Set(DEFAULT_LAYERS),
   actionFilters: new Set(ACTION_TYPES),
   search: "",
+  dateRange: "all",
   province: "",
   sector: "",
 };
@@ -626,6 +642,10 @@ function fatalityCount(record) {
 }
 
 function populateControls() {
+  document.getElementById("date-range-filter").innerHTML = DATE_RANGES
+    .map((range) => `<option value="${range}" ${state.dateRange === range ? "selected" : ""}>${escapeHtml(t(`filters.dateRanges.${range}`))}</option>`)
+    .join("");
+
   const provinceOptions = [`<option value="">${t("filters.allProvinces")}</option>`]
     .concat(PROVINCES.map((province) => `<option value="${escapeHtml(province.name)}">${escapeHtml(province.name)}</option>`));
   document.getElementById("province-filter").innerHTML = provinceOptions.join("");
@@ -660,6 +680,10 @@ function renderCheckboxGroup(containerId, values, selectedSet, labelKey) {
 function bindStaticEvents() {
   document.getElementById("search-input").addEventListener("input", (event) => {
     state.search = event.target.value.trim().toLocaleLowerCase("tr");
+    applyFilters();
+  });
+  document.getElementById("date-range-filter").addEventListener("change", (event) => {
+    state.dateRange = event.target.value;
     applyFilters();
   });
   document.getElementById("province-filter").addEventListener("change", (event) => {
@@ -769,6 +793,7 @@ function applyFilters() {
     if (!state.layerFilters.has(record.layer)) return false;
     const locations = displayLocations(record);
     if (!locations.length) return false;
+    if (!recordMatchesDateRange(record)) return false;
     if (state.province && !locations.some((location) => location.province === state.province)) return false;
     if (state.sector && record.sector !== state.sector) return false;
     if (record.record_type === "strike" && record.action_type && !state.actionFilters.has(record.action_type)) return false;
@@ -864,6 +889,31 @@ function displayLocations(record) {
 
 function isTurkeyLocation(location) {
   return Boolean(location.province_key || location.province === "Türkiye");
+}
+
+function recordMatchesDateRange(record) {
+  const cutoff = dateRangeCutoff(state.dateRange);
+  if (!cutoff) return true;
+  const date = parseDate(recordDateValue(record));
+  return Boolean(date && date >= cutoff);
+}
+
+function dateRangeCutoff(range) {
+  const now = new Date();
+  now.setHours(0, 0, 0, 0);
+  if (range === "last_30_days") {
+    now.setDate(now.getDate() - 30);
+    return now;
+  }
+  if (range === "last_3_months") {
+    now.setMonth(now.getMonth() - 3);
+    return now;
+  }
+  if (range === "last_6_months") {
+    now.setMonth(now.getMonth() - 6);
+    return now;
+  }
+  return null;
 }
 
 function markerOffset(index, total) {
