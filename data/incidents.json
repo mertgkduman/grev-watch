@@ -1326,59 +1326,6 @@
       ]
     },
     {
-      "id": "bagimsiz-maden-is-kurtulus-park-cagrisi-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Bağımsız Maden-İş Kurtuluş Parkı dayanışma çağrısı",
-      "summary": "Doruk Madencilik işçilerinin ödenmeyen ücret ve tazminat hakları için yürüttüğü direnişte Bağımsız Maden-İş, Yıldızlar SSS Holding önü çağrısını güncelleyerek 28 Nisan 2026 saat 19.00'da Kurtuluş Parkı'ndaki açıklamaya dayanışma çağrısı yaptı.",
-      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
-      "labor_organization": "Bağımsız Maden-İş",
-      "sector": "Maden",
-      "event_date": "2026-04-28",
-      "demands": [
-        "Ödenmeyen ücretlerin ödenmesi",
-        "Tazminat ve özlük hakları",
-        "İşçi direnişiyle dayanışma"
-      ],
-      "last_verified_at": "2026-04-28",
-      "locations": [
-        {
-          "id": "bagimsiz-maden-is-kurtulus-parki-2026",
-          "label": "Kurtuluş Parkı",
-          "province_key": "ANKARA",
-          "province": "Ankara",
-          "district": "Çankaya",
-          "lat": 39.9279,
-          "lng": 32.8658,
-          "geocode_precision": "district_centroid"
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-28",
-          "status": "action_call_happened",
-          "note": "SSS Holding önü çağrısı iptal edilerek Kurtuluş Parkı açıklamasına çağrı yapıldı."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Bağımsız Maden-İş: Ankara halkını madencilerin sesini yükseltmek adına Yıldızlar SSS Holding önüne çağırıyoruz",
-          "url": "https://sendika.org/2026/04/bagimsiz-maden-is-ankara-halkini-madencilerin-sesini-yukseltmek-adina-yildizlar-sss-holding-onune-cagiriyoruz-746895",
-          "publisher": "Sendika.Org",
-          "type": "labor_news",
-          "published_at": "2026-04-27"
-        },
-        {
-          "title": "Direnen maden işçileri kazandı!",
-          "url": "https://www.birgun.net/haber/direnen-maden-iscileri-kazandi-708876",
-          "publisher": "BirGün",
-          "type": "labor_news",
-          "published_at": "2026-04-28"
-        }
-      ]
-    },
-    {
       "id": "bianet-1-mayis-programi-adana-2026",
       "record_type": "action_call",
       "status": "action_call_happened",
@@ -4486,6 +4433,635 @@
           "publisher": "Bianet",
           "type": "labor_news",
           "published_at": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "doruk-madencilik-mihaliccik-eylemi-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "title": "Doruk Madencilik işçileri Eskişehir fiili grevi",
+      "summary": "Yıldızlar SSS Holding’e bağlı Doruk Madencilik işçileri, ödenmeyen ücret, tazminat ve özlük hakları için Eskişehir Mihalıççık’taki maden sahasından Ankara’ya yürüyüşe geçen fiili eylemi başlattı. Ankara’da açlık grevine dönüşen süreç, 28 Nisan 2026’da bakanlıkların garantörlüğündeki uzlaşmayla sona erdi.",
+      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
+      "labor_organization": "Bağımsız Maden-İş",
+      "sector": "Maden / enerji",
+      "participant_count": 113,
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-28",
+      "demands": [
+        "Ödenmeyen ücretlerin ödenmesi",
+        "Tazminat ve özlük haklarının ödenmesi",
+        "Zorla ücretsiz izin uygulamasının sonlandırılması",
+        "İSİG kurallarına uygun güvenli çalışma ortamı",
+        "Sendikal faaliyet nedeniyle işten çıkarılan işçilerin işe iadesi",
+        "Madenin kamulaştırılması ve iş güvencesi"
+      ],
+      "last_verified_at": "2026-04-28",
+      "locations": [
+        {
+          "id": "doruk-madencilik-yunus-emre-mihaliccik",
+          "label": "Doruk Madencilik / Yunus Emre Termik Santrali sahası",
+          "province_key": "ESKISEHIR",
+          "province": "Eskişehir",
+          "district": "Mihalıççık",
+          "lat": 39.984309,
+          "lng": 31.635639,
+          "geocode_precision": "exact",
+          "location_basis": "Kaynaklar Doruk Madencilik işçilerinin Eskişehir Mihalıççık’taki işletmeden yürüdüğünü bildirir; koordinat Yunus Emre Termik Santrali için Global Energy Monitor lokasyon kaydıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-13",
+          "status": "ongoing",
+          "note": "Bağımsız Maden-İş üyesi Doruk Madencilik işçileri, alacakları için maden sahasından Ankara yürüyüşüne başladı."
+        },
+        {
+          "date": "2026-04-20",
+          "status": "ongoing",
+          "note": "İşçiler Ankara’ya ulaştı ve Enerji ve Tabii Kaynaklar Bakanlığı önünde açlık grevine başladı."
+        },
+        {
+          "date": "2026-04-28",
+          "status": "ended",
+          "note": "İçişleri Bakanlığı’ndaki görüşme sonrası maaş, tazminat ve özlük haklarının ödenmesi konusunda uzlaşma sağlandı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Doruk Madencilik işçileri eylemi uzlaşmayla sonlandırdı",
+          "url": "https://www.dw.com/tr/doruk-madencilik-i%C5%9F%C3%A7ileri-eylemi-uzla%C5%9Fmayla-sonland%C4%B1rd%C4%B1/a-76972319",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-04-28"
+        },
+        {
+          "title": "Doruk Madencilik işçileri Enerji ve Tabii Kaynaklar Bakanlığı önünde açlık grevine başladı",
+          "url": "https://medyascope.tv/2026/04/20/doruk-madencilik-iscileri-bakanlik-onunde-aclik-grevine-basladi/",
+          "publisher": "Medyascope",
+          "type": "labor_news",
+          "published_at": "2026-04-20"
+        },
+        {
+          "title": "Doruk Madencilik işçileri gasp edilen hakları için Ankara’ya yürüyecek",
+          "url": "https://sendika.org/2026/04/doruk-madencilik-iscileri-gasp-edilen-haklari-icin-ankaraya-yuruyecek-745605/",
+          "publisher": "Sendika.Org",
+          "type": "labor_news",
+          "published_at": "2026-04-08"
+        },
+        {
+          "title": "Yunus Emre Termik Santrali",
+          "url": "https://www.enerjiatlasi.com/komur/yunus-emre-termik-santrali.html",
+          "publisher": "Enerji Atlası",
+          "type": "location_reference",
+          "published_at": null
+        },
+        {
+          "title": "Yunus Emre power station",
+          "url": "https://www.gem.wiki/Yunus_Emre_power_station",
+          "publisher": "Global Energy Monitor",
+          "type": "location_reference",
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "id": "doruk-madencilik-ankara-aclik-grevi-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "protest",
+      "title": "Doruk Madencilik işçileri Ankara açlık grevi",
+      "summary": "Eskişehir’den yürüyerek Ankara’ya gelen Doruk Madencilik işçileri, alacakları ve özlük hakları için Enerji ve Tabii Kaynaklar Bakanlığı önü ve Kurtuluş Parkı hattında açlık grevi ve oturma eylemi yaptı. Eylem 28 Nisan 2026’da uzlaşmayla sonlandırıldı.",
+      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
+      "labor_organization": "Bağımsız Maden-İş",
+      "sector": "Maden / enerji",
+      "participant_count": 110,
+      "event_date": "2026-04-20",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-28",
+      "demands": [
+        "Ödenmeyen ücretlerin ödenmesi",
+        "Tazminat ve özlük haklarının ödenmesi",
+        "Zorla ücretsiz izin uygulamasının sonlandırılması",
+        "İSİG kurallarına uygun güvenli çalışma ortamı",
+        "Sendikal faaliyet nedeniyle işten çıkarılan işçilerin işe iadesi",
+        "Madenin kamulaştırılması ve iş güvencesi"
+      ],
+      "last_verified_at": "2026-04-28",
+      "locations": [
+        {
+          "id": "doruk-madencilik-enerji-bakanligi-ankara",
+          "label": "Enerji ve Tabii Kaynaklar Bakanlığı önü",
+          "province_key": "ANKARA",
+          "province": "Ankara",
+          "district": "Çankaya",
+          "lat": 39.9139,
+          "lng": 32.8369,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Medyascope işçilerin Enerji ve Tabii Kaynaklar Bakanlığı önünde açlık grevine başladığını bildirdi; koordinat bakanlık çevresi yaklaşık noktasıdır."
+        },
+        {
+          "id": "doruk-madencilik-kurtulus-parki-ankara",
+          "label": "Kurtuluş Parkı",
+          "province_key": "ANKARA",
+          "province": "Ankara",
+          "district": "Çankaya",
+          "lat": 39.9279,
+          "lng": 32.8658,
+          "geocode_precision": "district_centroid",
+          "location_basis": "DW ve diğer haberler Ankara eyleminin Kurtuluş Parkı’nda sürdüğünü aktardı; koordinat park çevresi yaklaşık noktasıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-20",
+          "status": "action_call_happened",
+          "note": "Ankara’ya ulaşan işçiler bakanlık önünde açlık grevine başladı."
+        },
+        {
+          "date": "2026-04-27",
+          "status": "action_call_happened",
+          "note": "Kurtuluş Parkı’ndaki işçilere ve destekçilere polis müdahalesi haberleştirildi."
+        },
+        {
+          "date": "2026-04-28",
+          "status": "action_call_happened",
+          "note": "İşçiler, bakanlıkların garantörlüğündeki uzlaşma sonrası eylemi sonlandırdı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Doruk Madencilik işçileri eylemi uzlaşmayla sonlandırdı",
+          "url": "https://www.dw.com/tr/doruk-madencilik-i%C5%9F%C3%A7ileri-eylemi-uzla%C5%9Fmayla-sonland%C4%B1rd%C4%B1/a-76972319",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-04-28"
+        },
+        {
+          "title": "Doruk Madencilik işçileri Enerji ve Tabii Kaynaklar Bakanlığı önünde açlık grevine başladı",
+          "url": "https://medyascope.tv/2026/04/20/doruk-madencilik-iscileri-bakanlik-onunde-aclik-grevine-basladi/",
+          "publisher": "Medyascope",
+          "type": "labor_news",
+          "published_at": "2026-04-20"
+        },
+        {
+          "title": "Ücretleri gasp ettiğini söyledi polis işçilere müdahale etti",
+          "url": "https://www.birgun.net/haber/ucretleri-gasp-ettigini-soyledi-polis-iscilere-mudahale-etti-708167",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "doruk-madencilik-destek-eskisehir-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "solidarity_action",
+      "title": "Doruk Madencilik işçileriyle dayanışma: Eskişehir",
+      "summary": "Eskişehir’de Bağımsız Maden-İş çağrısıyla Kanatlı AVM önünde Doruk Madencilik işçilerine destek için basın açıklaması ve bir saatlik oturma eylemi yapıldı.",
+      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
+      "labor_organization": "Bağımsız Maden-İş / Eskişehir emek ve demokrasi güçleri",
+      "sector": "Maden / enerji",
+      "event_date": "2026-04-24",
+      "demands": [
+        "Doruk Madencilik işçileriyle dayanışma",
+        "Ücret ve tazminat haklarının ödenmesi",
+        "Polis ablukası ve baskıların sonlandırılması"
+      ],
+      "last_verified_at": "2026-04-24",
+      "locations": [
+        {
+          "id": "doruk-destek-kanatli-avm-eskisehir",
+          "label": "Kanatlı AVM önü",
+          "province_key": "ESKISEHIR",
+          "province": "Eskişehir",
+          "district": "Tepebaşı",
+          "lat": 39.7817,
+          "lng": 30.5116,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Eskişehir Haber Ajansı Kanatlı AVM önünde basın açıklaması ve oturma eylemi yapıldığını bildirdi; koordinat AVM çevresi yaklaşık noktasıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-24",
+          "status": "action_call_happened",
+          "note": "Doruk Madencilik işçilerinin Ankara’daki direnişiyle dayanışma açıklaması yapıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Eskişehir’de Doruk Maden İşçileri İçin Oturma Eylemi",
+          "url": "https://www.eskisehirhaberajansi.com/eskisehirde-doruk-maden-iscileri-icin-oturma-eylemi",
+          "publisher": "Eskişehir Haber Ajansı",
+          "type": "labor_news",
+          "published_at": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "doruk-madencilik-destek-izmir-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "solidarity_action",
+      "title": "Doruk Madencilik işçileriyle dayanışma: İzmir",
+      "summary": "İzmir’de Bağımsız Maden-İş, Türkan Saylan Kültür Merkezi önünde Doruk Maden işçileriyle dayanışma basın açıklaması yaptı.",
+      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
+      "labor_organization": "Bağımsız Maden-İş / İzmir dayanışma katılımcıları",
+      "sector": "Maden / enerji",
+      "event_date": "2026-04-24",
+      "demands": [
+        "Doruk Madencilik işçileriyle dayanışma",
+        "Ücret ve tazminat haklarının ödenmesi",
+        "Polis ablukası ve baskıların sonlandırılması"
+      ],
+      "last_verified_at": "2026-04-24",
+      "locations": [
+        {
+          "id": "doruk-destek-turkan-saylan-izmir",
+          "label": "Türkan Saylan Kültür Merkezi önü",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Konak",
+          "lat": 38.4333,
+          "lng": 27.1458,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Mezopotamya Ajansı açıklamanın İzmir Türkan Saylan Kültür Merkezi önünde yapıldığını bildirdi; koordinat merkez çevresi yaklaşık noktasıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-24",
+          "status": "action_call_happened",
+          "note": "Doruk Madencilik işçilerinin Ankara’daki direnişiyle dayanışma açıklaması yapıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Doruk Maden işçileriyle dayanışma eylemi",
+          "url": "https://mezopotamyaajansi.net/GUNCEL/content/view/310126",
+          "publisher": "Mezopotamya Ajansı",
+          "type": "labor_news",
+          "published_at": "2026-04-24"
+        },
+        {
+          "title": "Eskişehir’de Doruk Maden İşçileri İçin Oturma Eylemi",
+          "url": "https://www.eskisehirhaberajansi.com/eskisehirde-doruk-maden-iscileri-icin-oturma-eylemi",
+          "publisher": "Eskişehir Haber Ajansı",
+          "type": "labor_news",
+          "published_at": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "doruk-madencilik-destek-bursa-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "solidarity_action",
+      "title": "Doruk Madencilik işçileriyle dayanışma: Bursa",
+      "summary": "Bursa Fomara Meydanı’nda açlık grevindeki Doruk Madencilik işçilerine destek eylemi düzenlendi.",
+      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
+      "labor_organization": "Bursa emek ve demokrasi güçleri",
+      "sector": "Maden / enerji",
+      "event_date": "2026-04-24",
+      "demands": [
+        "Doruk Madencilik işçileriyle dayanışma",
+        "Ücret ve tazminat haklarının ödenmesi",
+        "Polis ablukası ve baskıların sonlandırılması"
+      ],
+      "last_verified_at": "2026-04-24",
+      "locations": [
+        {
+          "id": "doruk-destek-fomara-bursa",
+          "label": "Fomara Meydanı",
+          "province_key": "BURSA",
+          "province": "Bursa",
+          "district": "Osmangazi",
+          "lat": 40.1894,
+          "lng": 29.0606,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Başka Gazete destek eyleminin Bursa Fomara Meydanı’nda yapıldığını bildirdi; koordinat meydan çevresi yaklaşık noktasıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-24",
+          "status": "action_call_happened",
+          "note": "Doruk Madencilik işçilerinin Ankara’daki direnişiyle dayanışma açıklaması yapıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bursa’da madenciler için destek eylemi: Doruk madencilik işçileri köle değildir!",
+          "url": "https://www.baskagazete.com/haber/bursa-da-madenciler-icin-destek-eylemi-doruk-madencilik-iscileri-kole-degildir-231110.html",
+          "publisher": "Başka Gazete",
+          "type": "labor_news",
+          "published_at": "2026-04-24"
+        },
+        {
+          "title": "Eskişehir’de Doruk Maden İşçileri İçin Oturma Eylemi",
+          "url": "https://www.eskisehirhaberajansi.com/eskisehirde-doruk-maden-iscileri-icin-oturma-eylemi",
+          "publisher": "Eskişehir Haber Ajansı",
+          "type": "labor_news",
+          "published_at": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "doruk-madencilik-destek-antalya-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "solidarity_action",
+      "title": "Doruk Madencilik işçileriyle dayanışma: Antalya",
+      "summary": "Antalya’da Emek Partisi İl Örgütü, Attalos Meydanı’nda Doruk Madencilik işçileriyle dayanışma eylemi yaptı ve madencilerin sesi olma çağrısı yaptı.",
+      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
+      "labor_organization": "Emek Partisi Antalya İl Örgütü / Antalya dayanışma katılımcıları",
+      "sector": "Maden / enerji",
+      "event_date": "2026-04-26",
+      "demands": [
+        "Doruk Madencilik işçileriyle dayanışma",
+        "Ücret ve tazminat haklarının ödenmesi",
+        "Polis ablukası ve baskıların sonlandırılması"
+      ],
+      "last_verified_at": "2026-04-26",
+      "locations": [
+        {
+          "id": "doruk-destek-attalos-antalya",
+          "label": "Attalos Meydanı / Attalos Heykeli",
+          "province_key": "ANTALYA",
+          "province": "Antalya",
+          "district": "Muratpaşa",
+          "lat": 36.8872,
+          "lng": 30.7064,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Antalya Ekspres eylemin Attalos Meydanı’nda yapıldığını bildirdi; koordinat meydan çevresi yaklaşık noktasıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-26",
+          "status": "action_call_happened",
+          "note": "Doruk Madencilik işçilerinin Ankara’daki direnişiyle dayanışma açıklaması yapıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Maden işçileri için Antalya’da eylem",
+          "url": "https://www.antalyaekspres.com.tr/maden-iscileri-icin-antalyada-eylem/amp",
+          "publisher": "Antalya Ekspres",
+          "type": "labor_news",
+          "published_at": "2026-04-26"
+        },
+        {
+          "title": "Eskişehir’de Doruk Maden İşçileri İçin Oturma Eylemi",
+          "url": "https://www.eskisehirhaberajansi.com/eskisehirde-doruk-maden-iscileri-icin-oturma-eylemi",
+          "publisher": "Eskişehir Haber Ajansı",
+          "type": "labor_news",
+          "published_at": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "doruk-madencilik-destek-cerkezkoy-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "solidarity_action",
+      "title": "Doruk Madencilik işçileriyle dayanışma: Çerkezköy",
+      "summary": "Çerkezköy Belediye Meydanı’nda Doruk Madencilik işçileriyle dayanışma buluşması gerçekleştirildi.",
+      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
+      "labor_organization": "Çerkezköy dayanışma katılımcıları",
+      "sector": "Maden / enerji",
+      "event_date": "2026-04-24",
+      "demands": [
+        "Doruk Madencilik işçileriyle dayanışma",
+        "Ücret ve tazminat haklarının ödenmesi",
+        "Polis ablukası ve baskıların sonlandırılması"
+      ],
+      "last_verified_at": "2026-04-24",
+      "locations": [
+        {
+          "id": "doruk-destek-cerkezkoy-belediye-meydani",
+          "label": "Çerkezköy Belediye Meydanı",
+          "province_key": "TEKIRDAG",
+          "province": "Tekirdağ",
+          "district": "Çerkezköy",
+          "lat": 41.2853,
+          "lng": 28.0008,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Eskişehir Haber Ajansı eş zamanlı destek buluşmaları arasında Çerkezköy Belediye Meydanı’nı saydı; koordinat meydan çevresi yaklaşık noktasıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-24",
+          "status": "action_call_happened",
+          "note": "Doruk Madencilik işçilerinin Ankara’daki direnişiyle dayanışma açıklaması yapıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Eskişehir’de Doruk Maden İşçileri İçin Oturma Eylemi",
+          "url": "https://www.eskisehirhaberajansi.com/eskisehirde-doruk-maden-iscileri-icin-oturma-eylemi",
+          "publisher": "Eskişehir Haber Ajansı",
+          "type": "labor_news",
+          "published_at": "2026-04-24"
+        },
+        {
+          "title": "Ücretleri gasp ettiğini söyledi polis işçilere müdahale etti",
+          "url": "https://www.birgun.net/haber/ucretleri-gasp-ettigini-soyledi-polis-iscilere-mudahale-etti-708167",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "doruk-madencilik-destek-istanbul-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "solidarity_action",
+      "title": "Doruk Madencilik işçileriyle dayanışma: İstanbul",
+      "summary": "İstanbul Emek, Barış ve Demokrasi Güçleri Kadıköy Süreyya Operası önünde Doruk Madencilik işçileriyle dayanışma açıklaması yaptı.",
+      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
+      "labor_organization": "İstanbul Emek, Barış ve Demokrasi Güçleri",
+      "sector": "Maden / enerji",
+      "event_date": "2026-04-24",
+      "demands": [
+        "Doruk Madencilik işçileriyle dayanışma",
+        "Ücret ve tazminat haklarının ödenmesi",
+        "Polis ablukası ve baskıların sonlandırılması"
+      ],
+      "last_verified_at": "2026-04-24",
+      "locations": [
+        {
+          "id": "doruk-destek-sureyya-operasi-istanbul",
+          "label": "Süreyya Operası önü",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Kadıköy",
+          "lat": 40.9907,
+          "lng": 29.0271,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Cumhuriyet dayanışma açıklamasının Kadıköy Süreyya Operası önünde yapıldığını bildirdi; koordinat mekan çevresi yaklaşık noktasıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-24",
+          "status": "action_call_happened",
+          "note": "Doruk Madencilik işçilerinin Ankara’daki direnişiyle dayanışma açıklaması yapıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Doruk Madencilik işçilerine Kadıköy’den destek",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/doruk-madencilik-iscilerine-kadikoy-den-destek-2498210",
+          "publisher": "Cumhuriyet",
+          "type": "labor_news",
+          "published_at": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "doruk-madencilik-destek-hopa-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "solidarity_action",
+      "title": "Doruk Madencilik işçileriyle dayanışma: Hopa",
+      "summary": "Hopa’da Umut-Sen çağrısıyla Hopa Parkı’nda Doruk Madencilik işçileri için oturma eylemi ve basın açıklaması yapıldı.",
+      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
+      "labor_organization": "Umut-Sen Karadeniz / Hopa dayanışma katılımcıları",
+      "sector": "Maden / enerji",
+      "event_date": "2026-04-27",
+      "demands": [
+        "Doruk Madencilik işçileriyle dayanışma",
+        "Ücret ve tazminat haklarının ödenmesi",
+        "Polis ablukası ve baskıların sonlandırılması"
+      ],
+      "last_verified_at": "2026-04-27",
+      "locations": [
+        {
+          "id": "doruk-destek-hopa-parki-artvin",
+          "label": "Hopa Parkı",
+          "province_key": "ARTVIN",
+          "province": "Artvin",
+          "district": "Hopa",
+          "lat": 41.3904,
+          "lng": 41.4193,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Cumhuriyet Hopa Parkı’nda oturma eylemi yapıldığını bildirdi; koordinat Hopa merkez yaklaşık noktasıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-27",
+          "status": "action_call_happened",
+          "note": "Doruk Madencilik işçilerinin Ankara’daki direnişiyle dayanışma açıklaması yapıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hopa’da Doruk Madencilik işçilerine destek eylemi: Hak gasplarına son verin",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/hopa-da-doruk-madencilik-iscilerine-destek-eylemi-hak-gasplarina-son-verin-2498971",
+          "publisher": "Cumhuriyet",
+          "type": "labor_news",
+          "published_at": "2026-04-27"
+        }
+      ]
+    },
+    {
+      "id": "doruk-madencilik-destek-samsun-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "solidarity_action",
+      "title": "Doruk Madencilik işçileriyle dayanışma: Samsun",
+      "summary": "TİP Samsun İl Örgütü, Bulvar AVM girişi önünde Doruk Maden işçileriyle dayanışma basın açıklaması yaptı.",
+      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
+      "labor_organization": "TİP Samsun İl Örgütü",
+      "sector": "Maden / enerji",
+      "event_date": "2026-04-26",
+      "demands": [
+        "Doruk Madencilik işçileriyle dayanışma",
+        "Ücret ve tazminat haklarının ödenmesi",
+        "Polis ablukası ve baskıların sonlandırılması"
+      ],
+      "last_verified_at": "2026-04-26",
+      "locations": [
+        {
+          "id": "doruk-destek-bulvar-avm-samsun",
+          "label": "Bulvar AVM girişi",
+          "province_key": "SAMSUN",
+          "province": "Samsun",
+          "district": "İlkadım",
+          "lat": 41.2926,
+          "lng": 36.3311,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Cumhuriyet açıklamanın Samsun Bulvar AVM girişi önünde yapıldığını bildirdi; koordinat AVM çevresi yaklaşık noktasıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-26",
+          "status": "action_call_happened",
+          "note": "Doruk Madencilik işçilerinin Ankara’daki direnişiyle dayanışma açıklaması yapıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "TİP Samsun’dan Doruk Maden işçilerine destek: İşçi hakkını gasbedip lüks içinde yaşayanları teşhir edeceğiz",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/tip-samsun-dan-doruk-maden-iscilerine-destek-isci-hakkini-gasbedip-luks-icinde-yasayanlari-teshir-edecegiz-2498564",
+          "publisher": "Cumhuriyet",
+          "type": "labor_news",
+          "published_at": "2026-04-26"
+        }
+      ]
+    },
+    {
+      "id": "doruk-madencilik-destek-edremit-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "solidarity_action",
+      "title": "Doruk Madencilik işçileriyle dayanışma: Edremit",
+      "summary": "Edremit Demokrasi Platformu, Akçay’da kurulan stantta 1 Mayıs çağrısı yaparken Doruk Maden işçilerine destek mesajı verdi ve ödenmeyen ücretlerin derhal verilmesini istedi.",
+      "employer": "Doruk Madencilik / Yıldızlar SSS Holding",
+      "labor_organization": "Edremit Demokrasi Platformu",
+      "sector": "Maden / enerji",
+      "event_date": "2026-04-24",
+      "demands": [
+        "Doruk Madencilik işçileriyle dayanışma",
+        "Ücret ve tazminat haklarının ödenmesi",
+        "Polis ablukası ve baskıların sonlandırılması"
+      ],
+      "last_verified_at": "2026-04-24",
+      "locations": [
+        {
+          "id": "doruk-destek-akcay-edremit",
+          "label": "Akçay dayanışma standı",
+          "province_key": "BALIKESIR",
+          "province": "Balıkesir",
+          "district": "Edremit / Akçay",
+          "lat": 39.5857,
+          "lng": 26.9279,
+          "geocode_precision": "neighborhood_centroid",
+          "location_basis": "dokuz8HABER açıklamanın Edremit’e bağlı Akçay’da kurulan stantta yapıldığını bildirdi; koordinat Akçay merkez yaklaşık noktasıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-24",
+          "status": "action_call_happened",
+          "note": "Doruk Madencilik işçilerinin Ankara’daki direnişiyle dayanışma açıklaması yapıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Akçay’da 1 Mayıs çağrısı: Edremit Demokrasi Platformu’ndan maden işçilerine destek",
+          "url": "https://www.dokuz8haber.net/akcayda-1-mayis-cagrisi-edremit-demokrasi-platformundan-maden-iscilerine-destek",
+          "publisher": "dokuz8HABER",
+          "type": "labor_news",
+          "published_at": "2026-04-24"
         }
       ]
     },
