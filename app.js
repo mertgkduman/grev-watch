@@ -880,8 +880,8 @@ function markerOffset(index, total) {
   const slot = index - ringStart;
   const angle = ((Math.PI * 2) / slots) * slot - Math.PI / 2;
   const zoom = state.map?.getZoom?.() || CONFIG.defaultZoom;
-  const zoomSpread = Math.max(0, zoom - CONFIG.defaultZoom) * 0.45;
-  const radius = 12 + zoomSpread + (ring * (8 + (zoomSpread * 0.12)));
+  const zoomSpread = Math.max(0, zoom - CONFIG.defaultZoom) * 2;
+  const radius = 12 + zoomSpread + (ring * (8 + (zoomSpread * 0.38)));
   return {
     x: Math.cos(angle) * radius,
     y: Math.sin(angle) * radius,
