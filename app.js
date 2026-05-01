@@ -127,7 +127,7 @@ const LAYER_COLORS = {
 
 const COPY = {
   tr: {
-    nav: { filters: "Filtre", methodology: "Yöntem", sources: "Kaynaklar", submit: "+ Bildir" },
+    nav: { filters: "Filtre", listAll: "Listele", methodology: "Yöntem", sources: "Kaynaklar", submit: "+ Bildir" },
     common: { cancel: "Vazgeç", close: "Kapat", notSpecified: "Belirtilmedi", source: "Kaynak" },
     stats: { label: "Genel görünüm", total: "Toplam kayıt", deaths: "Son 6 ay iş cinayeti", strikes: "Süren grev", arrests: "Tutuklu emekçi" },
     filters: {
@@ -147,6 +147,12 @@ const COPY = {
       title: "Haritadan bir kayıt seçin",
       text: "Varsayılan harita son altı aydaki iş cinayetlerini, süren grevleri ve güncel emek tutuklamalarını gösterir.",
       context: "Bağlam kaynakları",
+    },
+    list: {
+      label: "Kayıt listesi",
+      title: "Filtredeki kayıtlar",
+      countLabel: "kayıt",
+      empty: "Bu filtrelerde kayıt yok.",
     },
     recordType: {
       worker_death: "İş cinayeti",
@@ -262,7 +268,7 @@ const COPY = {
     sources: { label: "Kaynaklar", title: "Başlangıç kaynak havuzu" },
   },
   en: {
-    nav: { filters: "Filter", methodology: "Method", sources: "Sources", submit: "+ Report" },
+    nav: { filters: "Filter", listAll: "List", methodology: "Method", sources: "Sources", submit: "+ Report" },
     common: { cancel: "Cancel", close: "Close", notSpecified: "Not specified", source: "Source" },
     stats: { label: "Overview", total: "Total records", deaths: "Recent workplace killings", strikes: "Ongoing strikes", arrests: "Jailed labor figures" },
     filters: {
@@ -282,6 +288,12 @@ const COPY = {
       title: "Select a record on the map",
       text: "By default the map shows workplace killings in the last six months, ongoing strikes, and current labor arrests.",
       context: "Context sources",
+    },
+    list: {
+      label: "Record list",
+      title: "Filtered records",
+      countLabel: "records",
+      empty: "No records match these filters.",
     },
     recordType: {
       worker_death: "Workplace killing",
@@ -404,6 +416,7 @@ const state = {
   filtered: [],
   markers: new Map(),
   selectedRecordId: null,
+  listOpen: false,
   map: null,
   sb: null,
   layerFilters: new Set(DEFAULT_LAYERS),
@@ -676,6 +689,7 @@ function bindStaticEvents() {
   document.getElementById("close-filter-btn").addEventListener("click", closeFilters);
   document.getElementById("drawer-scrim").addEventListener("click", closeFilters);
   document.getElementById("lang-btn").addEventListener("click", toggleLanguage);
+  document.getElementById("list-records-btn").addEventListener("click", toggleRecordList);
   document.getElementById("open-submit-btn").addEventListener("click", () => openModal("submit-modal"));
   document.getElementById("methodology-btn").addEventListener("click", () => openModal("methodology-modal"));
   document.getElementById("sources-btn").addEventListener("click", () => openModal("sources-modal"));
@@ -697,6 +711,38 @@ function openFilters() {
 function closeFilters() {
   document.body.classList.remove("filters-open");
   document.getElementById("drawer-scrim").hidden = true;
+}
+
+function toggleRecordList() {
+  if (state.listOpen) {
+    closeRecordList();
+    return;
+  }
+  state.listOpen = true;
+  state.selectedRecordId = null;
+  document.body.classList.add("detail-open");
+  closeFilters();
+  renderRecordList();
+  renderMarkers();
+  setTimeout(() => state.map.invalidateSize(), 220);
+}
+
+function closeRecordList() {
+  state.listOpen = false;
+  document.getElementById("record-list-panel").hidden = true;
+  document.getElementById("case-detail").hidden = true;
+  document.getElementById("empty-detail").hidden = false;
+  document.body.classList.remove("detail-open");
+  updateListButton();
+}
+
+function updateListButton() {
+  const button = document.getElementById("list-records-btn");
+  if (!button) return;
+  button.textContent = t("nav.listAll");
+  button.classList.toggle("active", state.listOpen);
+  button.setAttribute("aria-pressed", state.listOpen ? "true" : "false");
+  button.setAttribute("aria-label", `${t("nav.listAll")} - ${formatCount(state.filtered.length)} ${t("list.countLabel")}`);
 }
 
 function toggleLanguage() {
@@ -736,6 +782,8 @@ function applyFilters() {
   renderLegend();
   renderMobileChips();
   renderMarkers();
+  updateListButton();
+  if (state.listOpen) renderRecordList();
   document.getElementById("result-count").textContent = state.filtered.length;
 }
 
@@ -840,21 +888,93 @@ function markerLetter(record, location) {
   return "G";
 }
 
+function renderRecordList() {
+  const panel = document.getElementById("record-list-panel");
+  const records = sortedFilteredRecords();
+  state.listOpen = true;
+
+  document.getElementById("case-detail").hidden = true;
+  document.getElementById("empty-detail").hidden = true;
+  panel.hidden = false;
+
+  panel.innerHTML = `
+    <header class="record-list-header">
+      <div>
+        <div class="section-label">${escapeHtml(t("list.label"))}</div>
+        <h2>${escapeHtml(t("list.title"))}</h2>
+        <p>${escapeHtml(formatCount(records.length))} ${escapeHtml(t("list.countLabel"))}</p>
+      </div>
+      <button class="icon-btn" type="button" data-close-list aria-label="${escapeHtml(t("common.close"))}">×</button>
+    </header>
+    ${records.length ? `<div class="record-list">${records.map(renderRecordListItem).join("")}</div>` : `<p class="record-list-empty">${escapeHtml(t("list.empty"))}</p>`}
+  `;
+
+  panel.querySelector("[data-close-list]").addEventListener("click", closeRecordList);
+  panel.querySelectorAll("[data-record-list-id]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const record = state.records.find((item) => item.id === button.dataset.recordListId);
+      if (record) selectRecord(record.id, record.locations[0] || null);
+    });
+  });
+  updateListButton();
+}
+
+function renderRecordListItem(record) {
+  const selected = record.id === state.selectedRecordId ? "selected" : "";
+  return `
+    <button class="record-list-item ${selected}" type="button" data-record-list-id="${escapeAttribute(record.id)}">
+      <span class="record-list-dot" style="background:${LAYER_COLORS[record.layer]};${record.layer === "strike_decision" ? "border-color:#575047" : ""}"></span>
+      <span class="record-list-copy">
+        <strong>${escapeHtml(record.title)}</strong>
+        <span>${escapeHtml(recordListMeta(record))}</span>
+      </span>
+    </button>
+  `;
+}
+
+function sortedFilteredRecords() {
+  return [...state.filtered].sort((a, b) => (
+    String(recordDateValue(b)).localeCompare(String(recordDateValue(a)))
+    || LAYER_ORDER.indexOf(a.layer) - LAYER_ORDER.indexOf(b.layer)
+    || a.title.localeCompare(b.title, state.lang === "tr" ? "tr" : "en")
+  ));
+}
+
+function recordListMeta(record) {
+  const location = record.locations[0] || {};
+  const place = [location.district, location.province].filter(Boolean).join(", ");
+  return [
+    t(`recordType.${record.record_type}`),
+    t(`status.${record.status}`),
+    formatDate(recordDateValue(record)),
+    place,
+  ].filter(Boolean).join(" · ");
+}
+
+function recordDateValue(record) {
+  return record.death_date || record.start_date || record.decision_date || record.detention_date || record.known_active_date || record.end_date || record.last_verified_at || "";
+}
+
 function selectRecord(recordId, location) {
   state.selectedRecordId = recordId;
+  state.listOpen = false;
   document.body.classList.add("detail-open");
   closeFilters();
   renderDetail(getSelectedRecord());
   renderMarkers();
+  updateListButton();
   if (location) state.map.flyTo([location.lat, location.lng], Math.max(state.map.getZoom(), 8), { duration: 0.45 });
   setTimeout(() => state.map.invalidateSize(), 220);
 }
 
 function clearSelection() {
   state.selectedRecordId = null;
+  state.listOpen = false;
   document.body.classList.remove("detail-open");
   document.getElementById("case-detail").hidden = true;
+  document.getElementById("record-list-panel").hidden = true;
   document.getElementById("empty-detail").hidden = false;
+  updateListButton();
   renderMarkers();
 }
 
@@ -870,6 +990,7 @@ function renderDetail(record) {
     return;
   }
   empty.hidden = true;
+  document.getElementById("record-list-panel").hidden = true;
   detail.hidden = false;
 
   detail.innerHTML = `

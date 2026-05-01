@@ -109,6 +109,12 @@ a:hover { text-decoration: underline; }
   background: var(--surface-strong);
 }
 
+.ghost-btn.active {
+  border-color: var(--accent);
+  background: #eef7f7;
+  color: var(--accent-dark);
+}
+
 .primary-btn {
   background: var(--accent);
   border-color: var(--accent);
@@ -440,6 +446,95 @@ input:focus, select:focus, textarea:focus {
   font-weight: 700;
 }
 
+.record-list-panel {
+  min-height: 100%;
+  background: var(--surface);
+}
+
+.record-list-header {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 18px 18px 15px;
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+
+.record-list-header h2 {
+  margin: 4px 0 5px;
+  font-size: 21px;
+  line-height: 1.15;
+}
+
+.record-list-header p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.record-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.record-list-item {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 12px minmax(0, 1fr);
+  gap: 10px;
+  align-items: start;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  border-radius: 0;
+  background: var(--surface);
+  color: var(--ink);
+  min-height: 64px;
+  padding: 13px 16px;
+  text-align: left;
+}
+
+.record-list-item:hover,
+.record-list-item:focus-visible,
+.record-list-item.selected {
+  background: #f7f5ef;
+}
+
+.record-list-dot {
+  width: 11px;
+  height: 11px;
+  margin-top: 4px;
+  border-radius: 999px;
+  border: 1px solid rgba(0, 0, 0, 0.22);
+}
+
+.record-list-copy {
+  min-width: 0;
+}
+
+.record-list-copy strong {
+  display: block;
+  font-size: 14px;
+  line-height: 1.25;
+}
+
+.record-list-copy span,
+.record-list-empty {
+  display: block;
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.record-list-empty {
+  padding: 18px;
+}
+
 .case-detail {
   min-height: 100%;
   background: var(--surface);
@@ -751,6 +846,12 @@ input:focus, select:focus, textarea:focus {
     white-space: nowrap;
   }
 
+  #list-records-btn {
+    max-width: 70px;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
   .app-shell {
     display: block;
     height: calc(100svh - 58px);
@@ -910,6 +1011,21 @@ input:focus, select:focus, textarea:focus {
     overflow: auto;
   }
 
+  .record-list-panel {
+    max-height: min(74svh, 680px);
+    min-height: 0;
+    overflow: auto;
+  }
+
+  .record-list-header {
+    border-radius: 16px 16px 0 0;
+    padding: 16px;
+  }
+
+  .record-list-header h2 {
+    font-size: 19px;
+  }
+
   .detail-header {
     position: sticky;
     top: 0;
@@ -949,6 +1065,12 @@ input:focus, select:focus, textarea:focus {
   .modal {
     max-height: calc(100svh - 20px);
     border-radius: 14px;
+  }
+}
+
+@media (max-width: 420px) {
+  .brand > span:last-child {
+    display: none;
   }
 }
 

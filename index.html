@@ -19,6 +19,7 @@
     </div>
     <nav class="nav-actions" aria-label="Ana menü">
       <button class="ghost-btn mobile-filter-btn" id="mobile-filter-btn" type="button" data-i18n="nav.filters">Filtre</button>
+      <button class="ghost-btn" id="list-records-btn" type="button" aria-pressed="false" data-i18n="nav.listAll">Listele</button>
       <button class="ghost-btn desktop-nav" id="methodology-btn" type="button" data-i18n="nav.methodology">Yöntem</button>
       <button class="ghost-btn desktop-nav" id="sources-btn" type="button" data-i18n="nav.sources">Kaynaklar</button>
       <button class="ghost-btn" id="lang-btn" type="button" aria-label="Switch language">EN</button>
@@ -84,11 +85,13 @@
         <p data-i18n="empty.text">Varsayılan harita son altı aydaki iş cinayetlerini, süren grevleri ve güncel emek tutuklamalarını gösterir.</p>
         <div class="source-context">
           <div class="section-label" data-i18n="empty.context">Bağlam kaynakları</div>
+          <a href="https://www.isigmeclisi.org/is-cinayetleri-raporlari" target="_blank" rel="noreferrer">İSİG Meclisi iş cinayetleri raporları</a>
           <a href="https://emekcalisma.org/wp-content/uploads/ECT_2024.pdf" target="_blank" rel="noreferrer">EÇT 2024 İşçi Sınıfı Eylemleri Raporu</a>
           <a href="https://csgb.gov.tr/yayinlar/calisma-hayati-istatistikleri-e-bulteni/nisan-2026/ucret-ve-sendikal-istatistikler.html" target="_blank" rel="noreferrer">ÇSGB Nisan 2026 Bülteni</a>
           <a href="https://arastirma.disk.org.tr/wp-content/uploads/2026/01/Sendikalasma-ve-Toplu-Pazarlik-Rapor-Ocak-2026-1.pdf" target="_blank" rel="noreferrer">DİSK-AR Ocak 2026 Raporu</a>
         </div>
       </div>
+      <article id="record-list-panel" class="record-list-panel" hidden></article>
       <article id="case-detail" class="case-detail" hidden></article>
     </aside>
   </main>
