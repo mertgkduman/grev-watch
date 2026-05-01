@@ -217,6 +217,873 @@
       ]
     },
     {
+      "id": "migros-depo-eylemi-istanbul-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "employer": "Migros / US Grup",
+      "labor_organization": "DGD-SEN",
+      "sector": "Depo / lojistik / perakende",
+      "start_date": "2026-01-23",
+      "end_date": "2026-02-14",
+      "demands": [
+        "Net yüzde 50 zam",
+        "Banka promosyonlarının eksiksiz ödenmesi",
+        "Vergi kesintilerinin işveren tarafından karşılanması",
+        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
+        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
+      ],
+      "last_verified_at": "2026-02-16",
+      "timeline": [
+        {
+          "date": "2026-01-23",
+          "status": "ongoing",
+          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
+        },
+        {
+          "date": "2026-01-28",
+          "status": "ongoing",
+          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
+        },
+        {
+          "date": "2026-02-14",
+          "status": "ended",
+          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
+        },
+        {
+          "date": "2026-02-16",
+          "status": "ended",
+          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
+        }
+      ],
+      "title": "(Migros 1/10) İstanbul Migros depo işçileri fiili grevi",
+      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin İstanbul ayağıdır. DW ve CNBC-e bu ayağı eylemin başlangıç depoları arasında saydı. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
+      "locations": [
+        {
+          "id": "migros-esenyurt-depo-istanbul",
+          "label": "Migros Esenyurt/Akçaburgaz depo bölgesi",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Esenyurt",
+          "lat": 41.0339,
+          "lng": 28.6727,
+          "geocode_precision": "venue_approx",
+          "location_basis": "DW ve CNBC-e başlangıç noktası olarak İstanbul Esenyurt deposunu; zafer çağrıları Akçaburgaz depo önünü işaret eder. Koordinat depo bölgesi yaklaşık noktasıdır."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
+          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-02-16"
+        },
+        {
+          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
+          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-04"
+        },
+        {
+          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
+          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
+          "publisher": "CNBC-e",
+          "type": "labor_news",
+          "published_at": "2026-01-26"
+        },
+        {
+          "title": "İşten atılan Migros depo işçilerinden sert tepki",
+          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
+          "publisher": "Borsanın Gündemi",
+          "type": "labor_news",
+          "published_at": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "id": "migros-depo-eylemi-izmir-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "employer": "Migros / US Grup",
+      "labor_organization": "DGD-SEN",
+      "sector": "Depo / lojistik / perakende",
+      "start_date": "2026-01-23",
+      "end_date": "2026-02-14",
+      "demands": [
+        "Net yüzde 50 zam",
+        "Banka promosyonlarının eksiksiz ödenmesi",
+        "Vergi kesintilerinin işveren tarafından karşılanması",
+        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
+        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
+      ],
+      "last_verified_at": "2026-02-16",
+      "timeline": [
+        {
+          "date": "2026-01-23",
+          "status": "ongoing",
+          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
+        },
+        {
+          "date": "2026-01-28",
+          "status": "ongoing",
+          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
+        },
+        {
+          "date": "2026-02-14",
+          "status": "ended",
+          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
+        },
+        {
+          "date": "2026-02-16",
+          "status": "ended",
+          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
+        }
+      ],
+      "title": "(Migros 2/10) İzmir Migros depo işçileri fiili grevi",
+      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin İzmir ayağıdır. İzmir ayağı kaynaklarda Torbalı, ayrıca Kemalpaşa/Torbalı depo başlıklarıyla geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
+      "locations": [
+        {
+          "id": "migros-torbali-depo-izmir",
+          "label": "Migros Torbalı depo bölgesi",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Torbalı",
+          "lat": 38.1814,
+          "lng": 27.3625,
+          "geocode_precision": "district_centroid",
+          "location_basis": "DW ve CNBC-e İzmir Torbalı deposunu başlangıç noktaları arasında sayar; Borsanın Gündemi İzmir Kemalpaşa/Torbalı depo başlıklarını da aktarır. Koordinat Torbalı ilçe merkezidir."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
+          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-02-16"
+        },
+        {
+          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
+          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-04"
+        },
+        {
+          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
+          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
+          "publisher": "CNBC-e",
+          "type": "labor_news",
+          "published_at": "2026-01-26"
+        },
+        {
+          "title": "İşten atılan Migros depo işçilerinden sert tepki",
+          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
+          "publisher": "Borsanın Gündemi",
+          "type": "labor_news",
+          "published_at": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "id": "migros-depo-eylemi-adana-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "employer": "Migros / US Grup",
+      "labor_organization": "DGD-SEN",
+      "sector": "Depo / lojistik / perakende",
+      "start_date": "2026-01-23",
+      "end_date": "2026-02-14",
+      "demands": [
+        "Net yüzde 50 zam",
+        "Banka promosyonlarının eksiksiz ödenmesi",
+        "Vergi kesintilerinin işveren tarafından karşılanması",
+        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
+        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
+      ],
+      "last_verified_at": "2026-02-16",
+      "timeline": [
+        {
+          "date": "2026-01-23",
+          "status": "ongoing",
+          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
+        },
+        {
+          "date": "2026-01-28",
+          "status": "ongoing",
+          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
+        },
+        {
+          "date": "2026-02-14",
+          "status": "ended",
+          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
+        },
+        {
+          "date": "2026-02-16",
+          "status": "ended",
+          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
+        }
+      ],
+      "title": "(Migros 3/10) Adana Migros depo işçileri fiili grevi",
+      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Adana ayağıdır. Adana ayağı kaynaklarda başlangıç depoları arasında yer aldı. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
+      "locations": [
+        {
+          "id": "migros-saricam-osb-depo-adana",
+          "label": "Migros Adana Sarıçam/OSB depo bölgesi",
+          "province_key": "ADANA",
+          "province": "Adana",
+          "district": "Sarıçam",
+          "lat": 37.0513,
+          "lng": 35.4477,
+          "geocode_precision": "venue_approx",
+          "location_basis": "DW Adana’yı başlangıç illeri arasında sayar; CNBC-e ve Borsanın Gündemi Adana merkez/Sarıçam/OSB depo başlıklarını aktarır. Koordinat Sarıçam-OSB bölgesi yaklaşık noktasıdır."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
+          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-02-16"
+        },
+        {
+          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
+          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-04"
+        },
+        {
+          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
+          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
+          "publisher": "CNBC-e",
+          "type": "labor_news",
+          "published_at": "2026-01-26"
+        },
+        {
+          "title": "İşten atılan Migros depo işçilerinden sert tepki",
+          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
+          "publisher": "Borsanın Gündemi",
+          "type": "labor_news",
+          "published_at": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "id": "migros-depo-eylemi-kocaeli-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "employer": "Migros / US Grup",
+      "labor_organization": "DGD-SEN",
+      "sector": "Depo / lojistik / perakende",
+      "start_date": "2026-01-23",
+      "end_date": "2026-02-14",
+      "demands": [
+        "Net yüzde 50 zam",
+        "Banka promosyonlarının eksiksiz ödenmesi",
+        "Vergi kesintilerinin işveren tarafından karşılanması",
+        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
+        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
+      ],
+      "last_verified_at": "2026-02-16",
+      "timeline": [
+        {
+          "date": "2026-01-23",
+          "status": "ongoing",
+          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
+        },
+        {
+          "date": "2026-01-28",
+          "status": "ongoing",
+          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
+        },
+        {
+          "date": "2026-02-14",
+          "status": "ended",
+          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
+        },
+        {
+          "date": "2026-02-16",
+          "status": "ended",
+          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
+        }
+      ],
+      "title": "(Migros 4/10) Kocaeli Migros depo işçileri fiili grevi",
+      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Kocaeli ayağıdır. Kocaeli ayağı Şekerpınar ve Çayırova depo adlarıyla geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
+      "locations": [
+        {
+          "id": "migros-sekerpinar-cayirova-depo-kocaeli",
+          "label": "Migros Şekerpınar/Çayırova depo bölgesi",
+          "province_key": "KOCAELI",
+          "province": "Kocaeli",
+          "district": "Çayırova / Gebze",
+          "lat": 40.8256,
+          "lng": 29.3748,
+          "geocode_precision": "venue_approx",
+          "location_basis": "DW eylemin Kocaeli’ye yayıldığını; CNBC-e, Sendika.Org ve Borsanın Gündemi Şekerpınar/Çayırova depo başlıklarını aktarır. Koordinat Çayırova-Şekerpınar bölgesi yaklaşık noktasıdır."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
+          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-02-16"
+        },
+        {
+          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
+          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-04"
+        },
+        {
+          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
+          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
+          "publisher": "CNBC-e",
+          "type": "labor_news",
+          "published_at": "2026-01-26"
+        },
+        {
+          "title": "İşten atılan Migros depo işçilerinden sert tepki",
+          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
+          "publisher": "Borsanın Gündemi",
+          "type": "labor_news",
+          "published_at": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "id": "migros-depo-eylemi-bursa-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "employer": "Migros / US Grup",
+      "labor_organization": "DGD-SEN",
+      "sector": "Depo / lojistik / perakende",
+      "start_date": "2026-01-23",
+      "end_date": "2026-02-14",
+      "demands": [
+        "Net yüzde 50 zam",
+        "Banka promosyonlarının eksiksiz ödenmesi",
+        "Vergi kesintilerinin işveren tarafından karşılanması",
+        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
+        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
+      ],
+      "last_verified_at": "2026-02-16",
+      "timeline": [
+        {
+          "date": "2026-01-23",
+          "status": "ongoing",
+          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
+        },
+        {
+          "date": "2026-01-28",
+          "status": "ongoing",
+          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
+        },
+        {
+          "date": "2026-02-14",
+          "status": "ended",
+          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
+        },
+        {
+          "date": "2026-02-16",
+          "status": "ended",
+          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
+        }
+      ],
+      "title": "(Migros 5/10) Bursa Migros depo işçileri fiili grevi",
+      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Bursa ayağıdır. Bursa ayağı kaynaklarda merkez ve Alaşar depo başlıklarıyla geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
+      "locations": [
+        {
+          "id": "migros-merkez-alasar-depo-bursa",
+          "label": "Migros Bursa Merkez/Alaşar depo bölgesi",
+          "province_key": "BURSA",
+          "province": "Bursa",
+          "district": "Merkez / Alaşar",
+          "lat": 40.2255,
+          "lng": 29.0592,
+          "geocode_precision": "venue_approx",
+          "location_basis": "DW eylemin Bursa’ya yayıldığını; CNBC-e, Sendika.Org ve Borsanın Gündemi Bursa merkez/Alaşar depo başlıklarını aktarır. Koordinat Bursa merkez-Alaşar hattı yaklaşık noktasıdır."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
+          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-02-16"
+        },
+        {
+          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
+          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-04"
+        },
+        {
+          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
+          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
+          "publisher": "CNBC-e",
+          "type": "labor_news",
+          "published_at": "2026-01-26"
+        },
+        {
+          "title": "İşten atılan Migros depo işçilerinden sert tepki",
+          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
+          "publisher": "Borsanın Gündemi",
+          "type": "labor_news",
+          "published_at": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "id": "migros-depo-eylemi-mersin-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "employer": "Migros / US Grup",
+      "labor_organization": "DGD-SEN",
+      "sector": "Depo / lojistik / perakende",
+      "start_date": "2026-01-23",
+      "end_date": "2026-02-14",
+      "demands": [
+        "Net yüzde 50 zam",
+        "Banka promosyonlarının eksiksiz ödenmesi",
+        "Vergi kesintilerinin işveren tarafından karşılanması",
+        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
+        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
+      ],
+      "last_verified_at": "2026-02-16",
+      "timeline": [
+        {
+          "date": "2026-01-23",
+          "status": "ongoing",
+          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
+        },
+        {
+          "date": "2026-01-28",
+          "status": "ongoing",
+          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
+        },
+        {
+          "date": "2026-02-14",
+          "status": "ended",
+          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
+        },
+        {
+          "date": "2026-02-16",
+          "status": "ended",
+          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
+        }
+      ],
+      "title": "(Migros 6/10) Mersin Migros depo işçileri fiili grevi",
+      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Mersin ayağıdır. Mersin ayağı kaynaklarda Tarsus depo başlığıyla geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
+      "locations": [
+        {
+          "id": "migros-tarsus-depo-mersin",
+          "label": "Migros Tarsus depo bölgesi",
+          "province_key": "MERSIN",
+          "province": "Mersin",
+          "district": "Tarsus",
+          "lat": 36.9165,
+          "lng": 34.8951,
+          "geocode_precision": "district_centroid",
+          "location_basis": "DW ve Sendika.Org eylemin Mersin/Tarsus’a yayıldığını aktarır. Koordinat Tarsus ilçe merkezidir."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
+          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-02-16"
+        },
+        {
+          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
+          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-04"
+        },
+        {
+          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
+          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
+          "publisher": "CNBC-e",
+          "type": "labor_news",
+          "published_at": "2026-01-26"
+        },
+        {
+          "title": "İşten atılan Migros depo işçilerinden sert tepki",
+          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
+          "publisher": "Borsanın Gündemi",
+          "type": "labor_news",
+          "published_at": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "id": "migros-depo-eylemi-diyarbakir-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "employer": "Migros / US Grup",
+      "labor_organization": "DGD-SEN",
+      "sector": "Depo / lojistik / perakende",
+      "start_date": "2026-01-23",
+      "end_date": "2026-02-14",
+      "demands": [
+        "Net yüzde 50 zam",
+        "Banka promosyonlarının eksiksiz ödenmesi",
+        "Vergi kesintilerinin işveren tarafından karşılanması",
+        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
+        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
+      ],
+      "last_verified_at": "2026-02-16",
+      "timeline": [
+        {
+          "date": "2026-01-23",
+          "status": "ongoing",
+          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
+        },
+        {
+          "date": "2026-01-28",
+          "status": "ongoing",
+          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
+        },
+        {
+          "date": "2026-02-14",
+          "status": "ended",
+          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
+        },
+        {
+          "date": "2026-02-16",
+          "status": "ended",
+          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
+        }
+      ],
+      "title": "(Migros 7/10) Diyarbakır Migros depo işçileri fiili grevi",
+      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Diyarbakır ayağıdır. Diyarbakır ayağı kaynaklarda eyleme katılan depo illeri arasında geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
+      "locations": [
+        {
+          "id": "migros-diyarbakir-depo",
+          "label": "Migros Diyarbakır depo bölgesi",
+          "province_key": "DIYARBAKIR",
+          "province": "Diyarbakır",
+          "district": "Merkez",
+          "lat": 37.9144,
+          "lng": 40.2306,
+          "geocode_precision": "province_centroid",
+          "location_basis": "DW, CNBC-e, Sendika.Org ve Borsanın Gündemi Diyarbakır’ı eylem illeri arasında sayar. İlçe/depo adresi netleşmediği için koordinat il merkezidir."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
+          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-02-16"
+        },
+        {
+          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
+          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-04"
+        },
+        {
+          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
+          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
+          "publisher": "CNBC-e",
+          "type": "labor_news",
+          "published_at": "2026-01-26"
+        },
+        {
+          "title": "İşten atılan Migros depo işçilerinden sert tepki",
+          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
+          "publisher": "Borsanın Gündemi",
+          "type": "labor_news",
+          "published_at": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "id": "migros-depo-eylemi-erzurum-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "employer": "Migros / US Grup",
+      "labor_organization": "DGD-SEN",
+      "sector": "Depo / lojistik / perakende",
+      "start_date": "2026-01-23",
+      "end_date": "2026-02-14",
+      "demands": [
+        "Net yüzde 50 zam",
+        "Banka promosyonlarının eksiksiz ödenmesi",
+        "Vergi kesintilerinin işveren tarafından karşılanması",
+        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
+        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
+      ],
+      "last_verified_at": "2026-02-16",
+      "timeline": [
+        {
+          "date": "2026-01-23",
+          "status": "ongoing",
+          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
+        },
+        {
+          "date": "2026-01-28",
+          "status": "ongoing",
+          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
+        },
+        {
+          "date": "2026-02-14",
+          "status": "ended",
+          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
+        },
+        {
+          "date": "2026-02-16",
+          "status": "ended",
+          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
+        }
+      ],
+      "title": "(Migros 8/10) Erzurum Migros depo işçileri fiili grevi",
+      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Erzurum ayağıdır. Erzurum ayağı kaynaklarda eyleme katılan depo illeri arasında geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
+      "locations": [
+        {
+          "id": "migros-erzurum-depo",
+          "label": "Migros Erzurum depo bölgesi",
+          "province_key": "ERZURUM",
+          "province": "Erzurum",
+          "district": "Merkez",
+          "lat": 39.9043,
+          "lng": 41.2679,
+          "geocode_precision": "province_centroid",
+          "location_basis": "DW, Sendika.Org ve Borsanın Gündemi Erzurum’u eylem illeri arasında sayar. İlçe/depo adresi netleşmediği için koordinat il merkezidir."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
+          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-02-16"
+        },
+        {
+          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
+          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-04"
+        },
+        {
+          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
+          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
+          "publisher": "CNBC-e",
+          "type": "labor_news",
+          "published_at": "2026-01-26"
+        },
+        {
+          "title": "İşten atılan Migros depo işçilerinden sert tepki",
+          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
+          "publisher": "Borsanın Gündemi",
+          "type": "labor_news",
+          "published_at": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "id": "migros-depo-eylemi-antalya-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "employer": "Migros / US Grup",
+      "labor_organization": "DGD-SEN",
+      "sector": "Depo / lojistik / perakende",
+      "start_date": "2026-01-23",
+      "end_date": "2026-02-14",
+      "demands": [
+        "Net yüzde 50 zam",
+        "Banka promosyonlarının eksiksiz ödenmesi",
+        "Vergi kesintilerinin işveren tarafından karşılanması",
+        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
+        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
+      ],
+      "last_verified_at": "2026-02-16",
+      "timeline": [
+        {
+          "date": "2026-01-23",
+          "status": "ongoing",
+          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
+        },
+        {
+          "date": "2026-01-28",
+          "status": "ongoing",
+          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
+        },
+        {
+          "date": "2026-02-14",
+          "status": "ended",
+          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
+        },
+        {
+          "date": "2026-02-16",
+          "status": "ended",
+          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
+        }
+      ],
+      "title": "(Migros 9/10) Antalya Migros depo işçileri fiili grevi",
+      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Antalya ayağıdır. Antalya ayağı kaynaklarda Serik depo başlığıyla geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
+      "locations": [
+        {
+          "id": "migros-serik-depo-antalya",
+          "label": "Migros Serik depo bölgesi",
+          "province_key": "ANTALYA",
+          "province": "Antalya",
+          "district": "Serik",
+          "lat": 36.9169,
+          "lng": 31.0989,
+          "geocode_precision": "district_centroid",
+          "location_basis": "DW eylemin Antalya’ya yayıldığını; Borsanın Gündemi Antalya Serik depo başlığını aktarır. Koordinat Serik ilçe merkezidir."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
+          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-02-16"
+        },
+        {
+          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
+          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-04"
+        },
+        {
+          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
+          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
+          "publisher": "CNBC-e",
+          "type": "labor_news",
+          "published_at": "2026-01-26"
+        },
+        {
+          "title": "İşten atılan Migros depo işçilerinden sert tepki",
+          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
+          "publisher": "Borsanın Gündemi",
+          "type": "labor_news",
+          "published_at": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "id": "migros-depo-eylemi-ankara-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "employer": "Migros / US Grup",
+      "labor_organization": "DGD-SEN",
+      "sector": "Depo / lojistik / perakende",
+      "start_date": "2026-01-23",
+      "end_date": "2026-02-14",
+      "demands": [
+        "Net yüzde 50 zam",
+        "Banka promosyonlarının eksiksiz ödenmesi",
+        "Vergi kesintilerinin işveren tarafından karşılanması",
+        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
+        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
+      ],
+      "last_verified_at": "2026-02-16",
+      "timeline": [
+        {
+          "date": "2026-01-23",
+          "status": "ongoing",
+          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
+        },
+        {
+          "date": "2026-01-28",
+          "status": "ongoing",
+          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
+        },
+        {
+          "date": "2026-02-14",
+          "status": "ended",
+          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
+        },
+        {
+          "date": "2026-02-16",
+          "status": "ended",
+          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
+        }
+      ],
+      "title": "(Migros 10/10) Ankara Migros depo işçileri fiili grevi",
+      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Ankara ayağıdır. Ankara ayağı, DW’de adı sayılmayan 10. il için Sendika.Org’un Sincan/Gölbaşı haberine dayanır. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
+      "locations": [
+        {
+          "id": "migros-golbasi-sincan-depo-ankara",
+          "label": "Migros Gölbaşı/Sincan depo bölgesi",
+          "province_key": "ANKARA",
+          "province": "Ankara",
+          "district": "Gölbaşı / Sincan",
+          "lat": 39.879,
+          "lng": 32.7045,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Sendika.Org, direnişin Ankara’daki Sincan ve Gölbaşı depolarına da sıçradığını aktarır. Tek il kaydı için koordinat iki depo bölgesinin yaklaşık orta noktasıdır."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
+          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-02-16"
+        },
+        {
+          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
+          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-04"
+        },
+        {
+          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
+          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
+          "publisher": "CNBC-e",
+          "type": "labor_news",
+          "published_at": "2026-01-26"
+        },
+        {
+          "title": "İşten atılan Migros depo işçilerinden sert tepki",
+          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
+          "publisher": "Borsanın Gündemi",
+          "type": "labor_news",
+          "published_at": "2026-01-30"
+        },
+        {
+          "title": "Migros depo direnişi Ankara’ya da sıçradı, yönetim tehditlerle bastırmaya çalışıyor",
+          "url": "https://sendika.org/2026/01/migros-depo-direnisi-ankaraya-da-sicradi-yonetim-tehditlerle-bastirmaya-calisiyor-741512",
+          "publisher": "Sendika.Org",
+          "type": "labor_news",
+          "published_at": "2026-01-28"
+        }
+      ]
+    },
+    {
       "id": "isci-filmleri-festivali-ankara-acilis-2026",
       "record_type": "action_call",
       "status": "action_call_upcoming",
