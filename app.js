@@ -846,7 +846,7 @@ function renderMarkers() {
             iconAnchor: [9 - offset.x, 9 - offset.y],
           }),
           title: record.title,
-          zIndexOffset: selected ? 1000 : 0,
+          zIndexOffset: selected ? 2000 : 0,
         }).addTo(state.map);
         marker.on("click", () => selectRecord(record.id, location));
         state.markers.set(`${record.id}:${location.id}`, marker);
@@ -881,8 +881,8 @@ function markerOffset(index, total) {
   const slot = index - ringStart;
   const angle = ((Math.PI * 2) / slots) * slot - Math.PI / 2;
   const zoom = state.map?.getZoom?.() || CONFIG.defaultZoom;
-  const zoomSpread = Math.max(0, zoom - CONFIG.defaultZoom) * 2;
-  const radius = 12 + zoomSpread + (ring * (8 + (zoomSpread * 0.38)));
+  const zoomSpread = Math.min(Math.max(0, zoom - CONFIG.defaultZoom) * 4.5, 33);
+  const radius = 12 + zoomSpread + (ring * (8 + (zoomSpread * 0.55)));
   return {
     x: Math.cos(angle) * radius,
     y: Math.sin(angle) * radius,
