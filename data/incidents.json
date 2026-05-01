@@ -103,7 +103,7 @@
       "status": "ongoing",
       "action_type": "legal_strike",
       "title": "Temel Conta işçileri grevi",
-      "summary": "İzmir Torbalı'daki Temel Conta fabrikasında Petrol-İş'te örgütlenen işçilerin sendika ve toplu sözleşme hakkı için yürüttüğü grev yaklaşık bir buçuk yılı geride bıraktı; işçiler grev kırıcılığı, temel ihtiyaçlara erişim engelleri ve Nisan 2026'da jandarma ev baskınları ile gözaltılarla karşılaştı.",
+      "summary": "İzmir Torbalı'daki Temel Conta fabrikasında Petrol-İş'te örgütlenen işçilerin sendika ve toplu sözleşme hakkı için yürüttüğü grev yaklaşık bir buçuk yılı geride bıraktı; işçiler grev kırıcılığı, temel ihtiyaçlara erişim engelleri ve Nisan 2026'da jandarma ev baskınları ile gözaltılarla karşılaştı. BirGün genel değerlendirmesi kazanım ifadesi kullansa da 28 Nisan 2026 tarihli vaka haberi grevin sürdüğünü bildirdiği için kayıt sürüyor olarak tutuldu.",
       "employer": "Temel Conta",
       "labor_organization": "Petrol-İş",
       "sector": "Otomotiv yan sanayi",
@@ -145,6 +145,16 @@
           "note": "Ekmek ve Gül, grevin neredeyse bir buçuk yıldır sürdüğünü aktardı."
         },
         {
+          "date": "2026-04-26",
+          "status": "ongoing",
+          "note": "BirGün genel değerlendirmesi Temel Conta grevini kazanımla sonuçlanan mücadeleler arasında saydı; vaka özelinde bitişi doğrulayan ek kaynak bulunamadı."
+        },
+        {
+          "date": "2026-04-28",
+          "status": "ongoing",
+          "note": "ANKA/Haberler, Temel Conta işçilerinin 505 gündür grevlerine devam ettiğini ve Doruk Madencilik işçilerine dayanışma ziyaretinde bulunduklarını aktardı."
+        },
+        {
           "date": "2026-05-01",
           "status": "ongoing",
           "note": "DW Türkçe, Temel Conta grevini 1 Mayıs dosyasında yaklaşık bir buçuk yıldır süren ve kolluk müdahalesiyle karşılaşan emek mücadeleleri arasında andı."
@@ -178,6 +188,20 @@
           "publisher": "DW Türkçe",
           "type": "labor_news",
           "published_at": "2026-05-01"
+        },
+        {
+          "title": "1 Mayıs’a giderken: Büyüyerek çoğalan mücadeleler",
+          "url": "https://www.birgun.net/makale/1-mayisa-giderken-buyuyerek-cogalan-mucadeleler-708354",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-26"
+        },
+        {
+          "title": "505 Gündür Grevde Olan Temel Conta İşçileri Doruk Madencilik İşçilerini Ziyaret Etti",
+          "url": "https://www.haberler.com/amp/505-gundur-grevde-olan-temel-conta-iscileri-doruk-19788663-haberi/",
+          "publisher": "Haberler.com / ANKA",
+          "type": "labor_news",
+          "published_at": "2026-04-28"
         }
       ]
     },
@@ -366,7 +390,7 @@
       "status": "ended",
       "action_type": "legal_strike",
       "title": "Smart Solar grevi sona erdi",
-      "summary": "Gebze Smart Solar'da Birleşik Metal-İş üyesi işçilerin grevi toplu iş sözleşmesi imzalanmasıyla sona erdi. Sona eren grevler yeşil katmanda tutulur ve varsayılan haritada kapalıdır.",
+      "summary": "Gebze Organize Sanayi Bölgesi'ndeki Smart Solar fabrikasında Birleşik Metal-İş üyesi 260 işçinin 22 Ekim 2025'te başlattığı grev, 114 günün ardından toplu iş sözleşmesiyle kazanımla sona erdi; kaynaklar ücret ve sosyal hak iyileştirmeleri ile grev sürecinde işten çıkarılan işçilerin işe dönüşünü aktardı.",
       "employer": "Smart Solar",
       "labor_organization": "Birleşik Metal-İş",
       "sector": "Metal / enerji ekipmanı",
@@ -375,9 +399,10 @@
       "demands": [
         "Toplu iş sözleşmesi",
         "Ücret artışı",
-        "Sosyal haklar"
+        "Sosyal haklar",
+        "İşten çıkarılan işçilerin işe iadesi"
       ],
-      "last_verified_at": "2026-02-13",
+      "last_verified_at": "2026-04-26",
       "locations": [
         {
           "id": "smart-solar-gebze",
@@ -397,9 +422,19 @@
           "note": "İşçiler grev uygulamasına geçti."
         },
         {
+          "date": "2026-02-12",
+          "status": "ended",
+          "note": "Cumhuriyet, 114 günlük grevin TİS imzalanmasıyla bittiğini, ortalama yüzde 50 zam ve 44 işçinin işe iadesi gibi kazanımlar elde edildiğini bildirdi."
+        },
+        {
           "date": "2026-02-13",
           "status": "ended",
           "note": "TİS imzalanmasıyla grev sona erdi."
+        },
+        {
+          "date": "2026-04-26",
+          "status": "ended",
+          "note": "BirGün, Smart Solar grevini bir önceki yıldan devreden ve 2026’da kazanımla sonuçlanan mücadeleler arasında andı."
         }
       ],
       "sources": [
@@ -409,6 +444,127 @@
           "publisher": "Birleşik Metal-İş",
           "type": "union",
           "published_at": "2026-02-13"
+        },
+        {
+          "title": "Smart Solar'da 114 günlük grev başarıyla sonuçlandı",
+          "url": "https://bianet.org/haber/smart-solar-da-114-gunluk-grev-basariyla-sonuclandi-316656",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-02-13"
+        },
+        {
+          "title": "Smart Solar’da 114 günlük grev kazanımla sonuçlandı: Yüzde 50 zam ve 44 işçi işe iade edildi",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/smart-solar-da-114-gunluk-grev-kazanimla-sonuclandi-yuzde-50-zam-ve-44-isci-ise-iade-edildi-2478338",
+          "publisher": "Cumhuriyet",
+          "type": "labor_news",
+          "published_at": "2026-02-12"
+        },
+        {
+          "title": "1 Mayıs’a giderken: Büyüyerek çoğalan mücadeleler",
+          "url": "https://www.birgun.net/makale/1-mayisa-giderken-buyuyerek-cogalan-mucadeleler-708354",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-26"
+        }
+      ],
+      "participant_count": 260
+    },
+    {
+      "id": "hepsijet-depo-iscileri-fiili-grevi-2025",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "title": "HepsiJET depo işçileri fiili grevi",
+      "summary": "HepsiJET'te Maltepe deposunda başlayan pazar günü çalışma zorunluluğu, ağır çalışma koşulları ve ücret/ödeme sorunlarına karşı fiili iş bırakma kısa sürede İstanbul Anadolu yakasındaki depolara, İzmir Konak'a ve Başakşehir hattına yayıldı. TEHİS'in aktardığı görüşmeler sonucunda pazar çalışmasının 15 Şubat 2026 itibarıyla kaldırılması, destek verdiği için işten atılan işçilerin işe dönmesi ve bazı işyeri düzenlemeleri yönünde kazanımlar elde edildi.",
+      "employer": "HepsiJET",
+      "labor_organization": "TEHİS",
+      "sector": "Kargo / lojistik",
+      "start_date": "2025-12-08",
+      "end_date": "2026-02-15",
+      "demands": [
+        "Pazar günü çalışma zorunluluğunun kaldırılması",
+        "Ağır kargoların kuryelere zorla taşıtılmaması",
+        "Paket başı ücret ve ödeme sisteminin iyileştirilmesi",
+        "İş durduran işçilerin işten atılmaması",
+        "Yönetici baskısı ve puan/ceza uygulamalarının son bulması"
+      ],
+      "last_verified_at": "2026-04-26",
+      "locations": [
+        {
+          "id": "hepsijet-maltepe-depo",
+          "label": "HepsiJET Maltepe deposu",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Maltepe",
+          "lat": 40.9357,
+          "lng": 29.1551,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Kaynaklar direnişin Maltepe deposunda başladığını bildiriyor; koordinat ilçe merkezine yaklaşık olarak yerleştirildi."
+        },
+        {
+          "id": "hepsijet-basaksehir-kayasehir",
+          "label": "HepsiJET Başakşehir/Kayaşehir hattı",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Başakşehir",
+          "lat": 41.1077,
+          "lng": 28.7956,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Kaynaklar Başakşehir şubesinin iş durdurduğunu ve Kayaşehir şubesinin hazırlıkta olduğunu bildiriyor; koordinat ilçe merkezine yaklaşık olarak yerleştirildi."
+        },
+        {
+          "id": "hepsijet-izmir-konak-depo",
+          "label": "HepsiJET İzmir Konak deposu",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Konak",
+          "lat": 38.4189,
+          "lng": 27.1287,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Kaynaklar İzmir Konak deposunun süreçle temas halinde olduğunu ve iş durdurduğunu bildiriyor; koordinat ilçe merkezine yaklaşık olarak yerleştirildi."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-08",
+          "status": "ongoing",
+          "note": "Maltepe deposunda 22 işçi pazar günü çalışma zorunluluğu ve çalışma koşullarına karşı işi durdurdu."
+        },
+        {
+          "date": "2025-12-09",
+          "status": "ongoing",
+          "note": "El Yazmaları söyleşisine göre iş bırakma İstanbul Anadolu yakasında yedi depo ve İzmir Konak deposuna yayıldı; Başakşehir şubesinden de iş durdurma haberi geldi."
+        },
+        {
+          "date": "2025-12-11",
+          "status": "ongoing",
+          "note": "TEHİS, üst düzey yönetimle görüşmelerde işten atılan işçilerin işe geri alındığını, pazar çalışmasının kaldırılması ve ücret/işyeri düzenlemeleri için söz alındığını aktardı."
+        },
+        {
+          "date": "2026-02-15",
+          "status": "ended",
+          "note": "Görüşmelerde pazar çalışmasının 15 Şubat 2026 itibarıyla tamamen sona ermesi için yazılı söz alındığı aktarıldı; kayıt kazanımın yürürlük tarihiyle sona ermiş olarak tutuldu."
+        },
+        {
+          "date": "2026-04-26",
+          "status": "ended",
+          "note": "BirGün, HepsiJET depo işçileri grevini bir önceki yıldan devreden ve 2026’da kazanımla sonuçlanan mücadeleler arasında saydı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "HepsiJet İşçileri İsyan Etti: “Hafta Sonu Çocuklarımızla Kahvaltı Yapmak İstiyoruz!”",
+          "url": "https://www.elyazmalari.com/2025/12/11/hepsijet-iscileri-isyan-etti-hafta-sonu-cocuklarimizla-kahvalti-yapmak-istiyoruz/",
+          "publisher": "El Yazmaları",
+          "type": "labor_news",
+          "published_at": "2025-12-11"
+        },
+        {
+          "title": "1 Mayıs’a giderken: Büyüyerek çoğalan mücadeleler",
+          "url": "https://www.birgun.net/makale/1-mayisa-giderken-buyuyerek-cogalan-mucadeleler-708354",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-26"
         }
       ]
     },
