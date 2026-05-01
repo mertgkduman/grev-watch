@@ -19,7 +19,6 @@
     </div>
     <nav class="nav-actions" aria-label="Ana menü">
       <button class="ghost-btn mobile-filter-btn" id="mobile-filter-btn" type="button" data-i18n="nav.filters">Filtre</button>
-      <button class="ghost-btn" id="list-records-btn" type="button" aria-pressed="false" data-i18n="nav.listAll">Listele</button>
       <button class="ghost-btn desktop-nav" id="methodology-btn" type="button" data-i18n="nav.methodology">Yöntem</button>
       <button class="ghost-btn desktop-nav" id="sources-btn" type="button" data-i18n="nav.sources">Kaynaklar</button>
       <button class="ghost-btn" id="lang-btn" type="button" aria-label="Switch language">EN</button>
@@ -79,6 +78,13 @@
     </section>
 
     <aside class="detail-panel" id="detail-panel" aria-label="Kayıt ayrıntıları">
+      <div class="detail-toolbar">
+        <div>
+          <div class="section-label" data-i18n="list.label">Kayıt listesi</div>
+          <strong data-i18n="list.title">Filtredeki kayıtlar</strong>
+        </div>
+        <button class="ghost-btn" id="list-records-btn" type="button" aria-pressed="false" data-i18n="nav.listAll">Listele</button>
+      </div>
       <div id="empty-detail" class="empty-state">
         <div class="mini-map-icon">TR</div>
         <h1 data-i18n="empty.title">Haritadan bir kayıt seçin</h1>

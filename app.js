@@ -613,8 +613,8 @@ function isRecentWorkerDeath(record) {
   return date >= cutoff;
 }
 
-function recentWorkerDeathTotal() {
-  const recentDeaths = state.records.filter((record) => record.record_type === "worker_death" && isRecentWorkerDeath(record));
+function recentWorkerDeathTotal(records = state.records) {
+  const recentDeaths = records.filter((record) => record.record_type === "worker_death" && isRecentWorkerDeath(record));
   return recentDeaths.reduce((total, record) => total + fatalityCount(record), 0);
 }
 
@@ -767,7 +767,9 @@ function applyTranslations() {
 function applyFilters() {
   state.filtered = state.records.filter((record) => {
     if (!state.layerFilters.has(record.layer)) return false;
-    if (state.province && !record.locations.some((location) => location.province === state.province)) return false;
+    const locations = displayLocations(record);
+    if (!locations.length) return false;
+    if (state.province && !locations.some((location) => location.province === state.province)) return false;
     if (state.sector && record.sector !== state.sector) return false;
     if (record.record_type === "strike" && record.action_type && !state.actionFilters.has(record.action_type)) return false;
     if (state.search && !record.search_blob.includes(state.search)) return false;
@@ -788,10 +790,11 @@ function applyFilters() {
 }
 
 function updateStats() {
-  document.getElementById("stat-total").textContent = state.records.length;
-  document.getElementById("stat-deaths").textContent = formatCount(recentWorkerDeathTotal());
-  document.getElementById("stat-strikes").textContent = state.records.filter((record) => record.layer === "strike_ongoing").length;
-  document.getElementById("stat-arrests").textContent = state.records.filter((record) => record.layer === "union_arrest_current").length;
+  const displayRecords = state.records.filter((record) => displayLocations(record).length);
+  document.getElementById("stat-total").textContent = displayRecords.length;
+  document.getElementById("stat-deaths").textContent = formatCount(recentWorkerDeathTotal(displayRecords));
+  document.getElementById("stat-strikes").textContent = displayRecords.filter((record) => record.layer === "strike_ongoing").length;
+  document.getElementById("stat-arrests").textContent = displayRecords.filter((record) => record.layer === "union_arrest_current").length;
 }
 
 function renderLegend() {
@@ -802,7 +805,7 @@ function renderLegend() {
 }
 
 function renderMobileChips() {
-  const counts = Object.fromEntries(QUICK_LAYERS.map((layer) => [layer, state.records.filter((record) => record.layer === layer).length]));
+  const counts = Object.fromEntries(QUICK_LAYERS.map((layer) => [layer, state.records.filter((record) => record.layer === layer && displayLocations(record).length).length]));
   document.getElementById("mobile-chipbar").innerHTML = QUICK_LAYERS.map((layer) => {
     const active = state.layerFilters.has(layer) ? "active" : "";
     return `<button class="quick-chip ${active}" type="button" data-quick-layer="${layer}">
@@ -817,7 +820,7 @@ function renderMarkers() {
 
   const markerItems = [];
   state.filtered.forEach((record) => {
-    record.locations.forEach((location) => {
+    displayLocations(record).forEach((location) => {
       markerItems.push({ record, location });
     });
   });
@@ -852,6 +855,14 @@ function renderMarkers() {
 
 function locationKey(location) {
   return `${Number(location.lat).toFixed(6)},${Number(location.lng).toFixed(6)}`;
+}
+
+function displayLocations(record) {
+  return (record.locations || []).filter(isTurkeyLocation);
+}
+
+function isTurkeyLocation(location) {
+  return Boolean(location.province_key || location.province === "Türkiye");
 }
 
 function markerOffset(index, total) {
@@ -913,7 +924,7 @@ function renderRecordList() {
   panel.querySelectorAll("[data-record-list-id]").forEach((button) => {
     button.addEventListener("click", () => {
       const record = state.records.find((item) => item.id === button.dataset.recordListId);
-      if (record) selectRecord(record.id, record.locations[0] || null);
+      if (record) selectRecord(record.id, displayLocations(record)[0] || null);
     });
   });
   updateListButton();
