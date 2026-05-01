@@ -8,7 +8,7 @@
       "status": "ongoing",
       "action_type": "legal_strike",
       "title": "Özel İtalyan Lisesi öğretmenleri grevi",
-      "summary": "İstanbul Beyoğlu'ndaki Özel İtalyan Lisesi'nde Tez-Koop-İş üyesi öğretmenlerin toplu sözleşme ve özlük hakları için başlattığı grev 28 Nisan 2026 itibarıyla sürüyordu.",
+      "summary": "İstanbul Beyoğlu'ndaki Özel İtalyan Lisesi'nde Tez-Koop-İş üyesi öğretmenlerin toplu sözleşme ve özlük hakları için 2 Şubat 2026'da başlattığı grev sürüyor; ücret ve çalışma koşullarında sözlü uzlaşı sağlansa da öğretmenler toplu iş sözleşmesinin hukuken resmileştirilmediğini belirtiyor.",
       "employer": "Özel İtalyan Lisesi",
       "labor_organization": "Tez-Koop-İş",
       "sector": "Eğitim",
@@ -18,9 +18,10 @@
       "demands": [
         "Toplu iş sözleşmesi",
         "Ücret eşitsizliğinin giderilmesi",
-        "Çalışma koşulları"
+        "Çalışma koşulları",
+        "Toplu iş sözleşmesinin bağlayıcı metinle imzalanması"
       ],
-      "last_verified_at": "2026-04-28",
+      "last_verified_at": "2026-05-01",
       "locations": [
         {
           "id": "italyan-lisesi-beyoglu",
@@ -45,9 +46,24 @@
           "note": "Grev uygulaması başladı."
         },
         {
+          "date": "2026-03-31",
+          "status": "ongoing",
+          "note": "24 Saat Gazetesi, MEB görevlendirmeleri ve protokolün imza beklemesi nedeniyle grevin sürdüğünü aktardı."
+        },
+        {
+          "date": "2026-04-12",
+          "status": "ongoing",
+          "note": "24 Saat Gazetesi, 26 Mart görüşmesinde sözlü uzlaşıya rağmen bağlayıcı toplu sözleşme imzalanmadığını bildirdi."
+        },
+        {
           "date": "2026-04-28",
           "status": "ongoing",
           "note": "Bianet, grevin 86. gününde sürdüğünü bildirdi."
+        },
+        {
+          "date": "2026-05-01",
+          "status": "ongoing",
+          "note": "DW Türkçe, öğretmenlerin yaklaşık üç aydır toplu sözleşme ve özlük hakları için grevde olduğunu ve TİS’in resmileştirilmediğini 1 Mayıs dosyasında özetledi."
         }
       ],
       "sources": [
@@ -57,6 +73,27 @@
           "publisher": "Bianet",
           "type": "labor_news",
           "published_at": "2026-04-28"
+        },
+        {
+          "title": "MEB grev kırıcılığı yaptı, İtalyan Lisesi’nde anlaşma uzadı!",
+          "url": "https://www.24saatgazetesi.com/meb-grev-kiriciligi-yapti-italyan-lisesinde-anlasma-uzadi",
+          "publisher": "24 Saat Gazetesi",
+          "type": "labor_news",
+          "published_at": "2026-03-31"
+        },
+        {
+          "title": "Özel İtalyan Lisesi’nde grev uluslararası krize dönüştü: “Söz var, imza yok!”",
+          "url": "https://www.24saatgazetesi.com/ozel-italyan-lisesinde-grev-uluslararasi-krize-donustu-soz-var-imza-yok",
+          "publisher": "24 Saat Gazetesi",
+          "type": "labor_news",
+          "published_at": "2026-04-12"
+        },
+        {
+          "title": "Türkiye'nin 1 Mayıs tablosu: Cezaevi, barikat, açlık grevi",
+          "url": "https://amp.dw.com/tr/t%C3%BCrkiyenin-1-may%C4%B1s-tablosu-cezaevi-barikat-a%C3%A7l%C4%B1k-grevi/a-76979127",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-05-01"
         }
       ]
     },
@@ -66,7 +103,7 @@
       "status": "ongoing",
       "action_type": "legal_strike",
       "title": "Temel Conta işçileri grevi",
-      "summary": "Petrol-İş'te örgütlenen Temel Conta işçilerinin sendika ve toplu sözleşme hakkı için sürdürdüğü grev 2026 Nisan ayında devam ediyordu; işçiler grev kırıcılığı ve temel ihtiyaçlara erişim engellerini duyurdu.",
+      "summary": "İzmir Torbalı'daki Temel Conta fabrikasında Petrol-İş'te örgütlenen işçilerin sendika ve toplu sözleşme hakkı için yürüttüğü grev yaklaşık bir buçuk yılı geride bıraktı; işçiler grev kırıcılığı, temel ihtiyaçlara erişim engelleri ve Nisan 2026'da jandarma ev baskınları ile gözaltılarla karşılaştı.",
       "employer": "Temel Conta",
       "labor_organization": "Petrol-İş",
       "sector": "Otomotiv yan sanayi",
@@ -75,9 +112,10 @@
       "demands": [
         "Sendika hakkının tanınması",
         "Toplu sözleşme",
-        "Ücret ve çalışma koşullarının iyileştirilmesi"
+        "Ücret ve çalışma koşullarının iyileştirilmesi",
+        "Kolluk baskısı ve grev kırıcılığının son bulması"
       ],
-      "last_verified_at": "2026-04-18",
+      "last_verified_at": "2026-05-01",
       "locations": [
         {
           "id": "temel-conta-torbali",
@@ -97,9 +135,19 @@
           "note": "İşçiler grev sürecine başladı."
         },
         {
+          "date": "2026-04-17",
+          "status": "ongoing",
+          "note": "Bianet, grevdeki işçilerin evlerine jandarma baskını düzenlendiğini ve işçilerin gözaltına alındığını aktardı."
+        },
+        {
           "date": "2026-04-18",
           "status": "ongoing",
           "note": "Ekmek ve Gül, grevin neredeyse bir buçuk yıldır sürdüğünü aktardı."
+        },
+        {
+          "date": "2026-05-01",
+          "status": "ongoing",
+          "note": "DW Türkçe, Temel Conta grevini 1 Mayıs dosyasında yaklaşık bir buçuk yıldır süren ve kolluk müdahalesiyle karşılaşan emek mücadeleleri arasında andı."
         }
       ],
       "sources": [
@@ -116,6 +164,154 @@
           "publisher": "Petrol-İş",
           "type": "union",
           "published_at": "2026-01-27"
+        },
+        {
+          "title": "Grevdeki Temel Conta işçilerinin evlerine jandarma baskını",
+          "url": "https://bianet.org/haber/grevdeki-temel-conta-iscilerinin-evlerine-jandarma-baskini-318841",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-04-17"
+        },
+        {
+          "title": "Türkiye'nin 1 Mayıs tablosu: Cezaevi, barikat, açlık grevi",
+          "url": "https://amp.dw.com/tr/t%C3%BCrkiyenin-1-may%C4%B1s-tablosu-cezaevi-barikat-a%C3%A7l%C4%B1k-grevi/a-76979127",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "sik-makas-iscileri-direnisi-2025",
+      "record_type": "strike",
+      "status": "ongoing",
+      "action_type": "fiili_wildcat",
+      "title": "Şık Makas işçileri direnişi",
+      "summary": "Tokat Organize Sanayi Bölgesi'ndeki Şık Makas/Cross Tekstil işçileri, ödenmeyen ücretler, tazminatlar ve toplu işten çıkarmalara karşı Ekim 2025'te fiili iş bırakma ve fabrika önü direnişi başlattı. BİRTEK-SEN'le yürüyen mücadelede valilik yasağı mahkemece hukuka aykırı bulundu; işçi sözcüsü hakkında soruşturma açıldığı 1 Mayıs dosyalarında yer aldı.",
+      "employer": "Şık Makas / Cross Tekstil",
+      "labor_organization": "BİRTEK-SEN",
+      "sector": "Tekstil / hazır giyim",
+      "participant_count": 900,
+      "start_date": "2025-10-07",
+      "demands": [
+        "Ödenmeyen ücretlerin ödenmesi",
+        "Kıdem ve ihbar tazminatlarının ödenmesi",
+        "Kod 22 ve benzeri işten çıkarma kodlarının kaldırılması",
+        "İşe iade veya tazminat haklarının güvenceye alınması",
+        "Sendikal baskıların ve eylem yasaklarının son bulması"
+      ],
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "sik-makas-tokat-osb",
+          "label": "Şık Makas / Cross Tekstil Tokat OSB fabrikası",
+          "province_key": "TOKAT",
+          "province": "Tokat",
+          "district": "Merkez",
+          "lat": 40.3425,
+          "lng": 36.5537,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Kaynaklar Tokat OSB'deki Şık Makas/Cross Tekstil fabrikasını bildiriyor; koordinat fabrika/OSB bölgesine yaklaşık olarak yerleştirildi."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-10-07",
+          "status": "ongoing",
+          "note": "İşçiler düzensiz ve eksik ücret ödemelerine karşı iş durdurdu."
+        },
+        {
+          "date": "2025-10-09",
+          "status": "ongoing",
+          "note": "Bianet, 800’den fazla işçinin ücret alacakları nedeniyle iş bıraktığını ve Tokat Valiliğinin eylemleri yasakladığını aktardı."
+        },
+        {
+          "date": "2025-11-06",
+          "status": "ongoing",
+          "note": "BİRTEK-SEN, ücret alacaklarının bir kısmının yatırıldığını, kalan alacaklar ve işe iade/kod talepleri için direnişin süreceğini duyurdu."
+        },
+        {
+          "date": "2025-12-23",
+          "status": "ongoing",
+          "note": "Business & Human Rights Resource Centre, 900’den fazla işçinin işten çıkarıldığı iddialarını ve tazminat/ücret taleplerini dosyaladı."
+        },
+        {
+          "date": "2026-01-12",
+          "status": "ongoing",
+          "note": "Tokat İdare Mahkemesinin valilik yasağını hukuka aykırı bularak iptal ettiği bildirildi."
+        },
+        {
+          "date": "2026-01-14",
+          "status": "ongoing",
+          "note": "İşçiler direnişin 100. gününde fabrika önünde basın açıklaması yaptı."
+        },
+        {
+          "date": "2026-03-08",
+          "status": "ongoing",
+          "note": "Ekmek ve Gül, 8 Mart açıklamasında Şık Makaslı kadın işçilerin beş aydır hakları için direndiğini aktardı."
+        },
+        {
+          "date": "2026-05-01",
+          "status": "ongoing",
+          "note": "DW Türkçe, Şık Makas direnişini ücretlerin ödenmemesi, toplu işten çıkarmalar, eylem yasağı ve işçi sözcüsüne soruşturma başlıklarıyla 1 Mayıs dosyasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tokat’ta Şık Makas işçileri ücretlerini alamayınca iş durdurdu",
+          "url": "https://ozgurgelecek55.net/tokatta-sik-makas-iscileri-ucretlerini-alamayinca-is-durdurdu/",
+          "publisher": "Özgür Gelecek",
+          "type": "labor_news",
+          "published_at": "2025-10-07"
+        },
+        {
+          "title": "Şık Makas workers defy the Tokat governor’s ban: The resistance continues",
+          "url": "https://bianet.org/haber/sik-makas-workers-defy-the-tokat-governors-ban-the-resistance-continues-312405",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2025-10-09"
+        },
+        {
+          "title": "Şık Makas direnişinde ilk kazanım: 'Ücret alacaklarının bir kısmı işçilere yatırıldı'",
+          "url": "https://artigercek.com/emek/sik-makas-direnisinde-ilk-kazanim-ucret-alacaklarinin-bir-kismi-iscilere-yatirildi-339687h",
+          "publisher": "Artı Gerçek",
+          "type": "labor_news",
+          "published_at": "2025-11-06"
+        },
+        {
+          "title": "Turkiye: Bestseller supplier accused of poor working conditions & denying full compensation to over 900 workers",
+          "url": "https://www.business-humanrights.org/en/latest-news/turkiye-bestseller-supplier-accused-of-poor-working-conditions-denying-full-compensation-to-over-900-workers-reportedly-laid-off-for-joining-another-union/",
+          "publisher": "Business & Human Rights Resource Centre",
+          "type": "research_report",
+          "published_at": "2025-12-23"
+        },
+        {
+          "title": "Şık Makas işçilerine yasak mahkemeden döndü: Tokat Valiliği kararı hukuka aykırı bulundu",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/sik-makas-iscilerine-yasak-mahkemeden-dondu-tokat-valiligi-karari-hukuka-aykiri-bulundu-2469452",
+          "publisher": "Cumhuriyet",
+          "type": "labor_news",
+          "published_at": "2026-01-12"
+        },
+        {
+          "title": "Şık Makas işçileri eylemlerinin 100. gününde basın açıklaması yaptı",
+          "url": "https://www.dokuz8haber.net/sik-makas-iscileri-eylemlerinin-100-gununde-basin-aciklamasi-yapti",
+          "publisher": "dokuz8HABER",
+          "type": "labor_news",
+          "published_at": "2026-01-14"
+        },
+        {
+          "title": "8 Mart 2026 | İç Anadolu ve Karadeniz'de kadınlar bir arada!",
+          "url": "https://ekmekvegul.net/gundem/8-mart-2026-ic-anadolu-ve-karadenizde-kadinlar-bir-arada",
+          "publisher": "Ekmek ve Gül",
+          "type": "labor_news",
+          "published_at": "2026-03-08"
+        },
+        {
+          "title": "Türkiye'nin 1 Mayıs tablosu: Cezaevi, barikat, açlık grevi",
+          "url": "https://amp.dw.com/tr/t%C3%BCrkiyenin-1-may%C4%B1s-tablosu-cezaevi-barikat-a%C3%A7l%C4%B1k-grevi/a-76979127",
+          "publisher": "DW Türkçe",
+          "type": "labor_news",
+          "published_at": "2026-05-01"
         }
       ]
     },
