@@ -432,6 +432,7 @@ function initMap() {
     maxZoom: 19,
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
   }).addTo(state.map);
+  state.map.on("zoomend", renderMarkers);
 }
 
 function initSupabase() {
@@ -518,6 +519,7 @@ function normalizeRecord(raw) {
       lng: finiteNumber(location.lng) ?? finiteNumber(raw.lng) ?? center.lng ?? null,
       geocode_precision: location.geocode_precision || raw.geocode_precision || (location.lat && location.lng ? "exact" : "province_centroid"),
       fatality_count: finiteNumber(location.fatality_count) ?? null,
+      location_basis: location.location_basis || location.location_note || raw.location_basis || "",
     };
   }).filter((location) => Number.isFinite(location.lat) && Number.isFinite(location.lng));
 
@@ -818,7 +820,9 @@ function markerOffset(index, total) {
 
   const slot = index - ringStart;
   const angle = ((Math.PI * 2) / slots) * slot - Math.PI / 2;
-  const radius = 14 + (ring * 10);
+  const zoom = state.map?.getZoom?.() || CONFIG.defaultZoom;
+  const zoomSpread = Math.max(0, zoom - CONFIG.defaultZoom) * 1.8;
+  const radius = 12 + zoomSpread + (ring * (8 + (zoomSpread * 0.35)));
   return {
     x: Math.cos(angle) * radius,
     y: Math.sin(angle) * radius,
@@ -954,6 +958,7 @@ function renderLocations(record) {
       <strong>${escapeHtml(location.label)}</strong>
       <span>${escapeHtml(renderLocationSubtitle(location))}</span><br>
       <span>${escapeHtml(t("detail.geocode"))}: ${escapeHtml(t(`geocodePrecision.${location.geocode_precision || "unknown"}`))}</span>
+      ${location.location_basis ? `<br><span>${escapeHtml(location.location_basis)}</span>` : ""}
     </div>`).join("")}</div>`;
 }
 

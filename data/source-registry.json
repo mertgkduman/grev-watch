@@ -160,7 +160,7 @@
   ],
   "individual_case_research_progress": {
     "updated_at": "2026-05-01",
-    "note": "These counts are backlog targets for individual case research. They should not be published as map records unless each case has its own reviewed incident record and location.",
+    "note": "Report-only worker-death records may use İSİG monthly province/country aggregate centroid locations when individual accident sites are not yet verified; those points must stay marked with location_basis and remain pending detail.",
     "latest_complete_isig_report_months": {
       "periods": [
         "2025-10",
@@ -791,6 +791,18 @@
       "covered_person_entries": 146,
       "missing_person_entries": [],
       "coverage_method": "Occurrence-count validation over the January memorial list; six unnamed workers are represented by explicit placeholders."
+    },
+    "report_level_location_backfill_2026_q1": {
+      "updated_at": "2026-05-01",
+      "periods": [
+        "2026-01",
+        "2026-02",
+        "2026-03"
+      ],
+      "records_filled": 379,
+      "data_file": "data/incidents.json",
+      "basis": "İSİG monthly report province/country distributions; generated locations are province/country centroids and do not verify individual accident addresses.",
+      "geocode_precision_policy": "Turkish province assignments use province_centroid; abroad and unresolved Turkey assignments use unknown."
     }
   },
   "used_sources_archive": [
