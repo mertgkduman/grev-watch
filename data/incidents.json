@@ -2226,6 +2226,552 @@
       ]
     },
     {
+      "id": "sadik-guney-suluova-insaat-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Sadık Güney Suluova konut inşaatında yaşamını yitirdi",
+      "summary": "Amasya Suluova'da bir konut inşaatının çatısında çalışan 65 yaşındaki Sadık Güney dengesini kaybederek düştü; kaldırıldığı Suluova Devlet Hastanesi'nde yaşamını yitirdi.",
+      "worker_name": "Sadık Güney",
+      "worker_age": 65,
+      "employer": "Konut inşaatı (işveren adı kaynakta belirtilmedi)",
+      "sector": "İnşaat",
+      "death_date": "2026-04-04",
+      "cause": "Çatıdan / yüksekten düşme",
+      "legal_status": "Olayla ilgili soruşturma başlatıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "sadik-guney-suluova-insaat",
+          "label": "Suluova konut inşaatı",
+          "province_key": "AMASYA",
+          "province": "Amasya",
+          "district": "Suluova",
+          "lat": 40.831,
+          "lng": 35.647,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-04",
+          "status": "fatality_recorded",
+          "note": "Sadık Güney konut inşaatının çatısından düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Amasya'da inşaat işçisinden acı haber",
+          "url": "https://www.tgrthaber.com/3-sayfa/amasyada-insaat-iscisinden-aci-haber-3292474",
+          "publisher": "TGRT Haber / İHA",
+          "type": "news",
+          "published_at": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "id": "gunay-can-honaz-forklift-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Günay Can Honaz mermer fabrikasında yaşamını yitirdi",
+      "summary": "Denizli Honaz Kocabaş Mahallesi'nde bir mermer fabrikasında çalışan 28 yaşındaki Günay Can'ın üzerine forklift devrildi; hastanede yapılan müdahalelere rağmen kurtarılamadı.",
+      "worker_name": "Günay Can",
+      "worker_age": 28,
+      "employer": "Mermer fabrikası (işveren adı kaynakta belirtilmedi)",
+      "sector": "Mermer / taş",
+      "death_date": "2026-04-15",
+      "cause": "Forklift devrilmesi / makine altında kalma",
+      "legal_status": "Kaynakta adli süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "gunay-can-honaz-kocabas-mermer",
+          "label": "Kocabaş Mahallesi mermer fabrikası",
+          "province_key": "DENIZLI",
+          "province": "Denizli",
+          "district": "Honaz / Kocabaş",
+          "lat": 37.8,
+          "lng": 29.39,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-15",
+          "status": "fatality_recorded",
+          "note": "Günay Can üzerine forklift devrilmesi sonucu kaldırıldığı hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mermer fabrikasında üzerine forklift devrilen genç hayatını kaybetti",
+          "url": "https://www.denizlihaber.com/asayis/mermer-fabrikasinda-uzerine-forklift-devrilen-genc-hayatini-kaybetti/",
+          "publisher": "Denizli Haber / İHA",
+          "type": "news",
+          "published_at": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "id": "murat-bektas-balveren-okul-insaati-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Murat Bektaş Balveren okul inşaatındaki göçükte yaşamını yitirdi",
+      "summary": "Şırnak Balveren'de Balveren İlkokulu inşaatında çalışan inşaat mühendisi Murat Bektaş, su gideri için açılan çukurda ölçüm yaptığı sırada meydana gelen göçükte toprak altında kaldı; kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "Murat Bektaş",
+      "worker_age": 32,
+      "employer": "Balveren İlkokulu inşaatı",
+      "sector": "İnşaat",
+      "death_date": "2026-04-15",
+      "cause": "Göçük / toprak altında kalma",
+      "legal_status": "İş cinayetine ilişkin soruşturma başlatıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "murat-bektas-balveren-okul-insaati",
+          "label": "Balveren İlkokulu inşaatı",
+          "province_key": "SIRNAK",
+          "province": "Şırnak",
+          "district": "Balveren",
+          "lat": 37.5,
+          "lng": 42.5,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-15",
+          "status": "fatality_recorded",
+          "note": "Murat Bektaş okul inşaatında meydana gelen göçükte yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Şırnak'ta göçük altında kalan mühendisten acı haber",
+          "url": "https://www.haber7.com/sirnak/3620462-sirnakta-gocuk-altinda-kalan-muhendisten-aci-haber",
+          "publisher": "Haber7 / DHA",
+          "type": "news",
+          "published_at": "2026-04-16"
+        },
+        {
+          "title": "3 işçi iş cinayetlerinde yaşamdan koparıldı",
+          "url": "https://www.birgun.net/haber/3-isci-is-cinayetlerinde-yasamdan-koparildi-706339",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-17"
+        }
+      ]
+    },
+    {
+      "id": "volkan-akyol-super-film-luleburgaz-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Volkan Akyol Süper Film fabrikasında yaşamını yitirdi",
+      "summary": "Kırklareli Lüleburgaz Büyükkarıştıran'daki Sanko Süper Film fabrikasında Petrol-İş üyesi işçi Volkan Akyol, iş makinesinin devrilmesi sonucu yaşamını yitirdi.",
+      "worker_name": "Volkan Akyol",
+      "worker_age": 45,
+      "employer": "Sanko Süper Film / Süper Film Ambalaj",
+      "labor_organization": "Petrol-İş",
+      "sector": "Ambalaj / plastik film",
+      "death_date": "2026-04-16",
+      "cause": "İş makinesinin devrilmesi / altında kalma",
+      "legal_status": "İSİG aktarımına göre sepet aparatı takılmadan işçilerin çatallarla yukarı kaldırıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "super-film-luleburgaz-buyukkaristiran",
+          "label": "Sanko Süper Film fabrikası",
+          "province_key": "KIRKLARELI",
+          "province": "Kırklareli",
+          "district": "Lüleburgaz / Büyükkarıştıran",
+          "lat": 41.34,
+          "lng": 27.55,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-16",
+          "status": "fatality_recorded",
+          "note": "Volkan Akyol Süper Film fabrikasında iş makinesinin devrilmesi sonucu yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "3 işçi iş cinayetlerinde yaşamdan koparıldı",
+          "url": "https://www.birgun.net/haber/3-isci-is-cinayetlerinde-yasamdan-koparildi-706339",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-17"
+        }
+      ]
+    },
+    {
+      "id": "tuncay-kurul-super-film-luleburgaz-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Tuncay Kurul Süper Film fabrikasında yaşamını yitirdi",
+      "summary": "Kırklareli Lüleburgaz Büyükkarıştıran'daki Sanko Süper Film fabrikasında Petrol-İş üyesi işçi Tuncay Kurul, iş makinesinin devrilmesi sonucu yaşamını yitirdi.",
+      "worker_name": "Tuncay Kurul",
+      "employer": "Sanko Süper Film / Süper Film Ambalaj",
+      "labor_organization": "Petrol-İş",
+      "sector": "Ambalaj / plastik film",
+      "death_date": "2026-04-16",
+      "cause": "İş makinesinin devrilmesi / altında kalma",
+      "legal_status": "İSİG aktarımına göre sepet aparatı takılmadan işçilerin çatallarla yukarı kaldırıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "super-film-luleburgaz-buyukkaristiran",
+          "label": "Sanko Süper Film fabrikası",
+          "province_key": "KIRKLARELI",
+          "province": "Kırklareli",
+          "district": "Lüleburgaz / Büyükkarıştıran",
+          "lat": 41.34,
+          "lng": 27.55,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-16",
+          "status": "fatality_recorded",
+          "note": "Tuncay Kurul Süper Film fabrikasında iş makinesinin devrilmesi sonucu yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "3 işçi iş cinayetlerinde yaşamdan koparıldı",
+          "url": "https://www.birgun.net/haber/3-isci-is-cinayetlerinde-yasamdan-koparildi-706339",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-17"
+        }
+      ]
+    },
+    {
+      "id": "mandarin-etiler-unnamed-insaat-iscisi-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mandarin Rezidans inşaatında ismi öğrenilemeyen işçi yaşamını yitirdi",
+      "summary": "İstanbul Etiler'de yapımı süren Mandarin Rezidans Otel projesinde çalışan ismi öğrenilemeyen bir inşaat işçisi 32. kattan düşerek yaşamını yitirdi; İnşaat-Sen olayı iş cinayeti olarak duyurdu.",
+      "worker_name": "İsmi öğrenilemeyen Mandarin Rezidans işçisi",
+      "employer": "Mandarin Rezidans Otel projesi / Yapı Yapı, Astaş, Ef Alüminyum",
+      "labor_organization": "İnşaat-Sen",
+      "sector": "İnşaat",
+      "death_date": "2026-04-21",
+      "cause": "32. kattan / yüksekten düşme",
+      "legal_status": "İnşaat-Sen olayı iş cinayeti olarak duyurdu; adli süreç kaynakta belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "mandarin-etiler-rezidans-insaati",
+          "label": "Etiler Mandarin Rezidans Otel projesi",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Beşiktaş / Etiler",
+          "lat": 41.081,
+          "lng": 29.034,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-21",
+          "status": "fatality_recorded",
+          "note": "İsmi öğrenilemeyen işçi Mandarin Rezidans Otel inşaatında 32. kattan düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mandarin Rezidans Otel projesinde ölümlü iş kazası",
+          "url": "https://www.haberyolsuzluk.com/mandarin-rezidans-otel-projesinde-olumlu-is-kazasi/6589/",
+          "publisher": "Haber Yolsuzluk",
+          "type": "news",
+          "published_at": "2026-04-21"
+        }
+      ]
+    },
+    {
+      "id": "zekeriya-muhammed-musto-onikisubat-elektrik-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Zekeriya Muhammed Musto Onikişubat inşaatında yaşamını yitirdi",
+      "summary": "Kahramanmaraş Onikişubat Ağcalı Mahallesi'nde bir inşaatta çalışan 26 yaşındaki yabancı uyruklu Zekeriya Muhammed Musto elektrik akımına kapıldı; hastanede yaşamını yitirdi.",
+      "worker_name": "Zekeriya Muhammed Musto",
+      "worker_age": 26,
+      "employer": "İnşaat sahası (işveren adı kaynakta belirtilmedi)",
+      "sector": "İnşaat",
+      "death_date": "2026-04-23",
+      "cause": "Elektrik akımına kapılma",
+      "legal_status": "Olayla ilgili inceleme başlatıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "zekeriya-musto-onikisubat-agcali",
+          "label": "Ağcalı Mahallesi inşaat alanı",
+          "province_key": "KAHRAMANMARAS",
+          "province": "Kahramanmaraş",
+          "district": "Onikişubat / Ağcalı",
+          "lat": 37.59,
+          "lng": 36.86,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-23",
+          "status": "fatality_recorded",
+          "note": "Zekeriya Muhammed Musto inşaat çalışması sırasında elektrik akımına kapılarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kahramanmaraş'ta elektrik akımına kapılan 26 yaşındaki işçi öldü",
+          "url": "https://www.iscihaber.net/kahramanmaras/kahramanmarasta-elektrik-akimina-kapilan-26-yasindaki-isci-oldu/224066",
+          "publisher": "İşçi Haber / İHA",
+          "type": "news",
+          "published_at": "2026-04-23"
+        }
+      ]
+    },
+    {
+      "id": "erol-buyun-kastamonu-insaat-tup-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Erol Buyun Kastamonu inşaatında yaşamını yitirdi",
+      "summary": "Kastamonu Merkez Mehmet Akif Ersoy Mahallesi'nde 6 katlı inşaatın çatısından düşen mutfak tüpü, aşağıda çalışan 43 yaşındaki Erol Buyun'un başına isabet etti; Buyun hastanede yaşamını yitirdi.",
+      "worker_name": "Erol Buyun",
+      "worker_age": 43,
+      "employer": "İnşaat sahası (işveren adı kaynakta belirtilmedi)",
+      "sector": "İnşaat",
+      "death_date": "2026-04-30",
+      "cause": "Yukarıdan düşen mutfak tüpünün başa isabet etmesi",
+      "legal_status": "Polis ekiplerinin olayla ilgili inceleme başlattığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "erol-buyun-kastamonu-mehmet-akif-ersoy",
+          "label": "Mehmet Akif Ersoy Mahallesi inşaat sahası",
+          "province_key": "KASTAMONU",
+          "province": "Kastamonu",
+          "district": "Merkez / Mehmet Akif Ersoy",
+          "lat": 41.389,
+          "lng": 33.789,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-30",
+          "status": "fatality_recorded",
+          "note": "Erol Buyun inşaat çatısından düşen mutfak tüpünün başına isabet etmesi sonucu yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İnşaatta başına mutfak tüpü düşen işçi hayatını kaybetti",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/insaatta-basina-mutfak-tupu-dusen-isci-hayatini-kaybetti-2499978",
+          "publisher": "Cumhuriyet / İHA",
+          "type": "news",
+          "published_at": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "kadir-ortatas-cankaya-aski-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Kadir Ortataş Çankaya kanalizasyon çalışmasında yaşamını yitirdi",
+      "summary": "Ankara Çankaya Bademlidere Mahallesi'nde kanalizasyon çalışması yapan ASKİ çalışanı Kadir Ortataş, geriye kayan kamyonetin çarpması sonucu yaşamını yitirdi.",
+      "worker_name": "Kadir Ortataş",
+      "employer": "ASKİ kanalizasyon çalışması",
+      "sector": "Belediye altyapı / kanalizasyon",
+      "death_date": "2026-05-01",
+      "cause": "Kamyonetin çarpması / altında kalma",
+      "legal_status": "Olayla ilgili soruşturma başlatıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "cankaya-bademlidere-aski-kaza",
+          "label": "Bademlidere Mahallesi Şemsettin Günaltay Caddesi",
+          "province_key": "ANKARA",
+          "province": "Ankara",
+          "district": "Çankaya / Bademlidere",
+          "lat": 39.884,
+          "lng": 32.879,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-01",
+          "status": "fatality_recorded",
+          "note": "Kadir Ortataş kanalizasyon çalışması sırasında kamyonetin çarpması sonucu yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1 Mayıs'ta iş cinayeti: 2 ASKİ işçisi kamyonun altında kalarak yaşamını yitirdi",
+          "url": "https://haber.sol.org.tr/haber/1-mayista-cinayeti-2-aski-iscisi-kamyonun-altinda-kalarak-yasamini-yitirdi-409042",
+          "publisher": "soL Haber",
+          "type": "labor_news",
+          "published_at": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "bayram-demirhan-cankaya-aski-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Bayram Demirhan Çankaya kanalizasyon çalışmasında yaşamını yitirdi",
+      "summary": "Ankara Çankaya Bademlidere Mahallesi'nde kanalizasyon çalışması yapan ASKİ çalışanı Bayram Demirhan, geriye kayan kamyonetin çarpması sonucu yaşamını yitirdi.",
+      "worker_name": "Bayram Demirhan",
+      "employer": "ASKİ kanalizasyon çalışması",
+      "sector": "Belediye altyapı / kanalizasyon",
+      "death_date": "2026-05-01",
+      "cause": "Kamyonetin çarpması / altında kalma",
+      "legal_status": "Olayla ilgili soruşturma başlatıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "cankaya-bademlidere-aski-kaza",
+          "label": "Bademlidere Mahallesi Şemsettin Günaltay Caddesi",
+          "province_key": "ANKARA",
+          "province": "Ankara",
+          "district": "Çankaya / Bademlidere",
+          "lat": 39.884,
+          "lng": 32.879,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-01",
+          "status": "fatality_recorded",
+          "note": "Bayram Demirhan kanalizasyon çalışması sırasında kamyonetin çarpması sonucu yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1 Mayıs'ta iş cinayeti: 2 ASKİ işçisi kamyonun altında kalarak yaşamını yitirdi",
+          "url": "https://haber.sol.org.tr/haber/1-mayista-cinayeti-2-aski-iscisi-kamyonun-altinda-kalarak-yasamini-yitirdi-409042",
+          "publisher": "soL Haber",
+          "type": "labor_news",
+          "published_at": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "mahmut-turan-saricam-bim-depo-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mahmut Turan Sarıçam depo çalışmasında yaşamını yitirdi",
+      "summary": "Adana Sarıçam'daki Adana Organize Sanayi Bölgesi'nde BİM deposunda boya yapan 33 yaşındaki Mahmut Turan, kepçeyle taşınırken düşen demir profilin altında kalarak yaşamını yitirdi.",
+      "worker_name": "Mahmut Turan",
+      "worker_age": 33,
+      "employer": "BİM depo / zincir market deposu",
+      "sector": "Depo / perakende lojistik",
+      "death_date": "2026-05-01",
+      "cause": "Düşen demir profilin altında kalma",
+      "legal_status": "Olayla ilgili soruşturma başlatıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "mahmut-turan-saricam-aosb-depo",
+          "label": "Adana Organize Sanayi Bölgesi depo çalışması",
+          "province_key": "ADANA",
+          "province": "Adana",
+          "district": "Sarıçam / Adana OSB",
+          "lat": 37.02,
+          "lng": 35.52,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-01",
+          "status": "fatality_recorded",
+          "note": "Mahmut Turan depo boyama çalışması sırasında düşen demir profilin altında kalarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Market deposunda acı olay: 3 çocuk babası işçi feci şekilde can verdi",
+          "url": "https://www.haber7.com/guncel/haber/3624523-market-deposunda-aci-olay-3-cocuk-babasi-isci-feci-sekilde-can-verdi",
+          "publisher": "Haber7 / İHA",
+          "type": "news",
+          "published_at": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "hatice-basata-ihlara-mobilya-is-yeri-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Hatice Başata Ihlara'daki iş yerinde yaşamını yitirdi",
+      "summary": "Aksaray Güzelyurt Ihlara Beldesi'nde bir mobilyacıda aşçı olarak çalışan 56 yaşındaki Hatice Başata, iş yerine ait arazide kesilen kavak ağacının üzerine devrilmesi sonucu yaşamını yitirdi.",
+      "worker_name": "Hatice Başata",
+      "worker_age": 56,
+      "employer": "Mobilyacı (işveren adı kaynakta belirtilmedi)",
+      "sector": "Hizmet / yemek",
+      "death_date": "2026-05-01",
+      "cause": "Kesilen kavak ağacının devrilmesi",
+      "legal_status": "Olayla ilgili soruşturma başlatıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "hatice-basata-ihlara-akpinar",
+          "label": "Ihlara Beldesi Akpınar Mahallesi iş yeri arazisi",
+          "province_key": "AKSARAY",
+          "province": "Aksaray",
+          "district": "Güzelyurt / Ihlara / Akpınar",
+          "lat": 38.25,
+          "lng": 34.31,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-01",
+          "status": "fatality_recorded",
+          "note": "Hatice Başata iş yerine ait arazide kesilen kavak ağacının üzerine devrilmesi sonucu yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1 Mayıs'ta bir iş cinayeti daha! Üzerine ağaç devrilen kadın hayatını kaybetti",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/1-mayis-ta-bir-is-cinayeti-daha-uzerine-agac-devrilen-kadin-hayatini-kaybetti-2500248",
+          "publisher": "Cumhuriyet / DHA",
+          "type": "news",
+          "published_at": "2026-05-01"
+        }
+      ]
+    },
+    {
       "id": "ozan-turhan-kirikkale-tuz-fabrikasi-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
