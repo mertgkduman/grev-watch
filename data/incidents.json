@@ -569,6 +569,434 @@
       ]
     },
     {
+      "id": "buca-belediyesi-iscileri-fiili-grevi-2025",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "title": "Buca Belediyesi işçileri iş bırakma eylemi",
+      "summary": "İzmir Buca Belediyesi işçileri, ödenmeyen maaşlar ve toplu sözleşmeden doğan alacaklar nedeniyle 2025 sonunda iş bıraktı. DİSK/Genel-İş İzmir 6 No’lu Şube ile belediye arasında ödeme taahhüdü ve yıl sonu ödemeleri sonrasında eylem 31 Aralık 2025’te sona erdi.",
+      "employer": "Buca Belediyesi",
+      "labor_organization": "DİSK/Genel-İş İzmir 6 No’lu Şube",
+      "sector": "Belediye hizmetleri",
+      "start_date": "2025-12-26",
+      "end_date": "2025-12-31",
+      "demands": [
+        "Ödenmeyen maaşların yatırılması",
+        "Toplu sözleşmeden doğan alacakların ödenmesi",
+        "Yan hak ve kart ödemelerinin yapılması"
+      ],
+      "last_verified_at": "2026-04-26",
+      "locations": [
+        {
+          "id": "buca-belediyesi",
+          "label": "Buca Belediyesi",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Buca",
+          "lat": 38.3902,
+          "lng": 27.1663,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Kaynaklar eylemi Buca Belediyesi genelinde bildiriyor; koordinat Buca ilçe/belediye merkezine yaklaşık yerleştirildi."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-26",
+          "status": "ongoing",
+          "note": "Son Kale İzmir, Buca Belediyesi işçilerinin maaş krizi nedeniyle yeniden iş bırakma kararı aldığını bildirdi."
+        },
+        {
+          "date": "2025-12-31",
+          "status": "ended",
+          "note": "Gündem Buca, maaşların yatırılmasıyla yıl sonuna saatler kala grevin sona erdiğini aktardı."
+        },
+        {
+          "date": "2026-04-26",
+          "status": "ended",
+          "note": "BirGün, Buca Belediyesi fiili grevini 2025 sonundan devreden ve kazanımla sonuçlanan mücadeleler arasında saydı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Buca’da yine iş bırakma eylemi!",
+          "url": "https://www.sonkaleizmir.com/haber/Buca-da-yine-is-birakma-eylemi/182176",
+          "publisher": "Son Kale İzmir",
+          "type": "local_news",
+          "published_at": "2025-12-26"
+        },
+        {
+          "title": "Buca Belediyesi’nde Grev Yeni Yıl Öncesi Sona Erdi",
+          "url": "https://gundembuca.com/buca-belediyesi-nde-grev-yeni-yil-oncesi-sona-erdi.html",
+          "publisher": "Gündem Buca",
+          "type": "local_news",
+          "published_at": "2025-12-31"
+        },
+        {
+          "title": "1 Mayıs’a giderken: Büyüyerek çoğalan mücadeleler",
+          "url": "https://www.birgun.net/makale/1-mayisa-giderken-buyuyerek-cogalan-mucadeleler-708354",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-26"
+        }
+      ]
+    },
+    {
+      "id": "bakirkoy-belediyesi-iscileri-fiili-grevi-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "title": "Bakırköy Belediyesi işçileri fiili grevi",
+      "summary": "İstanbul Bakırköy Belediyesi’nde DİSK/Genel-İş üyesi işçiler, toplu iş sözleşmesi görüşmelerinde anlaşma sağlanamaması üzerine 6 Ocak 2026’da iş bıraktı. Yaklaşık 14 saat süren fiili grev, 7 Ocak’ta TİS imzalanmasıyla sona erdi; ücret, geriye dönük alacak, yemek, yakacak, çocuk yardımı ve fazla mesai başlıklarında kazanımlar kayda geçti.",
+      "employer": "Bakırköy Belediyesi",
+      "labor_organization": "DİSK/Genel-İş",
+      "sector": "Belediye hizmetleri",
+      "start_date": "2026-01-06",
+      "end_date": "2026-01-07",
+      "demands": [
+        "Toplu iş sözleşmesinin imzalanması",
+        "İnsanca yaşayacak ücret",
+        "Geriye dönük alacakların ödenmesi",
+        "Haftalık 40 saatin 5 güne bölünmesi",
+        "Sosyal hakların artırılması"
+      ],
+      "last_verified_at": "2026-04-26",
+      "locations": [
+        {
+          "id": "bakirkoy-belediyesi",
+          "label": "Bakırköy Belediyesi",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Bakırköy",
+          "lat": 40.978,
+          "lng": 28.8724,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Kaynaklar eylemi Bakırköy Belediyesi işyerleri ve temizlik işleri şantiyesi etrafında bildiriyor; koordinat Bakırköy ilçe/belediye merkezine yaklaşık yerleştirildi."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-01-06",
+          "status": "ongoing",
+          "note": "TİS görüşmelerinde anlaşma sağlanamaması üzerine işçiler işyerlerine grev pankartı astı ve iş bıraktı."
+        },
+        {
+          "date": "2026-01-07",
+          "status": "ended",
+          "note": "Yaklaşık 14 saat sonra imzalanan sözleşmeyle grev sona erdi; ücret, geriye dönük alacak ve sosyal haklarda artış bildirildi."
+        },
+        {
+          "date": "2026-04-26",
+          "status": "ended",
+          "note": "BirGün, Bakırköy Belediyesi fiili grevini Ocak 2026’da başlayıp TİS kazanımlarıyla sonuçlanan mücadeleler arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "2026’da Emeğin Direniş Ateşi Sönmedi",
+          "url": "https://www.elyazmalari.com/2026/01/06/2026da-emegin-direnis-atesi-sonmedi/",
+          "publisher": "El Yazmaları",
+          "type": "labor_news",
+          "published_at": "2026-01-06"
+        },
+        {
+          "title": "Bakırköy Belediyesi’nde Grev Anlaşmayla Sona Erdi",
+          "url": "https://www.gazeteavcilar.com/haber/1732/bakirkoy-belediyesinde-grev-anlasmayla-sona-erdi.html",
+          "publisher": "Gazete Avcılar",
+          "type": "local_news",
+          "published_at": "2026-01-07"
+        },
+        {
+          "title": "1 Mayıs’a giderken: Büyüyerek çoğalan mücadeleler",
+          "url": "https://www.birgun.net/makale/1-mayisa-giderken-buyuyerek-cogalan-mucadeleler-708354",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-26"
+        }
+      ]
+    },
+    {
+      "id": "mess-metal-iscileri-grup-tis-eylemleri-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "bargaining_dispute",
+      "title": "MESS grup TİS metal işçileri eylemleri",
+      "summary": "MESS 2025-2027 Grup Toplu İş Sözleşmesi görüşmelerinde düşük zam teklifleri ve kazanılmış haklara yönelik karşı teklifler üzerine metal işçileri Aralık 2025-Ocak 2026 döneminde işyeri eylemleri, yemek paydosu çıkışları ve grev kararlarıyla baskı kurdu. Türk Metal, Birleşik Metal-İş ve Özçelik-İş ile MESS arasında 21-22 Ocak 2026 gecesi imzalanan sözleşmeyle ücret ve sosyal haklarda artış sağlandı.",
+      "employer": "MESS üyesi metal işverenleri",
+      "labor_organization": "Türk Metal; Birleşik Metal-İş; Özçelik-İş",
+      "sector": "Metal / otomotiv / beyaz eşya / elektronik",
+      "start_date": "2025-12-08",
+      "end_date": "2026-01-22",
+      "demands": [
+        "Düşük zam teklifinin geri çekilmesi",
+        "İlk altı ay için daha yüksek ücret artışı",
+        "Sosyal hakların artırılması",
+        "Kazanılmış haklara yönelik karşı tekliflerin geri çekilmesi",
+        "İki yıllık sözleşme"
+      ],
+      "last_verified_at": "2026-04-26",
+      "linked_incident_count": 43,
+      "locations": [
+        {
+          "id": "mess-kocaeli-gebze-metal-havzasi",
+          "label": "MESS grup TİS eylemleri - Kocaeli/Gebze metal havzası",
+          "province_key": "KOCAELI",
+          "province": "Kocaeli",
+          "district": "Gebze",
+          "lat": 40.8028,
+          "lng": 29.4307,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Eylemler MESS kapsamındaki çok sayıda fabrikaya yayıldı; nokta Kocaeli/Gebze metal havzası için temsili yerleştirildi."
+        },
+        {
+          "id": "mess-bursa-metal-havzasi",
+          "label": "MESS grup TİS eylemleri - Bursa metal havzası",
+          "province_key": "BURSA",
+          "province": "Bursa",
+          "district": "Nilüfer",
+          "lat": 40.214,
+          "lng": 28.952,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Eylemler MESS kapsamındaki çok sayıda fabrikaya yayıldı; nokta Bursa metal havzası için temsili yerleştirildi."
+        },
+        {
+          "id": "mess-istanbul-tuzla-metal-havzasi",
+          "label": "MESS grup TİS eylemleri - İstanbul/Tuzla metal havzası",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Tuzla",
+          "lat": 40.842,
+          "lng": 29.307,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Eylemler MESS kapsamındaki çok sayıda fabrikaya yayıldı; nokta İstanbul/Tuzla metal havzası için temsili yerleştirildi."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-08",
+          "status": "ongoing",
+          "note": "MESS görüşmelerinde uyuşmazlık tutanağı tutuldu; düşük zam teklifi ve karşı teklifler eylem sürecini hızlandırdı."
+        },
+        {
+          "date": "2026-01-21",
+          "status": "ongoing",
+          "note": "Birleşik Metal-İş, 31 işletmeye bağlı 43 fabrikada 11 bine yakın üyenin tüm vardiyalarda yemek paydoslarına toplu ve sloganlı çıktığını bildirdi."
+        },
+        {
+          "date": "2026-01-22",
+          "status": "ended",
+          "note": "MESS ile Türk Metal, Birleşik Metal-İş ve Özçelik-İş arasında grup TİS anlaşması sağlandı; ilk altı ayda ortalama ücret artışı ve sosyal hak artışları açıklandı."
+        },
+        {
+          "date": "2026-04-26",
+          "status": "ended",
+          "note": "BirGün, Aralık ayındaki MESS düşük zam teklifine karşı işyeri direnişleriyle Ocak 2026’da istenen zam oranına yaklaşılan anlaşmanın sağlandığını özetledi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "43 fabrikada eylemler sürüyor: İşçiler açken patronlara huzur yok!",
+          "url": "https://birlesikmetalis.org/43-fabrikada-eylemler-suruyor-isciler-acken-patronlara-huzur-yok/",
+          "publisher": "Birleşik Metal-İş",
+          "type": "union",
+          "published_at": "2026-01-21"
+        },
+        {
+          "title": "MESS ile anlaşma sağlandı: Zafer direnen metal işçilerinin!",
+          "url": "https://birlesikmetalis.org/mess-ile-anlasma-saglandi-zafer-direnen-metal-iscilerinin/",
+          "publisher": "Birleşik Metal-İş",
+          "type": "union",
+          "published_at": "2026-01-22"
+        },
+        {
+          "title": "Türk Metal ile MESS arasında sözleşme imzalandı: İlk yıl zam oranı yüzde 47,81",
+          "url": "https://t24.com.tr/haber/turk-metal-ile-mess-arasinda-sozlesme-imzalandi-ilk-yil-zam-orani-yuzde-4781%2C1292897",
+          "publisher": "T24",
+          "type": "labor_news",
+          "published_at": "2026-01-22"
+        },
+        {
+          "title": "MESS’te gece yarısı anlaşma sağlandı: İlk altı ay yüzde 28,10 ücret zammı",
+          "url": "https://www.etha15.com/haberdetay/messte-gece-yarisi-anlasma-saglandi-ilk-alti-ay-yuzde-28-10-ucret-zammi-218997",
+          "publisher": "ETHA",
+          "type": "labor_news",
+          "published_at": "2026-01-22"
+        },
+        {
+          "title": "1 Mayıs’a giderken: Büyüyerek çoğalan mücadeleler",
+          "url": "https://www.birgun.net/makale/1-mayisa-giderken-buyuyerek-cogalan-mucadeleler-708354",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-26"
+        }
+      ]
+    },
+    {
+      "id": "soma-yeni-anadolu-madencilik-iscileri-grevi-2026",
+      "record_type": "strike",
+      "status": "ongoing",
+      "action_type": "fiili_wildcat",
+      "title": "Soma Yeni Anadolu Madencilik işçileri grevi",
+      "summary": "Manisa Soma’daki Yeni Anadolu Madencilik işçileri, aylardır düzensiz/geç ödenen ücretler, ödenmeyen enflasyon farkları ve düşük zam dayatmasına karşı Şubat 2026’da üretimi durdurdu. Mart 2026’da Soma ve Kınık’taki maden işçi eylemlerinin sürdüğü bildirildi; bu kayıtta kesin bitiş tarihi doğrulanmadığı için eylem sürüyor olarak tutuldu.",
+      "employer": "Yeni Anadolu Madencilik",
+      "labor_organization": "Türkiye Maden-İş; Bağımsız Maden-İş",
+      "sector": "Madencilik / enerji",
+      "participant_count": 2000,
+      "start_date": "2026-02-26",
+      "demands": [
+        "Geciken maaşların ödenmesi",
+        "Enflasyon farklarının yatırılması",
+        "Toplu sözleşmenin yenilenmesi",
+        "Düşük zam dayatmasının geri çekilmesi",
+        "Üretim için gerekli malzeme ve iş güvencesi"
+      ],
+      "last_verified_at": "2026-03-12",
+      "locations": [
+        {
+          "id": "yeni-anadolu-madencilik-soma",
+          "label": "Yeni Anadolu Madencilik Soma ocağı",
+          "province_key": "MANISA",
+          "province": "Manisa",
+          "district": "Soma",
+          "lat": 39.1855,
+          "lng": 27.6095,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Kaynaklar eylemi Soma’daki Yeni Anadolu Madencilik işçileri üzerinden bildiriyor; koordinat Soma ilçe/maden havzasına yaklaşık yerleştirildi."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-02-26",
+          "status": "ongoing",
+          "note": "Yeni Anadolu Madencilik işçileri enflasyon farkları ve ücretlerin geç ödenmesi nedeniyle eyleme geçti."
+        },
+        {
+          "date": "2026-02-27",
+          "status": "ongoing",
+          "note": "Nefes ve Aydınlık, Soma Yeni Anadolu Madencilik işçilerinin üretimi durdurduğunu, taleplerin ücret ve enflasyon farkı alacakları olduğunu aktardı."
+        },
+        {
+          "date": "2026-03-12",
+          "status": "ongoing",
+          "note": "Gazete Nisan, Yeni Anadolu Madencilik ve İmbat işçilerinin ücretlerin zamanında ödenmesi ve enflasyon farkları için mücadele ettiğini yazdı."
+        },
+        {
+          "date": "2026-04-26",
+          "status": "ongoing",
+          "note": "BirGün, Soma Anadolu Madencilik işçilerinin Şubat ayında ücretlerini alamadıkları için greve çıktığını 1 Mayıs değerlendirmesinde andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İki ilde madenciler iş bıraktı: 'Bunu reva görenler utansın'",
+          "url": "https://www.nefes.com.tr/iki-ilde-madenciler-is-birakti-bunu-reva-gorenler-utansin-106950",
+          "publisher": "Nefes",
+          "type": "labor_news",
+          "published_at": "2026-02-27"
+        },
+        {
+          "title": "Özel maden şirketleri işçiye karşı birleşti",
+          "url": "https://www.aydinlik.com.tr/haber/ozel-maden-sirketleri-isciye-karsi-birlesti-568144",
+          "publisher": "Aydınlık",
+          "type": "labor_news",
+          "published_at": "2026-02-27"
+        },
+        {
+          "title": "Talepler ortak ve acil, mücadeleler tekil ve yalıtık",
+          "url": "https://www.gazetenisan.net/2026/03/talepler-ortak-ve-acil-mucadeleler-tekil-ve-yalitik/",
+          "publisher": "Gazete Nisan",
+          "type": "labor_news",
+          "published_at": "2026-03-12"
+        },
+        {
+          "title": "1 Mayıs’a giderken: Büyüyerek çoğalan mücadeleler",
+          "url": "https://www.birgun.net/makale/1-mayisa-giderken-buyuyerek-cogalan-mucadeleler-708354",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-26"
+        }
+      ]
+    },
+    {
+      "id": "ozel-okmeydani-hastanesi-emekcileri-direnisi-2025",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "protest",
+      "title": "Özel Okmeydanı Hastanesi emekçileri direnişi",
+      "summary": "İstanbul’daki Özel Okmeydanı Hastanesi sağlık çalışanları ve emekçileri, aylardır ödenmeyen maaşları, baskı ve işten çıkarmalara karşı 10 Kasım 2025’te hastane önünde nöbet eylemi başlattı. DİSK Dev Sağlık-İş’in de dahil olduğu 51 günlük direniş, 30 Aralık 2025’te gasp edilen hakların alınmasıyla kazanımla sonuçlandı.",
+      "employer": "Özel Okmeydanı Hastanesi",
+      "labor_organization": "DİSK Dev Sağlık-İş",
+      "sector": "Sağlık",
+      "start_date": "2025-11-10",
+      "end_date": "2025-12-30",
+      "demands": [
+        "Ödenmeyen maaşların ödenmesi",
+        "Gasp edilen yasal hakların verilmesi",
+        "Baskı ve tehditlerin son bulması",
+        "İşten çıkarılan emekçilerin haklarının korunması"
+      ],
+      "last_verified_at": "2026-04-26",
+      "locations": [
+        {
+          "id": "ozel-okmeydani-hastanesi",
+          "label": "Özel Okmeydanı Hastanesi",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Şişli",
+          "lat": 41.0564,
+          "lng": 28.9589,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Adres kaynakları hastaneyi Fatih Sultan Cad. Osmanoğlu Sok. No:12 Okmeydanı/Şişli olarak veriyor; koordinat yaklaşık yerleştirildi."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-10",
+          "status": "ongoing",
+          "note": "Ödenmeyen maaşlar, baskı ve işten çıkarmalara karşı hastane önünde nöbet eylemi başladı."
+        },
+        {
+          "date": "2025-12-30",
+          "status": "ended",
+          "note": "Cumhuriyet, 51 günlük direnişin sağlık emekçilerinin haklarını almasıyla kazanımla sonuçlandığını bildirdi."
+        },
+        {
+          "date": "2026-04-26",
+          "status": "ended",
+          "note": "BirGün, Okmeydanı Hastanesi emekçilerinin alamadıkları ücretler için 51 gün direnerek mücadeleyi kazanımla sonuçlandırdığını 1 Mayıs değerlendirmesinde andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Özel Okmeydanı Hastanesi’nde 51 günlük direniş zaferle sonuçlandı: “Sonunda işçi sınıfı kazandı”",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/ozel-okmeydani-hastanesi-nde-51-gunluk-direnis-zaferle-sonuclandi-sonunda-isci-sinifi-kazandi-2465891",
+          "publisher": "Cumhuriyet",
+          "type": "labor_news",
+          "published_at": "2025-12-30"
+        },
+        {
+          "title": "Özel Okmeydanı Hastanesi’nde zafer direnen işçilerin oldu",
+          "url": "https://yurtsever.org.tr/2025/ozel-okmeydani-hastanesinde-zafer-direnen-iscilerin-oldu-556145/",
+          "publisher": "Yurtsever",
+          "type": "labor_news",
+          "published_at": "2025-12-31"
+        },
+        {
+          "title": "1 Mayıs’a giderken: Büyüyerek çoğalan mücadeleler",
+          "url": "https://www.birgun.net/makale/1-mayisa-giderken-buyuyerek-cogalan-mucadeleler-708354",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2026-04-26"
+        },
+        {
+          "title": "Özel Okmeydanı Hastanesi Telefon Adres İletişim",
+          "url": "https://www.binbirkanal.com/ozel-okmeydani-hastanesi-telefon-adres-iletisim",
+          "publisher": "Binbir Kanal",
+          "type": "directory",
+          "published_at": null
+        }
+      ]
+    },
+    {
       "id": "migros-depo-eylemi-istanbul-2026",
       "record_type": "strike",
       "status": "ended",
