@@ -846,6 +846,7 @@ function renderMarkers() {
             iconAnchor: [9 - offset.x, 9 - offset.y],
           }),
           title: record.title,
+          zIndexOffset: selected ? 1000 : 0,
         }).addTo(state.map);
         marker.on("click", () => selectRecord(record.id, location));
         state.markers.set(`${record.id}:${location.id}`, marker);

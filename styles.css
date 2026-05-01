@@ -422,8 +422,10 @@ input:focus, select:focus, textarea:focus {
 .case-marker.strike_postponed,
 .case-marker.union_arrest_released { background: #7c6f64; }
 .case-marker.selected {
-  outline: 2px solid rgba(31, 111, 120, 0.45);
-  transform: scale(1.15);
+  border-color: #fffdfa;
+  outline: 3px solid rgba(31, 111, 120, 0.72);
+  box-shadow: 0 0 0 5px rgba(31, 111, 120, 0.22), 0 7px 16px rgba(0, 0, 0, 0.36);
+  transform: scale(1.28);
 }
 
 .empty-state {
