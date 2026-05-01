@@ -96,26 +96,30 @@ const PROVINCES = [
 const PROVINCE_BY_KEY = Object.fromEntries(PROVINCES.map((item) => [item.key, item]));
 const PROVINCE_BY_NAME = Object.fromEntries(PROVINCES.map((item) => [item.name, item]));
 
-const RECORD_TYPES = ["worker_death", "strike", "mesem_school", "union_labor_arrest"];
+const RECORD_TYPES = ["worker_death", "strike", "action_call", "mesem_school", "union_labor_arrest"];
 const ACTION_TYPES = ["legal_strike", "fiili_wildcat", "protest", "bargaining_dispute", "solidarity_action"];
 const LAYER_ORDER = [
   "worker_death_recent",
   "strike_ongoing",
-  "union_arrest_current",
-  "strike_decision",
   "strike_ended",
+  "action_call_upcoming",
+  "action_call_happened",
+  "union_arrest_current",
+  "union_arrest_released",
+  "strike_decision",
   "strike_postponed",
   "mesem_school",
-  "union_arrest_released",
 ];
-const DEFAULT_LAYERS = ["worker_death_recent", "strike_ongoing", "union_arrest_current"];
-const QUICK_LAYERS = ["worker_death_recent", "strike_ongoing", "union_arrest_current", "mesem_school"];
+const DEFAULT_LAYERS = ["worker_death_recent", "strike_ongoing", "action_call_upcoming", "union_arrest_current"];
+const QUICK_LAYERS = ["worker_death_recent", "strike_ongoing", "action_call_upcoming", "union_arrest_current"];
 const DATE_RANGES = ["all", "last_30_days", "last_3_months", "last_6_months"];
 
 const LAYER_COLORS = {
   worker_death_recent: "#111111",
   strike_ongoing: "#d72d2d",
   strike_ended: "#2f8f4e",
+  action_call_upcoming: "#1d4ed8",
+  action_call_happened: "#60a5fa",
   strike_decision: "#f7f4ea",
   strike_postponed: "#7c6f64",
   mesem_school: "#e3b505",
@@ -150,7 +154,7 @@ const COPY = {
     map: { results: "sonuç" },
     empty: {
       title: "Haritadan bir kayıt seçin",
-      text: "Varsayılan harita seçili tarih aralığındaki iş cinayetlerini, süren grevleri ve güncel emek tutuklamalarını gösterir.",
+      text: "Varsayılan harita seçili tarih aralığındaki iş cinayetlerini, süren grevleri, yaklaşan eylem çağrılarını ve güncel emek tutuklamalarını gösterir.",
       context: "Bağlam kaynakları",
     },
     list: {
@@ -162,6 +166,7 @@ const COPY = {
     recordType: {
       worker_death: "İş cinayeti",
       strike: "Grev / işçi eylemi",
+      action_call: "Eylem / dayanışma çağrısı",
       mesem_school: "MESEM okulu",
       union_labor_arrest: "Emek tutuklaması",
     },
@@ -171,6 +176,8 @@ const COPY = {
       ongoing: "Sürüyor",
       ended: "Sona erdi",
       postponed_banned: "Ertelendi / yasaklandı",
+      action_call_upcoming: "Çağrı",
+      action_call_happened: "Gerçekleşti",
       active_school: "Aktif okul",
       currently_arrested: "Tutuklu",
       released: "Tahliye",
@@ -180,6 +187,8 @@ const COPY = {
       worker_death_recent: "İş cinayeti",
       strike_ongoing: "Süren grev",
       strike_ended: "Sona eren grev",
+      action_call_upcoming: "Eylem ve dayanışma çağrısı",
+      action_call_happened: "Gerçekleşen eylem",
       strike_decision: "Grev kararı",
       strike_postponed: "Ertelenen / yasaklanan grev",
       mesem_school: "MESEM okulu",
@@ -189,8 +198,8 @@ const COPY = {
     quickLayer: {
       worker_death_recent: "İş cinayeti",
       strike_ongoing: "Grev",
+      action_call_upcoming: "Çağrı",
       union_arrest_current: "Tutuklu",
-      mesem_school: "MESEM",
     },
     actionType: {
       legal_strike: "Yasal grev",
@@ -214,6 +223,7 @@ const COPY = {
       workers: "Yaklaşık katılımcı",
       demands: "Talepler / konular",
       decisionDate: "Karar tarihi",
+      eventDate: "Eylem tarihi",
       startDate: "Başlangıç",
       endDate: "Bitiş",
       schoolName: "Okul adı",
@@ -297,7 +307,7 @@ const COPY = {
     map: { results: "results" },
     empty: {
       title: "Select a record on the map",
-      text: "By default the map shows workplace killings in the selected date range, ongoing strikes, and current labor arrests.",
+      text: "By default the map shows workplace killings in the selected date range, ongoing strikes, upcoming action calls, and current labor arrests.",
       context: "Context sources",
     },
     list: {
@@ -309,6 +319,7 @@ const COPY = {
     recordType: {
       worker_death: "Workplace killing",
       strike: "Strike / labor action",
+      action_call: "Action / solidarity call",
       mesem_school: "MESEM school",
       union_labor_arrest: "Labor arrest",
     },
@@ -318,6 +329,8 @@ const COPY = {
       ongoing: "Ongoing",
       ended: "Ended",
       postponed_banned: "Postponed / banned",
+      action_call_upcoming: "Call",
+      action_call_happened: "Held",
       active_school: "Active school",
       currently_arrested: "Currently jailed",
       released: "Released",
@@ -327,6 +340,8 @@ const COPY = {
       worker_death_recent: "Workplace killing",
       strike_ongoing: "Ongoing strike",
       strike_ended: "Ended strike",
+      action_call_upcoming: "Action / solidarity call",
+      action_call_happened: "Action held",
       strike_decision: "Strike decision",
       strike_postponed: "Postponed / banned strike",
       mesem_school: "MESEM school",
@@ -336,8 +351,8 @@ const COPY = {
     quickLayer: {
       worker_death_recent: "Killings",
       strike_ongoing: "Strikes",
+      action_call_upcoming: "Calls",
       union_arrest_current: "Jailed",
-      mesem_school: "MESEM",
     },
     actionType: {
       legal_strike: "Legal strike",
@@ -361,6 +376,7 @@ const COPY = {
       workers: "Approx. participants",
       demands: "Demands / issues",
       decisionDate: "Decision date",
+      eventDate: "Action date",
       startDate: "Start",
       endDate: "End",
       schoolName: "School name",
@@ -570,7 +586,8 @@ function normalizeRecord(raw) {
     decision_date: raw.decision_date || null,
     start_date: raw.start_date || null,
     end_date: raw.end_date || null,
-    death_date: raw.death_date || raw.event_date || null,
+    event_date: raw.event_date || null,
+    death_date: raw.death_date || null,
     detention_date: raw.detention_date || raw.arrest_date || null,
     known_active_date: raw.known_active_date || raw.active_date || null,
     custody_status: raw.custody_status || raw.detention_status || "",
@@ -593,6 +610,10 @@ function normalizeRecord(raw) {
     })),
   };
 
+  if (record.record_type === "action_call") {
+    record.status = isUpcomingActionCall(record) ? "action_call_upcoming" : "action_call_happened";
+  }
+
   record.layer = getLayer(record);
   record.search_blob = buildSearchBlob(record);
   return record;
@@ -606,6 +627,9 @@ function getLayer(record) {
   if (record.record_type === "worker_death") {
     return "worker_death_recent";
   }
+  if (record.record_type === "action_call") {
+    return record.status === "action_call_upcoming" ? "action_call_upcoming" : "action_call_happened";
+  }
   if (record.record_type === "mesem_school") return "mesem_school";
   if (record.record_type === "union_labor_arrest") {
     return isCurrentArrestRecord(record) ? "union_arrest_current" : "union_arrest_released";
@@ -614,6 +638,12 @@ function getLayer(record) {
   if (record.status === "decision_taken") return "strike_decision";
   if (record.status === "postponed_banned") return "strike_postponed";
   return "strike_ongoing";
+}
+
+function isUpcomingActionCall(record) {
+  const eventKey = dateKey(record.event_date || record.start_date || record.decision_date);
+  if (!eventKey) return record.status === "action_call_upcoming";
+  return eventKey > turkeyTodayKey();
 }
 
 function isCurrentArrestRecord(record) {
@@ -907,12 +937,14 @@ function recordMatchesDateRange(record) {
 }
 
 function recordUsesDateRange(record) {
-  return record.record_type === "worker_death" || record.layer === "strike_ended" || record.layer === "strike_postponed";
+  return record.record_type === "worker_death"
+    || record.record_type === "action_call"
+    || record.layer === "strike_ended"
+    || record.layer === "strike_postponed";
 }
 
 function dateRangeCutoff(range) {
-  const now = new Date();
-  now.setHours(0, 0, 0, 0);
+  const now = turkeyToday();
   if (range === "last_30_days") {
     now.setDate(now.getDate() - 30);
     return now;
@@ -958,6 +990,7 @@ function markerLetter(record, location) {
     return "İC";
   }
   if (record.record_type === "mesem_school") return "M";
+  if (record.record_type === "action_call") return record.layer === "action_call_upcoming" ? "Ç" : "E";
   if (record.record_type === "union_labor_arrest") return "T";
   return "G";
 }
@@ -1027,6 +1060,7 @@ function recordListMeta(record) {
 
 function recordDateValue(record) {
   if (record.record_type === "worker_death") return record.death_date || record.last_verified_at || "";
+  if (record.record_type === "action_call") return record.event_date || record.start_date || record.decision_date || record.last_verified_at || "";
   if (record.record_type === "union_labor_arrest") return record.detention_date || record.last_verified_at || "";
   if (record.record_type === "mesem_school") return record.known_active_date || record.last_verified_at || "";
   if (record.status === "ended") return record.end_date || record.last_verified_at || record.start_date || record.decision_date || "";
@@ -1116,6 +1150,15 @@ function renderTypeStats(record) {
       detailStat(t("detail.sector"), record.sector),
       detailStat(t("detail.activeDate"), formatDate(record.known_active_date)),
       detailStat(t("detail.linkedIncidents"), record.linked_incident_count),
+      detailStat(t("detail.lastVerified"), formatDate(record.last_verified_at)),
+    ].join("");
+  }
+  if (record.record_type === "action_call") {
+    return [
+      detailStat(t("detail.union"), record.labor_organization),
+      detailStat(t("detail.sector"), record.sector),
+      detailStat(t("detail.actionType"), record.action_type ? t(`actionType.${record.action_type}`) : ""),
+      detailStat(t("detail.eventDate"), formatDate(record.event_date || record.start_date)),
       detailStat(t("detail.lastVerified"), formatDate(record.last_verified_at)),
     ].join("");
   }
@@ -1339,6 +1382,30 @@ function parseDate(value) {
   const normalized = String(value);
   const date = new Date(`${normalized.length === 7 ? `${normalized}-01` : normalized}T00:00:00`);
   return Number.isNaN(date.valueOf()) ? null : date;
+}
+
+function dateKey(value) {
+  const date = parseDate(value);
+  if (!date) return "";
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  return `${year}-${month}-${day}`;
+}
+
+function turkeyToday() {
+  return parseDate(turkeyTodayKey());
+}
+
+function turkeyTodayKey() {
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Europe/Istanbul",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(new Date());
+  const lookup = Object.fromEntries(parts.filter((part) => part.type !== "literal").map((part) => [part.type, part.value]));
+  return `${lookup.year}-${lookup.month}-${lookup.day}`;
 }
 
 function formatDate(value) {
