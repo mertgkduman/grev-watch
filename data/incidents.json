@@ -997,47 +997,27 @@
       ]
     },
     {
-      "id": "migros-depo-eylemi-istanbul-2026",
+      "id": "migros-depo-iscileri-fiili-grevi-2026",
       "record_type": "strike",
       "status": "ended",
       "action_type": "fiili_wildcat",
+      "title": "Migros depo işçileri fiili grevi",
+      "summary": "Migros / US Grup depo işçileri, 23 Ocak 2026’da yüzde 28 zam teklifine karşı başlattıkları fiili grevi 10 ilde 14 depoya yaydı. Tek mücadele olarak izlenen eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla 14 Şubat 2026’da sonuçlandı; bu kayıt ayrı il kayıtları yerine tüm depo noktalarını tek vaka altında toplar.",
       "employer": "Migros / US Grup",
       "labor_organization": "DGD-SEN",
       "sector": "Depo / lojistik / perakende",
+      "linked_incident_count": 14,
       "start_date": "2026-01-23",
       "end_date": "2026-02-14",
       "demands": [
+        "Yüzde 28 zam teklifinin geri çekilmesi",
         "Net yüzde 50 zam",
         "Banka promosyonlarının eksiksiz ödenmesi",
         "Vergi kesintilerinin işveren tarafından karşılanması",
         "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
         "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
       ],
-      "last_verified_at": "2026-02-16",
-      "timeline": [
-        {
-          "date": "2026-01-23",
-          "status": "ongoing",
-          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
-        },
-        {
-          "date": "2026-01-28",
-          "status": "ongoing",
-          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
-        },
-        {
-          "date": "2026-02-14",
-          "status": "ended",
-          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
-        },
-        {
-          "date": "2026-02-16",
-          "status": "ended",
-          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
-        }
-      ],
-      "title": "(Migros 1/10) İstanbul Migros depo işçileri fiili grevi",
-      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin İstanbul ayağıdır. DW ve CNBC-e bu ayağı eylemin başlangıç depoları arasında saydı. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
+      "last_verified_at": "2026-03-04",
       "locations": [
         {
           "id": "migros-esenyurt-depo-istanbul",
@@ -1049,82 +1029,7 @@
           "lng": 28.6727,
           "geocode_precision": "venue_approx",
           "location_basis": "DW ve CNBC-e başlangıç noktası olarak İstanbul Esenyurt deposunu; zafer çağrıları Akçaburgaz depo önünü işaret eder. Koordinat depo bölgesi yaklaşık noktasıdır."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
-          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
-          "publisher": "DW Türkçe",
-          "type": "labor_news",
-          "published_at": "2026-02-16"
         },
-        {
-          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
-          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-03-04"
-        },
-        {
-          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
-          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
-          "publisher": "CNBC-e",
-          "type": "labor_news",
-          "published_at": "2026-01-26"
-        },
-        {
-          "title": "İşten atılan Migros depo işçilerinden sert tepki",
-          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
-          "publisher": "Borsanın Gündemi",
-          "type": "labor_news",
-          "published_at": "2026-01-30"
-        }
-      ]
-    },
-    {
-      "id": "migros-depo-eylemi-izmir-2026",
-      "record_type": "strike",
-      "status": "ended",
-      "action_type": "fiili_wildcat",
-      "employer": "Migros / US Grup",
-      "labor_organization": "DGD-SEN",
-      "sector": "Depo / lojistik / perakende",
-      "start_date": "2026-01-23",
-      "end_date": "2026-02-14",
-      "demands": [
-        "Net yüzde 50 zam",
-        "Banka promosyonlarının eksiksiz ödenmesi",
-        "Vergi kesintilerinin işveren tarafından karşılanması",
-        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
-        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
-      ],
-      "last_verified_at": "2026-02-16",
-      "timeline": [
-        {
-          "date": "2026-01-23",
-          "status": "ongoing",
-          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
-        },
-        {
-          "date": "2026-01-28",
-          "status": "ongoing",
-          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
-        },
-        {
-          "date": "2026-02-14",
-          "status": "ended",
-          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
-        },
-        {
-          "date": "2026-02-16",
-          "status": "ended",
-          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
-        }
-      ],
-      "title": "(Migros 2/10) İzmir Migros depo işçileri fiili grevi",
-      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin İzmir ayağıdır. İzmir ayağı kaynaklarda Torbalı, ayrıca Kemalpaşa/Torbalı depo başlıklarıyla geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
-      "locations": [
         {
           "id": "migros-torbali-depo-izmir",
           "label": "Migros Torbalı depo bölgesi",
@@ -1135,82 +1040,7 @@
           "lng": 27.3625,
           "geocode_precision": "district_centroid",
           "location_basis": "DW ve CNBC-e İzmir Torbalı deposunu başlangıç noktaları arasında sayar; Borsanın Gündemi İzmir Kemalpaşa/Torbalı depo başlıklarını da aktarır. Koordinat Torbalı ilçe merkezidir."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
-          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
-          "publisher": "DW Türkçe",
-          "type": "labor_news",
-          "published_at": "2026-02-16"
         },
-        {
-          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
-          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-03-04"
-        },
-        {
-          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
-          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
-          "publisher": "CNBC-e",
-          "type": "labor_news",
-          "published_at": "2026-01-26"
-        },
-        {
-          "title": "İşten atılan Migros depo işçilerinden sert tepki",
-          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
-          "publisher": "Borsanın Gündemi",
-          "type": "labor_news",
-          "published_at": "2026-01-30"
-        }
-      ]
-    },
-    {
-      "id": "migros-depo-eylemi-adana-2026",
-      "record_type": "strike",
-      "status": "ended",
-      "action_type": "fiili_wildcat",
-      "employer": "Migros / US Grup",
-      "labor_organization": "DGD-SEN",
-      "sector": "Depo / lojistik / perakende",
-      "start_date": "2026-01-23",
-      "end_date": "2026-02-14",
-      "demands": [
-        "Net yüzde 50 zam",
-        "Banka promosyonlarının eksiksiz ödenmesi",
-        "Vergi kesintilerinin işveren tarafından karşılanması",
-        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
-        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
-      ],
-      "last_verified_at": "2026-02-16",
-      "timeline": [
-        {
-          "date": "2026-01-23",
-          "status": "ongoing",
-          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
-        },
-        {
-          "date": "2026-01-28",
-          "status": "ongoing",
-          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
-        },
-        {
-          "date": "2026-02-14",
-          "status": "ended",
-          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
-        },
-        {
-          "date": "2026-02-16",
-          "status": "ended",
-          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
-        }
-      ],
-      "title": "(Migros 3/10) Adana Migros depo işçileri fiili grevi",
-      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Adana ayağıdır. Adana ayağı kaynaklarda başlangıç depoları arasında yer aldı. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
-      "locations": [
         {
           "id": "migros-saricam-osb-depo-adana",
           "label": "Migros Adana Sarıçam/OSB depo bölgesi",
@@ -1221,82 +1051,7 @@
           "lng": 35.4477,
           "geocode_precision": "venue_approx",
           "location_basis": "DW Adana’yı başlangıç illeri arasında sayar; CNBC-e ve Borsanın Gündemi Adana merkez/Sarıçam/OSB depo başlıklarını aktarır. Koordinat Sarıçam-OSB bölgesi yaklaşık noktasıdır."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
-          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
-          "publisher": "DW Türkçe",
-          "type": "labor_news",
-          "published_at": "2026-02-16"
         },
-        {
-          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
-          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-03-04"
-        },
-        {
-          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
-          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
-          "publisher": "CNBC-e",
-          "type": "labor_news",
-          "published_at": "2026-01-26"
-        },
-        {
-          "title": "İşten atılan Migros depo işçilerinden sert tepki",
-          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
-          "publisher": "Borsanın Gündemi",
-          "type": "labor_news",
-          "published_at": "2026-01-30"
-        }
-      ]
-    },
-    {
-      "id": "migros-depo-eylemi-kocaeli-2026",
-      "record_type": "strike",
-      "status": "ended",
-      "action_type": "fiili_wildcat",
-      "employer": "Migros / US Grup",
-      "labor_organization": "DGD-SEN",
-      "sector": "Depo / lojistik / perakende",
-      "start_date": "2026-01-23",
-      "end_date": "2026-02-14",
-      "demands": [
-        "Net yüzde 50 zam",
-        "Banka promosyonlarının eksiksiz ödenmesi",
-        "Vergi kesintilerinin işveren tarafından karşılanması",
-        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
-        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
-      ],
-      "last_verified_at": "2026-02-16",
-      "timeline": [
-        {
-          "date": "2026-01-23",
-          "status": "ongoing",
-          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
-        },
-        {
-          "date": "2026-01-28",
-          "status": "ongoing",
-          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
-        },
-        {
-          "date": "2026-02-14",
-          "status": "ended",
-          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
-        },
-        {
-          "date": "2026-02-16",
-          "status": "ended",
-          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
-        }
-      ],
-      "title": "(Migros 4/10) Kocaeli Migros depo işçileri fiili grevi",
-      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Kocaeli ayağıdır. Kocaeli ayağı Şekerpınar ve Çayırova depo adlarıyla geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
-      "locations": [
         {
           "id": "migros-sekerpinar-cayirova-depo-kocaeli",
           "label": "Migros Şekerpınar/Çayırova depo bölgesi",
@@ -1307,82 +1062,7 @@
           "lng": 29.3748,
           "geocode_precision": "venue_approx",
           "location_basis": "DW eylemin Kocaeli’ye yayıldığını; CNBC-e, Sendika.Org ve Borsanın Gündemi Şekerpınar/Çayırova depo başlıklarını aktarır. Koordinat Çayırova-Şekerpınar bölgesi yaklaşık noktasıdır."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
-          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
-          "publisher": "DW Türkçe",
-          "type": "labor_news",
-          "published_at": "2026-02-16"
         },
-        {
-          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
-          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-03-04"
-        },
-        {
-          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
-          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
-          "publisher": "CNBC-e",
-          "type": "labor_news",
-          "published_at": "2026-01-26"
-        },
-        {
-          "title": "İşten atılan Migros depo işçilerinden sert tepki",
-          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
-          "publisher": "Borsanın Gündemi",
-          "type": "labor_news",
-          "published_at": "2026-01-30"
-        }
-      ]
-    },
-    {
-      "id": "migros-depo-eylemi-bursa-2026",
-      "record_type": "strike",
-      "status": "ended",
-      "action_type": "fiili_wildcat",
-      "employer": "Migros / US Grup",
-      "labor_organization": "DGD-SEN",
-      "sector": "Depo / lojistik / perakende",
-      "start_date": "2026-01-23",
-      "end_date": "2026-02-14",
-      "demands": [
-        "Net yüzde 50 zam",
-        "Banka promosyonlarının eksiksiz ödenmesi",
-        "Vergi kesintilerinin işveren tarafından karşılanması",
-        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
-        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
-      ],
-      "last_verified_at": "2026-02-16",
-      "timeline": [
-        {
-          "date": "2026-01-23",
-          "status": "ongoing",
-          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
-        },
-        {
-          "date": "2026-01-28",
-          "status": "ongoing",
-          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
-        },
-        {
-          "date": "2026-02-14",
-          "status": "ended",
-          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
-        },
-        {
-          "date": "2026-02-16",
-          "status": "ended",
-          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
-        }
-      ],
-      "title": "(Migros 5/10) Bursa Migros depo işçileri fiili grevi",
-      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Bursa ayağıdır. Bursa ayağı kaynaklarda merkez ve Alaşar depo başlıklarıyla geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
-      "locations": [
         {
           "id": "migros-merkez-alasar-depo-bursa",
           "label": "Migros Bursa Merkez/Alaşar depo bölgesi",
@@ -1393,82 +1073,7 @@
           "lng": 29.0592,
           "geocode_precision": "venue_approx",
           "location_basis": "DW eylemin Bursa’ya yayıldığını; CNBC-e, Sendika.Org ve Borsanın Gündemi Bursa merkez/Alaşar depo başlıklarını aktarır. Koordinat Bursa merkez-Alaşar hattı yaklaşık noktasıdır."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
-          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
-          "publisher": "DW Türkçe",
-          "type": "labor_news",
-          "published_at": "2026-02-16"
         },
-        {
-          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
-          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-03-04"
-        },
-        {
-          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
-          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
-          "publisher": "CNBC-e",
-          "type": "labor_news",
-          "published_at": "2026-01-26"
-        },
-        {
-          "title": "İşten atılan Migros depo işçilerinden sert tepki",
-          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
-          "publisher": "Borsanın Gündemi",
-          "type": "labor_news",
-          "published_at": "2026-01-30"
-        }
-      ]
-    },
-    {
-      "id": "migros-depo-eylemi-mersin-2026",
-      "record_type": "strike",
-      "status": "ended",
-      "action_type": "fiili_wildcat",
-      "employer": "Migros / US Grup",
-      "labor_organization": "DGD-SEN",
-      "sector": "Depo / lojistik / perakende",
-      "start_date": "2026-01-23",
-      "end_date": "2026-02-14",
-      "demands": [
-        "Net yüzde 50 zam",
-        "Banka promosyonlarının eksiksiz ödenmesi",
-        "Vergi kesintilerinin işveren tarafından karşılanması",
-        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
-        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
-      ],
-      "last_verified_at": "2026-02-16",
-      "timeline": [
-        {
-          "date": "2026-01-23",
-          "status": "ongoing",
-          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
-        },
-        {
-          "date": "2026-01-28",
-          "status": "ongoing",
-          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
-        },
-        {
-          "date": "2026-02-14",
-          "status": "ended",
-          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
-        },
-        {
-          "date": "2026-02-16",
-          "status": "ended",
-          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
-        }
-      ],
-      "title": "(Migros 6/10) Mersin Migros depo işçileri fiili grevi",
-      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Mersin ayağıdır. Mersin ayağı kaynaklarda Tarsus depo başlığıyla geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
-      "locations": [
         {
           "id": "migros-tarsus-depo-mersin",
           "label": "Migros Tarsus depo bölgesi",
@@ -1479,82 +1084,7 @@
           "lng": 34.8951,
           "geocode_precision": "district_centroid",
           "location_basis": "DW ve Sendika.Org eylemin Mersin/Tarsus’a yayıldığını aktarır. Koordinat Tarsus ilçe merkezidir."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
-          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
-          "publisher": "DW Türkçe",
-          "type": "labor_news",
-          "published_at": "2026-02-16"
         },
-        {
-          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
-          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-03-04"
-        },
-        {
-          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
-          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
-          "publisher": "CNBC-e",
-          "type": "labor_news",
-          "published_at": "2026-01-26"
-        },
-        {
-          "title": "İşten atılan Migros depo işçilerinden sert tepki",
-          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
-          "publisher": "Borsanın Gündemi",
-          "type": "labor_news",
-          "published_at": "2026-01-30"
-        }
-      ]
-    },
-    {
-      "id": "migros-depo-eylemi-diyarbakir-2026",
-      "record_type": "strike",
-      "status": "ended",
-      "action_type": "fiili_wildcat",
-      "employer": "Migros / US Grup",
-      "labor_organization": "DGD-SEN",
-      "sector": "Depo / lojistik / perakende",
-      "start_date": "2026-01-23",
-      "end_date": "2026-02-14",
-      "demands": [
-        "Net yüzde 50 zam",
-        "Banka promosyonlarının eksiksiz ödenmesi",
-        "Vergi kesintilerinin işveren tarafından karşılanması",
-        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
-        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
-      ],
-      "last_verified_at": "2026-02-16",
-      "timeline": [
-        {
-          "date": "2026-01-23",
-          "status": "ongoing",
-          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
-        },
-        {
-          "date": "2026-01-28",
-          "status": "ongoing",
-          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
-        },
-        {
-          "date": "2026-02-14",
-          "status": "ended",
-          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
-        },
-        {
-          "date": "2026-02-16",
-          "status": "ended",
-          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
-        }
-      ],
-      "title": "(Migros 7/10) Diyarbakır Migros depo işçileri fiili grevi",
-      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Diyarbakır ayağıdır. Diyarbakır ayağı kaynaklarda eyleme katılan depo illeri arasında geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
-      "locations": [
         {
           "id": "migros-diyarbakir-depo",
           "label": "Migros Diyarbakır depo bölgesi",
@@ -1565,82 +1095,7 @@
           "lng": 40.2306,
           "geocode_precision": "province_centroid",
           "location_basis": "DW, CNBC-e, Sendika.Org ve Borsanın Gündemi Diyarbakır’ı eylem illeri arasında sayar. İlçe/depo adresi netleşmediği için koordinat il merkezidir."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
-          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
-          "publisher": "DW Türkçe",
-          "type": "labor_news",
-          "published_at": "2026-02-16"
         },
-        {
-          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
-          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-03-04"
-        },
-        {
-          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
-          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
-          "publisher": "CNBC-e",
-          "type": "labor_news",
-          "published_at": "2026-01-26"
-        },
-        {
-          "title": "İşten atılan Migros depo işçilerinden sert tepki",
-          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
-          "publisher": "Borsanın Gündemi",
-          "type": "labor_news",
-          "published_at": "2026-01-30"
-        }
-      ]
-    },
-    {
-      "id": "migros-depo-eylemi-erzurum-2026",
-      "record_type": "strike",
-      "status": "ended",
-      "action_type": "fiili_wildcat",
-      "employer": "Migros / US Grup",
-      "labor_organization": "DGD-SEN",
-      "sector": "Depo / lojistik / perakende",
-      "start_date": "2026-01-23",
-      "end_date": "2026-02-14",
-      "demands": [
-        "Net yüzde 50 zam",
-        "Banka promosyonlarının eksiksiz ödenmesi",
-        "Vergi kesintilerinin işveren tarafından karşılanması",
-        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
-        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
-      ],
-      "last_verified_at": "2026-02-16",
-      "timeline": [
-        {
-          "date": "2026-01-23",
-          "status": "ongoing",
-          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
-        },
-        {
-          "date": "2026-01-28",
-          "status": "ongoing",
-          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
-        },
-        {
-          "date": "2026-02-14",
-          "status": "ended",
-          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
-        },
-        {
-          "date": "2026-02-16",
-          "status": "ended",
-          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
-        }
-      ],
-      "title": "(Migros 8/10) Erzurum Migros depo işçileri fiili grevi",
-      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Erzurum ayağıdır. Erzurum ayağı kaynaklarda eyleme katılan depo illeri arasında geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
-      "locations": [
         {
           "id": "migros-erzurum-depo",
           "label": "Migros Erzurum depo bölgesi",
@@ -1651,82 +1106,7 @@
           "lng": 41.2679,
           "geocode_precision": "province_centroid",
           "location_basis": "DW, Sendika.Org ve Borsanın Gündemi Erzurum’u eylem illeri arasında sayar. İlçe/depo adresi netleşmediği için koordinat il merkezidir."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
-          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
-          "publisher": "DW Türkçe",
-          "type": "labor_news",
-          "published_at": "2026-02-16"
         },
-        {
-          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
-          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-03-04"
-        },
-        {
-          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
-          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
-          "publisher": "CNBC-e",
-          "type": "labor_news",
-          "published_at": "2026-01-26"
-        },
-        {
-          "title": "İşten atılan Migros depo işçilerinden sert tepki",
-          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
-          "publisher": "Borsanın Gündemi",
-          "type": "labor_news",
-          "published_at": "2026-01-30"
-        }
-      ]
-    },
-    {
-      "id": "migros-depo-eylemi-antalya-2026",
-      "record_type": "strike",
-      "status": "ended",
-      "action_type": "fiili_wildcat",
-      "employer": "Migros / US Grup",
-      "labor_organization": "DGD-SEN",
-      "sector": "Depo / lojistik / perakende",
-      "start_date": "2026-01-23",
-      "end_date": "2026-02-14",
-      "demands": [
-        "Net yüzde 50 zam",
-        "Banka promosyonlarının eksiksiz ödenmesi",
-        "Vergi kesintilerinin işveren tarafından karşılanması",
-        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
-        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
-      ],
-      "last_verified_at": "2026-02-16",
-      "timeline": [
-        {
-          "date": "2026-01-23",
-          "status": "ongoing",
-          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
-        },
-        {
-          "date": "2026-01-28",
-          "status": "ongoing",
-          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
-        },
-        {
-          "date": "2026-02-14",
-          "status": "ended",
-          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
-        },
-        {
-          "date": "2026-02-16",
-          "status": "ended",
-          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
-        }
-      ],
-      "title": "(Migros 9/10) Antalya Migros depo işçileri fiili grevi",
-      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Antalya ayağıdır. Antalya ayağı kaynaklarda Serik depo başlığıyla geçti. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
-      "locations": [
         {
           "id": "migros-serik-depo-antalya",
           "label": "Migros Serik depo bölgesi",
@@ -1737,82 +1117,7 @@
           "lng": 31.0989,
           "geocode_precision": "district_centroid",
           "location_basis": "DW eylemin Antalya’ya yayıldığını; Borsanın Gündemi Antalya Serik depo başlığını aktarır. Koordinat Serik ilçe merkezidir."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Migros depo işçileri: 23 günlük eylem kazanımla sonuçlandı",
-          "url": "https://www.dw.com/tr/migros-depo-i%C5%9F%C3%A7ileri-23-g%C3%BCnl%C3%BCk-eylem-kazan%C4%B1mla-sonu%C3%A7land%C4%B1/a-75987229",
-          "publisher": "DW Türkçe",
-          "type": "labor_news",
-          "published_at": "2026-02-16"
         },
-        {
-          "title": "10 il, 14 depo, tek mücadele: Migros Direnişini Neslihan Acar anlatıyor",
-          "url": "https://bianet.org/haber/10-il-14-depo-tek-mucadele-migros-direnisini-neslihan-acar-anlatiyor-317321",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-03-04"
-        },
-        {
-          "title": "Migros’a bağlı depolarda iş bırakma eylemi",
-          "url": "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
-          "publisher": "CNBC-e",
-          "type": "labor_news",
-          "published_at": "2026-01-26"
-        },
-        {
-          "title": "İşten atılan Migros depo işçilerinden sert tepki",
-          "url": "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
-          "publisher": "Borsanın Gündemi",
-          "type": "labor_news",
-          "published_at": "2026-01-30"
-        }
-      ]
-    },
-    {
-      "id": "migros-depo-eylemi-ankara-2026",
-      "record_type": "strike",
-      "status": "ended",
-      "action_type": "fiili_wildcat",
-      "employer": "Migros / US Grup",
-      "labor_organization": "DGD-SEN",
-      "sector": "Depo / lojistik / perakende",
-      "start_date": "2026-01-23",
-      "end_date": "2026-02-14",
-      "demands": [
-        "Net yüzde 50 zam",
-        "Banka promosyonlarının eksiksiz ödenmesi",
-        "Vergi kesintilerinin işveren tarafından karşılanması",
-        "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması",
-        "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi"
-      ],
-      "last_verified_at": "2026-02-16",
-      "timeline": [
-        {
-          "date": "2026-01-23",
-          "status": "ongoing",
-          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı iş bırakma eylemine başladı."
-        },
-        {
-          "date": "2026-01-28",
-          "status": "ongoing",
-          "note": "Sendika.Org, direnişin Ankara dahil yeni depo bölgelerine yayıldığını aktardı."
-        },
-        {
-          "date": "2026-02-14",
-          "status": "ended",
-          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
-        },
-        {
-          "date": "2026-02-16",
-          "status": "ended",
-          "note": "DW Türkçe, 23 günlük fiili grevin anlaşmayla sonuçlandığını ve 10 ilde 14 depoya yayıldığını haberleştirdi."
-        }
-      ],
-      "title": "(Migros 10/10) Ankara Migros depo işçileri fiili grevi",
-      "summary": "Migros depo işçilerinin 23 Ocak 2026'da yüzde 28 zam teklifine karşı başlattığı ve 10 il/14 depoya yayılan fiili grevin Ankara ayağıdır. Ankara ayağı, DW’de adı sayılmayan 10. il için Sendika.Org’un Sincan/Gölbaşı haberine dayanır. Eylem, taşeron sisteminin kaldırılması, kadroya geçiş, ücret ve yan hak iyileştirmeleri gibi kazanımlarla sonuçlandı.",
-      "locations": [
         {
           "id": "migros-golbasi-sincan-depo-ankara",
           "label": "Migros Gölbaşı/Sincan depo bölgesi",
@@ -1823,6 +1128,38 @@
           "lng": 32.7045,
           "geocode_precision": "venue_approx",
           "location_basis": "Sendika.Org, direnişin Ankara’daki Sincan ve Gölbaşı depolarına da sıçradığını aktarır. Tek il kaydı için koordinat iki depo bölgesinin yaklaşık orta noktasıdır."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-01-23",
+          "status": "ongoing",
+          "note": "Migros depo işçileri yüzde 28 zam teklifine karşı İstanbul, İzmir ve Adana başta olmak üzere iş bırakma eylemine başladı."
+        },
+        {
+          "date": "2026-01-26",
+          "status": "ongoing",
+          "note": "CNBC-e, eylemin 12 noktada iş bırakma ve 20’ye yakın noktada iş yavaşlatma biçiminde yayıldığını aktardı."
+        },
+        {
+          "date": "2026-01-28",
+          "status": "ongoing",
+          "note": "Sendika.Org, direnişin Ankara’ya da sıçradığını ve yönetimin tehditlerle eylemi bastırmaya çalıştığını bildirdi."
+        },
+        {
+          "date": "2026-01-30",
+          "status": "ongoing",
+          "note": "İşten atılan Migros depo işçileri eyleme yönelik baskılara karşı açıklama yaptı."
+        },
+        {
+          "date": "2026-02-14",
+          "status": "ended",
+          "note": "DGD-SEN, Migros depo işçilerinin taleplerinin kazanımla sonuçlandığını duyurdu."
+        },
+        {
+          "date": "2026-03-04",
+          "status": "ended",
+          "note": "Bianet, direnişi 10 il ve 14 depoya yayılan tek mücadele olarak değerlendirdi."
         }
       ],
       "sources": [
@@ -2006,21 +1343,22 @@
       ]
     },
     {
-      "id": "disk-kesk-tmmob-ttb-1-mayis-cagrisi-2026",
+      "id": "bir-mayis-2026-programlari-ve-cagrilari",
       "record_type": "action_call",
       "status": "action_call_happened",
       "action_type": "solidarity_action",
-      "title": "DİSK-KESK-TMMOB-TTB 1 Mayıs çağrısı",
-      "summary": "DİSK, KESK, TMMOB ve TTB ortak 1 Mayıs çağrısında işçileri, kamu emekçilerini, mühendisleri, hekimleri, emeklileri, gençleri ve kadınları 1 Mayıs meydanlarında birleşmeye çağırdı.",
-      "labor_organization": "DİSK / KESK / TMMOB / TTB",
-      "sector": "Çok sektörlü emek örgütleri",
+      "title": "1 Mayıs 2026 programları ve çağrıları",
+      "summary": "2026 1 Mayıs emek programları ve çağrıları tek vaka altında toplandı: DİSK-KESK-TMMOB-TTB ortak çağrısı, 1 Mayıs Taksim İnisiyatifi Mecidiyeköy çağrısı ve Bianet’in il il miting programındaki alanlar aynı kayıtta çoklu konum olarak gösterilir.",
+      "labor_organization": "DİSK, KESK, TMMOB, TTB, 1 Mayıs Taksim İnisiyatifi ve yerel emek-demokrasi platformları",
+      "sector": "Genel emek gündemi",
       "event_date": "2026-05-01",
       "demands": [
-        "Gelirde ve vergide adalet",
-        "Demokrasi ve barış",
-        "Emeğin hakkı"
+        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
+        "Emek, demokrasi, barış ve adalet talepleri",
+        "Taksim yasağına karşı toplanma ve yürüyüş çağrısı"
       ],
-      "last_verified_at": "2026-04-08",
+      "last_verified_at": "2026-04-30",
+      "linked_incident_count": 63,
       "locations": [
         {
           "id": "disk-1-mayis-istanbul-2026",
@@ -2031,47 +1369,7 @@
           "lat": 40.9916,
           "lng": 29.0245,
           "geocode_precision": "district_centroid"
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-08",
-          "status": "action_call_upcoming",
-          "note": "DİSK-KESK-TMMOB-TTB 1 Mayıs ortak çağrı metnini duyurdu."
         },
-        {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Çağrının hedeflediği 1 Mayıs günü gerçekleşti."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Emeğin hakkı için, adalet için, barış ve demokrasi için 1 Mayıs'a! #BirleşelimDeğiştirelim",
-          "url": "https://disk.org.tr/2026/04/emegin-hakki-icin-adalet-icin-baris-ve-demokrasi-icin-1-mayisa-birleselimdegistirelim/",
-          "publisher": "DİSK",
-          "type": "union",
-          "published_at": "2026-04-08"
-        }
-      ]
-    },
-    {
-      "id": "taksim-inisiyatifi-mecidiyekoy-cagrisi-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "protest",
-      "title": "1 Mayıs Taksim İnisiyatifi Mecidiyeköy çağrısı",
-      "summary": "1 Mayıs Taksim İnisiyatifi, eylem yasağına rağmen 1 Mayıs 2026'da Taksim'e yürümek üzere saat 11.00'de Mecidiyeköy'de buluşma çağrısı yaptı.",
-      "labor_organization": "1 Mayıs Taksim İnisiyatifi",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs'ta Taksim hakkı",
-        "Toplanma ve gösteri hakkı",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
         {
           "id": "taksim-inisiyatifi-mecidiyekoy-2026",
           "label": "Mecidiyeköy buluşma noktası",
@@ -2081,50 +1379,10 @@
           "lat": 41.0661,
           "lng": 28.9875,
           "geocode_precision": "district_centroid"
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "İnisiyatif, 1 Mayıs için Mecidiyeköy buluşma çağrısını yineledi."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Çağrının hedeflediği 1 Mayıs günü gerçekleşti."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs Taksim İnisiyatifi: 11.00'de Mecidiyeköy'de olacağız",
-          "url": "https://sendika.org/2026/04/1-mayis-taksim-inisiyatifi-yarin-11-00de-mecidiyekoyde-olacagiz-747092",
-          "publisher": "Sendika.Org",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-adana-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Adana 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Adana için miting yeri İstasyon Meydanı - 14.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-adana-2026-miting",
-          "label": "Miting: İstasyon Meydanı",
+          "label": "Adana: Miting: İstasyon Meydanı",
           "province_key": "ADANA",
           "province": "Adana",
           "district": "",
@@ -2132,50 +1390,10 @@
           "lng": 35.3269,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını İstasyon Meydanı - 14.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Adana 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-agri-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Ağrı 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Ağrı için miting yeri Cumhuriyet Meydanı - 10.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-agri-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Ağrı: Miting: Cumhuriyet Meydanı",
           "province_key": "AGRI",
           "province": "Ağrı",
           "district": "",
@@ -2183,50 +1401,10 @@
           "lng": 43.0503,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 10.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Ağrı 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-ankara-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Ankara 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Ankara için miting yeri Tandoğan Meydanı - 12.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-ankara-2026-miting",
-          "label": "Miting: Tandoğan Meydanı",
+          "label": "Ankara: Miting: Tandoğan Meydanı",
           "province_key": "ANKARA",
           "province": "Ankara",
           "district": "",
@@ -2234,50 +1412,10 @@
           "lng": 32.8256,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Tandoğan Meydanı - 12.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Ankara 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-antalya-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Antalya 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Antalya için miting yeri Cumhuriyet Meydanı - 14.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-antalya-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Antalya: Miting: Cumhuriyet Meydanı",
           "province_key": "ANTALYA",
           "province": "Antalya",
           "district": "",
@@ -2285,50 +1423,10 @@
           "lng": 30.7056,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 14.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Antalya 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-artvin-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Artvin 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Artvin için miting yeri Atapark - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-artvin-2026-miting",
-          "label": "Miting: Atapark",
+          "label": "Artvin: Miting: Atapark",
           "province_key": "ARTVIN",
           "province": "Artvin",
           "district": "",
@@ -2336,50 +1434,10 @@
           "lng": 41.8187,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Atapark - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Artvin 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-artvin-arhavi-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Artvin/Arhavi 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Artvin/Arhavi için miting yeri İnönü Bulvarı kavşağı olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-artvin-arhavi-2026-miting",
-          "label": "Miting: İnönü Bulvarı kavşağı",
+          "label": "Artvin/Arhavi: Miting: İnönü Bulvarı kavşağı",
           "province_key": "ARTVIN",
           "province": "Artvin",
           "district": "Arhavi",
@@ -2387,50 +1445,10 @@
           "lng": 41.3048,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını İnönü Bulvarı kavşağı olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Artvin/Arhavi 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-artvin-hopa-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Artvin/Hopa 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Artvin/Hopa için miting yeri Hopa Meydanı - 14.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-artvin-hopa-2026-miting",
-          "label": "Miting: Hopa Meydanı",
+          "label": "Artvin/Hopa: Miting: Hopa Meydanı",
           "province_key": "ARTVIN",
           "province": "Artvin",
           "district": "Hopa",
@@ -2438,50 +1456,10 @@
           "lng": 41.419,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Hopa Meydanı - 14.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Artvin/Hopa 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-artvin-kemalpasa-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Artvin/Kemalpaşa 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Artvin/Kemalpaşa için miting yeri Kemalpaşa Meydanı - 13.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-artvin-kemalpasa-2026-miting",
-          "label": "Miting: Kemalpaşa Meydanı",
+          "label": "Artvin/Kemalpaşa: Miting: Kemalpaşa Meydanı",
           "province_key": "ARTVIN",
           "province": "Artvin",
           "district": "Kemalpaşa",
@@ -2489,50 +1467,10 @@
           "lng": 41.5265,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Kemalpaşa Meydanı - 13.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Artvin/Kemalpaşa 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-aydin-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Aydın 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Aydın için miting yeri Adnan Menderes Bulvarı - 11.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-aydin-2026-miting",
-          "label": "Miting: Adnan Menderes Bulvarı",
+          "label": "Aydın: Miting: Adnan Menderes Bulvarı",
           "province_key": "AYDIN",
           "province": "Aydın",
           "district": "",
@@ -2540,50 +1478,10 @@
           "lng": 27.8456,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Adnan Menderes Bulvarı - 11.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Aydın 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-aydin-didim-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Aydın/Didim 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Aydın/Didim için miting yeri Didim Kent Meydanı - 11.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-aydin-didim-2026-miting",
-          "label": "Miting: Didim Kent Meydanı",
+          "label": "Aydın/Didim: Miting: Didim Kent Meydanı",
           "province_key": "AYDIN",
           "province": "Aydın",
           "district": "Didim",
@@ -2591,50 +1489,10 @@
           "lng": 27.2678,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Didim Kent Meydanı - 11.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Aydın/Didim 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-balikesir-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Balıkesir 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Balıkesir için miting yeri Kuvayi Milliye Meydanı - 11.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-balikesir-2026-miting",
-          "label": "Miting: Kuvayi Milliye Meydanı",
+          "label": "Balıkesir: Miting: Kuvayi Milliye Meydanı",
           "province_key": "BALIKESIR",
           "province": "Balıkesir",
           "district": "",
@@ -2642,50 +1500,10 @@
           "lng": 27.8826,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Kuvayi Milliye Meydanı - 11.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Balıkesir 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-balikesir-bandirma-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Balıkesir/Bandırma 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Balıkesir/Bandırma için miting yeri Cumhuriyet Meydanı - 11.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-balikesir-bandirma-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Balıkesir/Bandırma: Miting: Cumhuriyet Meydanı",
           "province_key": "BALIKESIR",
           "province": "Balıkesir",
           "district": "Bandırma",
@@ -2693,50 +1511,10 @@
           "lng": 27.9767,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 11.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Balıkesir/Bandırma 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-balikesir-burhaniye-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Balıkesir/Burhaniye 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Balıkesir/Burhaniye için miting yeri Cumhuriyet Meydanı - 15.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-balikesir-burhaniye-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Balıkesir/Burhaniye: Miting: Cumhuriyet Meydanı",
           "province_key": "BALIKESIR",
           "province": "Balıkesir",
           "district": "Burhaniye",
@@ -2744,50 +1522,10 @@
           "lng": 26.9776,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 15.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Balıkesir/Burhaniye 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-balikesir-gomec-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Balıkesir/Gömeç 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Balıkesir/Gömeç için miting yeri Cumhuriyet Meydanı - 11.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-balikesir-gomec-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Balıkesir/Gömeç: Miting: Cumhuriyet Meydanı",
           "province_key": "BALIKESIR",
           "province": "Balıkesir",
           "district": "Gömeç",
@@ -2795,50 +1533,10 @@
           "lng": 26.8412,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 11.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Balıkesir/Gömeç 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-balikesir-balya-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Balıkesir/Balya 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Balıkesir/Balya için miting yeri Belediye Binası Önü - 11.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-balikesir-balya-2026-miting",
-          "label": "Miting: Belediye Binası Önü",
+          "label": "Balıkesir/Balya: Miting: Belediye Binası Önü",
           "province_key": "BALIKESIR",
           "province": "Balıkesir",
           "district": "Balya",
@@ -2846,50 +1544,10 @@
           "lng": 27.5794,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Belediye Binası Önü - 11.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Balıkesir/Balya 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-balikesir-erdek-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Balıkesir/Erdek 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Balıkesir/Erdek için miting yeri Cumhuriyet Meydanı - 11.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-balikesir-erdek-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Balıkesir/Erdek: Miting: Cumhuriyet Meydanı",
           "province_key": "BALIKESIR",
           "province": "Balıkesir",
           "district": "Erdek",
@@ -2897,50 +1555,10 @@
           "lng": 27.7939,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 11.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Balıkesir/Erdek 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-batman-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Batman 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Batman için miting yeri Yılmaz Güney Sergi Alanı - 14.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-batman-2026-miting",
-          "label": "Miting: Yılmaz Güney Sergi Alanı",
+          "label": "Batman: Miting: Yılmaz Güney Sergi Alanı",
           "province_key": "BATMAN",
           "province": "Batman",
           "district": "",
@@ -2948,50 +1566,10 @@
           "lng": 41.1322,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Yılmaz Güney Sergi Alanı - 14.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Batman 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-bitlis-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Bitlis 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Bitlis için miting yeri Fuar Alanı - 14.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-bitlis-2026-miting",
-          "label": "Miting: Fuar Alanı",
+          "label": "Bitlis: Miting: Fuar Alanı",
           "province_key": "BITLIS",
           "province": "Bitlis",
           "district": "",
@@ -2999,50 +1577,10 @@
           "lng": 42.1088,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Fuar Alanı - 14.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Bitlis 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-bursa-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Bursa 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Bursa için miting yeri Atatürk Stadyumu - 15.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-bursa-2026-miting",
-          "label": "Miting: Atatürk Stadyumu",
+          "label": "Bursa/Osmangazi: Miting: Atatürk Stadyumu",
           "province_key": "BURSA",
           "province": "Bursa",
           "district": "Osmangazi",
@@ -3050,50 +1588,10 @@
           "lng": 29.0473,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Atatürk Stadyumu - 15.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Bursa 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-bursa-mudanya-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Bursa/Mudanya 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Bursa/Mudanya için miting yeri Mütareke Meydanı - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-bursa-mudanya-2026-miting",
-          "label": "Miting: Mütareke Meydanı",
+          "label": "Bursa/Mudanya: Miting: Mütareke Meydanı",
           "province_key": "BURSA",
           "province": "Bursa",
           "district": "Mudanya",
@@ -3101,50 +1599,10 @@
           "lng": 28.882,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Mütareke Meydanı - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Bursa/Mudanya 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-canakkale-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Çanakkale 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Çanakkale için miting yeri Cumhuriyet Meydanı - 12.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-canakkale-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Çanakkale: Miting: Cumhuriyet Meydanı",
           "province_key": "CANAKKALE",
           "province": "Çanakkale",
           "district": "",
@@ -3152,50 +1610,10 @@
           "lng": 26.4056,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 12.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Çanakkale 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-dersim-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Dersim 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Dersim için miting yeri Seyit Rıza Meydanı - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-dersim-2026-miting",
-          "label": "Miting: Seyit Rıza Meydanı",
+          "label": "Tunceli: Miting: Seyit Rıza Meydanı",
           "province_key": "TUNCELI",
           "province": "Tunceli",
           "district": "",
@@ -3203,50 +1621,10 @@
           "lng": 39.5483,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Seyit Rıza Meydanı - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Dersim 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-denizli-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Denizli 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Denizli için miting yeri Ulus Meydanı - 14.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-denizli-2026-miting",
-          "label": "Miting: Ulus Meydanı",
+          "label": "Denizli: Miting: Ulus Meydanı",
           "province_key": "DENIZLI",
           "province": "Denizli",
           "district": "",
@@ -3254,50 +1632,10 @@
           "lng": 29.0875,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Ulus Meydanı - 14.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Denizli 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-diyarbakir-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Diyarbakır 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Diyarbakır için miting yeri İstasyon Meydanı - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-diyarbakir-2026-miting",
-          "label": "Miting: İstasyon Meydanı",
+          "label": "Diyarbakır: Miting: İstasyon Meydanı",
           "province_key": "DIYARBAKIR",
           "province": "Diyarbakır",
           "district": "",
@@ -3305,50 +1643,10 @@
           "lng": 40.2292,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını İstasyon Meydanı - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Diyarbakır 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-eskisehir-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Eskişehir 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Eskişehir için miting yeri Cumhuriyet Meydanı - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-eskisehir-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Eskişehir: Miting: Cumhuriyet Meydanı",
           "province_key": "ESKISEHIR",
           "province": "Eskişehir",
           "district": "",
@@ -3356,50 +1654,10 @@
           "lng": 30.5206,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Eskişehir 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-erzincan-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Erzincan 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Erzincan için miting yeri Dörtyol Meydanı - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-erzincan-2026-miting",
-          "label": "Miting: Dörtyol Meydanı",
+          "label": "Erzincan: Miting: Dörtyol Meydanı",
           "province_key": "ERZINCAN",
           "province": "Erzincan",
           "district": "",
@@ -3407,50 +1665,10 @@
           "lng": 39.491,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Dörtyol Meydanı - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Erzincan 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-gaziantep-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Gaziantep 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Gaziantep için miting yeri İstasyon Meydanı - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-gaziantep-2026-miting",
-          "label": "Miting: İstasyon Meydanı",
+          "label": "Gaziantep: Miting: İstasyon Meydanı",
           "province_key": "GAZIANTEP",
           "province": "Gaziantep",
           "district": "",
@@ -3458,50 +1676,10 @@
           "lng": 37.3781,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını İstasyon Meydanı - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Gaziantep 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-giresun-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Giresun 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Giresun için miting yeri Osmanağa Meydanı - 14.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-giresun-2026-miting",
-          "label": "Miting: Osmanağa Meydanı",
+          "label": "Giresun: Miting: Osmanağa Meydanı",
           "province_key": "GIRESUN",
           "province": "Giresun",
           "district": "",
@@ -3509,50 +1687,10 @@
           "lng": 38.3874,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Osmanağa Meydanı - 14.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Giresun 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-hatay-antakya-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Hatay/Antakya 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Hatay/Antakya için miting yeri Sevsen Nevzat Şahin Ortaokulu - 13.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-hatay-antakya-2026-miting",
-          "label": "Miting: Sevsen Nevzat Şahin Ortaokulu",
+          "label": "Hatay/Antakya: Miting: Sevsen Nevzat Şahin Ortaokulu",
           "province_key": "HATAY",
           "province": "Hatay",
           "district": "Antakya",
@@ -3560,50 +1698,10 @@
           "lng": 36.1607,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Sevsen Nevzat Şahin Ortaokulu - 13.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Hatay/Antakya 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-hatay-iskenderun-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Hatay/İskenderun 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Hatay/İskenderun için miting yeri Sahil Anıt Alanı - 16.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-hatay-iskenderun-2026-miting",
-          "label": "Miting: Sahil Anıt Alanı",
+          "label": "Hatay/İskenderun: Miting: Sahil Anıt Alanı",
           "province_key": "HATAY",
           "province": "Hatay",
           "district": "İskenderun",
@@ -3611,50 +1709,10 @@
           "lng": 36.174,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Sahil Anıt Alanı - 16.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Hatay/İskenderun 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-igdir-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Iğdır 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Iğdır için miting yeri Belediye Meydanı - 14.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-igdir-2026-miting",
-          "label": "Miting: Belediye Meydanı",
+          "label": "Iğdır: Miting: Belediye Meydanı",
           "province_key": "IGDIR",
           "province": "Iğdır",
           "district": "",
@@ -3662,50 +1720,10 @@
           "lng": 44.045,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Belediye Meydanı - 14.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Iğdır 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-istanbul-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "İstanbul 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre İstanbul için miting yeri Kadıköy Meydanı - 13.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-istanbul-2026-miting",
-          "label": "Miting: Kadıköy Meydanı",
+          "label": "İstanbul/Kadıköy: Miting: Kadıköy Meydanı",
           "province_key": "ISTANBUL",
           "province": "İstanbul",
           "district": "Kadıköy",
@@ -3713,50 +1731,10 @@
           "lng": 29.0245,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Kadıköy Meydanı - 13.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "İstanbul 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-izmir-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "İzmir 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre İzmir için miting yeri Gündoğdu Meydanı - 13.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-izmir-2026-miting",
-          "label": "Miting: Gündoğdu Meydanı",
+          "label": "İzmir/Konak: Miting: Gündoğdu Meydanı",
           "province_key": "IZMIR",
           "province": "İzmir",
           "district": "Konak",
@@ -3764,50 +1742,10 @@
           "lng": 27.1384,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Gündoğdu Meydanı - 13.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "İzmir 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-izmir-bergama-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "İzmir/Bergama 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre İzmir/Bergama için miting yeri Cumhuriyet Meydanı - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-izmir-bergama-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "İzmir/Bergama: Miting: Cumhuriyet Meydanı",
           "province_key": "IZMIR",
           "province": "İzmir",
           "district": "Bergama",
@@ -3815,50 +1753,10 @@
           "lng": 27.1785,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "İzmir/Bergama 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-kars-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Kars 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Kars için miting yeri Eski Gar Müdürlüğü - 10.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-kars-2026-miting",
-          "label": "Miting: Eski Gar Müdürlüğü",
+          "label": "Kars: Miting: Eski Gar Müdürlüğü",
           "province_key": "KARS",
           "province": "Kars",
           "district": "",
@@ -3866,50 +1764,10 @@
           "lng": 43.0961,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Eski Gar Müdürlüğü - 10.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Kars 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-kayseri-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Kayseri 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Kayseri için miting yeri Mimar Sinan Parkı - 14.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-kayseri-2026-miting",
-          "label": "Miting: Mimar Sinan Parkı",
+          "label": "Kayseri: Miting: Mimar Sinan Parkı",
           "province_key": "KAYSERI",
           "province": "Kayseri",
           "district": "",
@@ -3917,50 +1775,10 @@
           "lng": 35.4877,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Mimar Sinan Parkı - 14.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Kayseri 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-kirklareli-luleburgaz-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Kırklareli/Lüleburgaz 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Kırklareli/Lüleburgaz için miting yeri Kongre Meydanı - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-kirklareli-luleburgaz-2026-miting",
-          "label": "Miting: Kongre Meydanı",
+          "label": "Kırklareli/Lüleburgaz: Miting: Kongre Meydanı",
           "province_key": "KIRKLARELI",
           "province": "Kırklareli",
           "district": "Lüleburgaz",
@@ -3968,50 +1786,10 @@
           "lng": 27.3552,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Kongre Meydanı - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Kırklareli/Lüleburgaz 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-kirsehir-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Kırşehir 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Kırşehir için miting yeri Cacabey Parkı - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-kirsehir-2026-miting",
-          "label": "Miting: Cacabey Parkı",
+          "label": "Kırşehir: Miting: Cacabey Parkı",
           "province_key": "KIRSEHIR",
           "province": "Kırşehir",
           "district": "",
@@ -4019,50 +1797,10 @@
           "lng": 34.1594,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cacabey Parkı - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Kırşehir 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-kilis-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Kilis 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Kilis için miting yeri Cumhuriyet Meydanı - 10.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-kilis-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Kilis: Miting: Cumhuriyet Meydanı",
           "province_key": "KILIS",
           "province": "Kilis",
           "district": "",
@@ -4070,50 +1808,10 @@
           "lng": 37.115,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 10.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Kilis 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-kocaeli-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Kocaeli 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Kocaeli için miting yeri Real Meydanı - 14.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-kocaeli-2026-miting",
-          "label": "Miting: Real Meydanı",
+          "label": "Kocaeli/İzmit: Miting: Real Meydanı",
           "province_key": "KOCAELI",
           "province": "Kocaeli",
           "district": "İzmit",
@@ -4121,50 +1819,10 @@
           "lng": 29.9408,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Real Meydanı - 14.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Kocaeli 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-kocaeli-gebze-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Kocaeli/Gebze 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Kocaeli/Gebze için miting yeri Kent Meydanı - 11.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-kocaeli-gebze-2026-miting",
-          "label": "Miting: Kent Meydanı",
+          "label": "Kocaeli/Gebze: Miting: Kent Meydanı",
           "province_key": "KOCAELI",
           "province": "Kocaeli",
           "district": "Gebze",
@@ -4172,50 +1830,10 @@
           "lng": 29.4307,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Kent Meydanı - 11.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Kocaeli/Gebze 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-konya-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Konya 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Konya için miting yeri Kılıçaslan Meydanı - 15.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-konya-2026-miting",
-          "label": "Miting: Kılıçaslan Meydanı",
+          "label": "Konya: Miting: Kılıçaslan Meydanı",
           "province_key": "KONYA",
           "province": "Konya",
           "district": "",
@@ -4223,50 +1841,10 @@
           "lng": 32.4922,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Kılıçaslan Meydanı - 15.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Konya 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-konya-eregli-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Konya/Ereğli 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Konya/Ereğli için miting yeri Atatürk Anıtı - 11.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-konya-eregli-2026-miting",
-          "label": "Miting: Atatürk Anıtı",
+          "label": "Konya/Ereğli: Miting: Atatürk Anıtı",
           "province_key": "KONYA",
           "province": "Konya",
           "district": "Ereğli",
@@ -4274,50 +1852,10 @@
           "lng": 34.0467,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Atatürk Anıtı - 11.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Konya/Ereğli 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-manisa-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Manisa 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Manisa için miting yeri Cumhuriyet Meydanı - 14.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-manisa-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Manisa: Miting: Cumhuriyet Meydanı",
           "province_key": "MANISA",
           "province": "Manisa",
           "district": "",
@@ -4325,50 +1863,10 @@
           "lng": 27.4277,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 14.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Manisa 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-mardin-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Mardin 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Mardin için miting yeri Karayolları Parkı - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-mardin-2026-miting",
-          "label": "Miting: Karayolları Parkı",
+          "label": "Mardin/Artuklu: Miting: Karayolları Parkı",
           "province_key": "MARDIN",
           "province": "Mardin",
           "district": "Artuklu",
@@ -4376,50 +1874,10 @@
           "lng": 40.7281,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Karayolları Parkı - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Mardin 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-mersin-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Mersin 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Mersin için miting yeri Cumhuriyet Meydanı - 14.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-mersin-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Mersin: Miting: Cumhuriyet Meydanı",
           "province_key": "MERSIN",
           "province": "Mersin",
           "district": "",
@@ -4427,50 +1885,10 @@
           "lng": 34.632,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 14.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Mersin 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-mugla-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Muğla 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Muğla için miting yeri Atatürk Bulvarı - 12.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-mugla-2026-miting",
-          "label": "Miting: Atatürk Bulvarı",
+          "label": "Muğla: Miting: Atatürk Bulvarı",
           "province_key": "MUGLA",
           "province": "Muğla",
           "district": "",
@@ -4478,50 +1896,10 @@
           "lng": 28.3636,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Atatürk Bulvarı - 12.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Muğla 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-mugla-bodrum-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Muğla/Bodrum 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Muğla/Bodrum için miting yeri Barış Meydanı - 13.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-mugla-bodrum-2026-miting",
-          "label": "Miting: Barış Meydanı",
+          "label": "Muğla/Bodrum: Miting: Barış Meydanı",
           "province_key": "MUGLA",
           "province": "Muğla",
           "district": "Bodrum",
@@ -4529,50 +1907,10 @@
           "lng": 27.4305,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Barış Meydanı - 13.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Muğla/Bodrum 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-mus-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Muş 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Muş için miting yeri Gar Alanı Kutlama Alanı - 14.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-mus-2026-miting",
-          "label": "Miting: Gar Alanı Kutlama Alanı",
+          "label": "Muş: Miting: Gar Alanı Kutlama Alanı",
           "province_key": "MUS",
           "province": "Muş",
           "district": "",
@@ -4580,50 +1918,10 @@
           "lng": 41.4928,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Gar Alanı Kutlama Alanı - 14.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Muş 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-ordu-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Ordu 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Ordu için miting yeri Tayfur Gürsoy Meydanı olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-ordu-2026-miting",
-          "label": "Miting: Tayfur Gürsoy Meydanı",
+          "label": "Ordu: Miting: Tayfur Gürsoy Meydanı",
           "province_key": "ORDU",
           "province": "Ordu",
           "district": "",
@@ -4631,50 +1929,10 @@
           "lng": 37.8787,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Tayfur Gürsoy Meydanı olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Ordu 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-rize-findikli-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Rize/Fındıklı 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Rize/Fındıklı için miting yeri Fındıklı - 11.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-rize-findikli-2026-miting",
-          "label": "Miting: Fındıklı",
+          "label": "Rize/Fındıklı: Miting: Fındıklı",
           "province_key": "RIZE",
           "province": "Rize",
           "district": "Fındıklı",
@@ -4682,50 +1940,10 @@
           "lng": 41.1445,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Fındıklı - 11.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Rize/Fındıklı 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-rize-pazar-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Rize/Pazar 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Rize/Pazar için miting yeri Pazar Demokrasi Meydanı olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-rize-pazar-2026-miting",
-          "label": "Miting: Pazar Demokrasi Meydanı",
+          "label": "Rize/Pazar: Miting: Pazar Demokrasi Meydanı",
           "province_key": "RIZE",
           "province": "Rize",
           "district": "Pazar",
@@ -4733,50 +1951,10 @@
           "lng": 40.8854,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Pazar Demokrasi Meydanı olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Rize/Pazar 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-samsun-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Samsun 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Samsun için miting yeri Cumhuriyet Meydanı - 13.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-samsun-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Samsun: Miting: Cumhuriyet Meydanı",
           "province_key": "SAMSUN",
           "province": "Samsun",
           "district": "",
@@ -4784,50 +1962,10 @@
           "lng": 36.3313,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 13.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Samsun 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-siirt-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Siirt 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Siirt için miting yeri Siirt Demokrasi Meydanı - 14.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-siirt-2026-miting",
-          "label": "Miting: Siirt Demokrasi Meydanı",
+          "label": "Siirt: Miting: Siirt Demokrasi Meydanı",
           "province_key": "SIIRT",
           "province": "Siirt",
           "district": "",
@@ -4835,50 +1973,10 @@
           "lng": 41.942,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Siirt Demokrasi Meydanı - 14.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Siirt 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-sinop-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Sinop 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Sinop için miting yeri Uğur Mumcu Meydanı - 11.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-sinop-2026-miting",
-          "label": "Miting: Uğur Mumcu Meydanı",
+          "label": "Sinop: Miting: Uğur Mumcu Meydanı",
           "province_key": "SINOP",
           "province": "Sinop",
           "district": "",
@@ -4886,50 +1984,10 @@
           "lng": 35.1511,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Uğur Mumcu Meydanı - 11.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Sinop 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-sivas-divrigi-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Sivas/Divriği 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Sivas/Divriği için miting yeri Cumhuriyet Meydanı - 11.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-sivas-divrigi-2026-miting",
-          "label": "Miting: Cumhuriyet Meydanı",
+          "label": "Sivas/Divriği: Miting: Cumhuriyet Meydanı",
           "province_key": "SIVAS",
           "province": "Sivas",
           "district": "Divriği",
@@ -4937,50 +1995,10 @@
           "lng": 38.1137,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Cumhuriyet Meydanı - 11.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Sivas/Divriği 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-sirnak-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Şırnak 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Şırnak için miting yeri Belediye Caddesi Kutlama Alanı - 11.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-sirnak-2026-miting",
-          "label": "Miting: Belediye Caddesi Kutlama Alanı",
+          "label": "Şırnak/Cizre: Miting: Belediye Caddesi Kutlama Alanı",
           "province_key": "SIRNAK",
           "province": "Şırnak",
           "district": "Cizre",
@@ -4988,50 +2006,10 @@
           "lng": 42.185,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Belediye Caddesi Kutlama Alanı - 11.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Şırnak 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-trabzon-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Trabzon 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Trabzon için miting yeri Meydan Parkı olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-trabzon-2026-miting",
-          "label": "Miting: Meydan Parkı",
+          "label": "Trabzon: Miting: Meydan Parkı",
           "province_key": "TRABZON",
           "province": "Trabzon",
           "district": "",
@@ -5039,50 +2017,10 @@
           "lng": 39.7283,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Meydan Parkı olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Trabzon 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-urfa-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Urfa 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Urfa için miting yeri Topçu Meydanı Kutlama Alanı - 14.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-urfa-2026-miting",
-          "label": "Miting: Topçu Meydanı Kutlama Alanı",
+          "label": "Şanlıurfa: Miting: Topçu Meydanı Kutlama Alanı",
           "province_key": "SANLIURFA",
           "province": "Şanlıurfa",
           "district": "",
@@ -5090,50 +2028,10 @@
           "lng": 38.7921,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Topçu Meydanı Kutlama Alanı - 14.00 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Urfa 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-van-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Van 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Van için miting yeri Kent Meydanı - 13.30 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-van-2026-miting",
-          "label": "Miting: Kent Meydanı",
+          "label": "Van: Miting: Kent Meydanı",
           "province_key": "VAN",
           "province": "Van",
           "district": "",
@@ -5141,50 +2039,10 @@
           "lng": 43.376,
           "geocode_precision": "venue_approx",
           "location_basis": "Bianet il il eylem programındaki Miting alanı; koordinat named venue approximation."
-        }
-      ],
-      "timeline": [
-        {
-          "date": "2026-04-30",
-          "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Kent Meydanı - 13.30 olarak duyurdu."
         },
         {
-          "date": "2026-05-01",
-          "status": "action_call_happened",
-          "note": "Van 1 Mayıs programının miting günü."
-        }
-      ],
-      "sources": [
-        {
-          "title": "1 Mayıs'a doğru: İl il eylem programı",
-          "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
-          "publisher": "Bianet",
-          "type": "labor_news",
-          "published_at": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "bianet-1-mayis-programi-zonguldak-2026",
-      "record_type": "action_call",
-      "status": "action_call_happened",
-      "action_type": "solidarity_action",
-      "title": "Zonguldak 1 Mayıs mitingi",
-      "summary": "Bianet'in il il 1 Mayıs programına göre Zonguldak için miting yeri Madenci Anıtı - 13.00 olarak duyuruldu. Kayıt, toplanma noktasına değil miting alanına yerleştirildi.",
-      "labor_organization": "DİSK ve yerel emek/meslek örgütleri",
-      "sector": "Çok sektörlü emek örgütleri",
-      "event_date": "2026-05-01",
-      "demands": [
-        "1 Mayıs Birlik, Mücadele ve Dayanışma Günü",
-        "Emek ve demokrasi talepleri",
-        "İşçi sınıfı dayanışması"
-      ],
-      "last_verified_at": "2026-04-30",
-      "locations": [
-        {
           "id": "bianet-1-mayis-programi-zonguldak-2026-miting",
-          "label": "Miting: Madenci Anıtı",
+          "label": "Zonguldak: Miting: Madenci Anıtı",
           "province_key": "ZONGULDAK",
           "province": "Zonguldak",
           "district": "",
@@ -5196,17 +2054,36 @@
       ],
       "timeline": [
         {
+          "date": "2026-04-08",
+          "status": "action_call_upcoming",
+          "note": "DİSK-KESK-TMMOB-TTB 1 Mayıs ortak çağrı metnini duyurdu."
+        },
+        {
           "date": "2026-04-30",
           "status": "action_call_upcoming",
-          "note": "Bianet il il programda miting alanını Madenci Anıtı - 13.00 olarak duyurdu."
+          "note": "Bianet il il 1 Mayıs programını yayımladı; Taksim İnisiyatifi de Mecidiyeköy buluşma çağrısını yineledi."
         },
         {
           "date": "2026-05-01",
           "status": "action_call_happened",
-          "note": "Zonguldak 1 Mayıs programının miting günü."
+          "note": "Program ve çağrıların hedeflediği 1 Mayıs günü gerçekleşti."
         }
       ],
       "sources": [
+        {
+          "title": "Emeğin hakkı için, adalet için, barış ve demokrasi için 1 Mayıs'a! #BirleşelimDeğiştirelim",
+          "url": "https://disk.org.tr/2026/04/emegin-hakki-icin-adalet-icin-baris-ve-demokrasi-icin-1-mayisa-birleselimdegistirelim/",
+          "publisher": "DİSK",
+          "type": "union",
+          "published_at": "2026-04-08"
+        },
+        {
+          "title": "1 Mayıs Taksim İnisiyatifi: 11.00'de Mecidiyeköy'de olacağız",
+          "url": "https://sendika.org/2026/04/1-mayis-taksim-inisiyatifi-yarin-11-00de-mecidiyekoyde-olacagiz-747092",
+          "publisher": "Sendika.Org",
+          "type": "labor_news",
+          "published_at": "2026-04-30"
+        },
         {
           "title": "1 Mayıs'a doğru: İl il eylem programı",
           "url": "https://bianet.org/haber/1-mayis-a-dogru-il-il-eylem-programi-319196",
