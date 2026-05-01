@@ -369,34 +369,30 @@ input:focus, select:focus, textarea:focus {
 }
 
 .case-marker {
-  width: 30px;
-  height: 30px;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
   border-radius: 999px;
   border: 2px solid #fff;
-  display: grid;
-  place-items: center;
-  color: #fff;
-  font-weight: 800;
-  font-size: 12px;
-  box-shadow: 0 7px 18px rgba(0, 0, 0, 0.28);
+  display: block;
+  box-shadow: 0 4px 11px rgba(0, 0, 0, 0.3);
 }
 
 .case-marker.worker_death_recent,
 .case-marker.worker_death_older { background: var(--death); }
 .case-marker.strike_ongoing { background: var(--strike); }
 .case-marker.strike_ended { background: var(--ended); }
-.case-marker.mesem_school { background: var(--mesem); color: #251f02; }
+.case-marker.mesem_school { background: var(--mesem); }
 .case-marker.union_arrest_current { background: var(--arrest); }
 .case-marker.strike_decision {
   background: var(--decision);
-  color: var(--ink);
   border-color: #575047;
 }
 .case-marker.strike_postponed,
 .case-marker.union_arrest_released { background: #7c6f64; }
 .case-marker.selected {
-  outline: 3px solid rgba(31, 111, 120, 0.4);
-  transform: scale(1.08);
+  outline: 2px solid rgba(31, 111, 120, 0.45);
+  transform: scale(1.15);
 }
 
 .empty-state {

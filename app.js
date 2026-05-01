@@ -765,22 +765,64 @@ function renderMarkers() {
   state.markers.forEach((marker) => marker.remove());
   state.markers.clear();
 
+  const markerItems = [];
   state.filtered.forEach((record) => {
     record.locations.forEach((location) => {
-      const selected = record.id === state.selectedRecordId ? "selected" : "";
-      const marker = L.marker([location.lat, location.lng], {
-        icon: L.divIcon({
-          className: "case-marker-wrap",
-          html: `<div class="case-marker ${record.layer} ${selected}">${escapeHtml(markerLetter(record, location))}</div>`,
-          iconSize: [30, 30],
-          iconAnchor: [15, 15],
-        }),
-        title: record.title,
-      }).addTo(state.map);
-      marker.on("click", () => selectRecord(record.id, location));
-      state.markers.set(`${record.id}:${location.id}`, marker);
+      markerItems.push({ record, location });
     });
   });
+
+  const overlapGroups = markerItems.reduce((groups, item) => {
+    const key = locationKey(item.location);
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(item);
+    return groups;
+  }, new Map());
+
+  overlapGroups.forEach((items) => {
+    items
+      .sort((a, b) => `${a.record.id}:${a.location.id}`.localeCompare(`${b.record.id}:${b.location.id}`))
+      .forEach(({ record, location }, index) => {
+        const selected = record.id === state.selectedRecordId ? "selected" : "";
+        const offset = markerOffset(index, items.length);
+        const marker = L.marker([location.lat, location.lng], {
+          icon: L.divIcon({
+            className: "case-marker-wrap",
+            html: `<span class="case-marker ${record.layer} ${selected}" aria-hidden="true"></span>`,
+            iconSize: [18, 18],
+            iconAnchor: [9 - offset.x, 9 - offset.y],
+          }),
+          title: record.title,
+        }).addTo(state.map);
+        marker.on("click", () => selectRecord(record.id, location));
+        state.markers.set(`${record.id}:${location.id}`, marker);
+      });
+  });
+}
+
+function locationKey(location) {
+  return `${Number(location.lat).toFixed(6)},${Number(location.lng).toFixed(6)}`;
+}
+
+function markerOffset(index, total) {
+  if (total <= 1) return { x: 0, y: 0 };
+
+  let ringStart = 0;
+  let ring = 0;
+  let slots = Math.min(total, 8);
+  while (index >= ringStart + slots) {
+    ringStart += slots;
+    ring += 1;
+    slots = Math.min(total - ringStart, 8 * (ring + 1));
+  }
+
+  const slot = index - ringStart;
+  const angle = ((Math.PI * 2) / slots) * slot - Math.PI / 2;
+  const radius = 14 + (ring * 10);
+  return {
+    x: Math.cos(angle) * radius,
+    y: Math.sin(angle) * radius,
+  };
 }
 
 function markerLetter(record, location) {
