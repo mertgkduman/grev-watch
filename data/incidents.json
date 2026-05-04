@@ -9669,6 +9669,83 @@
       ]
     },
     {
+      "id": "saban-onder-ilkadim-tanker-silahli-supheli-olum-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Şaban Önder Samsun’da park halindeki tankerinde silahla vurulmuş halde ölü bulundu",
+      "summary": "Samsun’un İlkadım ilçesi Kıran Mahallesi Barış Bulvarı’nda park halindeki 55 ANT 107 plakalı tankerde, 57 yaşındaki tanker sürücüsü Şaban Önder 30 Kasım 2025’te tabancayla vurulmuş halde ölü bulundu. İHA kaynaklı haberler, ailesinin telefonla ulaşamaması üzerine başlatılan aramada Önder’in aracın şoför koltuğunda bulunduğunu, sağlık ekiplerinin olay yerinde yaşamını yitirdiğini belirlediğini ve polis incelemesinin başlatıldığını aktardı. Haberlerde intihar ihtimali üzerinde durulduğu, kesin ölüm nedeninin otopsiyle belirleneceği yazıldı; İSİG Meclisi Önder’i Kasım 2025 iş cinayetleri listesine aldı.",
+      "worker_name": "Şaban Önder",
+      "worker_age": 57,
+      "employer": "İşveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / tanker sürücülüğü",
+      "death_date": "2025-11-30",
+      "cause": "Park halindeki tankerin şoför koltuğunda tabancayla vurulmuş halde bulunma; haberlerde intihar ihtimali üzerinde durulduğu ve kesin ölüm nedeninin otopsiye bırakıldığı aktarıldı",
+      "legal_status": "İHA kaynaklı haberler polisin olayla ilgili inceleme başlattığını ve kesin ölüm nedeninin otopsi sonucu belli olacağını aktardı; sonraki adli/idari süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "saban-onder-ilkadim-kiran-baris-bulvari-tanker",
+          "label": "Kıran Mahallesi Barış Bulvarı’nda park halindeki tanker",
+          "province_key": "SAMSUN",
+          "province": "Samsun",
+          "district": "İlkadım",
+          "lat": 41.280983,
+          "lng": 36.294866,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayın İlkadım ilçesi Kıran Mahallesi Barış Bulvarı’nda park halindeki tankerde meydana geldiğini aktardı; açık kapı numarası veya park noktası verilmediği için Yandex Maps’in Kıran Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-30",
+          "status": "fatality_recorded",
+          "note": "Şaban Önder, Samsun İlkadım Kıran Mahallesi Barış Bulvarı’nda park halindeki tankerinin şoför koltuğunda tabancayla vurulmuş halde ölü bulundu."
+        },
+        {
+          "date": "2025-11-30",
+          "status": "investigation_opened",
+          "note": "İHA kaynaklı haberler polisin olayla ilgili inceleme başlattığını, kesin ölüm nedeninin otopsiyle belirleneceğini ve intihar ihtimali üzerinde durulduğunu aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Şaban Önder’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tanker sürücüsü araçta silahla vurulmuş halde ölü bulundu",
+          "url": "https://www.marmarisyenisayfa.com/haber/tanker-surucusu-aracta-silahla-vurulmus-halde-olu-bulundu-585703.html",
+          "publisher": "Marmaris Yeni Sayfa / İHA",
+          "type": "news",
+          "published_at": "2025-11-30"
+        },
+        {
+          "title": "Tanker sürücüsü araçta silahla vurulmuş halde ölü bulundu",
+          "url": "https://www.haberturk.com/samsun-haberleri/115604014-tanker-surucusu-aracta-silahla-vurulmus-halde-olu-bulundu",
+          "publisher": "Habertürk / İHA",
+          "type": "news",
+          "published_at": "2025-11-30"
+        },
+        {
+          "title": "Kıran Mah. — harita, fotoğraf, nasıl gidilir, koordinatlar",
+          "url": "https://yandex.com.tr/maps/103833/samsun/geo/kiran_mah_/2216066899/",
+          "publisher": "Yandex Maps",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
