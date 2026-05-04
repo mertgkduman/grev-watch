@@ -5921,6 +5921,59 @@
       ]
     },
     {
+      "id": "suleyman-duman-nevsehir-gsb-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Süleyman Duman Nevşehir’de Gençlik ve Spor Bakanlığı inşaatında düşerek yaşamını yitirdi",
+      "summary": "Diyarbakır Eğilli 36 yaşındaki Süleyman Duman, çalışmak için gittiği Nevşehir’de Gençlik ve Spor Bakanlığı’na ait bir bina inşaatında çalışırken düşerek ağır yaralandı. Kaldırıldığı hastanede yapılan müdahalelere rağmen yaşamını yitirdi; cenazesi Eğil’in Sağlam köyünde defnedildi.",
+      "worker_name": "Süleyman Duman",
+      "worker_age": 36,
+      "employer": "Gençlik ve Spor Bakanlığı’na ait bina inşaatı / yüklenici veya taşeron bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat / kamu binası inşaatı",
+      "death_date": "2025-11-19",
+      "cause": "Çalıştığı bina inşaatından düşme",
+      "legal_status": "Kaynakta adli/idari süreç veya işveren ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-19",
+      "locations": [
+        {
+          "id": "suleyman-duman-nevsehir-gsb-bina-insaati",
+          "label": "Nevşehir’de Gençlik ve Spor Bakanlığı’na ait bina inşaatı",
+          "province_key": "NEVSEHIR",
+          "province": "Nevşehir",
+          "district": "",
+          "lat": 38.625,
+          "lng": 34.713,
+          "geocode_precision": "province_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynak olayı Nevşehir’de Gençlik ve Spor Bakanlığı’na ait bir bina inşaatı olarak verdi; ilçe, mahalle veya açık adres belirtilmediği için Nevşehir il merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-19",
+          "status": "fatality_recorded",
+          "note": "Süleyman Duman Nevşehir’de Gençlik ve Spor Bakanlığı’na ait bina inşaatında çalışırken düşerek ağır yaralandı ve kaldırıldığı hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Diyarbakırlı işçi Nevşehir'de iş kazasında öldü",
+          "url": "https://amidahaber.com/diyarbakir/diyarbakirli-isci-nevsehirde-is-kazasinda-oldu-224149h",
+          "publisher": "Amida Haber",
+          "type": "local_news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
