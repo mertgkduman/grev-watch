@@ -5768,6 +5768,80 @@
       ]
     },
     {
+      "id": "erkan-tulay-tuzla-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Erkan Tulay İstanbul Tuzla’da çalıştığı inşaattan düşerek yaşamını yitirdi",
+      "summary": "Ağrı Patnos nüfusuna kayıtlı 20 yaşındaki Erkan Tulay, İstanbul Tuzla’da çalıştığı inşaatta görevli olduğu 8. katta dengesini kaybederek zemine düştü. Olay yerine gelen sağlık ekipleri Tulay’ın hayatını kaybettiğini belirledi; İSİG Meclisi de ölümü iş cinayeti olarak duyurdu.",
+      "worker_name": "Erkan Tulay",
+      "worker_age": 20,
+      "employer": "Tuzla’daki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-21",
+      "cause": "Çalıştığı inşaatın 8. katından düşme",
+      "legal_status": "Kaynaklar olayla ilgili inceleme veya soruşturma başlatıldığını, facianın nasıl gerçekleştiği ve inşaatta gerekli güvenlik önlemlerinin alınıp alınmadığının araştırıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-22",
+      "locations": [
+        {
+          "id": "erkan-tulay-tuzla-insaat",
+          "label": "Tuzla’da çalıştığı inşaat",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Tuzla",
+          "lat": 40.817513,
+          "lng": 29.304203,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı İstanbul Tuzla’da bir inşaatta meydana gelen 8. kattan düşme olarak verdi; mahalle veya açık adres belirtilmediği için Tuzla ilçe merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-21",
+          "status": "fatality_recorded",
+          "note": "Erkan Tulay Tuzla’da çalıştığı inşaatın 8. katından düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ağrılı genç, çalıştığı İstanbul’da hayatını kaybetti!",
+          "url": "https://www.agrihurses.net/agrili-genc-calistigi-istanbulda-hayatini-kaybetti",
+          "publisher": "Ağrı Hürses",
+          "type": "local_news",
+          "published_at": "2025-11-21"
+        },
+        {
+          "title": "Patnoslu genç iş kazası sonucu hayatını kaybetti",
+          "url": "https://www.patnoshabergazetesi.com/patnoslu-genc-is-kazasi-sonucu-hayatini-kaybetti/91562",
+          "publisher": "Patnos Haber Gazetesi",
+          "type": "local_news",
+          "published_at": "2025-11-21"
+        },
+        {
+          "title": "İSİG, Erkan Tulay’ın ölümünü \"iş cinayeti\" olarak duyurdu",
+          "url": "https://www.hha.com.tr/isig-erkan-tulay-in-olumunu-is-cinayeti-olarak-duyurdu/81197/",
+          "publisher": "Halk Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-22"
+        },
+        {
+          "title": "Tuzla, İstanbul İlçe Haritası",
+          "url": "https://www.harita.gen.tr/ilce/858-istanbul-tuzla/",
+          "publisher": "Harita.gen.tr",
+          "type": "location_reference",
+          "published_at": null
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
