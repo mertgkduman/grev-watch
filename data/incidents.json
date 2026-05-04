@@ -7211,6 +7211,95 @@
       ]
     },
     {
+      "id": "alperen-uygun-anamur-guzelyurt-mesem-insaat-asansor-boslugu-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Alperen Uygun Anamur’da MESEM kapsamında gittiği inşaatta asansör boşluğuna düşerek yaşamını yitirdi",
+      "summary": "Mersin’in Anamur ilçesinde Rüştü Kazım Yücelen Mesleki Eğitim Merkezi 11. sınıf öğrencisi olan 16 yaşındaki Alperen Uygun, staj yaptığı asansör firmasındaki personelle Güzelyurt Mahallesi’ndeki bir inşaata saha görevi için gitti. 11 Kasım 2025’te inşaatın 3. katında asansör boşluğuna düşerek ağır yaralanan Uygun, kaldırıldığı özel hastanede yapılan müdahalelere rağmen yaşamını yitirdi; olayın ardından soruşturma başlatıldı ve MESEM uygulamasına ilişkin siyasi/senikal tepkiler haberleştirildi.",
+      "worker_name": "Alperen Uygun",
+      "worker_age": 16,
+      "employer": "Staj yaptığı asansör firması / firma adı kaynaklarda belirtilmedi",
+      "sector": "MESEM / İnşaat",
+      "death_date": "2025-11-11",
+      "cause": "MESEM kapsamında çalıştığı inşaatta 3. kattan asansör boşluğuna düşme",
+      "legal_status": "AA kaynaklı haber olayla ilgili soruşturma başlatıldığını aktardı. DEM Parti Mersin milletvekillerinin Milli Eğitim Bakanı’na soru önergesi verdiği, Eğitim-Sen’in de MESEM uygulaması ve ihmaller zincirinin açığa çıkarılması çağrısı yaptığı haberleştirildi; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "alperen-uygun-anamur-guzelyurt-insaat",
+          "label": "Güzelyurt Mahallesi’ndeki inşaat",
+          "province_key": "MERSIN",
+          "province": "Mersin",
+          "district": "Anamur",
+          "lat": 36.06373,
+          "lng": 32.84274,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "AA/Son Dakika olay yerini Anamur Güzelyurt Mahallesi’ndeki bir inşaat olarak verdi; açık şantiye adresi belirtilmediği için Kmhesaplama’nın Güzelyurt Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-11",
+          "status": "fatality_recorded",
+          "note": "MESEM 11. sınıf öğrencisi Alperen Uygun, staj yaptığı asansör firmasındaki personelle gittiği Güzelyurt Mahallesi’ndeki inşaatta 3. kattan asansör boşluğuna düştü; hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-13",
+          "status": "reported",
+          "note": "AA kaynaklı haber Uygun’un cenazesinin Bozyazı Doğancılar Mahallesi’ndeki mezarlığa defnedildiğini ve olayla ilgili soruşturma başlatıldığını aktardı."
+        },
+        {
+          "date": "2025-11-17",
+          "status": "parliamentary_question",
+          "note": "DEM Parti Mersin milletvekillerinin Alperen Uygun’un MESEM kapsamında çalışırken ölümü üzerine Milli Eğitim Bakanı’na soru önergesi verdiği haberleştirildi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Alperen Uygun’u ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "MESEM bir can daha aldı: 16 yaşındaki Alperen çalıştırıldığı inşaatta yüksekten düşerek öldü",
+          "url": "https://halktv.com.tr/gundem/mesem-bir-can-daha-aldi-16-yasindaki-alperen-calistirildigi-insaatta-yuksekten-985957h",
+          "publisher": "Halk TV",
+          "type": "news",
+          "published_at": "2025-11-12"
+        },
+        {
+          "title": "Anamur’da Asansör Boşluğuna Düşen Çocuk Hayatını Kaybetti",
+          "url": "https://www.sondakika.com/haber/haber-anamur-da-asansor-bosluguna-dusen-cocuk-hayatini-k-19250273/",
+          "publisher": "Son Dakika / AA",
+          "type": "news",
+          "published_at": "2025-11-13"
+        },
+        {
+          "title": "MESEM; “Daha Kaç Çocuğun Ölmesi Gerekiyor?”",
+          "url": "https://www.mersinportal.com/mesem-daha-kac-cocugun-olmesi-gerekiyor",
+          "publisher": "Mersin Portal",
+          "type": "local_news",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Güzelyurt Mahallesi Nerede, Hangi İlçeye Bağlı? Anamur, Mersin",
+          "url": "https://kmhesaplama.com/mersin/anamur/guzelyurt/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
