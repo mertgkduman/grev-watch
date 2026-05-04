@@ -6959,6 +6959,97 @@
       ]
     },
     {
+      "id": "gokhan-alarcin-kocaali-serbetpinar-insaat-dusme-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Gökhan Alarçin Kocaali Şerbetpınarı’nda inşaattan düşmesinin ardından yaşamını yitirdi",
+      "summary": "Sakarya’nın Kocaali ilçesi Şerbetpınarı Mahallesi’nde kendi inşaat firmasının yürüttüğü projede çalışan 42 yaşındaki inşaat ustası Gökhan Alarçin, yaklaşık beş ay önce inşaatın 3. katından düşerek ağır yaralandı. Sakarya Eğitim ve Araştırma Hastanesi yoğun bakımında tedavi gören Alarçin 12 Kasım 2025’te yaşamını yitirdi; cenazesi 13 Kasım’da Karasu Aziziye’de defnedildi.",
+      "worker_name": "Gökhan Alarçin",
+      "worker_age": 42,
+      "employer": "Kendi inşaat firmasının yürüttüğü proje / firma adı kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-12",
+      "cause": "İnşaatın 3. katından düşme sonrası yoğun bakımda ölüm",
+      "legal_status": "Kaynaklar olayın kendi inşaat firmasının yürüttüğü projede meydana geldiğini aktardı; işveren/firma adı veya adli-idari süreç ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "gokhan-alarcin-kocaali-serbetpinar-insaat",
+          "label": "Şerbetpınarı Mahallesi’ndeki inşaat",
+          "province_key": "SAKARYA",
+          "province": "Sakarya",
+          "district": "Kocaali",
+          "lat": 40.97952,
+          "lng": 30.77684,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Karasu Haberleri ve Medyabar olayın Kocaali Şerbetpınarı Mahallesi’ndeki bir inşaatta meydana geldiğini aktardı; açık şantiye adresi belirtilmediği için Kmhesaplama’nın Şerbetpınar Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-06",
+          "status": "injury_reported",
+          "note": "Kaynaklar Gökhan Alarçin’in yaklaşık beş ay önce Kocaali Şerbetpınarı Mahallesi’nde çalıştığı inşaatın 3. katından düşerek ağır yaralandığını aktardı; kesin kaza günü bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-12",
+          "status": "fatality_recorded",
+          "note": "Sakarya Eğitim ve Araştırma Hastanesi yoğun bakımında tedavisi süren Alarçin yapılan müdahalelere rağmen yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-13",
+          "status": "reported",
+          "note": "Cenazesi Karasu Aziziye Mahallesi Yeni Aziziye Camii’nde kılınan namazın ardından Karasu Aziziye Yeni Mezarlığı’na defnedildi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "3’üncü kattan düşen inşaat ustası Gökhan Alarçin, hayatını kaybetti",
+          "url": "https://www.karasuhaberleri.com/3uncu-kattan-dusen-insaat-ustasi-gokhan-alarcin-hayatini-kaybetti",
+          "publisher": "Karasu Haberleri / Öncü Karasu",
+          "type": "local_news",
+          "published_at": "2025-11-13"
+        },
+        {
+          "title": "Çalıştığı inşaatın 3.katından düşmüştü... Beş ay sonra acı haberi geldi!",
+          "url": "https://medyabar.com/haber/26807074/calistigi-insaatin-3katindan-dusmustu-bes-ay-sonra-aci-haberi-geldi",
+          "publisher": "Medyabar",
+          "type": "local_news",
+          "published_at": "2025-11-13"
+        },
+        {
+          "title": "İnşaatta düşmüştü, Yaşam savaşını kaybetti",
+          "url": "https://t54.com.tr/haber/26805924/insaatta-dusmustu-yasam-savasini-kaybetti",
+          "publisher": "T54",
+          "type": "local_news",
+          "published_at": "2025-11-12"
+        },
+        {
+          "title": "Sakarya’da 13 Kasım 2025 Vefat Edenler Listesi Açıklandı",
+          "url": "https://www.netgaste.com/haber/26806524/sakaryada-13-kasim-2025-vefat-edenler-listesi-aciklandi-bugun-kimler-hayatini-kaybetti",
+          "publisher": "NetGaste",
+          "type": "local_reference",
+          "published_at": "2025-11-13"
+        },
+        {
+          "title": "Şerbetpınar Mahallesi Nerede, Hangi İlçeye Bağlı? Kocaali, Sakarya",
+          "url": "https://kmhesaplama.com/sakarya/kocaali/serbetpinar/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
