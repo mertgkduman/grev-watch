@@ -113,6 +113,8 @@ const LAYER_ORDER = [
 const DEFAULT_LAYERS = ["worker_death_recent", "strike_ongoing", "action_call_upcoming", "union_arrest_current"];
 const QUICK_LAYERS = ["worker_death_recent", "strike_ongoing", "action_call_upcoming", "union_arrest_current"];
 const DATE_RANGES = ["all", "last_30_days", "last_3_months", "last_6_months"];
+const MONTH_RANGE_PREFIX = "month:";
+const MONTH_RANGE_START = "2025-01";
 
 const LAYER_COLORS = {
   worker_death_recent: "#111111",
@@ -138,6 +140,7 @@ const COPY = {
       search: "Ara",
       searchPlaceholder: "İşveren, sendika, okul, il...",
       dateRange: "Tarih aralığı",
+      months: "Aylar",
       province: "İl",
       sector: "Sektör",
       dateRanges: {
@@ -292,6 +295,7 @@ const COPY = {
       search: "Search",
       searchPlaceholder: "Employer, union, school, province...",
       dateRange: "Date range",
+      months: "Months",
       province: "Province",
       sector: "Sector",
       dateRanges: {
@@ -681,9 +685,15 @@ function fatalityCount(record) {
 }
 
 function populateControls() {
-  document.getElementById("date-range-filter").innerHTML = DATE_RANGES
-    .map((range) => `<option value="${range}" ${state.dateRange === range ? "selected" : ""}>${escapeHtml(t(`filters.dateRanges.${range}`))}</option>`)
+  const presetOptions = DATE_RANGES
+    .map((range) => optionHtml(range, t(`filters.dateRanges.${range}`)))
     .join("");
+  const monthOptions = availableMonthKeys()
+    .map((month) => optionHtml(`${MONTH_RANGE_PREFIX}${month}`, formatMonthRangeLabel(month)))
+    .join("");
+  document.getElementById("date-range-filter").innerHTML = monthOptions
+    ? `${presetOptions}<optgroup label="${escapeAttribute(t("filters.months"))}">${monthOptions}</optgroup>`
+    : presetOptions;
 
   const provinceOptions = [`<option value="">${t("filters.allProvinces")}</option>`]
     .concat(PROVINCES.map((province) => `<option value="${escapeHtml(province.name)}">${escapeHtml(province.name)}</option>`));
@@ -774,6 +784,11 @@ function openFilters() {
 function closeFilters() {
   document.body.classList.remove("filters-open");
   document.getElementById("drawer-scrim").hidden = true;
+}
+
+function optionHtml(value, label) {
+  const selected = state.dateRange === value ? "selected" : "";
+  return `<option value="${escapeAttribute(value)}" ${selected}>${escapeHtml(label)}</option>`;
 }
 
 function toggleRecordList() {
@@ -931,6 +946,13 @@ function isTurkeyLocation(location) {
 }
 
 function recordMatchesDateRange(record) {
+  const monthRange = dateRangeMonth(state.dateRange);
+  if (monthRange) {
+    if (!recordUsesDateRange(record)) return true;
+    const date = parseDate(recordDateValue(record));
+    return Boolean(date && date >= monthRange.start && date < monthRange.end);
+  }
+
   const cutoff = dateRangeCutoff(state.dateRange);
   if (!cutoff) return true;
   if (!recordUsesDateRange(record)) return true;
@@ -960,6 +982,58 @@ function dateRangeCutoff(range) {
     return now;
   }
   return null;
+}
+
+function dateRangeMonth(range) {
+  if (!String(range || "").startsWith(MONTH_RANGE_PREFIX)) return null;
+  const month = String(range).slice(MONTH_RANGE_PREFIX.length);
+  if (!/^\d{4}-\d{2}$/.test(month)) return null;
+  const start = parseDate(`${month}-01`);
+  if (!start) return null;
+  const end = new Date(start);
+  end.setMonth(end.getMonth() + 1);
+  return { start, end };
+}
+
+function availableMonthKeys(records = state.records) {
+  const recordMonths = new Set();
+  for (const record of records) {
+    if (!recordUsesDateRange(record)) continue;
+    const month = monthKey(recordDateValue(record));
+    if (month) recordMonths.add(month);
+  }
+  const endMonth = [monthKey(turkeyTodayKey()), ...recordMonths].filter(Boolean).sort().at(-1);
+  return continuousMonthKeys(MONTH_RANGE_START, endMonth).reverse();
+}
+
+function monthKey(value) {
+  const date = parseDate(value);
+  return date ? monthKeyFromDate(date) : "";
+}
+
+function monthKeyFromDate(date) {
+  return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}`;
+}
+
+function continuousMonthKeys(startMonth, endMonth) {
+  const start = parseDate(`${startMonth}-01`);
+  const end = parseDate(`${endMonth}-01`);
+  if (!start || !end || start > end) return [];
+  const months = [];
+  const cursor = new Date(start);
+  while (cursor <= end) {
+    months.push(monthKeyFromDate(cursor));
+    cursor.setMonth(cursor.getMonth() + 1);
+  }
+  return months;
+}
+
+function formatMonthRangeLabel(month) {
+  const date = parseDate(`${month}-01`);
+  if (!date) return month;
+  const locale = state.lang === "tr" ? "tr-TR" : "en";
+  const monthName = new Intl.DateTimeFormat(locale, { month: "long" }).format(date);
+  return `${date.getFullYear()} ${monthName}`;
 }
 
 function markerOffset(index, total) {
