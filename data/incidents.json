@@ -8613,6 +8613,83 @@
       ]
     },
     {
+      "id": "murat-gunel-afyonkarahisar-insaat-besinci-kat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Murat Günel Afyonkarahisar’da çalıştığı inşaatın 5. katından düşerek yaşamını yitirdi",
+      "summary": "Van Erciş nüfusuna kayıtlı 35 yaşındaki inşaat işçisi Murat Günel, Afyonkarahisar’da çalıştığı bir inşaat şantiyesinde 5. kattan düşerek ağır yaralandı ve kaldırıldığı hastanede tüm müdahalelere rağmen yaşamını yitirdi. Van 65 Haber ve Gazete Van, Günel’in evli ve üç çocuk babası olduğunu, olayla ilgili şantiyede inceleme/soruşturma başlatıldığını aktardı. Kesin olay günü haberlerden doğrulanamadığı için ölüm tarihi rapor ayı olarak kaydedildi.",
+      "worker_name": "Murat Günel",
+      "worker_age": 35,
+      "employer": "Afyonkarahisar’daki inşaat şantiyesi / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11",
+      "cause": "Çalıştığı inşaatın 5. katından düşme",
+      "legal_status": "Van 65 Haber ve Gazete Van olayla ilgili şantiyede inceleme/soruşturma başlatıldığını aktardı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "murat-gunel-afyonkarahisar-insaat",
+          "label": "Afyonkarahisar’daki inşaat şantiyesi",
+          "province_key": "AFYONKARAHISAR",
+          "province": "Afyonkarahisar",
+          "district": "",
+          "lat": 38.76,
+          "lng": 30.54,
+          "geocode_precision": "province_centroid",
+          "fatality_count": 1,
+          "location_basis": "Van 65 Haber ve Gazete Van olay yerini Afyonkarahisar’daki bir inşaat şantiyesi olarak verdi; ilçe, mahalle veya açık şantiye adresi doğrulanamadığı için Afyonkarahisar il merkezi koordinatı kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "Murat Günel Afyonkarahisar’da çalıştığı inşaatın 5. katından düşerek ağır yaralandı ve hastanede yaşamını yitirdi; kesin olay günü bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-03",
+          "status": "reported_in_news",
+          "note": "Van 65 Haber, Günel’in Afyonkarahisar’daki inşaat şantiyesinde 5. kattan düşerek hayatını kaybettiğini ve soruşturmanın sürdüğünü haberleştirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Murat Günel’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Son Dakika! Vanlı İnşaat İşçisi Afyon’da Hayatını Kaybetti",
+          "url": "https://www.van65haber.com/son-dakika-vanli-insaat-iscisi-afyonda-hayatini-kaybetti",
+          "publisher": "Van 65 Haber",
+          "type": "news",
+          "published_at": "2025-11-03"
+        },
+        {
+          "title": "Vanlı inşaat işçisi, düşerek hayatını kaybetti",
+          "url": "https://www.gazetevan.com/haber/ercis/205326/vanli-insaat-iscisi-duserek-hayatini-kaybetti",
+          "publisher": "Gazete Van",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "Ya Sefalet, Ya Ölüm! Ercan Demirci Yazdı...",
+          "url": "https://www.vanekspres.com.tr/ya-sefalet-ya-olum-ercan-demirci-yazdi",
+          "publisher": "Van Ekspres",
+          "type": "news_analysis",
+          "published_at": "2026-02-10"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
