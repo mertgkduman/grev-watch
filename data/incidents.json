@@ -8690,6 +8690,88 @@
       ]
     },
     {
+      "id": "adil-keskin-lefkosa-insaat-apartman-boslugu-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Adil Keskin Lefkoşa’da inşaatta apartman boşluğundan bodrum kata düşerek yaşamını yitirdi",
+      "summary": "Lefkoşa’da yapımı devam eden bir inşaatta kalıpçı olarak çalışan 39 yaşındaki Adil Keskin, 28 Ekim 2025’te zemin katta bulunan apartman boşluğunun üzerindeki tahtayı kaldırdığı sırada dengesini kaybederek yaklaşık 10.60 metre yükseklikten bodrum kata düştü. Ağır yaralanan Keskin, Lefkoşa Dr. Burhan Nalbantoğlu Devlet Hastanesi’nde ameliyat edildi ve yoğun bakımda izlendi; polis 2 Kasım 2025’te tüm müdahalelere rağmen bir gün önce yaşamını yitirdiğini duyurdu. Yeni Düzen haberinde soruşturmanın sürdüğü aktarıldı.",
+      "worker_name": "Adil Keskin",
+      "worker_age": 39,
+      "employer": "Lefkoşa’da yapımı devam eden inşaat / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-01",
+      "cause": "Kalıpçı olarak çalışırken apartman boşluğundan bodrum kata yaklaşık 10.60 metre düşme",
+      "legal_status": "Yeni Düzen, polisin olayla ilgili soruşturmasının devam ettiğini aktardı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "adil-keskin-lefkosa-insaat",
+          "label": "Lefkoşa’da yapımı devam eden inşaat",
+          "province_key": "",
+          "province": "Kuzey Kıbrıs",
+          "district": "Lefkoşa",
+          "lat": 35.1856,
+          "lng": 33.3823,
+          "geocode_precision": "town_centroid",
+          "fatality_count": 1,
+          "location_basis": "Yeni Düzen olay yerini Lefkoşa’da yapımı devam eden bir inşaat olarak verdi; açık şantiye adresi doğrulanamadığı için Nicosia/Lefkoşa kent merkezi koordinatı kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-10-28",
+          "status": "injury_recorded",
+          "note": "Adil Keskin Lefkoşa’daki inşaatta zemin kattaki apartman boşluğunun üzerindeki tahtayı kaldırırken dengesini kaybedip yaklaşık 10.60 metre yükseklikten bodrum kata düştü."
+        },
+        {
+          "date": "2025-11-01",
+          "status": "fatality_recorded",
+          "note": "Keskin, Lefkoşa Dr. Burhan Nalbantoğlu Devlet Hastanesi yoğun bakımında yapılan tüm müdahalelere rağmen yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-02",
+          "status": "investigation_opened",
+          "note": "Yeni Düzen, polisin ölüm bilgisini duyurduğunu ve soruşturmanın devam ettiğini aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Adil Keskin’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İş kazasında ağır yaralanan Adil Keskin hayatını kaybetti",
+          "url": "https://www.yeniduzen.com/is-kazasinda-agir-yaralanan-adil-keskin-hayatini-kaybetti-188434h.htm",
+          "publisher": "Yeni Düzen",
+          "type": "news",
+          "published_at": "2025-11-02"
+        },
+        {
+          "title": "Nicosia, Cyprus",
+          "url": "https://www.latlong.net/place/nicosia-cyprus-13527.html",
+          "publisher": "LatLong.net",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
