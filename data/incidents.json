@@ -10079,6 +10079,102 @@
       ]
     },
     {
+      "id": "irfan-aydin-kiziltepe-eymirli-tir-otomobil-carpismasi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İrfan Aydın Kızıltepe Eymirli kavşağında TIR-otomobil çarpışmasında yaşamını yitirdi",
+      "summary": "Mardin’in Kızıltepe ilçesinde, kırsal Eymirli Mahallesi kavşağında İrfan Aydın’ın kullandığı TIR ile Özgür T. idaresindeki otomobil çarpıştı. Çarpmanın etkisiyle TIR devrildi; sağlık ekipleri 51 yaşındaki TIR şoförü İrfan Aydın’ın olay yerinde yaşamını yitirdiğini belirledi. DHA ve yerel kaynaklar kazada otomobil sürücüsü ile yaya Serkan Yıldırım’ın yaralandığını, Yıldırım’ın daha sonra hastanede yaşamını yitirdiğini ve olayla ilgili soruşturma başlatıldığını/sürdüğünü aktardı.",
+      "worker_name": "İrfan Aydın",
+      "worker_age": 51,
+      "employer": "31 Y 3337 plakalı TIR / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / TIR sürücülüğü",
+      "death_date": "2025-11-24",
+      "cause": "Kızıltepe kırsal Eymirli Mahallesi kavşağında TIR ile otomobilin çarpışması ve TIR’ın devrilmesi",
+      "legal_status": "DHA ve Kızıltepe Ekspres kazayla ilgili soruşturma başlatıldığını/sürdüğünü aktardı. Sonraki adli/idari süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "irfan-aydin-kiziltepe-eymirli-kavsagi",
+          "label": "Kızıltepe kırsal Eymirli Mahallesi kavşağı",
+          "province_key": "MARDIN",
+          "province": "Mardin",
+          "district": "Kızıltepe",
+          "lat": 37.169964,
+          "lng": 40.687206,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "DHA kazayı Kızıltepe kırsal Eymirli Mahallesi kavşağında, Kızıltepe Ekspres İpekyolu/Kızıltepe-Nusaybin kara yolu arasında Eymirli Mahallesi mevkiinde verdi; açık kavşak koordinatı doğrulanamadığı için Yandex Maps’in Eymirli Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-24",
+          "status": "fatality_recorded",
+          "note": "İrfan Aydın’ın kullandığı TIR ile otomobil Kızıltepe kırsal Eymirli Mahallesi kavşağında çarpıştı; TIR devrildi ve sağlık ekipleri Aydın’ın olay yerinde yaşamını yitirdiğini belirledi."
+        },
+        {
+          "date": "2025-11-24",
+          "status": "reported_by_press",
+          "note": "DHA kazayı 24 Kasım 2025’te haberleştirdi; Sözcü, Yeni Akit ve diğer kaynaklar DHA aktarımını yayımladı."
+        },
+        {
+          "date": "2025-11-25",
+          "status": "related_fatality_reported",
+          "note": "Kızıltepe Ekspres, aynı kazada ağır yaralanan yaya Serkan Yıldırım’ın hastanede yaşamını yitirdiğini ve kazayla ilgili soruşturmanın sürdüğünü aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu İrfan Aydın’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mardin'de TIR ile otomobil çarpıştı: 2 ölü, 1 yaralı",
+          "url": "https://www.dha.com.tr/gundem/mardinde-tir-ile-otomobil-carpisti-2-olu-1-yarali-2764912",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Mardin'de TIR ile otomobil çarpıştı: 1 ölü, 2 yaralı",
+          "url": "https://www.dha.com.tr/yerel-haberler/mardin/kiziltepe/mardinde-tir-ile-otomobil-carpisti-1-olu-2-y-2764911",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "TIR’ın çarpmasıyla savrulan otomobilin çarptığı yaya hayatını kaybetti",
+          "url": "https://kiziltepeekspres.com/haber-tirin-carpmasiyla-savrulan-otomobilin-carptigi-yaya-hayatini-kaybetti.html",
+          "publisher": "Kızıltepe Ekspres",
+          "type": "news",
+          "published_at": "2025-11-25"
+        },
+        {
+          "title": "Kızıltepe’de TIR ve otomobil çarpıştı",
+          "url": "https://www.sozcu.com.tr/kiziltepe-de-tir-ve-otomobil-carpisti-p262217",
+          "publisher": "Sözcü / DHA",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Eymirli Mah.",
+          "url": "https://yandex.com.tr/maps/104689/kiziltepe/geo/eymirli_mah_/2215886423/",
+          "publisher": "Yandex Maps",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
