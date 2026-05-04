@@ -10538,6 +10538,94 @@
       ]
     },
     {
+      "id": "celal-elveren-koyulhisar-d200-tir-soforu-carpma-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Celal Elveren Koyulhisar’da D-200 kara yolunda aracına dönerken yaşamını yitirdi",
+      "summary": "Sivas’ın Koyulhisar ilçesinde TIR şoförü Celal Elveren, D-200 kara yolu Şeyhler Mahallesi’nde aracını yolun sağına park edip bakkaldan su aldıktan sonra aracına dönmek için karşıya geçerken hafif ticari aracın çarpması sonucu yaşamını yitirdi. DHA ve bazı yerel haberler adı “Celal Elevren” olarak yazdı; İSİG Meclisi’nin Kasım 2025 raporu aynı ölümü Celal Elveren adıyla iş cinayetleri listesine aldı.",
+      "worker_name": "Celal Elveren",
+      "employer": "TIR şoförü / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / TIR şoförlüğü",
+      "death_date": "2025-11-22",
+      "cause": "D-200 kara yolunda aracına dönerken hafif ticari aracın çarpması",
+      "legal_status": "DHA, hafif ticari araç sürücüsünün gözaltına alındığını ve polis soruşturmasının sürdüğünü aktardı; İHA kaynaklı haberler de kazayla ilgili soruşturma başlatıldığını bildirdi. Sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "celal-elveren-koyulhisar-d200-seyhler",
+          "label": "D-200 kara yolu, Şeyhler Mahallesi",
+          "province_key": "SIVAS",
+          "province": "Sivas",
+          "district": "Koyulhisar",
+          "lat": 40.28561,
+          "lng": 37.81313,
+          "geocode_precision": "road_corridor_approximate",
+          "fatality_count": 1,
+          "location_basis": "Haberler kazayı Koyulhisar ilçesi D-200 kara yolu Şeyhler Mahallesi olarak verdi; açık kaza koordinatı doğrulanamadığı için Şeyhler Mahallesi koordinatı D-200 koridoru için yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-22",
+          "status": "fatality_recorded",
+          "note": "Saat 18.00 sıralarında Celal Elveren, park ettiği TIR’a dönerken Şeyhler Mahallesi D-200 kara yolunda hafif ticari aracın çarpması sonucu olay yerinde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-22",
+          "status": "investigation_opened",
+          "note": "DHA, hafif ticari aracın sürücüsünün gözaltına alındığını ve kazayla ilgili soruşturmanın sürdüğünü bildirdi."
+        },
+        {
+          "date": "2025-11-23",
+          "status": "reported_by_press",
+          "note": "Mardin Haber, Elveren’in Mardin Artuklu Serhan ailesinden olduğunu ve cenazenin Mardin’e getirileceğini aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Celal Elveren’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hafif ticari aracın çarptığı yaya, öldü",
+          "url": "https://www.dha.com.tr/yerel-haberler/sivas/koyulhisar/hafif-ticari-aracin-carptigi-yaya-oldu-2763676",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-22"
+        },
+        {
+          "title": "Mardinli TIR şoförü otomobilin çarpması sonucu hayatını kaybetti",
+          "url": "https://mardinhaber.com.tr/haber/26884149/mardinli-tir-soforu-otomobilin-carpmasi-sonucu-hayatini-kaybetti",
+          "publisher": "Mardin Haber Gazetesi",
+          "type": "local_news",
+          "published_at": "2025-11-23"
+        },
+        {
+          "title": "Sivas'ta feci kaza, TIR şoförü öldü",
+          "url": "https://www.sivasekspres.com/haber/sivasta-feci-kaza-tir-soforu-oldu-83118.html",
+          "publisher": "Sivas Ekspres",
+          "type": "local_news",
+          "published_at": "2025-11-23"
+        },
+        {
+          "title": "Şeyhler Mahallesi - Koyulhisar, Sivas",
+          "url": "https://kmhesaplama.com/sivas/koyulhisar/seyhler/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
