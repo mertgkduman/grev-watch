@@ -8388,6 +8388,95 @@
       ]
     },
     {
+      "id": "siracettin-demirkiran-seyhan-yenibaraj-insaat-iskele-cokmesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Siracettin Demirkıran Seyhan’da asansörlü iskelenin halatı kopunca düşerek yaşamını yitirdi",
+      "summary": "Adana’nın Seyhan ilçesi Yenibaraj Mahallesi 68050. Sokak’ta yapımı süren 10 katlı bir inşaatın 8’inci katında çalışan 44 yaşındaki Siracettin Demirkıran, 4 Kasım 2025’te asansörlü iskelenin halatının ya da taşıyıcı sisteminin kopması sonucu İbrahim Gülşen ile birlikte zemine düştü. Demirkıran olay yerinde yaşamını yitirdi; ağır yaralanan Gülşen hastaneye kaldırıldı. Haberler polis ekiplerinin olayla ilgili inceleme/soruşturma başlattığını aktardı.",
+      "worker_name": "Siracettin Demirkıran",
+      "worker_age": 44,
+      "employer": "Seyhan Yenibaraj Mahallesi 68050. Sokak’taki 10 katlı inşaat / müteahhit Y.D. olarak haberleştirildi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-04",
+      "cause": "Asansörlü iskelenin halatı/taşıyıcı sistemi kopunca yüksekten düşme",
+      "legal_status": "DHA, AA ve İHA kaynaklı haberlerde polis ekiplerinin olayla ilgili inceleme ya da soruşturma başlattığı aktarıldı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "siracettin-demirkiran-seyhan-yenibaraj-insaat",
+          "label": "Yenibaraj Mahallesi 68050. Sokak’taki 10 katlı inşaat",
+          "province_key": "ADANA",
+          "province": "Adana",
+          "district": "Seyhan",
+          "lat": 37.018982,
+          "lng": 35.321934,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "DHA/Sözcü ve AA/Habertürk olay yerini Seyhan Yenibaraj Mahallesi 68050. Sokak’ta yapımı süren 10 katlı inşaat olarak verdi; açık şantiye koordinatı doğrulanamadığı için Haritamap’ın Yenibaraj Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-04",
+          "status": "fatality_recorded",
+          "note": "Seyhan Yenibaraj Mahallesi’nde 10 katlı inşaatın 8’inci katında kurulu asansörlü iskelenin halatı/taşıyıcı sistemi koptu; Siracettin Demirkıran zemine düşerek olay yerinde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-04",
+          "status": "injury_recorded",
+          "note": "Aynı olayda İbrahim Gülşen ağır yaralı olarak hastaneye kaldırıldı; İSİG Kasım 2025 raporu Gülşen’i de ayın iş cinayeti kayıtları arasında andı."
+        },
+        {
+          "date": "2025-11-04",
+          "status": "investigation_opened",
+          "note": "Haberler polis ekiplerinin olayla ilgili inceleme/soruşturma başlattığını aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Siracettin Demirkıran’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adana'da inşaatta iskele faciası: 1 ölü, 1 yaralı",
+          "url": "https://www.sozcu.com.tr/adana-da-insaatta-iskele-faciasi-1-olu-1-yarali-p255649",
+          "publisher": "Sözcü / DHA",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "Adana'da İnşaatta İskele Kazası: 1 Ölü, 1 Yaralı",
+          "url": "https://www.haberler.com/3-sayfa/adana-da-insaatta-iskele-kazasi-1-olu-1-yarali-19219759-haberi/",
+          "publisher": "Haberler / İHA",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "Adana'da inşaatta iskele faciası: 1 ölü, 1 yaralı",
+          "url": "https://www.haberturk.com/adana-da-insaatta-iskele-faciasi-1-olu-1-yarali-3835950",
+          "publisher": "Habertürk / AA",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "Yenibaraj Haritası, Seyhan Adana",
+          "url": "https://www.haritamap.com/yer/yenibaraj-seyhan",
+          "publisher": "Haritamap.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",

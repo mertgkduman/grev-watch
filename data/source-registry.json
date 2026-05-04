@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 518,
-      "remaining_individual_case_target": 439
+      "mapped_individual_fatalities_in_these_months": 519,
+      "remaining_individual_case_target": 438
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 518,
-      "remaining_known_target_before_april_report": 268,
+      "mapped_individual_fatalities_before_pending_april_report": 519,
+      "remaining_known_target_before_april_report": 267,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -911,7 +911,7 @@
         "2025-08": 0,
         "2025-09": 0,
         "2025-10": 0,
-        "2025-11": 50,
+        "2025-11": 51,
         "2025-12": 47
       },
       "remaining_after_this_pass": {
@@ -925,12 +925,12 @@
         "2025-08": 196,
         "2025-09": 208,
         "2025-10": 171,
-        "2025-11": 169,
+        "2025-11": 168,
         "2025-12": 88
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 97,
-      "total_remaining_after_this_pass": 2008,
+      "total_mapped_after_this_pass": 98,
+      "total_remaining_after_this_pass": 2007,
       "current_month": "2025-11",
       "processed_this_pass": [
         {
@@ -1454,6 +1454,12 @@
           "worker_name": "Ahmet Besili",
           "record_id": "ahmet-besili-alanya-payallar-otel-insaat-beton-pompasi-is-cinayeti-2025",
           "remaining_in_period_after_record": 169
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Siracettin Demirkıran",
+          "record_id": "siracettin-demirkiran-seyhan-yenibaraj-insaat-iskele-cokmesi-is-cinayeti-2025",
+          "remaining_in_period_after_record": 168
         }
       ]
     }
