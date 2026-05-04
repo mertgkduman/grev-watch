@@ -7050,6 +7050,83 @@
       ]
     },
     {
+      "id": "isa-hasan-menemen-gazi-insaat-dusme-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İsa Hasan Menemen Gazi Mahallesi’nde inşaatın 6. katından düşerek yaşamını yitirdi",
+      "summary": "İzmir’in Menemen ilçesi Gazi Mahallesi’nde bir inşaat alanında çalışan 23 yaşındaki İsa Hasan, 12 Kasım 2025’te çalıştığı inşaatın 6. katından zemine düştü. Sağlık ekiplerinin ilk müdahalesinin ardından Menemen Devlet Hastanesi’ne kaldırılan Hasan yapılan müdahalelere rağmen yaşamını yitirdi; Menemen Cumhuriyet Başsavcılığı olayla ilgili adli soruşturma başlattı.",
+      "worker_name": "İsa Hasan",
+      "worker_age": 23,
+      "employer": "Menemen Gazi Mahallesi’ndeki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-12",
+      "cause": "İnşaatın 6. katından düşme",
+      "legal_status": "Yenigün haberinde Menemen Cumhuriyet Başsavcılığı tarafından olayla ilgili adli soruşturma başlatıldığı aktarıldı; işveren veya idari yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "isa-hasan-menemen-gazi-insaat",
+          "label": "Gazi Mahallesi’ndeki inşaat",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Menemen",
+          "lat": 38.5743,
+          "lng": 27.06693,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Yenigün ve AA/Son Dakika kaynakları olay yerini İzmir Menemen Gazi Mahallesi’ndeki bir inşaat alanı olarak verdi; açık şantiye adresi belirtilmediği için Kmhesaplama’nın Gazi Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-12",
+          "status": "fatality_recorded",
+          "note": "Menemen Gazi Mahallesi’nde bir inşaatın 6. katında çalışan İsa Hasan zemine düştü ve Menemen Devlet Hastanesi’nde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-12",
+          "status": "investigation_opened",
+          "note": "Menemen Cumhuriyet Başsavcılığı tarafından olayla ilgili adli soruşturma başlatıldığı haberleştirildi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu İsa Hasan’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Menemen’de iş cinayeti: 23 yaşındaki işçi 6’ncı kattan düştü!",
+          "url": "https://www.gazeteyenigun.com.tr/haber/26804546/menemende-is-cinayeti-23-yasindaki-isci-6nci-kattan-dustu",
+          "publisher": "Yenigün Gazetesi",
+          "type": "local_news",
+          "published_at": "2025-11-12"
+        },
+        {
+          "title": "İnşaatta Düşen İşçi Hayatını Kaybetti",
+          "url": "https://www.sondakika.com/amp/haber-insaatta-dusen-isci-hayatini-kaybetti-19246911/",
+          "publisher": "Son Dakika / AA",
+          "type": "news",
+          "published_at": "2025-11-12"
+        },
+        {
+          "title": "Gazi Mahallesi Nerede, Hangi İlçeye Bağlı? Menemen, İzmir",
+          "url": "https://kmhesaplama.com/izmir/menemen/gazi/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
