@@ -5470,6 +5470,66 @@
       ]
     },
     {
+      "id": "alperen-sarp-saruhanli-elektrik-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Alperen Sarp Saruhanlı'da inşaatta vinçle demir taşırken elektrik akımına kapılarak yaşamını yitirdi",
+      "summary": "Manisa Saruhanlı İstasyon Mahallesi Gaziosmanpaşa Caddesi'nde yapımı süren 3 katlı apartman inşaatında çalışan 28 yaşındaki Alperen Sarp, vinç yardımıyla demir taşındığı sırada malzemenin yüksek gerilim hattına yaklaşması veya temas etmesi sonucu elektrik akımına kapıldı; sağlık ekipleri olay yerinde yaşamını yitirdiğini belirledi.",
+      "worker_name": "Alperen Sarp",
+      "worker_age": 28,
+      "employer": "İnşaat alanı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / vinç operatörlüğü",
+      "death_date": "2025-11-22",
+      "cause": "Vinçle taşınan demirlerin yüksek gerilim hattına yaklaşması veya temas etmesi sonucu elektrik akımına kapılma",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-22",
+      "locations": [
+        {
+          "id": "alperen-sarp-istasyon-gaziosmanpasa-saruhanli-insaat",
+          "label": "İstasyon Mahallesi Gaziosmanpaşa Caddesi'nde 3 katlı apartman inşaatı",
+          "province_key": "MANISA",
+          "province": "Manisa",
+          "district": "Saruhanlı",
+          "lat": 38.731258,
+          "lng": 27.578199,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynak olayı İstasyon Mahallesi Gaziosmanpaşa Caddesi'ndeki 3 katlı apartman inşaatı olarak verdi; açık kapı numarası belirtilmediği için mahalle merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-22",
+          "status": "fatality_recorded",
+          "note": "Alperen Sarp vinçle demir taşıma sırasında yüksek gerilim hattı kaynaklı elektrik akımına kapılarak olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Manisa’da inşaat işçisi elektrik akımına kapılarak hayatını kaybetti",
+          "url": "https://www.turkgun.com/3-sayfa/manisada-insaat-iscisi-elektrik-akimina-kapilarak-hayatini-kaybetti/341223",
+          "publisher": "Türkgün / DHA",
+          "type": "news",
+          "published_at": "2025-11-22"
+        },
+        {
+          "title": "İstasyon Mahallesi Haritası",
+          "url": "https://www.haritatr.com/istasyon-mahallesi-haritasi-m7da2",
+          "publisher": "HaritaTR",
+          "type": "location_reference",
+          "published_at": null
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
