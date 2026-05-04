@@ -9887,6 +9887,102 @@
       ]
     },
     {
+      "id": "omer-acikalin-bozova-pirhalil-tir-devrilmesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ömer Açıkalın Bozova’da gübre yüklü TIR’ın devrilmesi sonucu yaşamını yitirdi",
+      "summary": "Şanlıurfa’nın Bozova ilçesine bağlı kırsal Pirhalil Mahallesi civarında, 02 ABF 903 plakalı gübre yüklü TIR’ın kontrolden çıkarak/virajı alamayarak şarampole devrilmesi sonucu 65 yaşındaki sürücü Ömer Açıkalın olay yerinde yaşamını yitirdi. Urfanatik, Urfadasın, Ajans Urfa ve İHA kaynaklı haberlerde sağlık, jandarma ve itfaiye ekiplerinin bölgeye sevk edildiği; Açıkalın’ın cenazesinin otopsi için Şanlıurfa Adli Tıp Kurumu/hastane morguna kaldırıldığı ve kazayla ilgili soruşturma başlatıldığı aktarıldı.",
+      "worker_name": "Ömer Açıkalın",
+      "worker_age": 65,
+      "employer": "02 ABF 903 plakalı gübre yüklü TIR / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / TIR sürücülüğü",
+      "death_date": "2025-11-27",
+      "cause": "Bozova Pirhalil kırsal mahallesi civarında gübre yüklü TIR’ın virajı alamayarak/kontrolden çıkarak şarampole devrilmesi",
+      "legal_status": "Urfanatik, Urfadasın ve Ajans Urfa kazaya ilişkin soruşturma başlatıldığını; Urfanatik Bozova İlçe Jandarma Komutanlığı ekiplerinin geniş çaplı soruşturma başlattığını aktardı. Sonraki adli/idari süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "omer-acikalin-bozova-pirhalil",
+          "label": "Pirhalil kırsal Mahallesi civarı",
+          "province_key": "SANLIURFA",
+          "province": "Şanlıurfa",
+          "district": "Bozova",
+          "lat": 37.241,
+          "lng": 38.533,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar kazayı Bozova ilçesine bağlı kırsal Pirhalil Mahallesi civarında/yakınlarında verdi; açık viraj veya yol noktası belirtilmediği için Pirhalil mahalle koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-27",
+          "status": "fatality_recorded",
+          "note": "Ömer Açıkalın’ın kullandığı 02 ABF 903 plakalı gübre yüklü TIR Bozova Pirhalil kırsal mahallesi civarında şarampole devrildi; sağlık ekipleri Açıkalın’ın olay yerinde yaşamını yitirdiğini belirledi."
+        },
+        {
+          "date": "2025-11-27",
+          "status": "reported_by_press",
+          "note": "Urfanatik, Urfadasın, Ajans Urfa, Yeni Şafak/İHA ve yerel kaynaklar kazayı 27 Kasım 2025’te haberleştirdi."
+        },
+        {
+          "date": "2025-11-27",
+          "status": "investigation_opened",
+          "note": "Yerel kaynaklar ve İHA aktarımı kazayla ilgili soruşturma/inceleme başlatıldığını bildirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Ömer Açıkalın’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Şanlıurfa’nın Bozova İlçesinde Gübre Yüklü Tır Devrildi: Ölü Var",
+          "url": "https://www.urfanatik.com/sanliurfanin-bozova-ilcesinde-gubre-yuklu-tir-devrildi-olu-ve-yaralilar-var",
+          "publisher": "Urfanatik",
+          "type": "news",
+          "published_at": "2025-11-27"
+        },
+        {
+          "title": "Şanlıurfa'da Gübre Yüklü Tır Devrildi: 1 Ölü",
+          "url": "https://www.urfadasin.com/sanliurfada-gubre-yuklu-tir-devrildi-1-olu",
+          "publisher": "Urfadasın",
+          "type": "news",
+          "published_at": "2025-11-27"
+        },
+        {
+          "title": "Bozova’da feci kaza! Sürücü hayatını kaybetti",
+          "url": "https://www.ajansurfa.com/haber/26910402/bozovada-feci-kaza-surucu-hayatini-kaybetti",
+          "publisher": "Ajans Urfa",
+          "type": "news",
+          "published_at": "2025-11-27"
+        },
+        {
+          "title": "Şanlıurfa’da devrilen tırın sürücüsü hayatını kaybetti",
+          "url": "https://www.yenisafak.com/gundem/sanliurfada-devrilen-tirin-surucusu-hayatini-kaybetti-4772930",
+          "publisher": "Yeni Şafak / İHA",
+          "type": "news",
+          "published_at": "2025-11-27"
+        },
+        {
+          "title": "Pirhalil, Bozova",
+          "url": "https://tr.wikipedia.org/wiki/Pirhalil,_Bozova",
+          "publisher": "Vikipedi",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
