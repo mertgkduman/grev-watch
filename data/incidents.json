@@ -10958,6 +10958,102 @@
       ]
     },
     {
+      "id": "hasan-cakici-dogansehir-erkenek-tir-sarampole-devrilmesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Hasan Çakıcı Doğanşehir-Erkenek mevkiinde TIR'ın şarampole devrilmesi sonucu yaşamını yitirdi",
+      "summary": "Malatya’nın Doğanşehir ilçesinde, Adıyaman istikametine seyir halinde olan Hasan Çakıcı’nın kullandığı 31 VK 224 plakalı TIR/çekici, Malatya-Adıyaman kara yolu Doğanşehir-Erkenek Mahallesi mevkiinde sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu karşı şeride geçerek şarampole devrildi. 41 yaşındaki TIR şoförü Hasan Çakıcı olay yerinde yaşamını yitirdi.",
+      "worker_name": "Hasan Çakıcı",
+      "worker_age": 41,
+      "employer": "31 VK 224 plakalı TIR/çekici / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / TIR şoförlüğü",
+      "death_date": "2025-11-14",
+      "cause": "Malatya-Adıyaman kara yolu Doğanşehir-Erkenek mevkiinde TIR/çekicinin şarampole devrilmesi",
+      "legal_status": "Kaynaklar kaza sonrası jandarma tarafından inceleme/soruşturma başlatıldığını aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "hasan-cakici-dogansehir-erkenek",
+          "label": "Malatya-Adıyaman kara yolu, Erkenek Mahallesi mevkii",
+          "province_key": "MALATYA",
+          "province": "Malatya",
+          "district": "Doğanşehir",
+          "lat": 37.93031,
+          "lng": 37.94192,
+          "geocode_precision": "road_corridor_approximate",
+          "fatality_count": 1,
+          "location_basis": "Haberler kazayı Malatya-Adıyaman kara yolu Doğanşehir-Erkenek Mahallesi/Erkenek mevkii olarak verdi; açık kaza koordinatı yayımlanmadığı için Kmhesaplama’nın Erkenek Mahallesi koordinatı yol koridoru yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-14",
+          "status": "fatality_recorded",
+          "note": "Saat 19.45 sıralarında Hasan Çakıcı yönetimindeki 31 VK 224 plakalı TIR/çekici Doğanşehir-Erkenek mevkiinde kontrolden çıkarak şarampole devrildi; sağlık ekipleri Çakıcı’nın olay yerinde yaşamını yitirdiğini belirledi."
+        },
+        {
+          "date": "2025-11-14",
+          "status": "investigation_opened",
+          "note": "İHA kaynaklı haberler kazayla ilgili inceleme başlatıldığını aktardı."
+        },
+        {
+          "date": "2025-11-15",
+          "status": "forensic_transfer",
+          "note": "DHA kaynaklı haberler Çakıcı’nın cenazesinin olay yeri incelemesinden sonra otopsi için Malatya Adli Tıp Kurumu morguna kaldırıldığını bildirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Hasan Çakıcı’yı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Malatya-Adıyaman Karayolunda Can Alan Kaza",
+          "url": "https://www.malatyasoz.com/malatya-adiyaman-karayolunda-can-alan-kaza",
+          "publisher": "Malatya Söz / İhlas Haber Ajansı",
+          "type": "local_news",
+          "published_at": "2025-11-14"
+        },
+        {
+          "title": "Malatya'da Çekici Devrildi, Sürücü Hayatını Kaybetti",
+          "url": "https://www.haberler.com/amp/malatya-da-cekici-devrildi-surucu-hayatini-kaybetti-19255051-haberi/",
+          "publisher": "Haberler.com / İhlas Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-14"
+        },
+        {
+          "title": "Doğanşehir’de Feci Kaza Sürücü Hayatını Kaybetti",
+          "url": "https://www.44malatyahaber.com/m/d/2263/dogansehir-de-feci-kaza-surucu-hayatini-kaybetti",
+          "publisher": "44 Malatya Haber",
+          "type": "local_news",
+          "published_at": "2025-11-15"
+        },
+        {
+          "title": "Malatya'da şarampole devrilen TIR'ın sürücüsü öldü",
+          "url": "https://www.dha.com.tr/gundem/malatyada-sarampole-devrilen-tirin-surucusu-oldu-2758711",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-15"
+        },
+        {
+          "title": "Erkenek Mahallesi - Doğanşehir, Malatya",
+          "url": "https://kmhesaplama.com/malatya/dogansehir/erkenek/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
