@@ -9219,6 +9219,95 @@
       ]
     },
     {
+      "id": "tarik-duman-corlu-yuksek-gerilim-vinc-bomu-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Tarık Duman Çorlu’da yüksek gerilim hattı montajında kırılan vinç bomunun altında kalarak yaşamını yitirdi",
+      "summary": "Tekirdağ’ın Çorlu ilçesinde yüksek gerilim hattı direk montajı sırasında çalışan 36 yaşındaki enerji işçisi Tarık Duman, 19 Kasım 2025’te montajda kullanılan vincin bomunun kırılması sonucu altında kaldı. Kocaeli kaynaklı haberler, İzmit Alikahya Mahallesi’nde yaşayan ve evli, iki çocuk babası olan Duman’ın tüm müdahalelere rağmen yaşamını yitirdiğini aktardı. Kocaeli Çınar ve Kocaeli Koz, Çorlu Cumhuriyet Başsavcılığı ve iş güvenliği uzmanlarının kazanın nedenini belirlemek için soruşturma başlattığını yazdı.",
+      "worker_name": "Tarık Duman",
+      "worker_age": 36,
+      "employer": "Çorlu’daki yüksek gerilim hattı montaj işi / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Enerji / elektrik altyapısı",
+      "death_date": "2025-11-19",
+      "cause": "Yüksek gerilim hattı direk montajında kırılan vinç bomunun altında kalma",
+      "legal_status": "Kocaeli Çınar ve Kocaeli Koz, Çorlu Cumhuriyet Başsavcılığı ve iş güvenliği uzmanlarının kazanın nedenini araştırmak üzere soruşturma başlattığını aktardı; sonraki adli/idari süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "tarik-duman-corlu-yuksek-gerilim-montaj",
+          "label": "Çorlu’daki yüksek gerilim hattı direk montajı",
+          "province_key": "TEKIRDAG",
+          "province": "Tekirdağ",
+          "district": "Çorlu",
+          "lat": 41.15917,
+          "lng": 27.8,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar iş kazasının Tekirdağ’ın Çorlu ilçesinde yüksek gerilim hattı direk montajı sırasında meydana geldiğini aktardı; açık işyeri veya şantiye adresi doğrulanamadığı için LatLong.info’nun Çorlu ilçe merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-19",
+          "status": "fatality_recorded",
+          "note": "Tarık Duman Çorlu’da yüksek gerilim hattı direk montajı sırasında vinç bomunun kırılması sonucu altında kaldı ve yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-19",
+          "status": "investigation_opened",
+          "note": "Kocaeli Çınar ve Kocaeli Koz, Çorlu Cumhuriyet Başsavcılığı ve iş güvenliği uzmanlarının kazanın nedenini araştırmak için soruşturma başlattığını bildirdi."
+        },
+        {
+          "date": "2025-11-19",
+          "status": "funeral_recorded",
+          "note": "Duman’ın cenazesinin İzmit Alikahya Hayırsevenler Camii’nde kılınan cenaze namazının ardından Körüktepe Mezarlığı’nda defnedileceği/defnedildiği aktarıldı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Tarık Duman’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İzmitli genç işçi Çorlu’da feci şekilde can verdi",
+          "url": "https://www.kocaelikoz.com/haber/26850791/izmitli-genc-isci-corluda-feci-sekilde-can-verdi",
+          "publisher": "Kocaeli Koz",
+          "type": "news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "Vinç bomu kırıldı: İzmitli Tarık feci şekilde can verdi!",
+          "url": "https://www.seskocaeli.com/haber/26851411/vinc-bomu-kirildi-izmitli-tarik-feci-sekilde-can-verdi",
+          "publisher": "Ses Kocaeli",
+          "type": "news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "İzmitli genç feci şekilde can verdi!",
+          "url": "https://kocaelicinar.com/haber/asayis/izmitli-genc-feci-sekilde-can-verdi/85645.html",
+          "publisher": "Kocaeli Çınar",
+          "type": "news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "Latitude and longitude of Çorlu",
+          "url": "https://latlong.info/turkey/tekirdag/corlu",
+          "publisher": "LatLong.info",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
