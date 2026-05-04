@@ -109,6 +109,69 @@
   ],
   "isig_monthly_count_basis": [
     {
+      "period": "2025-01",
+      "fatality_count": 180,
+      "basis": "2025 annual report count.",
+      "source_url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+      "source_published_at": "2026-01-09"
+    },
+    {
+      "period": "2025-02",
+      "fatality_count": 129,
+      "basis": "2025 annual report count.",
+      "source_url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+      "source_published_at": "2026-01-09"
+    },
+    {
+      "period": "2025-03",
+      "fatality_count": 158,
+      "basis": "2025 annual report count.",
+      "source_url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+      "source_published_at": "2026-01-09"
+    },
+    {
+      "period": "2025-04",
+      "fatality_count": 158,
+      "basis": "2025 annual report count.",
+      "source_url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+      "source_published_at": "2026-01-09"
+    },
+    {
+      "period": "2025-05",
+      "fatality_count": 178,
+      "basis": "2025 annual report count.",
+      "source_url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+      "source_published_at": "2026-01-09"
+    },
+    {
+      "period": "2025-06",
+      "fatality_count": 161,
+      "basis": "2025 annual report count.",
+      "source_url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+      "source_published_at": "2026-01-09"
+    },
+    {
+      "period": "2025-07",
+      "fatality_count": 212,
+      "basis": "2025 annual report count.",
+      "source_url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+      "source_published_at": "2026-01-09"
+    },
+    {
+      "period": "2025-08",
+      "fatality_count": 196,
+      "basis": "2025 annual report count.",
+      "source_url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+      "source_published_at": "2026-01-09"
+    },
+    {
+      "period": "2025-09",
+      "fatality_count": 208,
+      "basis": "2025 annual report count.",
+      "source_url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+      "source_published_at": "2026-01-09"
+    },
+    {
       "period": "2025-10",
       "fatality_count": 171,
       "basis": "Updated 2025 annual report count; the original October report headline reported 169.",
@@ -159,7 +222,7 @@
     }
   ],
   "individual_case_research_progress": {
-    "updated_at": "2026-05-01",
+    "updated_at": "2026-05-03",
     "note": "Report-only worker-death records may use İSİG monthly province/country aggregate centroid locations when individual accident sites are not yet verified; those points must stay marked with location_basis and remain pending detail.",
     "latest_complete_isig_report_months": {
       "periods": [
@@ -171,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 48,
-      "remaining_individual_case_target": 909
+      "mapped_individual_fatalities_in_these_months": 49,
+      "remaining_individual_case_target": 908
     },
     "rolling_current_backlog": {
       "periods": [
@@ -184,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 48,
-      "remaining_known_target_before_april_report": 738,
+      "mapped_individual_fatalities_before_pending_april_report": 49,
+      "remaining_known_target_before_april_report": 737,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -817,6 +880,66 @@
       "may_records_added": 4,
       "data_file": "data/incidents.json",
       "note": "Added individually corroborated worker-death records found in current news/labor sources while April 2026 full İSİG monthly report is still pending. May 1 records are included because the dynamic last-30-days filter includes the current date."
+    },
+    "isig_2025_backlog": {
+      "updated_at": "2026-05-03",
+      "source_url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+      "source_published_at": "2026-01-09",
+      "workflow": "Process one worker at a time starting from 2025-12 and moving backward; when exact death_date is not verified, use the report month.",
+      "monthly_targets": {
+        "2025-01": 180,
+        "2025-02": 129,
+        "2025-03": 158,
+        "2025-04": 158,
+        "2025-05": 178,
+        "2025-06": 161,
+        "2025-07": 212,
+        "2025-08": 196,
+        "2025-09": 208,
+        "2025-10": 171,
+        "2025-11": 219,
+        "2025-12": 135
+      },
+      "mapped_fatalities_after_this_pass": {
+        "2025-01": 0,
+        "2025-02": 0,
+        "2025-03": 0,
+        "2025-04": 0,
+        "2025-05": 0,
+        "2025-06": 0,
+        "2025-07": 0,
+        "2025-08": 0,
+        "2025-09": 0,
+        "2025-10": 0,
+        "2025-11": 8,
+        "2025-12": 3
+      },
+      "remaining_after_this_pass": {
+        "2025-01": 180,
+        "2025-02": 129,
+        "2025-03": 158,
+        "2025-04": 158,
+        "2025-05": 178,
+        "2025-06": 161,
+        "2025-07": 212,
+        "2025-08": 196,
+        "2025-09": 208,
+        "2025-10": 171,
+        "2025-11": 211,
+        "2025-12": 132
+      },
+      "total_target": 2105,
+      "total_mapped_after_this_pass": 11,
+      "total_remaining_after_this_pass": 2094,
+      "current_month": "2025-12",
+      "processed_this_pass": [
+        {
+          "period": "2025-12",
+          "worker_name": "Ahmet G.",
+          "record_id": "ahmet-g-karabuk-elektrik-is-cinayeti-2025",
+          "remaining_in_period_after_record": 132
+        }
+      ]
     }
   },
   "used_sources_archive": [

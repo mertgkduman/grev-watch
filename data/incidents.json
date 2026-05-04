@@ -2584,6 +2584,65 @@
       ]
     },
     {
+      "id": "ahmet-g-karabuk-elektrik-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ahmet G. elektrik direğinde çalışırken yaşamını yitirdi",
+      "summary": "Karabük Merkez'e bağlı Kahyalar köyünde izolatör değişimi için elektrik direğinde çalışan 53 yaşındaki Ahmet G., akıma kapılıp yaklaşık 10 metreden düşerek ağır yaralandı; Karabük Eğitim ve Araştırma Hastanesi'nde yaşamını yitirdi.",
+      "worker_name": "Ahmet G.",
+      "worker_age": 53,
+      "employer": "Elektrik hattı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Enerji",
+      "death_date": "2025-12-14",
+      "cause": "Elektrik akımına kapılma ve yüksekten düşme",
+      "legal_status": "Kaynaklar olayla ilgili inceleme başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-14",
+      "locations": [
+        {
+          "id": "ahmet-g-kahyalar-karabuk",
+          "label": "Kahyalar köyü elektrik direği",
+          "province_key": "KARABUK",
+          "province": "Karabük",
+          "district": "Merkez",
+          "lat": 41.131,
+          "lng": 32.5582,
+          "geocode_precision": "village_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-14",
+          "status": "fatality_recorded",
+          "note": "Ahmet G. izolatör değişimi sırasında elektrik akımına kapılıp yüksekten düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Karabük'te elektrik akımına kapılan işçi öldü",
+          "url": "https://www.haberler.com/guncel/karabuk-te-elektrik-direginde-calisan-isci-hayatini-kaybetti-19357276-haberi/",
+          "publisher": "Haberler.com / Anadolu Ajansı",
+          "type": "labor_news",
+          "published_at": "2025-12-14"
+        },
+        {
+          "title": "Elektrik Direğine Çıkan İşçi Akıma Kapılarak Hayatını Kaybetti",
+          "url": "https://www.geredemedyatakip.com.tr/genel/elektrik-diregine-cikan-isci-akima-kapilarak-hayatini-kaybetti.html",
+          "publisher": "Gerede Medya Takip / İHA",
+          "type": "labor_news",
+          "published_at": "2025-12-15"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
