@@ -8228,6 +8228,89 @@
       ]
     },
     {
+      "id": "mehmet-yalcin-kayapinar-huzurevleri-insaat-dorduncu-kat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mehmet Yalçın Kayapınar’da inşaatın dördüncü katından düşerek yaşamını yitirdi",
+      "summary": "Diyarbakır’ın Kayapınar ilçesi Huzurevleri Mahallesi’nde bir inşaatta duvar ustası olarak çalışan Mehmet Yalçın, 6 Kasım 2025 sabahı çalıştığı inşaatın dördüncü katından düşerek ağır yaralandı. İlk müdahalenin ardından hastaneye kaldırılan Yalçın kurtarılamadı; cenazesi otopsi için Diyarbakır Adli Tıp Kurumu’na götürüldü ve olayla ilgili soruşturma başlatıldı. DHA/Haberler yaşı 34 ve hastaneyi Dicle Üniversitesi Tıp Fakültesi Hastanesi olarak, Urfa Değişim ve BirGün ise yaşı 32; Urfa Değişim hastaneyi Gazi Yaşargil Eğitim ve Araştırma Hastanesi olarak aktardı.",
+      "worker_name": "Mehmet Yalçın",
+      "employer": "Kayapınar Huzurevleri Mahallesi’ndeki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-06",
+      "cause": "İnşaatın dördüncü katından düşme",
+      "legal_status": "DHA ve yerel haberlerde olayla ilgili soruşturma başlatıldığı, cenazenin otopsi için Diyarbakır Adli Tıp Kurumu’na götürüldüğü aktarıldı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "mehmet-yalcin-kayapinar-huzurevleri-insaat",
+          "label": "Huzurevleri Mahallesi’ndeki inşaat",
+          "province_key": "DIYARBAKIR",
+          "province": "Diyarbakır",
+          "district": "Kayapınar",
+          "lat": 37.94419,
+          "lng": 40.18752,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "DHA/Haberler olay yerini Kayapınar ilçesi Huzurevleri Mahallesi’ndeki bir inşaat olarak verdi; açık şantiye adresi doğrulanamadığı için Kmhesaplama’nın Huzurevleri Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-06",
+          "status": "fatality_recorded",
+          "note": "Kayapınar Huzurevleri Mahallesi’nde bir inşaatta çalışan Mehmet Yalçın dördüncü kattan düştü; hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-06",
+          "status": "investigation_opened",
+          "note": "Haberler cenazenin otopsi için Diyarbakır Adli Tıp Kurumu’na götürüldüğünü ve olayla ilgili soruşturma başlatıldığını aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Mehmet Yalçın’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Diyarbakır'da İnşaatta İşçi Düşerek Hayatını Kaybetti",
+          "url": "https://www.haberler.com/amp/diyarbakir-da-insaatta-isci-duserek-hayatini-kaybetti-19226631-haberi/",
+          "publisher": "Haberler / DHA",
+          "type": "news",
+          "published_at": "2025-11-06"
+        },
+        {
+          "title": "İnşaatın 4.katından düşen 32 yaşındaki Mehmet Yalçın hayatını kaybetti",
+          "url": "https://www.urfadegisim.com.tr/insaatin-4katindan-dusen-32-yasindaki-mehmet-yalcin-hayatini-kaybetti/149651",
+          "publisher": "Urfa Değişim",
+          "type": "news",
+          "published_at": "2025-11-06"
+        },
+        {
+          "title": "Önce hayat!",
+          "url": "https://www.birgun.net/makale/once-hayat-669387",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Huzurevleri Mahallesi - Kayapınar, Diyarbakır",
+          "url": "https://kmhesaplama.com/diyarbakir/kayapinar/huzurevleri/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
