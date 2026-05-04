@@ -5589,6 +5589,66 @@
       ]
     },
     {
+      "id": "mehmet-celik-elazig-sursuru-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mehmet Çelik Elazığ’da çalıştığı inşaattan düşerek yaşamını yitirdi",
+      "summary": "Elazığ Sürsürü Mahallesi Divan Sokak’ta yapımı süren bir inşaatta çalışan 50 yaşındaki Mehmet Çelik, öğle saatlerinde dengesini kaybederek 7. kattan düştü. Ağır yaralanan Çelik, kaldırıldığı Fırat Üniversitesi Hastanesi’nde hayatını kaybetti.",
+      "worker_name": "Mehmet Çelik",
+      "worker_age": 50,
+      "employer": "İnşaat alanı / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-21",
+      "cause": "İnşaatın 7. katından düşme",
+      "legal_status": "Kaynak olayla ilgili soruşturma başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-21",
+      "locations": [
+        {
+          "id": "mehmet-celik-sursuru-divan-sokak-insaat",
+          "label": "Sürsürü Mahallesi Divan Sokak’ta yapımı süren inşaat",
+          "province_key": "ELAZIG",
+          "province": "Elazığ",
+          "district": "Merkez",
+          "lat": 38.670944,
+          "lng": 39.219051,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynak olayı Sürsürü Mahallesi Divan Sokak’ta yapımı süren inşaat olarak verdi; açık kapı numarası belirtilmediği için Sürsürü Mahallesi merkez koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-21",
+          "status": "fatality_recorded",
+          "note": "Mehmet Çelik Sürsürü Mahallesi’ndeki inşaatta 7. kattan düşerek ağır yaralandı ve kaldırıldığı hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Elazığ’da inşaattan düşen 50 yaşındaki işçi hayatını kaybetti",
+          "url": "https://oxu.az/tr/gundem/elazig-da-insaattan-dusen-50-yasindaki-isci-hayatini-kaybetti",
+          "publisher": "Oxu.az / DHA",
+          "type": "news",
+          "published_at": "2025-11-21"
+        },
+        {
+          "title": "Sürsürü Mahallesi Haritası Elazığ Merkez Elazığ",
+          "url": "https://www.haritatr.com/sursuru-mahallesi-haritasi-m3b36",
+          "publisher": "HaritaTR",
+          "type": "location_reference",
+          "published_at": null
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
