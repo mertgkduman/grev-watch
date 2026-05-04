@@ -6727,6 +6727,70 @@
       ]
     },
     {
+      "id": "mumin-korkmaz-canakkale-merkez-cati-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mümin Korkmaz Çanakkale Merkez’de çatı onarırken düşerek yaşamını yitirdi",
+      "summary": "BirGün’de 17 Kasım 2025’te yayımlanan iş cinayetleri derlemesi, 50 yaşlarındaki Mümin Korkmaz’ın Çanakkale Merkez’de bir binanın çatısını onarırken düşerek yaşamını yitirdiğini aktardı. Kesin olay günü bu geçişte doğrulanamadığı için İSİG Kasım raporu ayı esas alındı.",
+      "worker_name": "Mümin Korkmaz",
+      "employer": "Bir binanın çatı onarımı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / çatı onarımı",
+      "death_date": "2025-11",
+      "cause": "Çatı onarımı sırasında yüksekten düşme",
+      "legal_status": "BirGün derlemesi ve İSİG Kasım raporu olayı iş cinayeti olarak kayda geçirdi; işveren veya adli/idari süreç ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "mumin-korkmaz-canakkale-merkez-cati-onarimi",
+          "label": "Çanakkale Merkez’de çatı onarımı yapılan bina",
+          "province_key": "CANAKKALE",
+          "province": "Çanakkale",
+          "district": "Merkez",
+          "lat": 40.146721,
+          "lng": 26.408587,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "BirGün olay yerini Çanakkale Merkez’de bir binanın çatısı olarak verdi; mahalle, sokak veya bina adresi kaynaklarda belirtilmediği için Haritamap’in Çanakkale Merkez koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "Mümin Korkmaz’ın Çanakkale Merkez’de bir binanın çatısını onarırken düşerek yaşamını yitirdiği haberleştirildi; kesin olay günü bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported",
+          "note": "İSİG Meclisi Mümin Korkmaz’ı Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Önce hayat!",
+          "url": "https://www.birgun.net/makale/once-hayat-669387",
+          "publisher": "BirGün / Osman Öztürk",
+          "type": "labor_news",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Çanakkale Nerede Haritası Merkez Çanakkale",
+          "url": "https://www.haritamap.com/yer/canakkale-merkez",
+          "publisher": "Haritamap",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
