@@ -6875,6 +6875,90 @@
       ]
     },
     {
+      "id": "ertas-ufak-golkoy-haruniye-insaat-elektrik-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ertaş Ufak Gölköy Haruniye’de inşaatta elektrik akımına kapılarak yaşamını yitirdi",
+      "summary": "Ordu’nun Gölköy ilçesi Haruniye Mahallesi’nde 13 Kasım 2025 saat 16.30 sıralarında bir inşaatta çalışan Ertaş Ufak elektrik akımına kapıldı ve yaklaşık 2,5 metrelik yükseklikten zemine düştü. Olay yerindeki ilk müdahalenin ardından Ordu Devlet Hastanesi’ne kaldırılan Ufak yapılan müdahalelere rağmen yaşamını yitirdi; kaynaklarda yaşı 33 ve 34 olarak farklı haberleştirildi.",
+      "worker_name": "Ertaş Ufak",
+      "worker_age": 33,
+      "employer": "Gölköy Haruniye’deki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-13",
+      "cause": "İnşaatta elektrik akımına kapılma ve yaklaşık 2,5 metreden düşme",
+      "legal_status": "Kaynaklar olay yerine sağlık ve jandarma ekiplerinin sevk edildiğini ve olayla ilgili soruşturmanın sürdüğünü aktardı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "ertas-ufak-golkoy-haruniye-insaat",
+          "label": "Haruniye Mahallesi’ndeki inşaat",
+          "province_key": "ORDU",
+          "province": "Ordu",
+          "district": "Gölköy",
+          "lat": 40.62556,
+          "lng": 37.53614,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "DHA kaynaklı haberler olay yerini Ordu Gölköy Haruniye Mahallesi’ndeki bir inşaat olarak verdi; açık şantiye adresi belirtilmediği için Kmhesaplama’nın Haruniye Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-13",
+          "status": "fatality_recorded",
+          "note": "Gölköy Haruniye Mahallesi’nde inşaatta çalışan Ertaş Ufak elektrik akımına kapılarak yaklaşık 2,5 metreden düştü; hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-14",
+          "status": "reported",
+          "note": "Cenazesinin Çamaş Merkez Camisi’ndeki namazın ardından aile mezarlığında defnedildiği haberleştirildi."
+        },
+        {
+          "date": "2025-11-14",
+          "status": "investigation_opened",
+          "note": "DHA kaynaklı haberler olayla ilgili soruşturmanın sürdüğünü bildirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Elektrik akımına kapılan Ertaş Ufak hayatını kaybetti",
+          "url": "https://www.orducu.com/haber-elektrik-akimina-kapilan-ertas-ufak-hayatini-kaybetti-43799.html",
+          "publisher": "Orducu / Ordu Haber Ajansı",
+          "type": "local_news",
+          "published_at": "2025-11-13"
+        },
+        {
+          "title": "Ordu’da İş Kazası: Akıma Kapılan İşçi 2,5 Metreden Düşerek Öldü",
+          "url": "https://www.hedefhalk.com/ordu-golkoy-insaat-akim-kazasi-ertas-ufak-oldu/1802400/",
+          "publisher": "Hedef Halk / DHA",
+          "type": "news",
+          "published_at": "2025-11-14"
+        },
+        {
+          "title": "İnşaat İşçisi Elektrik Akımına Kapılarak Hayatını Kaybetti",
+          "url": "https://www.kuzeyekspres.com.tr/haber/26819958/insaat-iscisi-elektrik-akimina-kapilarak-hayatini-kaybetti",
+          "publisher": "Kuzey Ekspres / DHA",
+          "type": "news",
+          "published_at": "2025-11-14"
+        },
+        {
+          "title": "Haruniye Mahallesi Nerede, Hangi İlçeye Bağlı? Gölköy, Ordu",
+          "url": "https://kmhesaplama.com/ordu/golkoy/haruniye/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
