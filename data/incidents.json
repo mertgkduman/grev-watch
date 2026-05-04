@@ -7396,6 +7396,114 @@
       ]
     },
     {
+      "id": "tahsin-dere-kulp-mus-viyaduk-iskele-cokmesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Tahsin Dere Kulp-Muş yolundaki viyadük inşaatında iskele çökmesi sonucu yaşamını yitirdi",
+      "summary": "Diyarbakır’ın Kulp ilçesinde, Kulp-Muş kara yolu üzerindeki viyadük inşaatında 11 Kasım 2025’te beton dökümü sırasında iskele çöktü. Kaynaklara göre Tahsin Dere olay yerinde yaşamını yitiren üç işçiden biriydi; aynı olayda Şeyhmus Anuştekin, Salih Lale ve hastanede Mehmet Şirin Yalçıner de hayatını kaybetti, Cüneyt N. ağır yaralandı. Tahsin Dere’nin yaşı kaynaklarda 45 ve 49 olarak farklı haberleştirildi; yerel vefat kaydındaki 49 yaş bilgisi esas alındı.",
+      "worker_name": "Tahsin Dere",
+      "worker_age": 49,
+      "employer": "Kulp-Muş kara yolu viyadük inşaatı / yüklenici ve taşeron bilgisi bu geçişte doğrulanamadı",
+      "sector": "İnşaat",
+      "death_date": "2025-11-11",
+      "cause": "Viyadük inşaatında beton dökümü sırasında iskelenin çökmesi",
+      "legal_status": "Diyarbakır Cumhuriyet Başsavcılığı’nın taksirle ölüme ve yaralamaya sebebiyet verme suçundan başlattığı soruşturmada bilirkişi raporunun hazırlandığı, iddianamede 10 sanık hakkında 2 yıldan 15 yıla kadar hapis cezası istendiği ve 10 Nisan 2026’da yargılamanın başladığı haberleştirildi. Nihai yargı sonucu bu geçişte doğrulanamadı.",
+      "linked_incident_count": 4,
+      "last_verified_at": "2026-04-10",
+      "locations": [
+        {
+          "id": "tahsin-dere-kulp-mus-karabulak-viyaduk",
+          "label": "Kulp-Muş yolu Karabulak/Kupka yakınındaki viyadük inşaatı",
+          "province_key": "DIYARBAKIR",
+          "province": "Diyarbakır",
+          "district": "Kulp",
+          "lat": 38.5357,
+          "lng": 41.0927,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Gazete Detay ve Adalet Bakanı açıklamasını aktaran ANKA/Haberler kaynakları olayı Kulp-Muş kara yolu üzerinde, Karabulak Mahallesi Kupa/Kupka mezrası yakınındaki köprü/viyadük inşaatı olarak verdi; açık viyadük koordinatı doğrulanamadığı için Karabulak mahalle koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-11",
+          "status": "fatality_recorded",
+          "note": "Kulp-Muş kara yolundaki viyadük inşaatında beton dökümü sırasında iskele çöktü; Tahsin Dere olay yerinde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-12",
+          "status": "reported",
+          "note": "Yerel vefat kaydı Tahsin Dere’nin 12 Kasım 2025’te Yeniköy Asri Mezarlığı’nda defnedildiğini aktardı."
+        },
+        {
+          "date": "2026-01-29",
+          "status": "expert_report",
+          "note": "Bilirkişi raporunda kazanın beton dökümü sırasında aşırı yüklenme ve yetersiz iskele bağlantısı nedeniyle meydana geldiği haberleştirildi."
+        },
+        {
+          "date": "2026-04-10",
+          "status": "trial_started",
+          "note": "AA/Haberler, kazaya ilişkin 10 sanığın yargılanmasına başlandığını ve duruşmanın 1 Ekim’e ertelendiğini aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Tahsin Dere’yi ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tahsin Dere",
+          "url": "https://www.mucadelegazetesi.com.tr/vefat/tahsin-dere",
+          "publisher": "Mücadele Gazetesi",
+          "type": "local_reference",
+          "published_at": "2025-11-12"
+        },
+        {
+          "title": "Kulp-Muş yolunda viyadük faciası: Şeyhmus Anuştekin, Tahsin Dere, Salih Lale, Mehmet Şirin Yalçıner hayatını kaybetti",
+          "url": "https://www.memurhaber365.com/kulp-mus-yolunda-viyaduk-faciasi-seyhmus-anustekin-tahsin-dere-salih-lale-mehmet-sirin-yalciner-hayatini-kaybetti/",
+          "publisher": "Memurhaber365",
+          "type": "news",
+          "published_at": "2025-11-12"
+        },
+        {
+          "title": "Köprü ayaklarında can pazarı: 3 ölü, 2 yaralı",
+          "url": "https://gazetedetay.com/kopru-ayaklarinda-can-pazari-3-olu-2-yarali",
+          "publisher": "Gazete Detay",
+          "type": "local_news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "Kulp'ta Viyadük İnşaatında Facia: 4 İşçi Hayatını Kaybetti",
+          "url": "https://www.sondakika.com/haber/haber-kulp-ta-viyaduk-insaatinda-facia-4-isci-hayatini-k-19515647/",
+          "publisher": "Son Dakika / İHA",
+          "type": "news",
+          "published_at": "2026-01-29"
+        },
+        {
+          "title": "Diyarbakır'da viyadük inşaatında 4 işçinin öldüğü kazaya ilişkin 10 sanığın yargılanmasına başlandı",
+          "url": "https://www.haberler.com/guncel/diyarbakir-da-viyaduk-insaatinda-4-iscinin-oldugu-19736427-haberi/",
+          "publisher": "Haberler / AA",
+          "type": "news",
+          "published_at": "2026-04-10"
+        },
+        {
+          "title": "Karabulak, Kulp",
+          "url": "https://en.wikipedia.org/wiki/Karabulak%2C_Kulp",
+          "publisher": "Wikipedia",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
