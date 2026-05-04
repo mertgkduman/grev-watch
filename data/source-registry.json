@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 551,
-      "remaining_individual_case_target": 406
+      "mapped_individual_fatalities_in_these_months": 571,
+      "remaining_individual_case_target": 386
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 551,
-      "remaining_known_target_before_april_report": 235,
+      "mapped_individual_fatalities_before_pending_april_report": 571,
+      "remaining_known_target_before_april_report": 215,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -911,7 +911,7 @@
         "2025-08": 0,
         "2025-09": 0,
         "2025-10": 0,
-        "2025-11": 83,
+        "2025-11": 103,
         "2025-12": 47
       },
       "remaining_after_this_pass": {
@@ -925,12 +925,12 @@
         "2025-08": 196,
         "2025-09": 208,
         "2025-10": 171,
-        "2025-11": 136,
+        "2025-11": 116,
         "2025-12": 88
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 130,
-      "total_remaining_after_this_pass": 1975,
+      "total_mapped_after_this_pass": 150,
+      "total_remaining_after_this_pass": 1955,
       "current_month": "2025-11",
       "processed_this_pass": [
         {
@@ -1652,6 +1652,126 @@
           "worker_name": "İzzettin Bertan",
           "record_id": "izzettin-bertan-isig-kasim-2025",
           "remaining_in_period_after_record": 136
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Ramazan Bozkoyun",
+          "record_id": "ramazan-bozkoyun-siverek-kahta-kamyon-carpismasi-is-cinayeti-2025",
+          "remaining_in_period_after_record": 135
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "G.A.",
+          "record_id": "g-a-isig-kasim-2025",
+          "remaining_in_period_after_record": 134
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Orhan Çekiç",
+          "record_id": "orhan-cekic-isig-kasim-2025",
+          "remaining_in_period_after_record": 133
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Musa Temur",
+          "record_id": "musa-temur-isig-kasim-2025",
+          "remaining_in_period_after_record": 132
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Cemal Cengiz",
+          "record_id": "cemal-cengiz-silopi-yakit-tanki-vinc-halati-is-cinayeti-2025",
+          "remaining_in_period_after_record": 131
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Mehmet Cılasın",
+          "record_id": "mehmet-cilasin-isig-kasim-2025",
+          "remaining_in_period_after_record": 130
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Müslüm Kayan",
+          "record_id": "muslum-kayan-isig-kasim-2025",
+          "remaining_in_period_after_record": 129
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Uğurcan Evcek",
+          "record_id": "ugurcan-evcek-isig-kasim-2025",
+          "remaining_in_period_after_record": 128
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Kamil Kamuran Yılmaz",
+          "record_id": "kamil-kamuran-yilmaz-isig-kasim-2025",
+          "remaining_in_period_after_record": 127
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Sefa Kandemir",
+          "record_id": "sefa-kandemir-sincan-asansor-halati-kopmasi-is-cinayeti-2025",
+          "remaining_in_period_after_record": 126
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Hamza Gümüş",
+          "record_id": "hamza-gumus-isig-kasim-2025",
+          "remaining_in_period_after_record": 125
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Yusuf Tetkik",
+          "record_id": "yusuf-tetkik-isig-kasim-2025",
+          "remaining_in_period_after_record": 124
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Oruç Sezgin",
+          "record_id": "oruc-sezgin-isig-kasim-2025",
+          "remaining_in_period_after_record": 123
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Reşat Doğan",
+          "record_id": "resat-dogan-isig-kasim-2025",
+          "remaining_in_period_after_record": 122
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Urashev Zavr",
+          "record_id": "urashev-zavr-isig-kasim-2025",
+          "remaining_in_period_after_record": 121
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Hasan Aktepe",
+          "record_id": "hasan-aktepe-aliaga-gemi-sokum-parca-dusmesi-is-cinayeti-2025",
+          "remaining_in_period_after_record": 120
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Uğur Başkaya",
+          "record_id": "ugur-baskaya-isig-kasim-2025",
+          "remaining_in_period_after_record": 119
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Mehmet Özcan",
+          "record_id": "mehmet-ozcan-ikinci-kasim-isig-kasim-2025",
+          "remaining_in_period_after_record": 118
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Oğuz Hakan Albayrak",
+          "record_id": "oguz-hakan-albayrak-cayirli-112-gorevde-rahatsizlik-is-cinayeti-2025",
+          "remaining_in_period_after_record": 117
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Nazmiye Demirel",
+          "record_id": "nazmiye-demirel-isig-kasim-2025",
+          "remaining_in_period_after_record": 116
         }
       ]
     }
