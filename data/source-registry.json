@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 571,
-      "remaining_individual_case_target": 386
+      "mapped_individual_fatalities_in_these_months": 621,
+      "remaining_individual_case_target": 336
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 571,
-      "remaining_known_target_before_april_report": 215,
+      "mapped_individual_fatalities_before_pending_april_report": 621,
+      "remaining_known_target_before_april_report": 165,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -911,7 +911,7 @@
         "2025-08": 0,
         "2025-09": 0,
         "2025-10": 0,
-        "2025-11": 103,
+        "2025-11": 153,
         "2025-12": 47
       },
       "remaining_after_this_pass": {
@@ -925,12 +925,12 @@
         "2025-08": 196,
         "2025-09": 208,
         "2025-10": 171,
-        "2025-11": 116,
+        "2025-11": 66,
         "2025-12": 88
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 150,
-      "total_remaining_after_this_pass": 1955,
+      "total_mapped_after_this_pass": 200,
+      "total_remaining_after_this_pass": 1905,
       "current_month": "2025-11",
       "processed_this_pass": [
         {
@@ -1772,6 +1772,306 @@
           "worker_name": "Nazmiye Demirel",
           "record_id": "nazmiye-demirel-isig-kasim-2025",
           "remaining_in_period_after_record": 116
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Muratcan Pekeroğlu",
+          "record_id": "muratcan-pekeroglu-pamukkale-motokurye-carpisma-is-cinayeti-2025",
+          "remaining_in_period_after_record": 115
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Muhammed Kaya",
+          "record_id": "muhammed-kaya-isig-kasim-2025",
+          "remaining_in_period_after_record": 114
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Serkan Alkaya",
+          "record_id": "serkan-alkaya-isig-kasim-2025",
+          "remaining_in_period_after_record": 113
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Adem Özçelik",
+          "record_id": "adem-ozcelik-isig-kasim-2025",
+          "remaining_in_period_after_record": 112
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Tahsin Göker",
+          "record_id": "tahsin-goker-isig-kasim-2025",
+          "remaining_in_period_after_record": 111
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Ersin Gencer",
+          "record_id": "ersin-gencer-isig-kasim-2025",
+          "remaining_in_period_after_record": 110
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Hatice Ünal",
+          "record_id": "hatice-unal-isig-kasim-2025",
+          "remaining_in_period_after_record": 109
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Ali Barut",
+          "record_id": "ali-barut-isig-kasim-2025",
+          "remaining_in_period_after_record": 108
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Faruk Şahin",
+          "record_id": "faruk-sahin-isig-kasim-2025",
+          "remaining_in_period_after_record": 107
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Ali K.",
+          "record_id": "ali-k-isig-kasim-2025",
+          "remaining_in_period_after_record": 106
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Mehmet Doğanay",
+          "record_id": "mehmet-doganay-kirikhan-golbasi-amfibi-arac-is-cinayeti-2025",
+          "remaining_in_period_after_record": 105
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Ömer Kaya",
+          "record_id": "omer-kaya-isig-kasim-2025",
+          "remaining_in_period_after_record": 104
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "İsmet Akkaş",
+          "record_id": "ismet-akkas-usak-site-cam-silme-dusme-is-cinayeti-2025",
+          "remaining_in_period_after_record": 103
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Ali Can Gürer",
+          "record_id": "ali-can-gurer-urla-projektor-tamiri-dusme-is-cinayeti-2025",
+          "remaining_in_period_after_record": 102
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Servet Kayaoğlu",
+          "record_id": "servet-kayaoglu-yenice-asfalt-elektrik-akimi-is-cinayeti-2025",
+          "remaining_in_period_after_record": 101
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Cesim Açık",
+          "record_id": "cesim-acik-gebze-cop-kamyonu-is-cinayeti-2025",
+          "remaining_in_period_after_record": 100
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "İbrahim Durak",
+          "record_id": "ibrahim-durak-isig-kasim-2025",
+          "remaining_in_period_after_record": 99
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Can Perkanat",
+          "record_id": "can-perkanat-isig-kasim-2025",
+          "remaining_in_period_after_record": 98
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Bülent Yumşak",
+          "record_id": "bulent-yumsak-isig-kasim-2025",
+          "remaining_in_period_after_record": 97
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Nasır Biçer",
+          "record_id": "nasir-bicer-isig-kasim-2025",
+          "remaining_in_period_after_record": 96
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Ekrem Balaban",
+          "record_id": "ekrem-balaban-isig-kasim-2025",
+          "remaining_in_period_after_record": 95
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Bilal Polat",
+          "record_id": "bilal-polat-isig-kasim-2025",
+          "remaining_in_period_after_record": 94
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Tufan Mutlu",
+          "record_id": "tufan-mutlu-isig-kasim-2025",
+          "remaining_in_period_after_record": 93
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "İsmi öğrenilemeyen işçi (Kasım 2025 #1)",
+          "record_id": "isimsiz-isci-kasim-2025-1",
+          "remaining_in_period_after_record": 92
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "İsmi öğrenilemeyen işçi (Kasım 2025 #2)",
+          "record_id": "isimsiz-isci-kasim-2025-2",
+          "remaining_in_period_after_record": 91
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "İsmi öğrenilemeyen işçi (Kasım 2025 #3)",
+          "record_id": "isimsiz-isci-kasim-2025-3",
+          "remaining_in_period_after_record": 90
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "İsmi öğrenilemeyen işçi (Kasım 2025 #4)",
+          "record_id": "isimsiz-isci-kasim-2025-4",
+          "remaining_in_period_after_record": 89
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Tahsin Albayrak",
+          "record_id": "tahsin-albayrak-vakfikebir-agac-devrilmesi-is-cinayeti-2025",
+          "remaining_in_period_after_record": 88
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Ashraf Fathi Shehat",
+          "record_id": "ashraf-fathi-shehat-isig-kasim-2025",
+          "remaining_in_period_after_record": 87
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Suat Aydın",
+          "record_id": "suat-aydin-isig-kasim-2025",
+          "remaining_in_period_after_record": 86
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Çiğdem Yeşil",
+          "record_id": "cigdem-yesil-isig-kasim-2025",
+          "remaining_in_period_after_record": 85
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Arif Özdemir",
+          "record_id": "arif-ozdemir-isig-kasim-2025",
+          "remaining_in_period_after_record": 84
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Bayram Yurdagül",
+          "record_id": "bayram-yurdagul-isig-kasim-2025",
+          "remaining_in_period_after_record": 83
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Ümmü Gülsüm Gökçebak",
+          "record_id": "ummu-gulsum-gokcebak-akhisar-zeytin-iscileri-kaza-is-cinayeti-2025",
+          "remaining_in_period_after_record": 82
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Gülcan Gökçebak",
+          "record_id": "gulcan-gokcebak-akhisar-zeytin-iscileri-kaza-is-cinayeti-2025",
+          "remaining_in_period_after_record": 81
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Haydar Aksoy",
+          "record_id": "haydar-aksoy-isig-kasim-2025",
+          "remaining_in_period_after_record": 80
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Sabri Ayhan",
+          "record_id": "sabri-ayhan-isig-kasim-2025",
+          "remaining_in_period_after_record": 79
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Esra Sümer",
+          "record_id": "esra-sumer-isig-kasim-2025",
+          "remaining_in_period_after_record": 78
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Ali Ay",
+          "record_id": "ali-ay-isig-kasim-2025",
+          "remaining_in_period_after_record": 77
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Mehmet Gönül",
+          "record_id": "mehmet-gonul-isig-kasim-2025",
+          "remaining_in_period_after_record": 76
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Seyid Ahmet Özay",
+          "record_id": "seyid-ahmet-ozay-isig-kasim-2025",
+          "remaining_in_period_after_record": 75
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Elvan Yeşilkula",
+          "record_id": "elvan-yesilkula-isig-kasim-2025",
+          "remaining_in_period_after_record": 74
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "M.M.İ.",
+          "record_id": "m-m-i-isig-kasim-2025",
+          "remaining_in_period_after_record": 73
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Ramazan Selvi",
+          "record_id": "ramazan-selvi-isig-kasim-2025",
+          "remaining_in_period_after_record": 72
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Mehmet Ayrancıoğlu",
+          "record_id": "mehmet-ayrancioglu-isig-kasim-2025",
+          "remaining_in_period_after_record": 71
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Pamuk Kaya",
+          "record_id": "pamuk-kaya-isig-kasim-2025",
+          "remaining_in_period_after_record": 70
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Serhat Sütpak",
+          "record_id": "serhat-sutpak-isig-kasim-2025",
+          "remaining_in_period_after_record": 69
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Hasan Bahar",
+          "record_id": "hasan-bahar-isig-kasim-2025",
+          "remaining_in_period_after_record": 68
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Hasan Dede",
+          "record_id": "hasan-dede-isig-kasim-2025",
+          "remaining_in_period_after_record": 67
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Nursefa Samur",
+          "record_id": "nursefa-samur-agri-aycicegi-bicerdover-is-cinayeti-2025",
+          "remaining_in_period_after_record": 66
         }
       ]
     }
@@ -1810,6 +2110,7 @@
         "https://haberdairesi.com/turkiye/isci-6-kattan-dusup-oldu-154175h",
         "https://haberts.com.tr/madende-gocuk-altinda-kalan-isci-kurtarilamadi",
         "https://halktv.com.tr/gundem/motosikletli-kurye-katledildi-922479h",
+        "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
         "https://medyabar.com/haber/23948877/karasuda-is-kazasi-vincin-altinda-kalan-isci-hayatini-kaybetti",
         "https://medyascope.tv/2026/04/20/doruk-madencilik-iscileri-bakanlik-onunde-aclik-grevine-basladi/",
         "https://mezopotamyaajansi.net/GUNCEL/content/view/310126",
@@ -1835,9 +2136,12 @@
         "https://t24.com.tr/haber/kacak-maden-ocaginda-is-cinayeti-uzerine-parcalar-dusen-isci-yasamini-yitirdi%2C1288974",
         "https://t24.com.tr/haber/turk-metal-ile-mess-arasinda-sozlesme-imzalandi-ilk-yil-zam-orani-yuzde-4781%2C1292897",
         "https://tgs.org.tr/1-mayisin-dayanisma-ruhu-ve-3-mayisin-ozgurluk-cagrisi-ile-vurguluyoruz-gazetecilik-suc-degildir/",
+        "https://tibbiyebulteni.com/vakfikebirde-agac-kesimi-sirasinda-feci-olum-isci-tahsin-albayrak-hayatini-kaybetti/",
         "https://www.24saatgazetesi.com/manisada-is-kazasi-kanalizasyon-calismasinda-gocuk-altinda-kalan-1-isci-hayatini-kaybetti",
         "https://www.24saatgazetesi.com/meb-grev-kiriciligi-yapti-italyan-lisesinde-anlasma-uzadi",
         "https://www.24saatgazetesi.com/ozel-italyan-lisesinde-grev-uluslararasi-krize-donustu-soz-var-imza-yok",
+        "https://www.akdenizgazetesi.com/aycicegi-hasadinda-feci-kaza-genc-kizin-olumu-koyu-yasa-bogdu",
+        "https://www.akhisarhaber.net/gokceahmet-teki-zincirleme-kazada-can-kaybi-ikiye-cikti/12285",
         "https://www.antalyaekspres.com.tr/maden-iscileri-icin-antalyada-eylem/amp",
         "https://www.antalyahurses.com/kayitlarda-meslek-hastaligi-yok-gercekte-is-cinayeti-var/510645/",
         "https://www.aydindenge.com.tr/soke/25/03/2026/sokede-feci-kaza-58-yasindaki-vedat-koc-hayatini-kaybetti",
@@ -1870,6 +2174,8 @@
         "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kocaeli-de-is-cinayeti-fabrikada-yuksekten-dusen-3-isci-hayatini-kaybetti-2492599",
         "https://www.cumhuriyet.com.tr/turkiye/tip-samsun-dan-doruk-maden-iscilerine-destek-isci-hakkini-gasbedip-luks-icinde-yasayanlari-teshir-edecegiz-2498564",
         "https://www.denizlihaber.com/asayis/mermer-fabrikasinda-uzerine-forklift-devrilen-genc-hayatini-kaybetti/",
+        "https://www.dha.com.tr/gundem/bicerdoverin-altinda-kalan-nursefa-hayatini-kaybetti-2756554",
+        "https://www.dha.com.tr/gundem/manisada-zincirleme-kaza-1-olu-2si-agir-8-yarali-2763415",
         "https://www.dokuz8haber.net/akcayda-1-mayis-cagrisi-edremit-demokrasi-platformundan-maden-iscilerine-destek",
         "https://www.dokuz8haber.net/sik-makas-iscileri-eylemlerinin-100-gununde-basin-aciklamasi-yapti",
         "https://www.dw.com/tr/doruk-madencilik-i%C5%9F%C3%A7ileri-eylemi-uzla%C5%9Fmayla-sonland%C4%B1rd%C4%B1/a-76972319",
@@ -1894,6 +2200,7 @@
         "https://www.haberibizden.com/gundem/isci-servis-araci-takla-atti-3-olu-6-yarali/139227",
         "https://www.haberler.com/amp/505-gundur-grevde-olan-temel-conta-iscileri-doruk-19788663-haberi/",
         "https://www.haberturk.com/kayseri-haberleri/36550633-kayseride-beton-mikseri-operatoru-is-kazasinda-oldu",
+        "https://www.haberturk.com/manisa-akhisar-da-zincirleme-kaza-2-olu-1-i-agir-7-yarali-3839847",
         "https://www.haberyolsuzluk.com/mandarin-rezidans-otel-projesinde-olumlu-is-kazasi/6589/",
         "https://www.iscihaber.net/ankara/ankarada-is-kazasi-ust-gecitten-dusen-adami-otomobil-ezdi/224540",
         "https://www.iscihaber.net/aydin/aydinda-feci-is-kazasi-tas-kirma-makinesine-kolunu-kaptiran-isci-hayatini-kaybetti/223088",
@@ -1910,6 +2217,7 @@
         "https://www.iscihaber.net/mersin/mersin-anamurda-bir-isci-insaat-iskelesinden-duserek-hayatini-kaybetti/225653",
         "https://www.iscihaber.net/samsun/samsunda-is-kazasi-plaka-iscinin-olumune-neden-oldu/225610",
         "https://www.iscihaber.net/zonguldak/zonguldakta-emekliligine-1-ay-kalan-madenci-elektrik-akimina-kapilarak-hayatini-kaybetti/222344",
+        "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
         "https://www.isigmeclisi.org/21558-is-cinayetlerine-karsi-orgutlu-mucadeleyi-yukseltelim-ocak-ayinda-e",
         "https://www.isigmeclisi.org/21588-yasamak-ve-",
         "https://www.isigmeclisi.org/21603-is-cinayetlerine-ve-cocuk-isciligine-karsi-mucadeleye-mart-ayinda",

@@ -12311,6 +12311,2755 @@
       ]
     },
     {
+      "id": "muratcan-pekeroglu-pamukkale-motokurye-carpisma-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Muratcan Pekeroğlu Pamukkale’de motokuryelik yaparken otomobil çarpması sonucu yaşamını yitirdi",
+      "summary": "Denizli Pamukkale’de 24 Kasım 2025’te otomobilin motosiklete çarptığı kazada 25 yaşındaki motokurye Muratcan Pekeroğlu ağır yaralandı. Pamukkale Üniversitesi Hastanesi’ne kaldırılan Pekeroğlu müdahalelere rağmen yaşamını yitirdi; haberler otomobil sürücüsünün gözaltına alındığını ve soruşturmanın sürdüğünü aktardı.",
+      "worker_name": "Muratcan Pekeroğlu",
+      "worker_age": 25,
+      "employer": "Motokurye / platform veya işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / motokurye",
+      "death_date": "2025-11-24",
+      "cause": "Sipariş/kurye çalışması sırasında motosiklete otomobil çarpması",
+      "legal_status": "DHA ve AA kaynaklı haberler otomobil sürücüsünün gözaltına alındığını ve soruşturmanın sürdüğünü aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "muratcan-pekeroglu-pamukkale-siteler-tokat-caddesi",
+          "label": "Siteler Mahallesi Tokat Caddesi",
+          "province_key": "DENIZLI",
+          "province": "Denizli",
+          "district": "Pamukkale",
+          "lat": 37.7571,
+          "lng": 29.101,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Haberler kazayı Pamukkale ilçesi Siteler Mahallesi Tokat Caddesi olarak verdi; açık koordinat yayımlanmadığı için Pamukkale ilçe merkezi geçici yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-24",
+          "status": "fatality_recorded",
+          "note": "S.S. yönetimindeki otomobil Muratcan Pekeroğlu’nun kullandığı motosiklete çarptı; Pekeroğlu hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Muratcan Pekeroğlu’nu ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Otomobil, motosiklete çarptı; motokurye Muratcan öldü",
+          "url": "https://www.dha.com.tr/gundem/otomobil-motosiklete-carpti-motokurye-muratcan-oldu-2764761",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Denizli'de otomobille çarpışan motosikletin sürücüsü hastanede öldü",
+          "url": "https://www.haberturk.com/denizli-haberleri/39790671-denizlide-otomobille-carpisan-motosikletin-surucusu-hastanede-oldu",
+          "publisher": "Habertürk / Anadolu Ajansı",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "id": "muhammed-kaya-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Muhammed Kaya Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Muhammed Kaya adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Muhammed Kaya",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "muhammed-kaya-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Muhammed Kaya adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Muhammed Kaya adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "serkan-alkaya-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Serkan Alkaya Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Serkan Alkaya adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Serkan Alkaya",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "serkan-alkaya-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Serkan Alkaya adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Serkan Alkaya adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "adem-ozcelik-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Adem Özçelik Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Adem Özçelik adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Adem Özçelik",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "adem-ozcelik-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Adem Özçelik adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Adem Özçelik adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "tahsin-goker-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Tahsin Göker Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Tahsin Göker adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Tahsin Göker",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "tahsin-goker-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Tahsin Göker adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Tahsin Göker adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "ersin-gencer-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ersin Gencer Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Ersin Gencer adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Ersin Gencer",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "ersin-gencer-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Ersin Gencer adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Ersin Gencer adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "hatice-unal-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Hatice Ünal Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Hatice Ünal adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Hatice Ünal",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "hatice-unal-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Hatice Ünal adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Hatice Ünal adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "ali-barut-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ali Barut Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Ali Barut adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Ali Barut",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "ali-barut-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Ali Barut adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Ali Barut adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "faruk-sahin-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Faruk Şahin Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Faruk Şahin adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Faruk Şahin",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "faruk-sahin-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Faruk Şahin adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Faruk Şahin adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "ali-k-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ali K. Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Ali K. adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Ali K.",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "ali-k-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Ali K. adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Ali K. adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "mehmet-doganay-kirikhan-golbasi-amfibi-arac-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mehmet Doğanay Kırıkhan Gölbaşı Gölü’nde amfibi aracın devrilmesi sonucu yaşamını yitirdi",
+      "summary": "Hatay Büyükşehir Belediyesi Çevre Koruma ve Kontrol Dairesi çalışanı Mehmet Doğanay, Kırıkhan Gölbaşı Gölü’nde su sümbüllerinin temizliği sırasında devrilen amfibi araçtan suya düştü. Çevredeki balıkçıların yardımıyla çıkarılıp hastaneye kaldırılan Doğanay müdahalelere rağmen yaşamını yitirdi.",
+      "worker_name": "Mehmet Doğanay",
+      "employer": "Hatay Büyükşehir Belediyesi Çevre Koruma ve Kontrol Dairesi Başkanlığı",
+      "sector": "Belediye / çevre temizliği",
+      "death_date": "2025-11",
+      "cause": "Göl temizliği sırasında amfibi aracın devrilmesi",
+      "legal_status": "Sendika.org haberinde can yeleği/eğitim eksikliği iddiaları aktarıldı; bağımsız hukuki süreç bilgisi bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "mehmet-doganay-kirikhan-golbasi-golu",
+          "label": "Gölbaşı Gölü",
+          "province_key": "HATAY",
+          "province": "Hatay",
+          "district": "Kırıkhan",
+          "lat": 36.504,
+          "lng": 36.359,
+          "geocode_precision": "venue_approx",
+          "fatality_count": 1,
+          "location_basis": "Haberler olayı Kırıkhan Gölbaşı Gölü’nde su sümbülü temizliği sırasında verdi; göl çevresi için yaklaşık koordinat kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "Gölbaşı Gölü’ndeki temizlik çalışması sırasında amfibi araç devrildi; Mehmet Doğanay sudan çıkarılıp hastaneye kaldırıldı ancak kurtarılamadı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Mehmet Doğanay’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hatay’da iş cinayeti: Belediye işçisi amfibi aracın gölde devrilmesi sonucu yaşamını yitirdi",
+          "url": "https://sendika.org/2025/11/hatayda-is-cinayeti-belediye-iscisi-amfibi-aracin-golde-devrilmesi-sonucu-yasamini-yitirdi-737535",
+          "publisher": "Sendika.Org",
+          "type": "labor_news",
+          "published_at": "2025-11"
+        },
+        {
+          "title": "Hatay'da devrilen amfibi aracın altında kalan belediye işçisi hayatını kaybetti",
+          "url": "https://www.birgun.net/haber/hatay-da-devrilen-amfibi-aracin-altinda-kalan-belediye-iscisi-hayatini-kaybetti-669865",
+          "publisher": "BirGün / Anadolu Ajansı",
+          "type": "news",
+          "published_at": "2025-11"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "id": "omer-kaya-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ömer Kaya Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Ömer Kaya adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Ömer Kaya",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "omer-kaya-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Ömer Kaya adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Ömer Kaya adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "ismet-akkas-usak-site-cam-silme-dusme-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İsmet Akkaş Uşak Merkez’de site camlarını silerken düşerek yaşamını yitirdi",
+      "summary": "BirGün’ün haftalık iş cinayetleri özetine göre 52 yaşındaki İsmet Akkaş, Uşak Merkez’de çalıştığı sitenin camlarını silerken altıncı kattan apartman boşluğuna düştü; yaralandıktan sonra ertesi gün hastanede yaşamını yitirdi. Kesin olay günü bu geçişte doğrulanamadığı için ölüm tarihi İSİG rapor ayı olan 2025-11 olarak tutuldu.",
+      "worker_name": "İsmet Akkaş",
+      "worker_age": 52,
+      "employer": "Site yönetimi / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "Hizmet / temizlik",
+      "death_date": "2025-11",
+      "cause": "Site camlarını silerken altıncı kattan apartman boşluğuna düşme",
+      "legal_status": "Bağımsız hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "ismet-akkas-usak-merkez",
+          "label": "Uşak Merkez (site; adres doğrulanamadı)",
+          "province_key": "USAK",
+          "province": "Uşak",
+          "district": "Merkez",
+          "lat": 38.6742,
+          "lng": 29.4059,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "BirGün olayı Uşak Merkez’de bir sitede cam silme sırasında gerçekleşen düşme olarak aktardı; açık adres yayımlanmadığı için Uşak merkez koordinatı kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İsmet Akkaş site camlarını silerken altıncı kattan apartman boşluğuna düştü; hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu İsmet Akkaş’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Önce hayat!",
+          "url": "https://www.birgun.net/makale/once-hayat-669387",
+          "publisher": "BirGün",
+          "type": "labor_column",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "id": "ali-can-gurer-urla-projektor-tamiri-dusme-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ali Can Gürer Urla’da projektör tamiri sırasında yüksekten düşerek yaşamını yitirdi",
+      "summary": "İzmir Urla’da özel bir sitede elektrikçi olarak çalışan 22 yaşındaki Ali Can Gürer, spor sahasındaki projektörü tamir ederken yaklaşık 4 metre yükseklikten düştü. Urla Devlet Hastanesi’ne kaldırılan Gürer müdahalelere rağmen 11 Kasım 2025’te yaşamını yitirdi.",
+      "worker_name": "Ali Can Gürer",
+      "worker_age": 22,
+      "employer": "Özel site / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Elektrik / bakım-onarım",
+      "death_date": "2025-11-11",
+      "cause": "Spor sahası projektörünü tamir ederken yüksekten düşme",
+      "legal_status": "İHA kaynaklı haber olayla ilgili soruşturmanın sürdüğünü aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "ali-can-gurer-urla-site",
+          "label": "Urla’da özel site spor sahası (adres doğrulanamadı)",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Urla",
+          "lat": 38.3229,
+          "lng": 26.764,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Haberler olayı Urla’da özel bir sitenin spor sahası/projektörü olarak verdi; açık adres yayımlanmadığı için Urla ilçe merkezi geçici yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-11",
+          "status": "fatality_recorded",
+          "note": "Ali Can Gürer özel sitede projektör tamiri sırasında 4 metre yükseklikten düştü; hastanede kurtarılamadı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Ali Can Gürer’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Urla'da Genç Elektrikçi, Projektör Tamiri Sırasında 4 Metreden Düştü",
+          "url": "https://www.haberler.com/3-sayfa/urla-da-genc-elektrikci-projektor-tamiri-sirasinda-4-metreden-dustu-19244344-haberi/",
+          "publisher": "Haberler.com / İhlas Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "Önce hayat!",
+          "url": "https://www.birgun.net/makale/once-hayat-669387",
+          "publisher": "BirGün",
+          "type": "labor_column",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "id": "servet-kayaoglu-yenice-asfalt-elektrik-akimi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Servet Kayaoğlu Yenice’de asfalt çalışması sırasında elektrik akımına kapılarak yaşamını yitirdi",
+      "summary": "Karabük Yenice’de belediye ekiplerinin asfalt çalışması sırasında kamyon damperinin yüksek gerilim hattına temas etmesi sonucu 37 yaşındaki Yenice Belediyesi çalışanı Servet Kayaoğlu elektrik akımına kapıldı. Yenice Devlet Hastanesi’ne kaldırılan Kayaoğlu kurtarılamadı; başka bir işçi yaralandı.",
+      "worker_name": "Servet Kayaoğlu",
+      "worker_age": 37,
+      "employer": "Yenice Belediyesi",
+      "sector": "Belediye / yol-asfalt çalışması",
+      "death_date": "2025-11-07",
+      "cause": "Asfalt çalışması sırasında kamyon damperinin elektrik tellerine temas etmesi",
+      "legal_status": "Haberler olayla ilgili soruşturma başlatıldığını ve kamyon şoförünün gözaltına alındığını aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "servet-kayaoglu-yenice-ismetpasa",
+          "label": "İsmetpaşa Mahallesi",
+          "province_key": "KARABUK",
+          "province": "Karabük",
+          "district": "Yenice",
+          "lat": 41.1966,
+          "lng": 32.3314,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Haberler olayı Yenice ilçesi İsmetpaşa Mahallesi’nde asfalt çalışması sırasında verdi; mahalle içi açık koordinat yayımlanmadığı için Yenice ilçe merkezi geçici yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-07",
+          "status": "fatality_recorded",
+          "note": "Asfalt çalışması sırasında kamyon damperi elektrik tellerine temas etti; Servet Kayaoğlu akıma kapılarak yaşamını yitirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Servet Kayaoğlu’nu ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İnanılmaz ölüm! Damper elektrik tellerine çarptı!",
+          "url": "https://www.haberturk.com/inanilmaz-olum-damper-elektrik-tellerine-carpti-3836210",
+          "publisher": "Habertürk / Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-07"
+        },
+        {
+          "title": "Yenice’de Asfalt Çalışmasında Feci Kaza: Servet Kayaoğlu Hayatını Kaybetti",
+          "url": "https://bizimmedyakarabuk.com/2025/11/07/yenicede-asfalt-calismasinda-feci-kaza-servet-kayaoglu-hayatini-kaybetti/",
+          "publisher": "Bizim Medya Karabük",
+          "type": "local_news",
+          "published_at": "2025-11-07"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "id": "cesim-acik-gebze-cop-kamyonu-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Cesim Açık Gebze’de belediye çöp kamyonunun altında kalarak yaşamını yitirdi",
+      "summary": "Kocaeli Gebze’de Gebze Belediyesi Park ve Bahçeler Müdürlüğü’nde temizlik görevlisi olarak çalışan 45 yaşındaki Cesim Açık, Mevlana Mahallesi Erenler Caddesi çevresinde belediyeye ait çöp kamyonunun altında kalarak 7 Kasım 2025’te yaşamını yitirdi. Haberler sürücünün gözaltına alındığını ve soruşturma başlatıldığını aktardı.",
+      "worker_name": "Cesim Açık",
+      "worker_age": 45,
+      "employer": "Gebze Belediyesi Park ve Bahçeler Müdürlüğü",
+      "sector": "Belediye / temizlik",
+      "death_date": "2025-11-07",
+      "cause": "Belediye çöp kamyonunun altında kalma",
+      "legal_status": "AA/DHA kaynaklı haberler çöp kamyonu sürücüsünün gözaltına alındığını ve soruşturma/inceleme başlatıldığını aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "cesim-acik-gebze-mevlana-erenler",
+          "label": "Mevlana Mahallesi Erenler Caddesi / Beylikdağı Parkı çevresi",
+          "province_key": "KOCAELI",
+          "province": "Kocaeli",
+          "district": "Gebze",
+          "lat": 40.8028,
+          "lng": 29.4307,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Haberler kazayı Mevlana Mahallesi Erenler Caddesi ve Beylikdağı Parkı çevresinde verdi; açık koordinat yayımlanmadığı için Gebze ilçe merkezi geçici yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-07",
+          "status": "fatality_recorded",
+          "note": "Cesim Açık belediyeye ait çöp kamyonunun altında kaldı; sağlık ekipleri olay yerinde yaşamını yitirdiğini belirledi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Cesim Açık’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gebze’de çöp kamyonunun çarptığı işçi öldü!",
+          "url": "https://www.gebzeyenigun.com/gebze-de-cop-kamyonunun-carptigi-isci-oldu/81032/",
+          "publisher": "Gebze Yenigün",
+          "type": "local_news",
+          "published_at": "2025-11-07"
+        },
+        {
+          "title": "Gebze'de Çöp Kamyonu Kazası: Bir Kişi Hayatını Kaybetti",
+          "url": "https://www.sondakika.com/haber/haber-gebze-de-cop-kamyonu-kazasi-bir-kisi-hayatini-kayb-19230664/",
+          "publisher": "Son Dakika / Anadolu Ajansı",
+          "type": "news",
+          "published_at": "2025-11-07"
+        },
+        {
+          "title": "Gebze'de Çöp Kamyonu Altında Kalan Belediye İşçisi Hayatını Kaybetti",
+          "url": "https://www.haberler.com/guncel/gebze-de-cop-kamyonu-altinda-kalan-belediye-iscisi-hayatini-kaybetti-19235414-haberi/",
+          "publisher": "Haberler.com / Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-09"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "id": "ibrahim-durak-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İbrahim Durak Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, İbrahim Durak adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "İbrahim Durak",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "ibrahim-durak-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu İbrahim Durak adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi İbrahim Durak adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "can-perkanat-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Can Perkanat Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Can Perkanat adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Can Perkanat",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "can-perkanat-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Can Perkanat adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Can Perkanat adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "bulent-yumsak-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Bülent Yumşak Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Bülent Yumşak adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Bülent Yumşak",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "bulent-yumsak-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Bülent Yumşak adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Bülent Yumşak adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "nasir-bicer-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Nasır Biçer Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Nasır Biçer adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Nasır Biçer",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "nasir-bicer-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Nasır Biçer adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Nasır Biçer adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "ekrem-balaban-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ekrem Balaban Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Ekrem Balaban adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Ekrem Balaban",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "ekrem-balaban-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Ekrem Balaban adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Ekrem Balaban adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "bilal-polat-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Bilal Polat Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Bilal Polat adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Bilal Polat",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "bilal-polat-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Bilal Polat adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Bilal Polat adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "tufan-mutlu-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Tufan Mutlu Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Tufan Mutlu adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Tufan Mutlu",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "tufan-mutlu-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Tufan Mutlu adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Tufan Mutlu adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "isimsiz-isci-kasim-2025-1",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İsmi öğrenilemeyen işçi (Kasım 2025 #1) Kasım 2025 İSİG raporundaki ismi öğrenilemeyen işçiler arasında kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, ay içinde hayatını kaybeden ve isimleri öğrenilemeyen dört işçiyi ayrıca andı. Bu kayıt, o dört anonim işçiden #1 için geçici rapor kaydıdır; kesin gün, il, işkolu, işveren ve olay nedeni bu geçişte doğrulanamadı.",
+      "worker_name": "İsmi öğrenilemeyen işçi (Kasım 2025 #1)",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "isimsiz-isci-kasim-2025-1-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu ay sonunda ismi öğrenilemeyen dört işçiyi listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Kasım 2025’te isimleri öğrenilemeyen dört işçiyi iş cinayetlerinde hayatını kaybedenler arasında saydı; bu kayıt anonim işçi #1 için açıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "isimsiz-isci-kasim-2025-2",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İsmi öğrenilemeyen işçi (Kasım 2025 #2) Kasım 2025 İSİG raporundaki ismi öğrenilemeyen işçiler arasında kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, ay içinde hayatını kaybeden ve isimleri öğrenilemeyen dört işçiyi ayrıca andı. Bu kayıt, o dört anonim işçiden #2 için geçici rapor kaydıdır; kesin gün, il, işkolu, işveren ve olay nedeni bu geçişte doğrulanamadı.",
+      "worker_name": "İsmi öğrenilemeyen işçi (Kasım 2025 #2)",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "isimsiz-isci-kasim-2025-2-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu ay sonunda ismi öğrenilemeyen dört işçiyi listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Kasım 2025’te isimleri öğrenilemeyen dört işçiyi iş cinayetlerinde hayatını kaybedenler arasında saydı; bu kayıt anonim işçi #2 için açıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "isimsiz-isci-kasim-2025-3",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İsmi öğrenilemeyen işçi (Kasım 2025 #3) Kasım 2025 İSİG raporundaki ismi öğrenilemeyen işçiler arasında kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, ay içinde hayatını kaybeden ve isimleri öğrenilemeyen dört işçiyi ayrıca andı. Bu kayıt, o dört anonim işçiden #3 için geçici rapor kaydıdır; kesin gün, il, işkolu, işveren ve olay nedeni bu geçişte doğrulanamadı.",
+      "worker_name": "İsmi öğrenilemeyen işçi (Kasım 2025 #3)",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "isimsiz-isci-kasim-2025-3-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu ay sonunda ismi öğrenilemeyen dört işçiyi listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Kasım 2025’te isimleri öğrenilemeyen dört işçiyi iş cinayetlerinde hayatını kaybedenler arasında saydı; bu kayıt anonim işçi #3 için açıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "isimsiz-isci-kasim-2025-4",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İsmi öğrenilemeyen işçi (Kasım 2025 #4) Kasım 2025 İSİG raporundaki ismi öğrenilemeyen işçiler arasında kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, ay içinde hayatını kaybeden ve isimleri öğrenilemeyen dört işçiyi ayrıca andı. Bu kayıt, o dört anonim işçiden #4 için geçici rapor kaydıdır; kesin gün, il, işkolu, işveren ve olay nedeni bu geçişte doğrulanamadı.",
+      "worker_name": "İsmi öğrenilemeyen işçi (Kasım 2025 #4)",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "isimsiz-isci-kasim-2025-4-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu ay sonunda ismi öğrenilemeyen dört işçiyi listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Kasım 2025’te isimleri öğrenilemeyen dört işçiyi iş cinayetlerinde hayatını kaybedenler arasında saydı; bu kayıt anonim işçi #4 için açıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "tahsin-albayrak-vakfikebir-agac-devrilmesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Tahsin Albayrak Vakfıkebir’de ağaç kesimi sırasında devrilen ağacın altında kalarak yaşamını yitirdi",
+      "summary": "Trabzon Vakfıkebir’de Taşlıyatak Yaylası’nda ağaç kesimi yapan 45 yaşındaki Tahsin Albayrak, kestiği ağacın devrilmesi sonucu gövdenin altında kaldı. Haberde Albayrak’ın Orman Genel Müdürlüğü’nün yaptığı orman kesim ihalesini alan firmada işçi olarak çalıştığı ve olay yerinde yaşamını yitirdiği aktarıldı.",
+      "worker_name": "Tahsin Albayrak",
+      "worker_age": 45,
+      "employer": "Orman kesim ihalesini alan firma (adı kaynakta belirtilmedi)",
+      "sector": "Tarım / orman işçiliği",
+      "death_date": "2025-11-30",
+      "cause": "Ağaç kesimi sırasında devrilen ağacın altında kalma",
+      "legal_status": "Yerel haber olayla ilgili soruşturma başlatıldığını aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "tahsin-albayrak-vakfikebir-tasliyatak-yaylasi",
+          "label": "Taşlıyatak Yaylası",
+          "province_key": "TRABZON",
+          "province": "Trabzon",
+          "district": "Vakfıkebir",
+          "lat": 41.0453,
+          "lng": 39.2767,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Haberler olayı Vakfıkebir ilçesine bağlı Taşlıyatak Yaylası olarak verdi; açık koordinat yayımlanmadığı için Vakfıkebir ilçe merkezi geçici yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-30",
+          "status": "fatality_recorded",
+          "note": "Tahsin Albayrak ağaç kesimi sırasında devrilen ağacın altında kalarak olay yerinde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Tahsin Albayrak’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Vakfıkebir’de Ağaç Kesimi Sırasında Feci Ölüm: İşçi Tahsin Albayrak Hayatını Kaybetti",
+          "url": "https://tibbiyebulteni.com/vakfikebirde-agac-kesimi-sirasinda-feci-olum-isci-tahsin-albayrak-hayatini-kaybetti/",
+          "publisher": "Tıbbiye Bülteni",
+          "type": "news",
+          "published_at": "2025-11-30"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "ashraf-fathi-shehat-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ashraf Fathi Shehat Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Ashraf Fathi Shehat adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Ashraf Fathi Shehat",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "ashraf-fathi-shehat-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Ashraf Fathi Shehat adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Ashraf Fathi Shehat adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "suat-aydin-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Suat Aydın Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Suat Aydın adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Suat Aydın",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "suat-aydin-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Suat Aydın adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Suat Aydın adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "cigdem-yesil-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Çiğdem Yeşil Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Çiğdem Yeşil adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Çiğdem Yeşil",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "cigdem-yesil-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Çiğdem Yeşil adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Çiğdem Yeşil adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "arif-ozdemir-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Arif Özdemir Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Arif Özdemir adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Arif Özdemir",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "arif-ozdemir-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Arif Özdemir adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Arif Özdemir adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "bayram-yurdagul-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Bayram Yurdagül Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Bayram Yurdagül adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Bayram Yurdagül",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "bayram-yurdagul-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Bayram Yurdagül adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Bayram Yurdagül adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "ummu-gulsum-gokcebak-akhisar-zeytin-iscileri-kaza-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ümmü Gülsüm Gökçebak Akhisar’da zeytin işçilerini taşıyan traktöre kamyon çarpması sonrası yaşamını yitirdi",
+      "summary": "Manisa Akhisar’da Akhisar-Balıkesir yolunun 10. kilometresindeki Gökçeahmet rampasında zeytin işçilerini taşıyan traktöre arkadan kamyon çarpmasıyla zincirleme kaza meydana geldi. Traktördeki zeytin işçisi Gülcan Gökçebak olay yerinde, annesi Ümmü Gülsüm Gökçebak ise ağır yaralı kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "Ümmü Gülsüm Gökçebak",
+      "worker_age": 72,
+      "employer": "Zeytin hasadı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Tarım / zeytin işçiliği",
+      "death_date": "2025-11-22",
+      "cause": "Zeytin işçilerini taşıyan traktöre kamyon çarpması sonucu trafik/servis kazası",
+      "legal_status": "Haberler traktöre arkadan çarpan kamyon sürücüsünün gözaltına alındığını aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "gokcebak-akhisar-gokceahmet-rampasi",
+          "label": "Akhisar-Balıkesir yolu 10. km, Gökçeahmet rampası",
+          "province_key": "MANISA",
+          "province": "Manisa",
+          "district": "Akhisar",
+          "lat": 38.9185,
+          "lng": 27.8404,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Haberler kazayı Akhisar-Balıkesir kara yolunun 10. kilometresindeki Gökçeahmet rampası olarak verdi; açık koordinat yayımlanmadığı için Akhisar ilçe merkezi geçici yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-22",
+          "status": "fatality_recorded",
+          "note": "Zeytin işçilerini taşıyan traktöre kamyon çarpmasıyla meydana gelen zincirleme kazada Ümmü Gülsüm Gökçebak hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Ümmü Gülsüm Gökçebak’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Manisa-Akhisar'da zincirleme kaza: 2 ölü, 1'i ağır 7 yaralı",
+          "url": "https://www.haberturk.com/manisa-akhisar-da-zincirleme-kaza-2-olu-1-i-agir-7-yarali-3839847",
+          "publisher": "Habertürk / DHA",
+          "type": "news",
+          "published_at": "2025-11-22"
+        },
+        {
+          "title": "Gökçeahmet'teki Zincirleme Kazada Can Kaybı ikiye çıktı",
+          "url": "https://www.akhisarhaber.net/gokceahmet-teki-zincirleme-kazada-can-kaybi-ikiye-cikti/12285",
+          "publisher": "Akhisar Haber",
+          "type": "news",
+          "published_at": "2025-11-22"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "gulcan-gokcebak-akhisar-zeytin-iscileri-kaza-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Gülcan Gökçebak Akhisar’da zeytin işçilerini taşıyan traktöre kamyon çarpması sonucu yaşamını yitirdi",
+      "summary": "Manisa Akhisar’da Akhisar-Balıkesir yolunun 10. kilometresindeki Gökçeahmet rampasında zeytin işçilerini taşıyan traktöre arkadan kamyon çarpmasıyla zincirleme kaza meydana geldi. Haberler zeytin işçisi Gülcan Gökçebak’ın olay yerinde, annesi Ümmü Gülsüm Gökçebak’ın ise hastanede yaşamını yitirdiğini aktardı.",
+      "worker_name": "Gülcan Gökçebak",
+      "employer": "Zeytin hasadı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Tarım / zeytin işçiliği",
+      "death_date": "2025-11-22",
+      "cause": "Zeytin işçilerini taşıyan traktöre kamyon çarpması sonucu trafik/servis kazası",
+      "legal_status": "Haberler traktöre arkadan çarpan kamyon sürücüsünün gözaltına alındığını aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "gulcan-gokcebak-akhisar-gokceahmet-rampasi",
+          "label": "Akhisar-Balıkesir yolu 10. km, Gökçeahmet rampası",
+          "province_key": "MANISA",
+          "province": "Manisa",
+          "district": "Akhisar",
+          "lat": 38.9185,
+          "lng": 27.8404,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Haberler kazayı Akhisar-Balıkesir kara yolunun 10. kilometresindeki Gökçeahmet rampası olarak verdi; açık koordinat yayımlanmadığı için Akhisar ilçe merkezi geçici yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-22",
+          "status": "fatality_recorded",
+          "note": "Zeytin işçilerini taşıyan traktöre kamyon çarpmasıyla meydana gelen zincirleme kazada Gülcan Gökçebak olay yerinde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Gülcan Gökçebak’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Manisa'da zincirleme kaza: 2 ölü, 1'i ağır 7 yaralı",
+          "url": "https://www.dha.com.tr/gundem/manisada-zincirleme-kaza-1-olu-2si-agir-8-yarali-2763415",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-22"
+        },
+        {
+          "title": "Manisa-Akhisar'da zincirleme kaza: 2 ölü, 1'i ağır 7 yaralı",
+          "url": "https://www.haberturk.com/manisa-akhisar-da-zincirleme-kaza-2-olu-1-i-agir-7-yarali-3839847",
+          "publisher": "Habertürk / DHA",
+          "type": "news",
+          "published_at": "2025-11-22"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "haydar-aksoy-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Haydar Aksoy Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Haydar Aksoy adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Haydar Aksoy",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "haydar-aksoy-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Haydar Aksoy adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Haydar Aksoy adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "sabri-ayhan-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Sabri Ayhan Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Sabri Ayhan adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Sabri Ayhan",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "sabri-ayhan-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Sabri Ayhan adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Sabri Ayhan adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "esra-sumer-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Esra Sümer Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Esra Sümer adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Esra Sümer",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "esra-sumer-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Esra Sümer adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Esra Sümer adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "ali-ay-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ali Ay Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Ali Ay adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Ali Ay",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "ali-ay-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Ali Ay adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Ali Ay adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "mehmet-gonul-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mehmet Gönül Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Mehmet Gönül adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Mehmet Gönül",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "mehmet-gonul-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Mehmet Gönül adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Mehmet Gönül adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "seyid-ahmet-ozay-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Seyid Ahmet Özay Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Seyid Ahmet Özay adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Seyid Ahmet Özay",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "seyid-ahmet-ozay-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Seyid Ahmet Özay adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Seyid Ahmet Özay adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "elvan-yesilkula-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Elvan Yeşilkula Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Elvan Yeşilkula adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Elvan Yeşilkula",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "elvan-yesilkula-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Elvan Yeşilkula adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Elvan Yeşilkula adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "m-m-i-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "M.M.İ. Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, M.M.İ. adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "M.M.İ.",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "m-m-i-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu M.M.İ. adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi M.M.İ. adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "ramazan-selvi-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ramazan Selvi Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Ramazan Selvi adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Ramazan Selvi",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "ramazan-selvi-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Ramazan Selvi adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Ramazan Selvi adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "mehmet-ayrancioglu-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mehmet Ayrancıoğlu Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Mehmet Ayrancıoğlu adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Mehmet Ayrancıoğlu",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "mehmet-ayrancioglu-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Mehmet Ayrancıoğlu adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Mehmet Ayrancıoğlu adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "pamuk-kaya-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Pamuk Kaya Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Pamuk Kaya adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Pamuk Kaya",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "pamuk-kaya-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Pamuk Kaya adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Pamuk Kaya adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "serhat-sutpak-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Serhat Sütpak Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Serhat Sütpak adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Serhat Sütpak",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "serhat-sutpak-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Serhat Sütpak adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Serhat Sütpak adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "hasan-bahar-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Hasan Bahar Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Hasan Bahar adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Hasan Bahar",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "hasan-bahar-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Hasan Bahar adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Hasan Bahar adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "hasan-dede-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Hasan Dede Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Hasan Dede adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Hasan Dede",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "hasan-dede-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Hasan Dede adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Hasan Dede adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
+      "id": "nursefa-samur-agri-aycicegi-bicerdover-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Nursefa Samur Ağrı’da ayçiçeği hasadı sırasında biçerdöverin altında kalarak yaşamını yitirdi",
+      "summary": "Ağrı’da 11 Kasım 2025’te ailesiyle birlikte ayçiçeği hasadına giden 14 yaşındaki Nursefa Samur, traktöre bağlı biçerdöverin altında kaldı. Sağlık ekipleri Samur’un olay yerinde yaşamını yitirdiğini belirledi; haberler cenazesinin otopsi için Ağrı Eğitim ve Araştırma Devlet Hastanesi morguna götürüldüğünü aktardı.",
+      "worker_name": "Nursefa Samur",
+      "worker_age": 14,
+      "employer": "Aileyle birlikte tarım işçiliği / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Tarım / ayçiçeği hasadı",
+      "death_date": "2025-11-11",
+      "cause": "Ayçiçeği hasadı sırasında traktöre bağlı biçerdöverin altında kalma",
+      "legal_status": "Haberler olayla ilgili soruşturma başlatıldığını aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "nursefa-samur-agri-askale-koyu",
+          "label": "Aşkale Köyü",
+          "province_key": "AGRI",
+          "province": "Ağrı",
+          "district": "Merkez",
+          "lat": 39.7191,
+          "lng": 43.0503,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Haberler olayı Ağrı il merkezine bağlı Aşkale Köyü olarak verdi; açık koordinat yayımlanmadığı için Ağrı merkez ilçe geçici yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-11",
+          "status": "fatality_recorded",
+          "note": "Nursefa Samur ayçiçeği hasadı sırasında traktöre bağlı biçerdöverin altında kalarak yaşamını yitirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Nursefa Samur’u ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Biçerdöverin altında kalan Nursefa hayatını kaybetti",
+          "url": "https://www.dha.com.tr/gundem/bicerdoverin-altinda-kalan-nursefa-hayatini-kaybetti-2756554",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "Nursefa Samur Biçerdöver Altında Kalarak Can Verdi",
+          "url": "https://www.akdenizgazetesi.com/aycicegi-hasadinda-feci-kaza-genc-kizin-olumu-koyu-yasa-bogdu",
+          "publisher": "Akdeniz Gazetesi / İHA",
+          "type": "news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
