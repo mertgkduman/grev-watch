@@ -9130,6 +9130,95 @@
       ]
     },
     {
+      "id": "aydin-yilmaz-tarsus-camliyayla-elektrik-santiyesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Aydın Yılmaz Tarsus-Çamlıyayla yolundaki elektrik şantiyesinde akıma kapıldıktan sonra yaşamını yitirdi",
+      "summary": "Mersin’de Tarsus-Çamlıyayla yolu üzerindeki elektrik şantiyesinde taşeron firma kadrosunda çalışan 40 yaşındaki Aydın Yılmaz, 15 Kasım 2025’te çalışma sırasında yüksek gerilim hattına temas ederek elektrik akımına kapıldı. Aynı olayda Yasin Çelik/Yasin Y. adlı işçi de ağır yaralandı. Ağır yaralanan iki işçi önce Tarsus Devlet Hastanesi’ne, ardından Mersin Şehir Hastanesi’ne sevk edildi; DHA/Haberet’in 20 Kasım tarihli haberine göre Yılmaz 5 gün sonra yaşam mücadelesini kaybetti. İHA kaynaklı haberler olayla ilgili soruşturmanın sürdüğünü aktardı.",
+      "worker_name": "Aydın Yılmaz",
+      "worker_age": 40,
+      "employer": "Tarsus-Çamlıyayla yolu üzerindeki elektrik şantiyesi / taşeron firma",
+      "sector": "Enerji / elektrik altyapısı",
+      "death_date": "2025-11-20",
+      "cause": "Yüksek gerilim hattına temas sonucu elektrik akımına kapılma",
+      "legal_status": "DHA ve İHA kaynaklı haberler olayla ilgili soruşturmanın sürdüğünü aktardı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "aydin-yilmaz-tarsus-camliyayla-elektrik-santiyesi",
+          "label": "Tarsus-Çamlıyayla yolu üzerindeki elektrik şantiyesi",
+          "province_key": "MERSIN",
+          "province": "Mersin",
+          "district": "Tarsus / Çamlıyayla",
+          "lat": 37.164059,
+          "lng": 34.670097,
+          "geocode_precision": "road_corridor_approximate",
+          "fatality_count": 1,
+          "location_basis": "DHA kaynaklı haberler olayı Tarsus ilçesine bağlı Tarsus-Çamlıyayla kara yolundaki elektrik şantiyesi olarak; İHA kaynaklı haberler ise Çamlıyayla ilçesinde Tarsus-Çamlıyayla yolundaki elektrik şantiyesi olarak verdi. Açık şantiye adresi doğrulanamadığı için Haritamap’ın Çamlıyayla Tarsus Yolu koordinatları yol koridoru yaklaşık konumu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-15",
+          "status": "injury_recorded",
+          "note": "Aydın Yılmaz ve Yasin Çelik/Yasin Y., Tarsus-Çamlıyayla yolu üzerindeki elektrik şantiyesinde yüksek gerilim hattına temas ederek elektrik akımına kapıldı."
+        },
+        {
+          "date": "2025-11-20",
+          "status": "fatality_recorded",
+          "note": "DHA/Haberet, Aydın Yılmaz’ın kazadan 5 gün sonra tedavi gördüğü hastanede yaşamını yitirdiğini aktardı."
+        },
+        {
+          "date": "2025-11-20",
+          "status": "investigation_opened",
+          "note": "DHA ve İHA kaynaklı haberler olayla ilgili soruşturmanın sürdüğünü bildirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Aydın Yılmaz’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Akıma kapılan iki işçiden biri öldü, diğeri yaralandı",
+          "url": "https://www.haberet.com/3-sayfa/akima-kapilan-iki-isciden-biri-oldu-digeri-yaralandi-100101",
+          "publisher": "Haberet / DHA",
+          "type": "news",
+          "published_at": "2025-11-20"
+        },
+        {
+          "title": "Elektrik akımına kapılan Aydın Yılmaz hayatını kaybetti",
+          "url": "https://www.yeniadimgazetesi.com/elektrik-akimina-kapilan-aydin-yilmaz-hayatini-kaybetti",
+          "publisher": "Yeni Adım Gazetesi / İHA",
+          "type": "news",
+          "published_at": "2025-11-21"
+        },
+        {
+          "title": "Elektrik Akımına Kapılan Ordulu İki İşçi Yaşamını Yitirdi",
+          "url": "https://karadenizbayrak.com/haber/elektrik_akimina_kapilan_ordulu_iki_isci_yasamini_yitirdi-21090.html",
+          "publisher": "Karadeniz Bayrak",
+          "type": "news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "Çamlıyayla Tarsus Yolu Haritası",
+          "url": "https://www.haritamap.com/yer/camliyayla-tarsus-yolu-camliyayla",
+          "publisher": "Haritamap.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
