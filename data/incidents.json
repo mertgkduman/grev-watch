@@ -5842,6 +5842,85 @@
       ]
     },
     {
+      "id": "onur-sayiloglu-mezitli-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Onur Sayıloğlu Mersin Mezitli’de çalıştığı inşaattan düşerek yaşamını yitirdi",
+      "summary": "Mersin’in Mezitli ilçesi Akdeniz Mahallesi’nde 10 katlı bir inşaatta çalışan 17 yaşındaki çocuk işçi Onur Sayıloğlu, 18 Kasım’da inşaatın 5. katından düşerek ağır yaralandı. Olay yerine gelen sağlık ekipleri Sayıloğlu’nun yaşamını yitirdiğini belirledi; cenazesi 18. doğum gününde Mezitli Davultepe Mezarlığı’nda toprağa verildi.",
+      "worker_name": "Onur Sayıloğlu",
+      "worker_age": 17,
+      "employer": "Akdeniz Mahallesi’ndeki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / çocuk işçi",
+      "death_date": "2025-11-18",
+      "cause": "Çalıştığı 10 katlı inşaatın 5. katından düşme",
+      "legal_status": "Kaynaklar olay sonrası otopsi işlemlerinin yapıldığını aktardı; işveren veya adli/idari süreç ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-20",
+      "locations": [
+        {
+          "id": "onur-sayiloglu-mezitli-akdeniz-mahallesi-insaat",
+          "label": "Akdeniz Mahallesi 39727 Sokak’taki 10 katlı inşaat",
+          "province_key": "MERSIN",
+          "province": "Mersin",
+          "district": "Mezitli",
+          "lat": 36.728306,
+          "lng": 34.506802,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Mezitli ilçesi Akdeniz Mahallesi’ndeki 10 katlı inşaat olarak verdi; bir yerel kaynak 39727 Sokak bilgisini aktardı. Açık inşaat parseli doğrulanamadığı için Akdeniz Mahallesi merkez koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-18",
+          "status": "fatality_recorded",
+          "note": "Onur Sayıloğlu Mezitli Akdeniz Mahallesi’ndeki inşaatın 5. katından düşerek yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-20",
+          "status": "reported",
+          "note": "Cenazesi 18. doğum gününde Mezitli Davultepe Mezarlığı’nda toprağa verildi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mersin’de inşaattan düşen çocuk işçi Onur Sayıloğlu doğum gününde toprağa verildi",
+          "url": "https://ilketv.com.tr/mersinde-insaattan-dusen-cocuk-isci-onur-sayiloglu-dogum-gununde-topraga-verildi/",
+          "publisher": "İlke TV",
+          "type": "news",
+          "published_at": "2025-11-20"
+        },
+        {
+          "title": "İnşaattan düşen Onur, doğum gününde toprağa verildi",
+          "url": "https://www.dha.com.tr/gundem/insaattan-dusen-onur-dogum-gununde-topraga-verildi-2762039",
+          "publisher": "DHA",
+          "type": "news",
+          "published_at": "2025-11-20"
+        },
+        {
+          "title": "Mezitli’de İnşaattan Düşen Onur, Doğum Gününde Toprağa Verildi",
+          "url": "https://www.mersinportal.com/mezitlide-insaattan-dusen-onur-dogum-gununde-topraga-verildi",
+          "publisher": "Mersin Portal",
+          "type": "local_news",
+          "published_at": "2025-11-20"
+        },
+        {
+          "title": "Akdeniz Mahallesi Nerede Haritası Akdeniz Mh. Mezitli Mersin",
+          "url": "https://www.haritamap.com/yer/akdeniz-mahallesi-mezitli",
+          "publisher": "HaritaMap",
+          "type": "location_reference",
+          "published_at": null
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
