@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03",
+  "updated_at": "2026-05-04",
   "description": "Reviewed MVP incident records. Public records must keep at least one source URL.",
   "records": [
     {
@@ -6035,6 +6035,97 @@
           "publisher": "Malta Haber",
           "type": "news",
           "published_at": "2025-11-27"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "id": "rasim-yuksel-adapazari-gunesler-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Rasim Yüksel Adapazarı Güneşler’de inşaattan düşerek yaşamını yitirdi",
+      "summary": "Sakarya Adapazarı Güneşler Mahallesi’nde 55 yaşındaki çatı ustası Rasim Yüksel, 18 Kasım akşamı çatısını yaptığı inşaatın birinci katında çalışırken dengesini kaybederek zemine düştü ve başını mermer zemine çarptı. Ağır yaralı olarak hastaneye kaldırılan Yüksel, 19 Kasım’da yapılan müdahalelere rağmen yaşamını yitirdi.",
+      "worker_name": "Rasim Yüksel",
+      "worker_age": 55,
+      "employer": "Adapazarı Güneşler Mahallesi’ndeki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / çatı işi",
+      "death_date": "2025-11-19",
+      "cause": "Çatısını yaptığı inşaatın birinci katından düşerek başını mermer zemine çarpma",
+      "legal_status": "Sakarya Haber olayla ilgili soruşturma başlatıldığını aktardı; işveren adı veya idari süreç ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-20",
+      "locations": [
+        {
+          "id": "rasim-yuksel-adapazari-gunesler-insaat",
+          "label": "Adapazarı Güneşler Mahallesi’nde çalıştığı inşaat",
+          "province_key": "SAKARYA",
+          "province": "Sakarya",
+          "district": "Adapazarı",
+          "lat": 40.788689,
+          "lng": 30.431465,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Adapazarı Güneşler Mahallesi’nde bir inşaat olarak verdi; sokak, ada/parsel veya açık adres belirtilmediği için Güneşler Merkez Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-18",
+          "status": "injury_reported",
+          "note": "Rasim Yüksel Adapazarı Güneşler Mahallesi’nde çatısını yaptığı inşaatın birinci katından düşerek ağır yaralandı."
+        },
+        {
+          "date": "2025-11-19",
+          "status": "fatality_recorded",
+          "note": "Hastaneye kaldırılan Rasim Yüksel yapılan müdahalelere rağmen yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-20",
+          "status": "reported",
+          "note": "Sakarya vefat listesinde ölüm tarihi 19 Kasım olarak yer aldı; cenaze bilgisi Güneşler Mahallesi Merkez Camii ve Güneşler Mahalle Mezarlığı olarak yayımlandı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İnşaattan düşen usta hayatını kaybetti!",
+          "url": "https://www.bizimsakarya.com.tr/insaattan-dusen-usta-hayatini-kaybetti",
+          "publisher": "Bizim Sakarya",
+          "type": "local_news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "Çalıştığı inşaattan düşen usta hayatını kaybetti",
+          "url": "https://www.halk54.com/calistigi-insaattan-dusen-usta-hayatini-kaybetti",
+          "publisher": "Halk54",
+          "type": "local_news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "Çatı ustası inşaattan düşüp hayatını kaybetti",
+          "url": "https://www.sakaryahaber.com/asayis/cati-ustasi-insaattan-dusup-hayatini-kaybetti",
+          "publisher": "Sakarya Haber",
+          "type": "local_news",
+          "published_at": "2025-11-20"
+        },
+        {
+          "title": "20 Kasım 2025 Perşembe SAKARYA vefatlar: Sakarya'da bugün vefat edenler",
+          "url": "https://medyabar.com/haber/26857128/20-kasim-2025-persembe-sakarya-vefatlar-sakaryada-bugun-vefat-edenler",
+          "publisher": "Medyabar",
+          "type": "local_news",
+          "published_at": "2025-11-20"
+        },
+        {
+          "title": "Güneşler Merkez Mahallesi Nerede Haritası Adapazarı Sakarya",
+          "url": "https://www.haritamap.com/yer/gunesler-merkez-mahallesi2-adapazari",
+          "publisher": "HaritaMap",
+          "type": "location_reference",
+          "published_at": null
         },
         {
           "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",

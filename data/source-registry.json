@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03",
+  "updated_at": "2026-05-04",
   "purpose": "Regular update checklist and archive of source URLs used in GrevTakip public data. When a source is used for a public record, keep the exact URL, title, publisher, date, source type, and related data file here.",
   "archive_policy": [
     "Prefer source pages with stable article/report URLs over category pages.",
@@ -222,7 +222,7 @@
     }
   ],
   "individual_case_research_progress": {
-    "updated_at": "2026-05-03",
+    "updated_at": "2026-05-04",
     "note": "Report-only worker-death records may use İSİG monthly province/country aggregate centroid locations when individual accident sites are not yet verified; those points must stay marked with location_basis and remain pending detail.",
     "latest_complete_isig_report_months": {
       "periods": [
@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 489,
-      "remaining_individual_case_target": 468
+      "mapped_individual_fatalities_in_these_months": 490,
+      "remaining_individual_case_target": 467
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 489,
-      "remaining_known_target_before_april_report": 297,
+      "mapped_individual_fatalities_before_pending_april_report": 490,
+      "remaining_known_target_before_april_report": 296,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -882,7 +882,7 @@
       "note": "Added individually corroborated worker-death records found in current news/labor sources while April 2026 full İSİG monthly report is still pending. May 1 records are included because the dynamic last-30-days filter includes the current date."
     },
     "isig_2025_backlog": {
-      "updated_at": "2026-05-03",
+      "updated_at": "2026-05-04",
       "source_url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
       "source_published_at": "2026-01-09",
       "workflow": "Process one worker at a time starting from 2025-12 and moving backward; when exact death_date is not verified, use the report month.",
@@ -911,7 +911,7 @@
         "2025-08": 0,
         "2025-09": 0,
         "2025-10": 0,
-        "2025-11": 21,
+        "2025-11": 22,
         "2025-12": 47
       },
       "remaining_after_this_pass": {
@@ -925,12 +925,12 @@
         "2025-08": 196,
         "2025-09": 208,
         "2025-10": 171,
-        "2025-11": 198,
+        "2025-11": 197,
         "2025-12": 88
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 68,
-      "total_remaining_after_this_pass": 2037,
+      "total_mapped_after_this_pass": 69,
+      "total_remaining_after_this_pass": 2036,
       "current_month": "2025-11",
       "processed_this_pass": [
         {
@@ -1280,6 +1280,12 @@
           "worker_name": "Yavuz Selim Yavuzyiğit",
           "record_id": "yavuz-selim-yavuzyigit-malta-otel-insaati-is-cinayeti-2025",
           "remaining_in_period_after_record": 198
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Rasim Yüksel",
+          "record_id": "rasim-yuksel-adapazari-gunesler-insaat-is-cinayeti-2025",
+          "remaining_in_period_after_record": 197
         }
       ]
     }
