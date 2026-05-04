@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 452,
-      "remaining_individual_case_target": 505
+      "mapped_individual_fatalities_in_these_months": 459,
+      "remaining_individual_case_target": 498
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 452,
-      "remaining_known_target_before_april_report": 334,
+      "mapped_individual_fatalities_before_pending_april_report": 459,
+      "remaining_known_target_before_april_report": 327,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -912,7 +912,7 @@
         "2025-09": 0,
         "2025-10": 0,
         "2025-11": 8,
-        "2025-12": 23
+        "2025-12": 30
       },
       "remaining_after_this_pass": {
         "2025-01": 180,
@@ -926,11 +926,11 @@
         "2025-09": 208,
         "2025-10": 171,
         "2025-11": 211,
-        "2025-12": 112
+        "2025-12": 105
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 31,
-      "total_remaining_after_this_pass": 2074,
+      "total_mapped_after_this_pass": 38,
+      "total_remaining_after_this_pass": 2067,
       "current_month": "2025-12",
       "processed_this_pass": [
         {
@@ -1058,6 +1058,48 @@
           "worker_name": "Yasin Turgut",
           "record_id": "yasin-turgut-inegol-talas-silosu-is-cinayeti-2025",
           "remaining_in_period_after_record": 112
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Murat Kuzu",
+          "record_id": "murat-kuzu-iskenderun-beton-mikseri-is-cinayeti-2025",
+          "remaining_in_period_after_record": 111
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "M.Y.",
+          "record_id": "m-y-uzunkopru-dogalgaz-gocuk-is-cinayeti-2025",
+          "remaining_in_period_after_record": 110
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Özgür Demir",
+          "record_id": "ozgur-demir-gemlik-insaat-is-cinayeti-2025",
+          "remaining_in_period_after_record": 109
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Hüseyin Günnar",
+          "record_id": "huseyin-gunnar-tavsanli-porselen-is-cinayeti-2025",
+          "remaining_in_period_after_record": 108
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Y.Ö.",
+          "record_id": "y-o-bodrum-havuz-bakim-is-cinayeti-2025",
+          "remaining_in_period_after_record": 107
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "S.T.",
+          "record_id": "s-t-harran-traktor-is-cinayeti-2025",
+          "remaining_in_period_after_record": 106
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Murat Arslan",
+          "record_id": "murat-arslan-malatya-insaat-is-cinayeti-2025",
+          "remaining_in_period_after_record": 105
         }
       ]
     }

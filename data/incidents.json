@@ -3804,6 +3804,415 @@
       ]
     },
     {
+      "id": "murat-kuzu-iskenderun-beton-mikseri-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Murat Kuzu beton mikseri temizlerken elektrik akımına kapılarak yaşamını yitirdi",
+      "summary": "Hatay İskenderun’da bir inşaat sahasında beton mikseri şoförü olarak çalışan 39 yaşındaki Murat Kuzu, beton dökümünün ardından mikser aracını temizlediği sırada elektrik akımına kapılarak yaşamını yitirdi.",
+      "worker_name": "Murat Kuzu",
+      "worker_age": 39,
+      "employer": "Beton firması / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / beton",
+      "death_date": "2025-12-22",
+      "cause": "Elektrik akımına kapılma",
+      "legal_status": "Kaynaklar olayla ilgili adli işlemlerin sürdüğünü aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-22",
+      "locations": [
+        {
+          "id": "murat-kuzu-iskenderun-insaat-sahasi",
+          "label": "İskenderun inşaat sahası",
+          "province_key": "HATAY",
+          "province": "Hatay",
+          "district": "İskenderun",
+          "lat": 36.5872,
+          "lng": 36.1735,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-22",
+          "status": "fatality_recorded",
+          "note": "Murat Kuzu beton mikseri temizliği sırasında elektrik akımına kapılarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kahramanmaraşlı Beton Mikseri Şoförü Elektrik Akımına Kapılarak Hayatını Kaybetti",
+          "url": "https://www.marasanahaber.com.tr/kahramanmarasli-beton-mikseri-soforu-elektrik-akimina-kapilarak-hayatini-kaybetti/50652/",
+          "publisher": "Maraş Ana Haber",
+          "type": "local_news",
+          "published_at": "2025-12-22"
+        },
+        {
+          "title": "Kahramanmaraşlı Beton Mikseri Şoförü İş Kazasında Can Verdi",
+          "url": "https://www.haber46.com.tr/kahramanmarasli-beton-mikseri-soforu-is-kazasinda-can-verdi",
+          "publisher": "Haber46",
+          "type": "local_news",
+          "published_at": "2025-12-22"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "m-y-uzunkopru-dogalgaz-gocuk-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "M.Y. doğal gaz hattı çalışmasında göçük altında kalarak yaşamını yitirdi",
+      "summary": "Edirne Uzunköprü Mescit Mahallesi’nde doğal gaz boru hattı döşeme çalışmaları sırasında meydana gelen toprak kaymasında yaralanan 50 yaşındaki M.Y., kaldırıldığı hastanede yaşamını yitirdi; kaynaklar olay sonrası üç kişinin gözaltına alındığını aktardı.",
+      "worker_name": "M.Y.",
+      "worker_age": 50,
+      "employer": "Doğal gaz hattı taşeron firması / işveren adı kaynaklarda belirtilmedi",
+      "sector": "Altyapı / doğal gaz",
+      "death_date": "2025-12-25",
+      "cause": "Kanalda toprak kayması / göçük",
+      "legal_status": "Kaynaklar ustabaşı, şantiye şefi ve müteahhidin gözaltına alındığını, soruşturmanın sürdüğünü aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-26",
+      "locations": [
+        {
+          "id": "m-y-uzunkopru-mescit-mahallesi",
+          "label": "Mescit Mahallesi doğal gaz hattı çalışması",
+          "province_key": "EDIRNE",
+          "province": "Edirne",
+          "district": "Uzunköprü",
+          "lat": 41.2675,
+          "lng": 26.686,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-25",
+          "status": "fatality_recorded",
+          "note": "M.Y. doğal gaz boru hattı döşeme çalışmasında oluşan göçükten yaralı çıkarıldıktan sonra hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Uzunköprü’de Doğal Gaz Göçüğü: 1 İşçi Hayatını Kaybetti",
+          "url": "https://www.kelkitgazetesi.com/uzunkoprude-dogal-gaz-gocugu-1-isci-hayatini-kaybetti/amp",
+          "publisher": "Kelkit Gazetesi",
+          "type": "local_news",
+          "published_at": "2025-12-26"
+        },
+        {
+          "title": "Doğal gaz çalışması sırasında toprak kayması: İşçilerden 1’i öldü 2’si yaralandı",
+          "url": "https://www.ahaber.com.tr/yasam/2025/12/25/edirnede-korkunc-olay-dogal-gaz-calismasi-sirasinda-toprak-kaymasi-yaralilar-var",
+          "publisher": "A Haber / DHA",
+          "type": "local_news",
+          "published_at": "2025-12-25"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "ozgur-demir-gemlik-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Özgür Demir iskeleden düştükten 23 gün sonra yaşamını yitirdi",
+      "summary": "Bursa Gemlik Osmaniye Mahallesi’nde dış cephe kaplaması yaparken beşinci kattan düşerek ağır yaralanan 26 yaşındaki inşaat işçisi Özgür Demir, 23 gün süren tedavinin ardından yaşamını yitirdi.",
+      "worker_name": "Özgür Demir",
+      "worker_age": 26,
+      "employer": "Dış cephe kaplama işi / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-29",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynaklar olayla ilgili soruşturmanın sürdüğünü; ilk incelemelerde güvenli iskele ve kişisel koruyucu donanım eksikliği tespit edildiğini aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-29",
+      "locations": [
+        {
+          "id": "ozgur-demir-osmaniye-gemlik",
+          "label": "Osmaniye Mahallesi 1. Güler Sokak dış cephe işi",
+          "province_key": "BURSA",
+          "province": "Bursa",
+          "district": "Gemlik",
+          "lat": 40.4306,
+          "lng": 29.1589,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-05",
+          "status": "injury_reported",
+          "note": "Özgür Demir dış cephe kaplaması sırasında beşinci kattan düşerek ağır yaralandı."
+        },
+        {
+          "date": "2025-12-29",
+          "status": "fatality_recorded",
+          "note": "Özgür Demir hastanedeki tedavisine rağmen yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bursa’da 5’inci kattan düşen işçi 23 gün sonra yaşam mücadelesini kaybetti",
+          "url": "https://www.dha.com.tr/yerel-haberler/bursa/gemlik/bursada-5inci-kattan-dusen-isci-23-gun-sonra-2786529",
+          "publisher": "DHA",
+          "type": "local_news",
+          "published_at": "2025-12-29"
+        },
+        {
+          "title": "Gemlik’te iskeleden düşen işçi ağır yaralandı",
+          "url": "https://www.sozcu.com.tr/gemlik-te-iskeleden-dusen-isci-agir-yaralandi-p266687",
+          "publisher": "Sözcü / DHA",
+          "type": "local_news",
+          "published_at": "2025-12-05"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "huseyin-gunnar-tavsanli-porselen-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Hüseyin Günnar porselen fabrikasında kalp krizi sonrası düşerek yaşamını yitirdi",
+      "summary": "Kütahya Tavşanlı’da bir porselen fabrikasının gündüz vardiyasında çalışan Hüseyin Günnar, kaynaklara göre çalıştığı sırada kalp krizi geçirip yüksekten düştü; kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "Hüseyin Günnar",
+      "worker_age": null,
+      "employer": "Porselen fabrikası / işveren adı kaynakta belirtilmedi",
+      "sector": "Cam / porselen",
+      "death_date": "2025-12-27",
+      "cause": "Kalp krizi sonrası yüksekten düşme",
+      "legal_status": "Kaynaklar işçinin ölümü üzerine fabrikada soruşturma başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-27",
+      "locations": [
+        {
+          "id": "huseyin-gunnar-tavsanli-porselen-fabrikasi",
+          "label": "Tavşanlı porselen fabrikası",
+          "province_key": "KUTAHYA",
+          "province": "Kütahya",
+          "district": "Tavşanlı",
+          "lat": 39.5424,
+          "lng": 29.4987,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-27",
+          "status": "fatality_recorded",
+          "note": "Hüseyin Günnar çalıştığı sırada kalp krizi geçirip yüksekten düştükten sonra hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kalp Krizi ile Yüksekten düşme sonucu öldü",
+          "url": "https://www.43haber.com/yuksekten-dusme-sonucu-oldu-27639",
+          "publisher": "43 Haber",
+          "type": "local_news",
+          "published_at": "2025-12-27"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "y-o-bodrum-havuz-bakim-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Y.Ö. havuz bakım çalışması sırasında boş havuza düşerek yaşamını yitirdi",
+      "summary": "Muğla Bodrum Yalıkavak Geriş mevkiinde bir sitede havuz pompası takma işi yapan 57 yaşındaki Y.Ö., yaklaşık 1,5 metre yükseklikten boş havuza düşerek yaşamını yitirdi.",
+      "worker_name": "Y.Ö.",
+      "worker_age": 57,
+      "employer": "Site havuz bakım işi / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "Hizmet / bakım",
+      "death_date": "2025-12-03",
+      "cause": "Boş havuza düşme",
+      "legal_status": "Kaynaklar olayla ilgili soruşturmanın sürdüğünü aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-03",
+      "locations": [
+        {
+          "id": "y-o-yalikavak-geris-havuz-bakim",
+          "label": "Yalıkavak Geriş mevkii site havuzu",
+          "province_key": "MUGLA",
+          "province": "Muğla",
+          "district": "Bodrum",
+          "lat": 37.1085,
+          "lng": 27.2724,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-03",
+          "status": "fatality_recorded",
+          "note": "Y.Ö. havuz bakım çalışması sırasında boş havuza düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Muğla’da Havuz Bakımı Facia ile Sonuçlandı: 57 Yaşındaki İşçi Hayatını Kaybetti",
+          "url": "https://www.muglagazetesi.com.tr/bodrum-haberleri/muglada-havuz-bakimi-facia-ile-sonuclandi-57-yasindaki-isci-hayatini-202758h",
+          "publisher": "Muğla Gazetesi",
+          "type": "local_news",
+          "published_at": "2025-12-03"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "s-t-harran-traktor-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "S.T. traktörle tarla sürerken devrilen aracın altında kalarak yaşamını yitirdi",
+      "summary": "Şanlıurfa Harran kırsal Yukarıyarımca Mahallesi’nde 15 yaşındaki S.T.’nin kullandığı traktör tarlada devrildi; ağır yaralanan çocuk işçi kaldırıldığı Harran Devlet Hastanesi’nde yaşamını yitirdi.",
+      "worker_name": "S.T.",
+      "worker_age": 15,
+      "employer": "Tarla işi / aile veya işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Tarım",
+      "death_date": "2025-12-27",
+      "cause": "Traktör devrilmesi",
+      "legal_status": "Kaynaklar olayla ilgili inceleme başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-27",
+      "locations": [
+        {
+          "id": "s-t-harran-yukariyarimca-tarla",
+          "label": "Yukarıyarımca Mahallesi tarla",
+          "province_key": "SANLIURFA",
+          "province": "Şanlıurfa",
+          "district": "Harran",
+          "lat": 36.862,
+          "lng": 39.031,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-27",
+          "status": "fatality_recorded",
+          "note": "S.T. kullandığı traktörün tarlada devrilmesi sonucu ağır yaralanıp hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Harran’da devrilen traktörün sürücüsü öldü",
+          "url": "https://www.medyaurfa.com/harranda-devrilen-traktorun-surucusu-oldu",
+          "publisher": "Medya Urfa",
+          "type": "local_news",
+          "published_at": "2025-12-27"
+        },
+        {
+          "title": "Şanlıurfa’da traktör devrildi: 15 yaşındaki sürücüsü öldü",
+          "url": "https://www.amedhaber.net/sanliurfada-traktor-devrildi-15-yasindaki-surucusu-oldu",
+          "publisher": "Amed Haber / AA",
+          "type": "local_news",
+          "published_at": "2025-12-27"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "murat-arslan-malatya-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Murat Arslan Malatya’daki inşaat kazasının ardından yaşamını yitirdi",
+      "summary": "Malatya’da bir yerinde dönüşüm projesi inşaatında yaklaşık üç ay önce ağır yaralanan Ünyeli işçi Murat Arslan, yoğun bakımda süren tedavinin ardından Aralık ayında yaşamını yitirdi.",
+      "worker_name": "Murat Arslan",
+      "worker_age": null,
+      "employer": "Yerinde dönüşüm projesi inşaatı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-02",
+      "cause": "İnşaat kazası sonrası ağır yaralanma",
+      "legal_status": "Kaynaklar olayla ilgili incelemenin sürdüğünü aktardı; işveren veya adli süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-03",
+      "locations": [
+        {
+          "id": "murat-arslan-malatya-yerinde-donusum-insaat",
+          "label": "Malatya yerinde dönüşüm projesi inşaatı",
+          "province_key": "MALATYA",
+          "province": "Malatya",
+          "district": "Merkez",
+          "lat": 38.3552,
+          "lng": 38.3095,
+          "geocode_precision": "province_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-09",
+          "status": "injury_reported",
+          "note": "Murat Arslan Malatya’daki bir yerinde dönüşüm projesi inşaatında ağır yaralandı; kaynaklar kazanın yaklaşık üç ay önce meydana geldiğini aktardı."
+        },
+        {
+          "date": "2025-12-02",
+          "status": "fatality_recorded",
+          "note": "Murat Arslan yoğun bakımdaki yaşam mücadelesinin ardından yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ünyeli Genç İşçi Malatya’da İş Kazasında Can Verdi",
+          "url": "https://www.orduyenidonem.com.tr/unyeli-genc-isci-malatyada-is-kazasinda-can-verdi",
+          "publisher": "Ordu Yeni Dönem",
+          "type": "local_news",
+          "published_at": "2025-12-02"
+        },
+        {
+          "title": "Malatya İnşaat Kazası: Genç İşçi 3 Ay Sonra Hayatını Kaybetti",
+          "url": "https://www.malatyasoz.com/malatya-insaat-kazasi-genc-isci-3-ay-sonra-hayatini-kaybetti",
+          "publisher": "Malatya Söz",
+          "type": "local_news",
+          "published_at": "2025-12-03"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
