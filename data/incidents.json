@@ -10175,6 +10175,102 @@
       ]
     },
     {
+      "id": "recep-ozgur-baglar-emek-caddesi-taksi-duragi-silahli-saldiri-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Recep Özgür Bağlar’da taksi durağına silahlı saldırıda yaşamını yitirdi",
+      "summary": "Diyarbakır’ın Bağlar ilçesi Emek Caddesi’nde bir taksi durağına yönelik silahlı saldırıda taksi şoförü Recep Özgür ağır yaralandı. DHA, AA ve yerel kaynaklar, 45 yaşındaki Özgür’ün sağlık ekiplerinin ilk müdahalesinin ardından hastaneye kaldırıldığını ancak doktorların müdahalesine rağmen kurtarılamadığını aktardı. Olay yeri inceleme ekiplerinin çok sayıda boş kovan bulduğu, polis ekiplerinin saldırganın yakalanması için çalışma başlattığı ve soruşturmanın sürdüğü bildirildi.",
+      "worker_name": "Recep Özgür",
+      "worker_age": 45,
+      "employer": "Bağlar Emek Caddesi taksi durağı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / taksi şoförlüğü",
+      "death_date": "2025-11-24",
+      "cause": "Bağlar Emek Caddesi’nde taksi durağına yönelik silahlı saldırı",
+      "legal_status": "DHA, Cumhuriyet/Birgün ve yerel kaynaklar olayla ilgili soruşturmanın sürdüğünü ve polisin şüpheliyi yakalamak için çalışma başlattığını aktardı. Sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "recep-ozgur-baglar-emek-caddesi",
+          "label": "Bağlar Emek Caddesi taksi durağı",
+          "province_key": "DIYARBAKIR",
+          "province": "Diyarbakır",
+          "district": "Bağlar",
+          "lat": 37.926851,
+          "lng": 40.200049,
+          "geocode_precision": "street_approx",
+          "fatality_count": 1,
+          "location_basis": "DHA ve diğer kaynaklar saldırıyı Bağlar ilçesi Emek Caddesi’ndeki bir taksi durağı olarak verdi; durak adı veya kapı numarası belirtilmediği için Yandex Maps’in Emek Caddesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-24",
+          "status": "fatality_recorded",
+          "note": "Recep Özgür, Bağlar Emek Caddesi’nde bir taksi durağına düzenlenen silahlı saldırıda ağır yaralandı ve kaldırıldığı hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-24",
+          "status": "reported_by_press",
+          "note": "DHA, AA/Habertürk, BirGün, Cumhuriyet ve yerel kaynaklar saldırıyı 24 Kasım 2025’te haberleştirdi."
+        },
+        {
+          "date": "2025-11-24",
+          "status": "investigation_opened",
+          "note": "Olay yeri incelemede çok sayıda boş kovan bulundu; polis şüphelinin yakalanması için çalışma başlattı ve soruşturmanın sürdüğü bildirildi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Recep Özgür’ü ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Diyarbakır’da taksi durağına silahlı saldırı: 1 ölü",
+          "url": "https://www.dha.com.tr/gundem/diyarbakirda-taksi-duragina-silahli-saldiri-1-olu-2764674",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Taksi şoförü cinayet kurbanı!",
+          "url": "https://www.haberturk.com/taksi-soforu-cinayet-kurbani-3840288",
+          "publisher": "Habertürk / Anadolu Ajansı",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Diyarbakır'da taksi durağına silahlı saldırı: Taksi şoförü öldü",
+          "url": "https://www.bismilhaber.com.tr/diyarbakirda-taksi-duragina-silahli-saldiri-taksi-soforu-oldu",
+          "publisher": "Bismil Haber",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Diyarbakır'da taksi durağına silahlı saldırı: 1 ölü",
+          "url": "https://www.birgun.net/haber/diyarbakirda-taksi-duragina-silahli-saldiri-1-olu-671396",
+          "publisher": "BirGün / DHA",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Emek Cad.",
+          "url": "https://yandex.com.tr/maps/103828/diyarbakir/geo/emek_cad_/2405824985/",
+          "publisher": "Yandex Maps",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",

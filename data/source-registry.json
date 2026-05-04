@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 540,
-      "remaining_individual_case_target": 417
+      "mapped_individual_fatalities_in_these_months": 541,
+      "remaining_individual_case_target": 416
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 540,
-      "remaining_known_target_before_april_report": 246,
+      "mapped_individual_fatalities_before_pending_april_report": 541,
+      "remaining_known_target_before_april_report": 245,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -911,7 +911,7 @@
         "2025-08": 0,
         "2025-09": 0,
         "2025-10": 0,
-        "2025-11": 72,
+        "2025-11": 73,
         "2025-12": 47
       },
       "remaining_after_this_pass": {
@@ -925,12 +925,12 @@
         "2025-08": 196,
         "2025-09": 208,
         "2025-10": 171,
-        "2025-11": 147,
+        "2025-11": 146,
         "2025-12": 88
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 119,
-      "total_remaining_after_this_pass": 1986,
+      "total_mapped_after_this_pass": 120,
+      "total_remaining_after_this_pass": 1985,
       "current_month": "2025-11",
       "processed_this_pass": [
         {
@@ -1586,6 +1586,12 @@
           "worker_name": "İrfan Aydın",
           "record_id": "irfan-aydin-kiziltepe-eymirli-tir-otomobil-carpismasi-is-cinayeti-2025",
           "remaining_in_period_after_record": 147
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Recep Özgür",
+          "record_id": "recep-ozgur-baglar-emek-caddesi-taksi-duragi-silahli-saldiri-is-cinayeti-2025",
+          "remaining_in_period_after_record": 146
         }
       ]
     }
