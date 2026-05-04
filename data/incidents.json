@@ -10630,7 +10630,7 @@
       "record_type": "worker_death",
       "status": "fatality_recorded",
       "title": "Ramazan Erşahin İznik-Yenişehir çevre yolunda kamyonun uçuruma devrilmesi sonucu yaşamını yitirdi",
-      "summary": "Bursa’nın İznik ilçesinde, Yenişehir’den İznik yönüne ilerleyen ve kağıt yüklü olduğu aktarılan 35 CEL 044 plakalı kamyon İznik-Yenişehir çevre yolunda yaklaşık 80 metrelik uçuruma/şarampole devrildi. Kamyon sürücüsü Ramazan Erşahin ve araçta bulunan Cafer Altun olay yerinde yaşamını yitirdi. Bu geçişte aynı iki ölümlü olaydan yalnızca Ramazan Erşahin için tekil işçi ölümü kaydı açıldı; Cafer Altun ayrı kayıt olarak sonraki adımda ele alınacak.",
+      "summary": "Bursa’nın İznik ilçesinde, Yenişehir’den İznik yönüne ilerleyen ve kağıt yüklü olduğu aktarılan 35 CEL 044 plakalı kamyon İznik-Yenişehir çevre yolunda yaklaşık 80 metrelik uçuruma/şarampole devrildi. Kamyon sürücüsü Ramazan Erşahin ve araçta bulunan Cafer Altun olay yerinde yaşamını yitirdi. Aynı iki ölümlü olay için Ramazan Erşahin ve Cafer Altun ayrı tekil işçi ölümü kayıtları olarak tutuldu.",
       "worker_name": "Ramazan Erşahin",
       "worker_age": 62,
       "employer": "Kağıt yüklü kamyon / işveren bilgisi kaynaklarda belirtilmedi",
@@ -10699,6 +10699,97 @@
           "publisher": "Gündem Atlas",
           "type": "local_news",
           "published_at": "2025-11-20"
+        },
+        {
+          "title": "İznik Yenişehir Yolu Haritası",
+          "url": "https://www.haritamap.com/yer/iznik-yenisehir-yolu-yenisehir",
+          "publisher": "Haritamap.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "id": "cafer-altun-iznik-yenisehir-cevre-yolu-kamyon-ucuruma-devrilmesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Cafer Altun İznik-Yenişehir çevre yolunda kamyonun uçuruma devrilmesi sonucu yaşamını yitirdi",
+      "summary": "Bursa’nın İznik ilçesinde, Yenişehir’den İznik yönüne ilerleyen ve kağıt yüklü olduğu aktarılan 35 CEL 044 plakalı kamyon İznik-Yenişehir çevre yolunda yaklaşık 80 metrelik uçuruma/şarampole devrildi. Kamyon sürücüsü Ramazan Erşahin ve araçta bulunan Cafer Altun olay yerinde yaşamını yitirdi. Bu kayıt, aynı iki ölümlü olaydan Cafer Altun için açılan tekil işçi ölümü kaydıdır.",
+      "worker_name": "Cafer Altun",
+      "worker_age": 43,
+      "employer": "Kağıt yüklü kamyon / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / yük taşımacılığı",
+      "death_date": "2025-11-20",
+      "cause": "İznik-Yenişehir çevre yolunda kağıt yüklü kamyonun uçuruma/şarampole devrilmesi",
+      "legal_status": "Kaynaklar kaza yerine jandarma ekiplerinin sevk edildiğini ve olayla ilgili soruşturmanın sürdüğünü aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 2,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "cafer-altun-iznik-yenisehir-cevre-yolu",
+          "label": "İznik-Yenişehir çevre yolu",
+          "province_key": "BURSA",
+          "province": "Bursa",
+          "district": "İznik / Yenişehir",
+          "lat": 40.279514,
+          "lng": 29.656464,
+          "geocode_precision": "road_corridor_approximate",
+          "fatality_count": 1,
+          "location_basis": "Haberler kazayı Bursa’nın İznik ilçesinde, İznik istikametine giden İznik-Yenişehir çevre yolunda yaklaşık 80 metrelik uçuruma/şarampole devrilme olarak verdi; açık kaza koordinatı yayımlanmadığı için Haritamap’in Yenişehir’deki İznik Yenişehir Yolu koordinatı yol koridoru yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-20",
+          "status": "fatality_recorded",
+          "note": "Saat 11.00 sıralarında İznik-Yenişehir çevre yolunda, Ramazan Erşahin’in kullandığı 35 CEL 044 plakalı kağıt yüklü kamyon yokuşta kontrolden çıkıp uçuruma/şarampole devrildi; Cafer Altun ve Ramazan Erşahin yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-20",
+          "status": "investigation_opened",
+          "note": "Basına yansıyan haberlerde olay yerine jandarma, sağlık ve itfaiye ekiplerinin sevk edildiği ve kazayla ilgili soruşturmanın sürdüğü aktarıldı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Cafer Altun’u ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kağıt yüklü kamyon uçuruma devrildi: 2 ölü",
+          "url": "https://www.yenikiroba.com/kagit-yuklu-kamyon-ucuruma-devrildi-2-olu",
+          "publisher": "Yeni Kıroba / Anadolu Ajansı",
+          "type": "news",
+          "published_at": "2025-11-20"
+        },
+        {
+          "title": "Bursa'da kamyon uçuruma devrildi: 2 kişi öldü",
+          "url": "https://www.sozcu.com.tr/bursa-da-kamyon-ucuruma-devrildi-2-kisi-oldu-p260867",
+          "publisher": "Sözcü / Anadolu Ajansı",
+          "type": "news",
+          "published_at": "2025-11-20"
+        },
+        {
+          "title": "İznik'te Kağıt Yüklü TIR Uçuruma Yuvarlandı, 2 Kişi Hayatını Kaybetti",
+          "url": "https://www.haberler.com/guncel/iznik-te-kagit-yuklu-tir-ucuruma-yuvarlandi-2-kisi-hayatini-kaybetti-19272916-haberi/",
+          "publisher": "Haberler.com / Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-20"
+        },
+        {
+          "title": "Kasım 2025'te acı tablo: Çocukluk kırsalda kaldı, işçilik kente taşındı",
+          "url": "https://www.adapostasi.com/haber/26960286/kasim-2025te-aci-tablo-cocukluk-kirsalda-kaldi-iscilik-kente-tasindi",
+          "publisher": "Adapostası Gazetesi / İSİG Meclisi",
+          "type": "report_republication",
+          "published_at": "2025-12-04"
         },
         {
           "title": "İznik Yenişehir Yolu Haritası",
