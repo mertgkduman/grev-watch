@@ -8061,6 +8061,83 @@
       ]
     },
     {
+      "id": "emin-idem-beylikduzu-insaat-yuksekten-dusme-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Emin İdem Beylikdüzü’nde inşaatta yüksekten düşerek yaşamını yitirdi",
+      "summary": "Van Erciş Doluca nüfusuna kayıtlı 24 yaşındaki inşaat işçisi Emin İdem, İstanbul Beylikdüzü’nde yapımı süren bir şantiyede 6 Kasım 2025’te yüksekten düşerek yaşamını yitirdi. Serhat News olayın 8’inci kattan düşme olduğunu ve sağlık ekiplerinin İdem’in olay yerinde öldüğünü belirlediğini aktardı; Hakkari İl Sesi / Van Olay haberi ise çalıştığı binanın 9’uncu katından düştüğünü ve sağlık ekiplerinin müdahalesine rağmen kurtarılamadığını bildirdi.",
+      "worker_name": "Emin İdem",
+      "worker_age": 24,
+      "employer": "İstanbul Beylikdüzü’ndeki inşaat şantiyesi / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-06",
+      "cause": "İnşaatta yüksekten düşme",
+      "legal_status": "Serhat News haberinde cenazenin savcılık incelemesinin ardından Adli Tıp Kurumu’na götürüldüğü aktarıldı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "emin-idem-beylikduzu-insaat",
+          "label": "Beylikdüzü’nde yapımı süren inşaat şantiyesi",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Beylikdüzü",
+          "lat": 40.981972,
+          "lng": 28.64007,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Serhat News olay yerini İstanbul Beylikdüzü’nde yapımı devam eden bir şantiye olarak verdi; açık şantiye adresi belirtilmediği için Haritamap’ın Beylikdüzü koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-06",
+          "status": "fatality_recorded",
+          "note": "Beylikdüzü’nde yapımı süren bir inşaatta Emin İdem yüksekten düşerek yaşamını yitirdi; haberler 8’inci ve 9’uncu kat bilgileri arasında farklılık gösteriyor."
+        },
+        {
+          "date": "2025-11-06",
+          "status": "investigation_opened",
+          "note": "Serhat News, savcılık incelemesinin ardından cenazenin Adli Tıp Kurumu’na götürüldüğünü aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Emin İdem’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Vanlı Genç İşçi çalıştığı inşaattan düşerek hayatını kaybetti",
+          "url": "https://www.serhatnews.com.tr/vanli-genc-isci-calistigi-insaattan-duserek-hayatini-kaybetti",
+          "publisher": "Serhat News",
+          "type": "news",
+          "published_at": "2025-11-07"
+        },
+        {
+          "title": "Vanlı genç işçi inşaat kazasında hayatını kaybetti",
+          "url": "https://www.hakkariilsesigazetesi.com/vanli-genc-isci-insaat-kazasinda-hayatini-kaybetti",
+          "publisher": "Hakkari İl Sesi Gazetesi / Van Olay",
+          "type": "news",
+          "published_at": "2025-11-07"
+        },
+        {
+          "title": "Beylikdüzü Haritası",
+          "url": "https://www.haritamap.com/yer/beylikduzu-beylikduzu",
+          "publisher": "Haritamap.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
