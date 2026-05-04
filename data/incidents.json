@@ -5530,6 +5530,65 @@
       ]
     },
     {
+      "id": "abdurrahman-potuk-ankara-dis-cephe-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Abdurrahman Potuk Ankara'da dış cephe mantolama işinde 4. kattan düşerek yaşamını yitirdi",
+      "summary": "Çorum Bayat Kuruçay köyü nüfusuna kayıtlı ve Ankara'da yaşayan Abdurrahman Potuk, Ankara'da bir binanın dış cephe mantolama işinde çalışırken dengesini kaybederek 4. kattan düştü. Olay yerine polis ve sağlık ekipleri sevk edildi; Potuk yapılan müdahalelere rağmen kurtarılamadı.",
+      "worker_name": "Abdurrahman Potuk",
+      "employer": "Dış cephe mantolama işi / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / dış cephe mantolama",
+      "death_date": "2025-11",
+      "cause": "Dış cephe mantolama işi sırasında 4. kattan düşme",
+      "legal_status": "Kaynaklar polis ve sağlık ekiplerinin olay yerine sevk edildiğini aktardı; işveren veya idari soruşturma ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-21",
+      "locations": [
+        {
+          "id": "abdurrahman-potuk-ankara-dis-cephe-mantolama",
+          "label": "Ankara'da dış cephe mantolama yapılan bina",
+          "province_key": "ANKARA",
+          "province": "Ankara",
+          "district": "",
+          "lat": 39.92,
+          "lng": 32.85,
+          "geocode_precision": "province_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Ankara'da bir binanın dış cephe mantolama işi olarak verdi; ilçe veya açık adres belirtilmediği için Ankara il merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-21",
+          "status": "fatality_recorded",
+          "note": "Yerel kaynaklar Abdurrahman Potuk'un Ankara'da dış cephe mantolama işinde çalışırken 4. kattan düşerek yaşamını yitirdiğini bildirdi; kesin ölüm günü kaynaklarda ayrıca belirtilmedi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "4.kattan düşen Çorumlu işçi hayatını kaybetti",
+          "url": "https://www.corumhakimiyet.net/4kattan-dusen-corumlu-isci-hayatini-kaybetti",
+          "publisher": "Çorum Hakimiyet",
+          "type": "local_news",
+          "published_at": "2025-11-21"
+        },
+        {
+          "title": "İnşaattan düşen işçi hayatını kaybetti",
+          "url": "https://www.corumtime.com/insaattan-dusen-isci-hayatini-kaybetti-4/",
+          "publisher": "Çorum Time",
+          "type": "local_news",
+          "published_at": "2025-11-21"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
