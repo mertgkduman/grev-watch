@@ -10808,6 +10808,97 @@
       ]
     },
     {
+      "id": "selahattin-aytekin-bozuyuk-girisi-tir-carpismasi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Selahattin Aytekin Bozüyük girişinde TIR çarpışması sonucu yaşamını yitirdi",
+      "summary": "İnegöl Taşıyıcılar Kooperatifi üyesi TIR şoförü Selahattin Aytekin, Bozüyük istikametinden İnegöl yönüne giderken kullandığı 16 H 3375 plakalı TIR'ın İnegöl-Bozüyük karayolu Bozüyük girişi mevkiinde öndeki başka bir TIR'a arkadan çarpması sonucu kabinde sıkışarak yaşamını yitirdi. Yerel haberler kazayı 19 Kasım 2025 sabahı bir önceki gece meydana gelen ölüm olarak duyurdu.",
+      "worker_name": "Selahattin Aytekin",
+      "worker_age": 59,
+      "employer": "İnegöl Taşıyıcılar Kooperatifi üyesi TIR şoförü / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / TIR şoförlüğü",
+      "death_date": "2025-11-18",
+      "cause": "İnegöl-Bozüyük karayolu Bozüyük girişi mevkiinde TIR'ın öndeki TIR'a arkadan çarpması",
+      "legal_status": "Yerel haberler kaza sonrası soruşturma başlatıldığını ve yolun bir süre kontrollü trafiğe kapatıldığını aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "selahattin-aytekin-bozuyuk-girisi",
+          "label": "İnegöl-Bozüyük karayolu, Bozüyük girişi",
+          "province_key": "BILECIK",
+          "province": "Bilecik",
+          "district": "Bozüyük",
+          "lat": 39.90778,
+          "lng": 30.036667,
+          "geocode_precision": "road_corridor_approximate",
+          "fatality_count": 1,
+          "location_basis": "Süper Kanal TV ve Yıldırım Gazetesi olay yerini İnegöl-Bozüyük karayolu üzeri Bozüyük girişi olarak verdi; açık kaza koordinatı yayımlanmadığı için Haritamap’in Bozüyük koordinatı Bozüyük girişi/karayolu koridoru için yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-18",
+          "status": "fatality_recorded",
+          "note": "İnegöl Online, 19 Kasım sabahı yayımladığı haberde kazanın 'dün gece' Bozüyük-İnegöl yolunda meydana geldiğini, Selahattin Aytekin'in kullandığı 16 H 3375 plakalı TIR'ın öndeki TIR'a çarpması sonucu Aytekin'in olay yerinde yaşamını yitirdiğini aktardı."
+        },
+        {
+          "date": "2025-11-19",
+          "status": "investigation_opened",
+          "note": "Yerel haberler kazayla ilgili soruşturma başlatıldığını ve yolun bir süre kontrollü olarak trafiğe kapatıldığını bildirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Selahattin Aytekin’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İnegöllü Şoför Trafik Kazasında Hayatını Kaybetti",
+          "url": "https://www.inegolonline.com/haber/inegollu-sofor-trafik-kazasinda-hayatini-kaybetti-340588",
+          "publisher": "İnegöl Online",
+          "type": "local_news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "Feci kazada Tır sürücü hayatını kaybetti",
+          "url": "https://www.superkanaltv.com/feci-kazada-tir-surucu-hayatini-kaybetti",
+          "publisher": "Süper Kanal TV",
+          "type": "local_news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "İnegöllü TIR Şoförü Trafik Kazasında Hayatını Kaybetti",
+          "url": "https://www.gencgazete.net/inegollu-tir-soforu-trafik-kazasinda-hayatini-kaybetti",
+          "publisher": "Genç Gazete",
+          "type": "local_news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "İnegöllü şoför feci kazada hayatını kaybetti",
+          "url": "https://www.yildirimgazetesi.com/inegollu-sofor-feci-kazada-hayatini-kaybetti-1152",
+          "publisher": "Yıldırım Gazetesi",
+          "type": "local_news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "Bozüyük Haritası",
+          "url": "https://www.haritamap.com/yer/bozuyuk-bozuyuk",
+          "publisher": "Haritamap.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
