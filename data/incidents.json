@@ -8772,6 +8772,95 @@
       ]
     },
     {
+      "id": "hummet-varli-patnos-ataturk-insaat-beton-kopmasi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Hümmet Varlı Patnos’ta inşaatta kopan beton parçasının altında kalarak yaşamını yitirdi",
+      "summary": "Ağrı’nın Patnos ilçesi Atatürk Mahallesi’nde yapımı süren bir inşaatta çalışan Hümmet Varlı, 2 Kasım 2025’te üst kattan kopan beton yığını/kolon ya da asansör eklentisi saçağının altında kalarak ağır yaralandı. Patnos Belediyesi itfaiye ekipleri ve sağlık ekiplerinin müdahalesinin ardından Patnos Devlet Hastanesi’ne kaldırılan Varlı, yapılan tüm müdahalelere rağmen yaşamını yitirdi. Ağrı 04 Haber, Varlı’nın evli ve 7 kız çocuğu babası olduğunu aktardı; Serhat News yaşı 48 olarak verdi ve olayla ilgili soruşturma başlatıldığını yazdı.",
+      "worker_name": "Hümmet Varlı",
+      "worker_age": 48,
+      "employer": "Patnos Atatürk Mahallesi’ndeki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-02",
+      "cause": "İnşaatta kopan beton yığını/kolon/saçak parçasının altında kalma",
+      "legal_status": "Serhat News olayla ilgili soruşturma başlatıldığını aktardı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "hummet-varli-patnos-ataturk-insaat",
+          "label": "Patnos Atatürk Mahallesi’ndeki inşaat",
+          "province_key": "AGRI",
+          "province": "Ağrı",
+          "district": "Patnos",
+          "lat": 39.23593,
+          "lng": 42.84852,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Ağrı 04 Haber, Patnos Haber Gazetesi ve Serhat News olay yerini Patnos Atatürk Mahallesi’nde yapımı süren bir inşaat olarak verdi; açık şantiye adresi doğrulanamadığı için Kmhesaplama’nın Atatürk Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-02",
+          "status": "fatality_recorded",
+          "note": "Patnos Atatürk Mahallesi’nde yapımı süren inşaatta üst kattan kopan beton yığını/kolon/saçak parçası altta çalışan Hümmet Varlı’nın üzerine düştü; Varlı Patnos Devlet Hastanesi’nde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-02",
+          "status": "injury_recorded",
+          "note": "Aynı olayda ikinci bir işçi yaralandı; Ağrı 04 Haber yaralının adını Ensari Varlı, Serhat News ise Evren Varlı olarak aktardı."
+        },
+        {
+          "date": "2025-11-03",
+          "status": "investigation_opened",
+          "note": "Serhat News olayla ilgili soruşturma başlatıldığını yazdı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Hümmet Varlı’yı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ağrı'da Yaşanan İş Kazasında 1 Kişi Hayatını kaybetti",
+          "url": "https://www.agri04haber.com/agri/agri-da-yasanan-is-kazasinda-1-kisi-hayatini-kaybetti-h7379.html",
+          "publisher": "Ağrı 04 Haber",
+          "type": "news",
+          "published_at": "2025-11-02"
+        },
+        {
+          "title": "İş Kazasında 1 Kişi Yaşamını Yitirdi",
+          "url": "https://www.serhatnews.com.tr/is-kazasinda-1-kisi-yasamini-yitirdi",
+          "publisher": "Serhat News",
+          "type": "news",
+          "published_at": "2025-11-03"
+        },
+        {
+          "title": "Patnos'ta ki İnşaat Kazasında 1 Kişi hayatını Kaybetti",
+          "url": "https://www.patnoshabergazetesi.com/patnosta-ki-insaat-kazasinda-1-kisi-hayatini-kaybetti/90308",
+          "publisher": "Patnos Haber Gazetesi",
+          "type": "news",
+          "published_at": "2025-11-02"
+        },
+        {
+          "title": "Atatürk Mahallesi - Patnos, Ağrı",
+          "url": "https://kmhesaplama.com/agri/patnos/ataturk/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
