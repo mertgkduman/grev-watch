@@ -5269,6 +5269,73 @@
       ]
     },
     {
+      "id": "hamza-kilic-elazig-insaat-bekcisi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Hamza Kılıç Elazığ'da inşaat bekçiliği yaparken 3. kattan düşerek yaşamını yitirdi",
+      "summary": "Elazığ Cumhuriyet Mahallesi'nde yapımı süren bir inşaatta gece bekçiliği yapan 66 yaşındaki Hamza Kılıç, henüz belirlenemeyen nedenle 3. kattan düştü; sabah inşaata gelen işçiler tarafından yerde hareketsiz bulundu ve sağlık ekipleri olay yerinde yaşamını yitirdiğini belirledi.",
+      "worker_name": "Hamza Kılıç",
+      "worker_age": 66,
+      "employer": "İnşaat alanı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / gece bekçiliği",
+      "death_date": "2025-11-24",
+      "cause": "İnşaatın 3. katından düşme",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma sürdüğünü aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-24",
+      "locations": [
+        {
+          "id": "hamza-kilic-cumhuriyet-elazig-insaat",
+          "label": "Cumhuriyet Mahallesi'nde yapımı süren inşaat alanı",
+          "province_key": "ELAZIG",
+          "province": "Elazığ",
+          "district": "Merkez",
+          "lat": 38.672489,
+          "lng": 39.180325,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Elazığ Cumhuriyet Mahallesi'nde bir inşaat alanı olarak verdi; açık adres belirtilmediği için mahalle merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-24",
+          "status": "fatality_recorded",
+          "note": "Hamza Kılıç gece bekçiliği yaptığı inşaatın 3. katından düşerek olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Elazığ’da İnşaatta 66 Yaşındaki Bekçi 3. Kattan Düşerek Hayatını Kaybetti",
+          "url": "https://www.van65haber.com/elazigda-insaatta-66-yasindaki-bekci-3-kattan-duserek-hayatini-kaybetti",
+          "publisher": "Van 65 Haber / İHA",
+          "type": "local_news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Elazığ'da 3'üncü Kattan Düşen İnşaat Bekçisi Hayatını Kaybetti",
+          "url": "https://www.elazigsonhaber.com/elazigda-3uncu-kattan-dusen-insaat-bekcisi-hayatini-kaybetti",
+          "publisher": "Elazığ Son Haber / İHA",
+          "type": "local_news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Cumhuriyet Mahallesi Haritası",
+          "url": "https://www.haritamap.com/yer/cumhuriyet-mahallesi3-cumhuriyet-merkez",
+          "publisher": "Haritamap",
+          "type": "location_reference",
+          "published_at": null
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
