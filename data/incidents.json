@@ -9308,6 +9308,114 @@
       ]
     },
     {
+      "id": "yunus-tezgel-van-sihke-goleti-trafo-halati-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Yunus Tezgel Van’da trafo montajında halatı kopan trafonun altında kalarak yaşamını yitirdi",
+      "summary": "Van’da Van-Özalp yolu üzerindeki Sıhke Göleti civarında hücre/trafo montajı çalışması sırasında çalışan 40 yaşındaki taşeron enerji işçisi Yunus Tezgel, 10 Kasım 2025’te vinçle kaldırılan yaklaşık 1,5 tonluk trafoyu taşıyan halatın kopması sonucu trafonun altında kaldı. Yerel haberler Tezgel’in ağır yaralı olarak Özel Akdamar Hastanesi’ne kaldırıldığını, tüm müdahalelere rağmen kurtarılamadığını, cenazesinin otopsi için Van Adli Tıp Kurumu’na götürüldüğünü ve olayla ilgili soruşturma başlatıldığını aktardı.",
+      "worker_name": "Yunus Tezgel",
+      "worker_age": 40,
+      "employer": "Van-Özalp yolu Sıhke Göleti civarındaki hücre/trafo montajı işi / özel taşeron firma",
+      "sector": "Enerji / elektrik altyapısı",
+      "death_date": "2025-11-10",
+      "cause": "Hücre/trafo montajında vinçle kaldırılan trafonun halatının kopması sonucu trafonun altında kalma",
+      "legal_status": "Van Haber Gazetesi, Van Olay, Van Haber ve Ulusal Ajans haberleri olayla ilgili soruşturma başlatıldığını aktardı; sonraki adli/idari süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "yunus-tezgel-van-sihke-goleti-trafo-montaj",
+          "label": "Van-Özalp yolu Sıhke Göleti civarındaki hücre/trafo montajı",
+          "province_key": "VAN",
+          "province": "Van",
+          "district": "İpekyolu / Tuşba sınırı",
+          "lat": 38.53361,
+          "lng": 43.42056,
+          "geocode_precision": "nearby_landmark",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar kazanın Van-Özalp yolu üzerindeki Sıhke Göleti civarında meydana geldiğini aktardı. Geoview/OpenStreetMap Sikke Göleti koordinatlarını 38°32'1\" N, 43°25'14\" E olarak verdi; olay için açık şantiye adresi doğrulanamadığı için gölet yakın noktası kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-10",
+          "status": "fatality_recorded",
+          "note": "Yunus Tezgel, Sıhke Göleti civarında hücre/trafo montajı sırasında vinçle kaldırılan yaklaşık 1,5 tonluk trafonun halatının kopması sonucu trafonun altında kaldı."
+        },
+        {
+          "date": "2025-11-10",
+          "status": "hospital_death_recorded",
+          "note": "Yerel haberler Tezgel’in ağır yaralı olarak Özel Akdamar Hastanesi’ne kaldırıldığını, doktorların müdahalesine rağmen kurtarılamadığını aktardı."
+        },
+        {
+          "date": "2025-11-10",
+          "status": "investigation_opened",
+          "note": "Van Haber Gazetesi ve Van Olay, cenazenin Van Adli Tıp Kurumu’na gönderildiğini ve kazayla ilgili soruşturma başlatıldığını bildirdi."
+        },
+        {
+          "date": "2025-11-17",
+          "status": "reported_by_press",
+          "note": "BirGün yazarı Osman Öztürk’ün iş cinayetleri derlemesi Yunus Tezgel’i 40 yaşında, Van Özalp’ta trafonun altında kalarak ölen işçi olarak andı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Yunus Tezgel’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Van’da Halatı Kopan Trafo İşçinin Üzerine Düştü: 1 Ölü",
+          "url": "https://www.vanhabergazetesi.com/vanda-halati-kopan-trafo-iscinin-uzerine-dustu-1-olu",
+          "publisher": "Van Haber Gazetesi",
+          "type": "news",
+          "published_at": "2025-11-10"
+        },
+        {
+          "title": "Van’da halatı kopan trafonun altında kalan işçi öldü!",
+          "url": "https://www.vanolay.com/vanda-halati-kopan-trafonun-altinda-kalan-isci-oldu",
+          "publisher": "Van Olay",
+          "type": "news",
+          "published_at": "2025-11-10"
+        },
+        {
+          "title": "Van'da elektrik işçisi Yunus Tezgel hayatını kaybetti",
+          "url": "https://www.vanhaber.tr/vanda-elektrik-iscisi-yunus-tezgel-hayatini-kaybetti",
+          "publisher": "Van Haber",
+          "type": "news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "Van’da trafo faciası: Halat koptu, işçi hayatını kaybetti!",
+          "url": "https://ulusalajans.com.tr/vanda-trafo-faciasi-halat-koptu-isci-hayatini-kaybetti",
+          "publisher": "Ulusal Ajans",
+          "type": "news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "Sikke Göleti",
+          "url": "https://tr.geoview.info/sikke_goeleti%2C15435864w",
+          "publisher": "Geoview.info / OpenStreetMap",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Önce hayat!",
+          "url": "https://www.birgun.net/makale/once-hayat-669387",
+          "publisher": "BirGün",
+          "type": "news",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
