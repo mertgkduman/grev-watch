@@ -6137,6 +6137,74 @@
       ]
     },
     {
+      "id": "ahmet-hatemi-nigde-sazlica-mobilyacilar-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ahmet Hatemi Niğde Sazlıca’da Mobilyacılar Sitesi inşaatında çatıdan düşerek yaşamını yitirdi",
+      "summary": "Niğde Merkez ilçesine bağlı Sazlıca kasabasında yapımı süren Mobilyacılar Sitesi inşaatında çalışan 50 yaşındaki İran uyruklu Ahmet Hatemi, inşaatın çatı bölümünde çalışırken dengesini kaybederek zemine düştü. Olay yerine gelen sağlık ekipleri Hatemi’nin yaşamını yitirdiğini belirledi; cenazesi incelemelerin ardından Niğde Ömer Halisdemir Üniversitesi Eğitim ve Araştırma Hastanesi morguna kaldırıldı.",
+      "worker_name": "Ahmet Hatemi",
+      "worker_age": 50,
+      "nationality": "İran",
+      "employer": "Sazlıca Mobilyacılar Sitesi inşaatı / taşeron veya işveren adı kaynaklarda belirtilmedi",
+      "sector": "İnşaat / mobilyacılar sitesi inşaatı",
+      "death_date": "2025-11-18",
+      "cause": "Çatıda çalışırken dengesini kaybederek zemine düşme",
+      "legal_status": "Kaynaklar olayla ilgili inceleme veya soruşturma başlatıldığını aktardı; işveren veya sorumluluk süreci ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-18",
+      "locations": [
+        {
+          "id": "ahmet-hatemi-nigde-sazlica-mobilyacilar-sitesi-insaat",
+          "label": "Sazlıca kasabasında yapımı süren Mobilyacılar Sitesi inşaatı",
+          "province_key": "NIGDE",
+          "province": "Niğde",
+          "district": "Merkez",
+          "lat": 37.898849,
+          "lng": 34.634609,
+          "geocode_precision": "town_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Niğde Merkez’e bağlı Sazlıca kasabasındaki Mobilyacılar Sitesi inşaatı olarak verdi; açık adres veya parsel belirtilmediği için Sazlıca merkez koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-18",
+          "status": "fatality_recorded",
+          "note": "Ahmet Hatemi Sazlıca’daki Mobilyacılar Sitesi inşaatının çatı bölümünde çalışırken dengesini kaybedip zemine düşerek olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Niğde’de inşaat işçisi düşerek hayatını kaybetti",
+          "url": "https://www.dmchaber.com/nigdede-insaat-iscisi-duserek-hayatini-kaybetti",
+          "publisher": "Niğde DMC Haber",
+          "type": "local_news",
+          "published_at": "2025-11-18"
+        },
+        {
+          "title": "Niğde’de İnşaat İşçisi Çatıdan Düşerek Hayatını Kaybetti",
+          "url": "https://www.hamlegazetesi.com/haber/nigdede_insaat_iscisi_catidan_duserek_hayatini_kaybetti-31155.html",
+          "publisher": "Hamle Gazetesi",
+          "type": "local_news",
+          "published_at": "2025-11-18"
+        },
+        {
+          "title": "Sazlıca Haritası Niğde Merkez Niğde",
+          "url": "https://www.haritatr.com/sazlica-haritasi-ec2b",
+          "publisher": "HaritaTR",
+          "type": "location_reference",
+          "published_at": null
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
