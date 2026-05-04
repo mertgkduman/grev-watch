@@ -5974,6 +5974,78 @@
       ]
     },
     {
+      "id": "yavuz-selim-yavuzyigit-malta-otel-insaati-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Yavuz Selim Yavuzyiğit Malta’da otel inşaatında yüksekten düşerek yaşamını yitirdi",
+      "summary": "Sakarya Karasu Kuzuluk Mahallesi’nden 25 yaşındaki Yavuz Selim Yavuzyiğit, yaklaşık iki yıldır Malta’da bir Türk şirketine ait otel inşaatında çalışıyordu. 19 Kasım’da çalıştığı inşaatta yüksekten düşerek ağır yaralandı; yapılan müdahalelere rağmen yaşamını yitirdi. Cenazesi Malta’daki resmi işlemler ve otopsinin ardından Karasu Kuzuluk Mahallesi’nde defnedildi.",
+      "worker_name": "Yavuz Selim Yavuzyiğit",
+      "worker_age": 25,
+      "employer": "Malta’da bir Türk şirketine ait otel inşaatı / şirket adı kaynaklarda belirtilmedi",
+      "sector": "İnşaat / otel inşaatı",
+      "death_date": "2025-11-19",
+      "cause": "Otel inşaatında yüksekten düşme",
+      "legal_status": "Kaynaklar olayla ilgili Malta’da resmi inceleme veya hukuki sürecin sürdüğünü aktardı; işveren adı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-27",
+      "locations": [
+        {
+          "id": "yavuz-selim-yavuzyigit-malta-otel-insaati",
+          "label": "Malta’da bir Türk şirketine ait otel inşaatı",
+          "province_key": "",
+          "province": "Malta",
+          "district": "",
+          "lat": 35.9375,
+          "lng": 14.3754,
+          "geocode_precision": "country_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Malta’da bir Türk şirketine ait otel inşaatı olarak verdi; otel adı, kent veya açık adres belirtilmediği için Malta ülke merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-19",
+          "status": "fatality_recorded",
+          "note": "Yavuz Selim Yavuzyiğit Malta’da bir otel inşaatında çalışırken yüksekten düşerek yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-26",
+          "status": "reported",
+          "note": "Cenazesi Malta’daki resmi işlemler ve otopsinin ardından Karasu Kuzuluk Mahallesi’nde toprağa verildi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Malta’da Feci İş Kazası: Karasulu Yavuz Selim Yavuzyiğit Hayatını Kaybetti",
+          "url": "https://www.karasuhaberleri.com/maltada-feci-is-kazasi-karasulu-yavuz-yavuzyigit-hayatini-kaybetti",
+          "publisher": "Karasu Haberleri",
+          "type": "local_news",
+          "published_at": "2025-11-20"
+        },
+        {
+          "title": "Malta'da vefat etmişti!",
+          "url": "https://www.medyadetay.com/maltada-vefat-etmisti",
+          "publisher": "Medya Detay",
+          "type": "local_news",
+          "published_at": "2025-11-26"
+        },
+        {
+          "title": "Çalışmak İçin Gitti, Cenazesi Geldi: 25 Yaşındaki Yavuz Selim’e Acı Veda",
+          "url": "https://www.maltahaber.com/calismak-icin-gitti-cenazesi-geldi-25-yasindaki-yavuz-selime-aci-veda/",
+          "publisher": "Malta Haber",
+          "type": "news",
+          "published_at": "2025-11-27"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
