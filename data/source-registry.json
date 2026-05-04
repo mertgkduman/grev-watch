@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 469,
-      "remaining_individual_case_target": 488
+      "mapped_individual_fatalities_in_these_months": 471,
+      "remaining_individual_case_target": 486
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 469,
-      "remaining_known_target_before_april_report": 317,
+      "mapped_individual_fatalities_before_pending_april_report": 471,
+      "remaining_known_target_before_april_report": 315,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -912,7 +912,7 @@
         "2025-09": 0,
         "2025-10": 0,
         "2025-11": 8,
-        "2025-12": 40
+        "2025-12": 42
       },
       "remaining_after_this_pass": {
         "2025-01": 180,
@@ -926,11 +926,11 @@
         "2025-09": 208,
         "2025-10": 171,
         "2025-11": 211,
-        "2025-12": 95
+        "2025-12": 93
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 48,
-      "total_remaining_after_this_pass": 2057,
+      "total_mapped_after_this_pass": 50,
+      "total_remaining_after_this_pass": 2055,
       "current_month": "2025-12",
       "processed_this_pass": [
         {
@@ -1160,6 +1160,18 @@
           "worker_name": "Nedim Kutlu",
           "record_id": "nedim-kutlu-kusadasi-insaat-is-cinayeti-2025",
           "remaining_in_period_after_record": 95
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Etka Talha Yılmaz",
+          "record_id": "etka-talha-yilmaz-afyon-insaat-asansor-is-cinayeti-2025",
+          "remaining_in_period_after_record": 94
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Ümit Akın",
+          "record_id": "umit-akin-palandoken-baca-tamiri-is-cinayeti-2025",
+          "remaining_in_period_after_record": 93
         }
       ]
     }

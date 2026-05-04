@@ -4807,6 +4807,117 @@
       ]
     },
     {
+      "id": "etka-talha-yilmaz-afyon-insaat-asansor-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Etka Talha Yılmaz Afyon’da inşaatta yük asansörü ile duvar arasında sıkışarak yaşamını yitirdi",
+      "summary": "Afyon Merkez’de çalıştığı inşaatta yük asansörü ile duvar arasında sıkışan 19 yaşındaki Etka Talha Yılmaz yaşamını yitirdi. Yerel vefat duyurusu 16 Aralık 2025 tarihini ve yaş bilgisini doğruluyor; kaza ayrıntısı İSİG Meclisi aktarımından kaydedildi.",
+      "worker_name": "Etka Talha Yılmaz",
+      "worker_age": 19,
+      "employer": "Afyon Merkez inşaatı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-16",
+      "cause": "Yük asansörü ile duvar arasında sıkışma",
+      "legal_status": "Kaynaklarda olayla ilgili adli süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-16",
+      "locations": [
+        {
+          "id": "etka-talha-yilmaz-afyon-merkez-insaat",
+          "label": "Afyon Merkez inşaatı",
+          "province_key": "AFYONKARAHISAR",
+          "province": "Afyonkarahisar",
+          "district": "Merkez",
+          "lat": 38.76,
+          "lng": 30.54,
+          "geocode_precision": "province_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-16",
+          "status": "fatality_recorded",
+          "note": "Etka Talha Yılmaz Afyon Merkez’de çalıştığı inşaatta yük asansörü ile duvar arasında sıkışarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Afyon’da bugün 3 vefat duyurusu var",
+          "url": "https://www.afyonhaber.com/afyonda-bugun-3-vefat-duyurusu-var",
+          "publisher": "Afyon Haber",
+          "type": "local_news",
+          "published_at": "2025-12-16"
+        },
+        {
+          "title": "İSİG Meclisi sosyal medya aktarımı: Etka Talha Yılmaz",
+          "url": "https://twstalker.com/MBekaroglu",
+          "publisher": "TwStalker / İSİG Meclisi aktarımı",
+          "type": "labor_news",
+          "published_at": "2025-12"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "umit-akin-palandoken-baca-tamiri-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ümit Akın Palandöken’de tamir ettiği bacayı kontrol ederken çatıdan düşerek yaşamını yitirdi",
+      "summary": "Erzurum Palandöken Hüseyin Avni Ulaş Mahallesi Gökdeniz Sokak’ta bir gün önce tamir ettiği bacayı kontrol etmek için beş katlı binanın çatısına çıkan Ümit Akın dengesini kaybederek düştü; kaldırıldığı Erzurum Şehir Hastanesi’nde kurtarılamadı.",
+      "worker_name": "Ümit Akın",
+      "worker_age": 35,
+      "employer": "Baca tamir işi / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / bakım-onarım",
+      "death_date": "2025-12-04",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma başlatıldığını aktardı. Kaynaklarda yaş bilgisi 35-36 olarak geçti; DHA’daki 35 yaş bilgisi esas alındı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "umit-akin-palandoken-gokdeniz-sokak-baca-tamiri",
+          "label": "Hüseyin Avni Ulaş Mahallesi Gökdeniz Sokak’ta baca tamir işi",
+          "province_key": "ERZURUM",
+          "province": "Erzurum",
+          "district": "Palandöken",
+          "lat": 39.9043,
+          "lng": 41.2679,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-04",
+          "status": "fatality_recorded",
+          "note": "Ümit Akın tamir ettiği bacayı kontrol ederken çatıdan düştü ve hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tamir ettiği bacayı kontrol ederken çatıdan düşüp öldü; o anlar kamerada",
+          "url": "https://www.dha.com.tr/gundem/tamir-ettigi-bacayi-kontrol-ederken-catidan-dusup-oldu-o-anlar-kamerada-video-2771496",
+          "publisher": "DHA",
+          "type": "news",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
