@@ -8477,6 +8477,90 @@
       ]
     },
     {
+      "id": "ibrahim-gulsen-seyhan-yenibaraj-insaat-iskele-cokmesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İbrahim Gülşen Seyhan’daki asansörlü iskele çökmesi sonrası İSİG’in Kasım listesinde anıldı",
+      "summary": "Adana’nın Seyhan ilçesi Yenibaraj Mahallesi 68050. Sokak’ta yapımı süren 10 katlı apartman inşaatında çalışan 45 yaşındaki sıva işçisi İbrahim Gülşen, 4 Kasım 2025’te Siracettin Demirkıran ile birlikte asansörlü iskelenin arızalanıp yere çakılması sonucu ağır yaralandı ve Seyhan Devlet Hastanesi’ne kaldırıldı. DHA, İLKHA ve Odatv/Sabah geçişleri Gülşen’in hayati tehlikesi olduğunu aktardı; İSİG Meclisi’nin 4 Aralık 2025 tarihli Kasım raporu Gülşen’i ayın iş cinayeti kayıtları arasında andı. Bu geçişte ölüm günü bağımsız haberlerden doğrulanamadığı için ölüm tarihi rapor ayı olarak kaydedildi.",
+      "worker_name": "İbrahim Gülşen",
+      "worker_age": 45,
+      "employer": "Seyhan Yenibaraj Mahallesi 68050. Sokak’taki 10 katlı apartman inşaatı",
+      "sector": "İnşaat",
+      "death_date": "2025-11",
+      "cause": "Asansörlü iskelenin arızalanıp yere çakılması sonucu yüksekten düşme ve ağır yaralanma",
+      "legal_status": "Basına yansıyan ilk haberlerde polis ekiplerinin olayla ilgili soruşturma başlattığı aktarıldı; İbrahim Gülşen’in ölümüne ilişkin ayrıca bir adli süreç veya yaptırım bilgisi bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "ibrahim-gulsen-seyhan-yenibaraj-insaat",
+          "label": "Yenibaraj Mahallesi 68050. Sokak’taki 10 katlı apartman inşaatı",
+          "province_key": "ADANA",
+          "province": "Adana",
+          "district": "Seyhan",
+          "lat": 37.018982,
+          "lng": 35.321934,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "DHA/Gazete3 olay yerini Seyhan ilçesi Yenibaraj Mahallesi 68050. Sokak’taki apartman inşaatı olarak verdi; açık şantiye koordinatı doğrulanamadığı için Haritamap’ın Yenibaraj Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-04",
+          "status": "injury_recorded",
+          "note": "Seyhan Yenibaraj Mahallesi 68050. Sokak’taki inşaatta asansörlü iskele arızalanıp yere çakıldı; İbrahim Gülşen ağır yaralı olarak Seyhan Devlet Hastanesi’ne kaldırıldı."
+        },
+        {
+          "date": "2025-11-04",
+          "status": "investigation_opened",
+          "note": "İLKHA, Gazete3/DHA ve Odatv/Sabah haberleri olayla ilgili soruşturma başlatıldığını aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu İbrahim Gülşen’i ayın iş cinayeti kayıtları arasında andı; bu geçişte kesin ölüm günü doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adana'da iskele çöktü: Bir işçi öldü, biri ağır yaralandı",
+          "url": "https://ilkha.com/guncel/adanada-iskele-coktu-bir-isci-oldu-biri-agir-yaralandi-489156",
+          "publisher": "İLKHA",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "İnşaat işçileri iskeleden düştü",
+          "url": "https://www.gazete3.com.tr/asayis/insaat-iscileri-iskeleden-dustu/",
+          "publisher": "Gazete3 / DHA",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "Adana'da korkunç olay: İnşaat iskelesi yere çakıldı... Bir işçi hayatını kaybetti",
+          "url": "https://www.odatv.com/guncel/adanada-korkunc-olay-insaat-iskelesi-yere-cakildi-bir-isci-hayatini-kaybetti-120121992",
+          "publisher": "Odatv / Sabah",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "Yenibaraj Haritası, Seyhan Adana",
+          "url": "https://www.haritamap.com/yer/yenibaraj-seyhan",
+          "publisher": "Haritamap.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
