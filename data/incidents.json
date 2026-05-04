@@ -10372,6 +10372,64 @@
       ]
     },
     {
+      "id": "kerim-cal-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Kerim Çal Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Kerim Çal’ı ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Amasya Belediyesi’nin vefat kaydı Kerim Çal’ın ölüm tarihini 24 Kasım 2025, doğum tarihini 1 Nisan 1983 olarak verdi; ancak bu geçişte tekil olay yeri, işkolu, işveren ve ölüm nedeni bağımsız haberle doğrulanamadı.",
+      "worker_name": "Kerim Çal",
+      "worker_age": 42,
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11-24",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "kerim-cal-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Kerim Çal adını listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor. Amasya Belediyesi vefat kaydı ölüm ve defin bilgisi verdiği halde iş cinayetinin gerçekleştiği yeri belirtmediği için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-24",
+          "status": "fatality_recorded",
+          "note": "Amasya Belediyesi vefat kaydı Kerim Çal’ın ölüm ve defin tarihini 24 Kasım 2025 olarak verdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Kerim Çal’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kerim ÇAL - T.C. Amasya Belediyesi | Resmi Web Sayfası",
+          "url": "https://amasya.bel.tr/aramizdan-ayrilanlar/kerim-cal",
+          "publisher": "T.C. Amasya Belediyesi",
+          "type": "obituary",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
