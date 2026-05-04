@@ -5396,6 +5396,80 @@
       ]
     },
     {
+      "id": "enver-takim-torbali-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Enver Takım Torbalı'da çalıştığı inşaattan düşerek yaşamını yitirdi",
+      "summary": "İzmir Torbalı Ayrancılar İnönü Mahallesi'nde, 147 Sokak'taki bir inşaat alanında çalışan 49 yaşındaki Enver Takım dengesini kaybederek yüksekten düştü. Olay yerine gelen sağlık ekipleri Takım'ın yaşamını yitirdiğini belirledi; cenazesi incelemenin ardından İzmir Adli Tıp Kurumu morguna kaldırıldı.",
+      "worker_name": "Enver Takım",
+      "worker_age": 49,
+      "employer": "İnşaat alanı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-22",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynaklar olayla ilgili inceleme veya soruşturma başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-23",
+      "locations": [
+        {
+          "id": "enver-takim-ayrancilar-inonu-147-sokak-insaat",
+          "label": "Ayrancılar İnönü Mahallesi 147 Sokak'ta inşaat alanı",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Torbalı",
+          "lat": 38.225735,
+          "lng": 27.273491,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Ayrancılar İnönü Mahallesi 147 Sokak'taki inşaat olarak verdi; açık şantiye noktası belirtilmediği için mahalle merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-22",
+          "status": "fatality_recorded",
+          "note": "Enver Takım Torbalı Ayrancılar'daki inşaatta dengesini kaybederek yüksekten düştü ve olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ekmek Parası İçin Gitti, Canından Oldu! Ordulu İşçi Yüksekten Düşerek Hayatını Kaybetti",
+          "url": "https://www.orduolay.com/haber/26878138/ekmek-parasi-icin-gitti-canindan-oldu-ordulu-isci-yuksekten-duserek-hayatini-kaybetti",
+          "publisher": "Ordu Olay",
+          "type": "local_news",
+          "published_at": "2025-11-22"
+        },
+        {
+          "title": "İzmir’de acı olay: İş kazasında vefat etti!",
+          "url": "https://www.noktagazetesi.com.tr/turkiye-gundemi/izmirde-aci-olay-is-kazasinda-vefat-etti-352211",
+          "publisher": "Nokta Gazetesi / İHA",
+          "type": "news",
+          "published_at": "2025-11-23"
+        },
+        {
+          "title": "İzmir Torbalı'da İnşaatta Düşen İşçi Hayatını Kaybetti",
+          "url": "https://www.mersinhaber.com/amp/haber/474399",
+          "publisher": "Mersin Haber",
+          "type": "news",
+          "published_at": "2025-11-23"
+        },
+        {
+          "title": "İnönü Mahallesi Haritası",
+          "url": "https://www.haritatr.com/inonu-mahallesi-haritasi-m5d29",
+          "publisher": "HaritaTR",
+          "type": "location_reference",
+          "published_at": null
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
