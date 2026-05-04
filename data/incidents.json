@@ -2643,6 +2643,533 @@
       ]
     },
     {
+      "id": "orhan-duman-ayvacik-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Orhan Duman Ayvacık'ta inşaatta çalışırken yaşamını yitirdi",
+      "summary": "Samsun'un Ayvacık ilçesinde devam eden bir inşaatta çalışan 44 yaşındaki Orhan Duman, çalışma sırasında meydana gelen iş kazası sonucu olay yerinde yaşamını yitirdi.",
+      "worker_name": "Orhan Duman",
+      "worker_age": 44,
+      "employer": "İnşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-30",
+      "cause": "Kaynakta ayrıntılandırılmayan inşaat iş kazası",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-30",
+      "locations": [
+        {
+          "id": "orhan-duman-ayvacik-samsun",
+          "label": "Ayvacık inşaat alanı",
+          "province_key": "SAMSUN",
+          "province": "Samsun",
+          "district": "Ayvacık",
+          "lat": 40.9896,
+          "lng": 36.6308,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-30",
+          "status": "fatality_recorded",
+          "note": "Orhan Duman Ayvacık'ta bir inşaat alanında meydana gelen iş kazası sonucu olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ayvacık'ta İnşaatta İş Kazası: 44 Yaşındaki İşçi Hayatını Kaybetti",
+          "url": "https://www.hedefhalk.com/ayvacik-ta-insaatta-is-kazasi-44-yasindaki-isci-hayatini-kaybetti/1806635/",
+          "publisher": "Hedef Halk",
+          "type": "labor_news",
+          "published_at": "2025-12-30"
+        },
+        {
+          "title": "Ayvacık’ta İş Kazası: 44 Yaşındaki İşçi Orhan Duman Hayatını Kaybetti",
+          "url": "https://carsambamedya.com.tr/haber/ayvacikta-is-kazasi-44-yasindaki-isci-orhan-duman-hayatini-kaybetti",
+          "publisher": "Çarşamba Medya",
+          "type": "labor_news",
+          "published_at": "2025-12-30"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "e-aia-kapakli-asansor-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "E.A.İ.A. Kapaklı'da asansör boşluğunda sıkışarak yaşamını yitirdi",
+      "summary": "Tekirdağ Kapaklı Karaağaç Mahallesi'ndeki bir iş yerinde çalışan 57 yaşındaki Mısır uyruklu E.A.İ.A., asansör boşluğunda sıkışarak ağır yaralandı; Kapaklı Devlet Hastanesi'nde yaşamını yitirdi.",
+      "worker_name": "E.A.İ.A.",
+      "worker_age": 57,
+      "employer": "Karaağaç Mahallesi'ndeki iş yeri / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-12-29",
+      "cause": "Asansör boşluğunda sıkışma",
+      "legal_status": "Kaynaklar olayla ilgili inceleme veya tahkikat başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-29",
+      "locations": [
+        {
+          "id": "e-aia-karaagac-kapakli",
+          "label": "Karaağaç Mahallesi iş yeri",
+          "province_key": "TEKIRDAG",
+          "province": "Tekirdağ",
+          "district": "Kapaklı",
+          "lat": 41.2983,
+          "lng": 27.9441,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-29",
+          "status": "fatality_recorded",
+          "note": "E.A.İ.A. asansör boşluğunda sıkışarak ağır yaralandı ve hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Asansör boşluğuna sıkışarak hayatını kaybetti",
+          "url": "https://www.kapakligazetesi.com.tr/asansor-bosluguna-sikisarak-hayatini-kaybetti",
+          "publisher": "Kapaklı Gazetesi",
+          "type": "labor_news",
+          "published_at": "2025-12-29"
+        },
+        {
+          "title": "Kapaklı’da İş Kazası: Mısır Uyruklu İşçi Hayatını Kaybetti",
+          "url": "https://www.kapakliobjektif.com/kapaklida-is-kazasi-misir-uyruklu-isci-hayatini-kaybetti/",
+          "publisher": "Kapaklı Objektif",
+          "type": "labor_news",
+          "published_at": "2025-12-29"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "muhammed-el-zaid-konya-forklift-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Muhammed El Zaid forkliftin altında kalarak yaşamını yitirdi",
+      "summary": "Konya Selçuklu Büyükkayacık Mahallesi Kuddusi Caddesi'ndeki Organize Sanayi Bölgesi'nde kurulu bir plastik kalıp üretim fabrikasında çalışan 26 yaşındaki Suriye uyruklu Muhammed El Zaid, forkliftin altında kalarak yaşamını yitirdi.",
+      "worker_name": "Muhammed El Zaid",
+      "worker_age": 26,
+      "employer": "Plastik kalıp üretim fabrikası / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Plastik / sanayi",
+      "death_date": "2025-12-21",
+      "cause": "Forkliftin altında kalma",
+      "legal_status": "Kaynaklar olayla ilgili inceleme veya tahkikatın sürdüğünü aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-21",
+      "locations": [
+        {
+          "id": "muhammed-el-zaid-buyukkayacik-konya-osb",
+          "label": "Büyükkayacık OSB plastik kalıp fabrikası",
+          "province_key": "KONYA",
+          "province": "Konya",
+          "district": "Selçuklu",
+          "lat": 37.9823,
+          "lng": 32.6148,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-21",
+          "status": "fatality_recorded",
+          "note": "Muhammed El Zaid çalıştığı plastik kalıp fabrikasında forkliftin altında kalarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Konya'da forkliftin altında kalan işçi öldü",
+          "url": "https://www.konyapostasi.com.tr/konya-haberleri/konyada-forkliftin-altinda-kalan-isci-oldu/762102",
+          "publisher": "Konya Postası / DHA",
+          "type": "labor_news",
+          "published_at": "2025-12-21"
+        },
+        {
+          "title": "Konya'da forkliftin altında kalan işçi yaşamını yitirdi",
+          "url": "https://www.merhabahaber.com/konyada-forkliftin-altinda-kalan-isci-yasamini-yitirdi-1942602h.htm",
+          "publisher": "Merhaba Haber / Anadolu Ajansı",
+          "type": "labor_news",
+          "published_at": "2025-12-21"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "kadir-kilic-denizli-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Kadir Kılıç inşaattan düşerek yaşamını yitirdi",
+      "summary": "Denizli Pamukkale Zeytinköy Mahallesi'nde bir inşaatta çalışan 64 yaşındaki Kadir Kılıç, yüksekten düşerek ağır yaralandı; kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "Kadir Kılıç",
+      "worker_age": 64,
+      "employer": "İnşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-09",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynaklar polis ekiplerinin inşaat alanında inceleme yaptığını ve soruşturma başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-09",
+      "locations": [
+        {
+          "id": "kadir-kilic-zeytinkoy-pamukkale",
+          "label": "Zeytinköy Mahallesi inşaat alanı",
+          "province_key": "DENIZLI",
+          "province": "Denizli",
+          "district": "Pamukkale",
+          "lat": 37.7414,
+          "lng": 29.1219,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-09",
+          "status": "fatality_recorded",
+          "note": "Kadir Kılıç inşaatta çalışırken yüksekten düşerek ağır yaralandı ve hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İnşaattan düşen işçi hayatını kaybetti",
+          "url": "https://denizliyeniolay.com/asayis/118972-insaattan-dusen-isci-hayatini-kaybetti",
+          "publisher": "Denizli Yeni Olay / İHA",
+          "type": "labor_news",
+          "published_at": "2025-12-09"
+        },
+        {
+          "title": "Denizli'de inşaattan düşen bir işçi hayatını kaybetti",
+          "url": "https://www.denizliekspres.com.tr/is-kazasi-can-aldi-denizli-de-insaattan-dusen-bir-isci-hayatini-kaybetti/51226/",
+          "publisher": "Denizli Ekspres",
+          "type": "labor_news",
+          "published_at": "2025-12-09"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "lutfi-kara-tekkekoy-mobilya-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Lütfi Kara mobilya atölyesinde düşerek yaşamını yitirdi",
+      "summary": "Samsun Tekkeköy İstiklal Mahallesi'nde bir mobilya atölyesinde çalışan 46 yaşındaki Lütfi Kara, yaklaşık üç metre yükseklikten düşerek ağır yaralandı; kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "Lütfi Kara",
+      "worker_age": 46,
+      "employer": "Mobilya atölyesi / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Mobilya / imalat",
+      "death_date": "2025-12-08",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-08",
+      "locations": [
+        {
+          "id": "lutfi-kara-istiklal-tekkekoy",
+          "label": "İstiklal Mahallesi mobilya atölyesi",
+          "province_key": "SAMSUN",
+          "province": "Samsun",
+          "district": "Tekkeköy",
+          "lat": 41.2126,
+          "lng": 36.4595,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-08",
+          "status": "fatality_recorded",
+          "note": "Lütfi Kara mobilya atölyesinde çalışırken yüksekten düşerek ağır yaralandı ve hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Samsun'da iş kazasında yaralanan işçi hayatını kaybetti",
+          "url": "https://www.gazetegercek.com.tr/samsun-da-is-kazasinda-yaralanan-isci-hayatini-kaybetti/178322/",
+          "publisher": "Gazete Gerçek / Anadolu Ajansı",
+          "type": "labor_news",
+          "published_at": "2025-12-08"
+        },
+        {
+          "title": "Samsun'da İş Kazasında Yaralanan İşçi Hayatını Kaybetti",
+          "url": "https://www.haberler.com/guncel/samsun-da-is-kazasinda-yaralanan-isci-hayatini-kaybetti-19342548-haberi/",
+          "publisher": "Haberler.com / Anadolu Ajansı",
+          "type": "labor_news",
+          "published_at": "2025-12-08"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "mustafa-karaomeroglu-kapakli-ravza-camii-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mustafa Karaömeroğlu Ravza Camii inşaatında yaşamını yitirdi",
+      "summary": "Tekirdağ Kapaklı İnönü Mahallesi Pınar Bulvarı'nda yapımı süren Ravza Camii inşaatında çalışan 42 yaşındaki Mustafa Karaömeroğlu, iskeleden yaklaşık 25 metre yükseklikten düşerek ağır yaralandı; kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "Mustafa Karaömeroğlu",
+      "worker_age": 42,
+      "employer": "Ravza Camii inşaatı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-12",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynaklar olayla ilgili inceleme başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-12",
+      "locations": [
+        {
+          "id": "mustafa-karaomeroglu-ravza-camii-kapakli",
+          "label": "Ravza Camii inşaatı",
+          "province_key": "TEKIRDAG",
+          "province": "Tekirdağ",
+          "district": "Kapaklı",
+          "lat": 41.3288,
+          "lng": 27.9734,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklarda İnönü Mahallesi Pınar Bulvarı olarak verilen Ravza Camii inşaatı mahalle düzeyinde konumlandırıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-12",
+          "status": "fatality_recorded",
+          "note": "Mustafa Karaömeroğlu Ravza Camii inşaatında iskeleden düşerek ağır yaralandı ve hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ravza Camii yapımında iskeleden düşen işçi hayatını kaybetti",
+          "url": "https://www.kapakligazetesi.com.tr/ravza-camii-yapiminda-iskeleden-dusen-isci-hayatini-kaybetti",
+          "publisher": "Kapaklı Gazetesi",
+          "type": "labor_news",
+          "published_at": "2025-12-12"
+        },
+        {
+          "title": "Tekirdağ’da Ravza Camii inşaatında feci kaza: İskeleden düşen işçi hayatını kaybetti",
+          "url": "https://www.iscihaber.net/gundem/tekirdagda-ravza-camii-insaatinda-feci-kaza-iskeleden-dusen-hayatini-kaybetti/193260",
+          "publisher": "İşçi Haber / İHA",
+          "type": "labor_news",
+          "published_at": "2025-12-12"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "ahmed-fevzi-karapinar-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ahmed Fevzi asansör boşluğuna düşerek yaşamını yitirdi",
+      "summary": "Konya Karapınar Zafer Mahallesi'ndeki bir inşaatta çalışan 40 yaşındaki Suriye uyruklu Ahmed Fevzi, henüz belirlenemeyen bir nedenle asansör boşluğuna düştü; kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "Ahmed Fevzi",
+      "worker_age": 40,
+      "employer": "İnşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-16",
+      "cause": "Asansör boşluğuna düşme",
+      "legal_status": "Kaynaklar olayla ilgili tahkikat başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-16",
+      "locations": [
+        {
+          "id": "ahmed-fevzi-zafer-karapinar",
+          "label": "Zafer Mahallesi inşaat alanı",
+          "province_key": "KONYA",
+          "province": "Konya",
+          "district": "Karapınar",
+          "lat": 37.7123,
+          "lng": 33.55882,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-16",
+          "status": "fatality_recorded",
+          "note": "Ahmed Fevzi inşaatta asansör boşluğuna düşerek ağır yaralandı ve hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İnşaat işçisi asansör boşluğuna düşerek hayatını kaybetti",
+          "url": "https://www.iscihaber.net/konya/insaat-iscisi-asansor-bosluguna-duserek-hayatini-kaybetti/193740",
+          "publisher": "İşçi Haber / İHA",
+          "type": "labor_news",
+          "published_at": "2025-12-16"
+        },
+        {
+          "title": "Konya'da asansör boşluğuna düşen Suriyeli işçi hayatını kaybetti",
+          "url": "https://bbnhaber.com.tr/konya-haber/konyada-asansor-bosluguna-dusen-suriyeli-isci-hayatini-kaybetti/407307",
+          "publisher": "BBN Haber / İHA",
+          "type": "labor_news",
+          "published_at": "2025-12-16"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "ali-andic-manavgat-karayollari-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ali Andıç D-400 yol çalışmasında tırın altında kalarak yaşamını yitirdi",
+      "summary": "Antalya Manavgat'ta D-400 Karayolu Çevreyolu Köprüsü yakınındaki bakım çalışmasında yol güvenliği sağlayan 61 yaşındaki karayolları işçisi Ali Andıç, bir tırın çarpması sonucu ağır yaralandı; kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "Ali Andıç",
+      "worker_age": 61,
+      "employer": "Karayolları taşeron firması",
+      "sector": "Yol bakım / ulaşım altyapısı",
+      "death_date": "2025-12-12",
+      "cause": "Yol çalışmasında tır çarpması",
+      "legal_status": "Kaynaklar tır sürücüsünün gözaltına alındığını ve soruşturma başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-12",
+      "locations": [
+        {
+          "id": "ali-andic-d400-manavgat",
+          "label": "D-400 Manavgat Çevreyolu Köprüsü yakını",
+          "province_key": "ANTALYA",
+          "province": "Antalya",
+          "district": "Manavgat",
+          "lat": 36.77562,
+          "lng": 31.447605,
+          "geocode_precision": "road_landmark_nearby",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklarda D-400 Manavgat Çevreyolu Köprüsü yakını/250 metre mesafe olarak bildirilen olay, köprü yakınında konumlandırıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-12",
+          "status": "fatality_recorded",
+          "note": "Ali Andıç yol bakım çalışmasında tırın çarpması sonucu ağır yaralandı ve hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Manavgat'ta acı kaza: Karayolları işçisi TIR'ın altında can verdi",
+          "url": "https://www.antalyakorfez.com/manavgatta-aci-kaza-karayollari-iscisi-tirin-altinda-can-verdi",
+          "publisher": "Antalya Körfez / İHA",
+          "type": "labor_news",
+          "published_at": "2025-12-12"
+        },
+        {
+          "title": "Antalya'da tırın çarptığı Karayolları işçisi öldü",
+          "url": "https://www.haberler.com/guncel/manavgat-ta-tirin-carptigi-karayollari-iscisi-hayatini-kaybetti-19351830-haberi/",
+          "publisher": "Haberler.com / Anadolu Ajansı",
+          "type": "labor_news",
+          "published_at": "2025-12-12"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "muhammed-isik-denizli-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Muhammed Işık Denizli'de inşaatta yaşamını yitirdi",
+      "summary": "Van Erciş Keklikova köyü nüfusuna kayıtlı 27 yaşındaki inşaat işçisi Muhammed Işık, Denizli'de çalıştığı bir inşaat şantiyesinde yüksekten düşerek yaşamını yitirdi.",
+      "worker_name": "Muhammed Işık",
+      "worker_age": 27,
+      "employer": "İnşaat / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-10",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynak olayla ilgili soruşturma başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-10",
+      "locations": [
+        {
+          "id": "muhammed-isik-denizli",
+          "label": "Denizli inşaat şantiyesi",
+          "province_key": "DENIZLI",
+          "province": "Denizli",
+          "district": "",
+          "lat": 37.7765,
+          "lng": 29.0864,
+          "geocode_precision": "province_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynakta olay yeri Denizli'de bir inşaat şantiyesi olarak verildi; ilçe/adres bu geçişte doğrulanamadı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-10",
+          "status": "fatality_recorded",
+          "note": "Muhammed Işık Denizli'de çalıştığı inşaatta yüksekten düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Van'lı gurbetçiden acı haber",
+          "url": "https://www.vangazetesi.com/van-li-gurbetciden-aci-haber/47018/",
+          "publisher": "Van Gazetesi",
+          "type": "labor_news",
+          "published_at": "2025-12-10"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
