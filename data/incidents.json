@@ -9606,6 +9606,69 @@
       ]
     },
     {
+      "id": "cuma-bayir-rusya-yuk-tasimaciligi-kalp-krizi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Cuma Bayır Rusya’ya yük götürdüğü sırada geçirdiği kalp krizi sonucu yaşamını yitirdi",
+      "summary": "Hatay’ın Altınözü ilçesinin ağır araç şoförlerinden Cuma Bayır, Kasım 2025’te aracıyla yük götürdüğü Rusya’da geçirdiği kalp krizi sonucu yaşamını yitirdi. Antakya Gazetesi, Bayır’ın cenazesinin yurda getirilmesi için işlemlerin başlatıldığını ve ölüm haberinin Altınözü’nde, özellikle sürücü camiasında üzüntü yarattığını aktardı. Haberde kesin ölüm günü, işveren ve Rusya’daki şehir belirtilmediği için ölüm tarihi İSİG rapor ayı olan 2025-11, konum ise ülke düzeyi olarak kaydedildi.",
+      "worker_name": "Cuma Bayır",
+      "worker_age": null,
+      "employer": "İşveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / ağır araç sürücülüğü",
+      "death_date": "2025-11",
+      "cause": "Rusya’ya yük taşırken geçirdiği kalp krizi",
+      "legal_status": "Antakya Gazetesi ve İSİG raporunda adli/idari soruşturma bilgisi yer almadı; sonraki süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "cuma-bayir-rusya-yuk-tasimaciligi",
+          "label": "Rusya’da yük taşımacılığı sırasında ölüm",
+          "province_key": "",
+          "province": "Rusya",
+          "district": "",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "geocode_precision": "country_centroid",
+          "fatality_count": 1,
+          "location_basis": "Antakya Gazetesi Cuma Bayır’ın aracıyla yük götürdüğü Rusya’da kalp krizi geçirerek yaşamını yitirdiğini aktardı; şehir veya açık konum doğrulanamadığı için Rusya ülke düzeyi/merkez koordinatı kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "Cuma Bayır aracıyla yük götürdüğü Rusya’da geçirdiği kalp krizi sonucu yaşamını yitirdi; kesin gün kaynaklarda belirtilmedi."
+        },
+        {
+          "date": "2025-12-01",
+          "status": "reported_by_press",
+          "note": "Antakya Gazetesi, Altınözülü ağır araç şoförü Cuma Bayır’ın Rusya’da yaşamını yitirdiğini ve cenazesinin yurda getirilmesi için işlemlerin başlatıldığını yazdı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Cuma Bayır’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Acı Haber Uzak Diyardan Geldi",
+          "url": "https://antakyagazetesi.com/aci-haber-uzak-diyardan-geldi/",
+          "publisher": "Antakya Gazetesi",
+          "type": "news",
+          "published_at": "2025-12-01"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
