@@ -4528,6 +4528,285 @@
       ]
     },
     {
+      "id": "alperen-karacengel-tuzla-fabrika-yangini-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Alperen Karaçengel Tuzla’da çalıştırıldığı fabrikada çıkan yangında yaşamını yitirdi",
+      "summary": "İstanbul Tuzla’da bir fabrikada gece saatlerinde çıkan yangında 16 yaşındaki çocuk işçi Alperen Karaçengel yaşamını yitirdi. Kaynaklar işyerinin Evliya Çelebi Mahallesi’ndeki Yılmaz Pompa olduğunu ve yangının tinerle yıkama sırasında çıktığı iddiasını aktardı.",
+      "worker_name": "Alperen Karaçengel",
+      "worker_age": 16,
+      "employer": "Yılmaz Pompa / kaynaklarda aktarılan işyeri",
+      "sector": "Metal / pompa imalatı",
+      "death_date": "2025-12-12",
+      "cause": "Fabrika yangını / yanma",
+      "legal_status": "Kaynaklar olayla ilgili inceleme başlatıldığını aktardı; İSİG Meclisi olayı 2025’teki 87. çocuk işçi ölümü olarak duyurdu.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-14",
+      "locations": [
+        {
+          "id": "alperen-karacengel-tuzla-evliya-celebi-fabrika",
+          "label": "Evliya Çelebi Mahallesi Yılmaz Pompa fabrikası",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Tuzla",
+          "lat": 40.842,
+          "lng": 29.312,
+          "geocode_precision": "neighborhood_approx",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-12",
+          "status": "fatality_recorded",
+          "note": "Alperen Karaçengel gece saatlerinde çalıştığı fabrikada çıkan yangında yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "16 yaşındaki Alperen Karaçengel çalıştırıldığı fabrikada öldü",
+          "url": "https://bianet.org/haber/16-yasindaki-alperen-karacengel-calistirildigi-fabrikada-oldu-314458",
+          "publisher": "bianet",
+          "type": "news",
+          "published_at": "2025-12-12"
+        },
+        {
+          "title": "Tuzla’da Çocuk İşçi Alperen, Yangında Hayatını Kaybetti",
+          "url": "https://tuzladetay.com/uncategorized/tuzlada-cocuk-isci-alperen-yanginda-hayatini-kaybetti-3892",
+          "publisher": "Tuzla Detay",
+          "type": "local_news",
+          "published_at": "2025-12-12"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "turesin-karademir-silivri-insaat-bekcisi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Türesin Karademir Silivri’de inşaatta bekçilik yaparken kalp krizi geçirerek yaşamını yitirdi",
+      "summary": "İstanbul Silivri’de gece bekçisi olarak çalıştığı inşaatta kalp krizi geçiren 54 yaşındaki Türesin Karademir yaşamını yitirdi.",
+      "worker_name": "Türesin Karademir",
+      "worker_age": 54,
+      "employer": "İnşaat şantiyesi / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat / güvenlik",
+      "death_date": "2025-12-12",
+      "cause": "Kalp krizi",
+      "legal_status": "Kaynakta işveren veya adli süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-12",
+      "locations": [
+        {
+          "id": "turesin-karademir-silivri-insaat-santiyesi",
+          "label": "Silivri inşaat şantiyesi",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Silivri",
+          "lat": 41.073,
+          "lng": 28.246,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-12",
+          "status": "fatality_recorded",
+          "note": "Türesin Karademir gece bekçisi olarak çalıştığı inşaatta kalp krizi geçirerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1 gün içerisinde 3 iş cinayeti gerçekleşti",
+          "url": "https://www.yenicaggazetesi.com/1-gun-icerisinde-3-is-cinayeti-gerceklesti-986361h.htm",
+          "publisher": "Yeniçağ",
+          "type": "news",
+          "published_at": "2025-12-12"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "abdulbaki-andic-celtikci-cati-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Abdülbaki Andıç Çeltikçi’de çatı tamiri sırasında düşerek yaşamını yitirdi",
+      "summary": "Burdur Çeltikçi Güvenli Köyü’nde çatı tamiri yapan 52 yaşındaki inşaat işçisi Abdülbaki Andıç, dengesini kaybedip sert zemine düşerek olay yerinde yaşamını yitirdi.",
+      "worker_name": "Abdülbaki Andıç",
+      "worker_age": 52,
+      "employer": "Çatı tamir işi / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / bakım-onarım",
+      "death_date": "2025-12-16",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-18",
+      "locations": [
+        {
+          "id": "abdulbaki-andic-celtikci-guvenli-koyu-cati",
+          "label": "Güvenli Köyü çatı tamir işi",
+          "province_key": "BURDUR",
+          "province": "Burdur",
+          "district": "Çeltikçi",
+          "lat": 37.53,
+          "lng": 30.47,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-16",
+          "status": "fatality_recorded",
+          "note": "Abdülbaki Andıç çatı tamiri sırasında düşerek olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Çeltikçi’de iş kazası İnşaat işçisi hayatını kaybetti",
+          "url": "https://www.nnchaber.com/celtikci-de-is-kazasi-insaat-iscisi-hayatini-kaybetti",
+          "publisher": "NNC Haber",
+          "type": "local_news",
+          "published_at": "2025-12-18"
+        },
+        {
+          "title": "Burdur Çeltikçi’de çatıdan düşen işçi hayatını kaybetti",
+          "url": "https://www.itibarhaber.com/burdur-celtikci-de-catidan-dusen-isci-hayatini-kaybetti-86305",
+          "publisher": "İtibar Haber",
+          "type": "local_news",
+          "published_at": "2025-12-18"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "mahmut-kizilkaya-bursa-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mahmut Kızılkaya Bursa’da çalıştığı inşaatta düşerek yaşamını yitirdi",
+      "summary": "Ordu Aybastılı 59 yaşındaki Mahmut Kızılkaya, Bursa’da çalıştığı inşaatta yüksekten düşmesi sonucu ağır yaralandı; yapılan müdahalelere rağmen kurtarılamayarak yaşamını yitirdi.",
+      "worker_name": "Mahmut Kızılkaya",
+      "worker_age": 59,
+      "employer": "Bursa inşaat şantiyesi / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-19",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynak olayla ilgili inceleme başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-19",
+      "locations": [
+        {
+          "id": "mahmut-kizilkaya-bursa-insaat",
+          "label": "Bursa inşaat şantiyesi",
+          "province_key": "BURSA",
+          "province": "Bursa",
+          "district": "Merkez",
+          "lat": 40.195,
+          "lng": 29.06,
+          "geocode_precision": "province_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-19",
+          "status": "fatality_recorded",
+          "note": "Mahmut Kızılkaya Bursa’da çalıştığı inşaatta yüksekten düşme sonucu yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bursa’da meydana gelen iş kazası Ordu’ya acı haberle yansıdı",
+          "url": "https://www.unyegundemhaber.com/bursada-meydana-gelen-is-kazasi-orduya-aci-haberle-yansidi-83789",
+          "publisher": "Ünye Gündem Haber",
+          "type": "local_news",
+          "published_at": "2025-12-19"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "nedim-kutlu-kusadasi-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Nedim Kutlu Kuşadası’nda inşaattan düştükten sonra yaşamını yitirdi",
+      "summary": "Aydın Kuşadası’nda çalıştığı inşaatın üçüncü katından düşerek ağır yaralanan 50 yaşındaki Nedim Kutlu, hastanede geçirdiği ameliyatın ardından yaşamını yitirdi.",
+      "worker_name": "Nedim Kutlu",
+      "worker_age": 50,
+      "employer": "Kuşadası inşaatı / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-18",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynakta olayla ilgili adli süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-18",
+      "locations": [
+        {
+          "id": "nedim-kutlu-kusadasi-insaat",
+          "label": "Kuşadası inşaat şantiyesi",
+          "province_key": "AYDIN",
+          "province": "Aydın",
+          "district": "Kuşadası",
+          "lat": 37.8579,
+          "lng": 27.261,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-17",
+          "status": "injury_reported",
+          "note": "Nedim Kutlu çalıştığı inşaatın üçüncü katından düşerek ağır yaralandı."
+        },
+        {
+          "date": "2025-12-18",
+          "status": "fatality_recorded",
+          "note": "Nedim Kutlu hastanedeki müdahalelere rağmen yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Aydın’da inşaattan düşen Kutlu hayatını kaybetti",
+          "url": "https://aydinhavadisleri.com/aydinda-insaattan-dusen-kutlu-hayatini-kaybetti/",
+          "publisher": "Aydın Havadisleri",
+          "type": "local_news",
+          "published_at": "2025-12-18"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
