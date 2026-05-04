@@ -6564,6 +6564,97 @@
       ]
     },
     {
+      "id": "selahattin-erdogan-beyoglu-kabatas-metro-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Selahattin Erdoğan Kabataş Metro şantiyesinde iskele/göçük sonucu yaşamını yitirdi",
+      "summary": "İstanbul Beyoğlu Ömer Avni Mahallesi Meclis-i Mebusan Caddesi üzerindeki Kabataş Metro İstasyonu şantiye alanında 15 Kasım 2025 saat 20.30 sıralarında iskele çökmesi / göçük meydana geldi. Yaralı olarak hastaneye kaldırılan işçilerden 44 yaşındaki Selahattin Erdoğan yapılan müdahalelere rağmen yaşamını yitirdi; olayda başka işçilerin de yaralandığı bildirildi.",
+      "worker_name": "Selahattin Erdoğan",
+      "worker_age": 44,
+      "employer": "Kabataş Metro İstasyonu şantiyesi / taşeron BMA Enerji Mühendislik İnşaat Sanayi ve Limited Şirketi olarak haberleştirildi",
+      "sector": "İnşaat / metro şantiyesi",
+      "death_date": "2025-11-15",
+      "cause": "Metro şantiyesinde iskele çökmesi / göçük",
+      "legal_status": "Olayla ilgili adli ve idari soruşturma başlatıldığı bildirildi. Haberlerde taşeron BMA Enerji Mühendislik İnşaat Sanayi ve Limited Şirketi sahibi/yetkilisi B.Ç. ile şantiye şefi O.Ç.’nin asli kusurlu bulunduğu ve tutuklandığı; Selahattin Erdoğan ve yaralı işçilerin ise bilirkişi ön raporunda tali kusurlu sayıldığı aktarıldı.",
+      "linked_incident_count": 5,
+      "last_verified_at": "2025-11-18",
+      "locations": [
+        {
+          "id": "selahattin-erdogan-kabatas-metro-santiyesi",
+          "label": "Kabataş Metro İstasyonu şantiye alanı",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Beyoğlu",
+          "lat": 41.034058,
+          "lng": 28.992317,
+          "geocode_precision": "station_area",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Beyoğlu Ömer Avni Mahallesi Meclis-i Mebusan Caddesi üzerindeki Kabataş Metro İstasyonu şantiye alanında verdi; parsel veya şantiye giriş koordinatı doğrulanamadığı için Kabataş İstasyonu koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-15",
+          "status": "fatality_recorded",
+          "note": "Kabataş Metro İstasyonu şantiyesinde saat 20.30 sıralarında iskele çökmesi / göçük meydana geldi; Selahattin Erdoğan hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-16",
+          "status": "reported",
+          "note": "Cenazesi Adli Tıp Kurumu’ndaki otopsi işlemlerinin ardından ailesine teslim edilerek Trabzon Çarşıbaşı’na gönderildi."
+        },
+        {
+          "date": "2025-11-16",
+          "status": "legal_action_reported",
+          "note": "Soruşturmada taşeron firma yetkilisi ve şantiye şefinin tutuklandığı haberleştirildi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Metro çalışması sırasında iskele çöktü: 1 işçi öldü, 2 işçinin tedavisi sürüyor",
+          "url": "https://www.bursahaber.com/genel/metro-calismasi-sirasinda-iskele-coktu-1-isci-oldu-2-iscinin-tedavisi-suruyor-2726723",
+          "publisher": "Bursa Haber / İHA",
+          "type": "news",
+          "published_at": "2025-11-16"
+        },
+        {
+          "title": "Beyoğlu’nda metro inşaatında yaşanan kazada hayatını kaybeden işçinin cenazesi Adli Tıp Kurumu’ndan alındı",
+          "url": "https://www.ilkhaber-gazetesi.com/polis-asayis/beyoglu-nda-metro-insaatinda-yasanan-kazada-hayatini-kaybeden-iscinin-cenazesi-adli-tip-kurumu-ndan-alindi-353453",
+          "publisher": "İlkhaber Gazetesi / İHA",
+          "type": "news",
+          "published_at": "2025-11-16"
+        },
+        {
+          "title": "Beyoğlu’ndaki Metro İnşaatı Kazasında 1 İşçi Hayatını Kaybetti: Acı Haber Çarşıbaşı’na Ulaştı",
+          "url": "https://www.takagazete.com.tr/beyoglundaki-metro-insaati-kazasinda-1-isci-hayatini-kaybetti-aci-haber-carsibasina-ulasti",
+          "publisher": "Taka Gazete",
+          "type": "local_news",
+          "published_at": "2025-11-16"
+        },
+        {
+          "title": "Kabataş metro inşaatındaki göçükle ilgili iki tutuklama",
+          "url": "https://www.sondakika.com/3-sayfa/haber-istanbul-da-kabatas-metro-insaatindaki-gocukle-19259767/",
+          "publisher": "Son Dakika",
+          "type": "news",
+          "published_at": "2025-11-16"
+        },
+        {
+          "title": "Kabataş Istasyonu Haritası",
+          "url": "https://www.haritamap.com/yer/kabatas-istasyonu-beyoglu",
+          "publisher": "Harita Map",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
