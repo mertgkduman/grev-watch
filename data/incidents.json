@@ -9517,6 +9517,95 @@
       ]
     },
     {
+      "id": "yusuf-samet-ercan-kilbasan-elektrik-diregi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Yusuf Samet Ercan Kılbasan’da elektrik direğinde akıma kapılarak yaşamını yitirdi",
+      "summary": "Karaman merkeze bağlı Kılbasan köyünde Meram Elektrik Dağıtım A.Ş.’nin (MEDAŞ) alt yüklenici firması çalışanı olduğu aktarılan 23 yaşındaki Yusuf Samet Ercan, 3 Kasım 2025 akşamı elektrik direğinde çalışma yaparken akıma kapıldı. İHA ve onu aktaran haberler, Ercan’ın mesai saati sonrası bir tanıdığının evine elektrik hattı çekmek için direğe çıktığını, sağlık ekibinin olay yerinde yaşamını yitirdiğini belirlediğini ve cenazesinin Karaman Eğitim ve Araştırma Hastanesi morguna kaldırıldığını yazdı. Karaman Haberleri olayı iş kazası olarak duyurdu; İSİG Meclisi Ercan’ı Kasım 2025 iş cinayetleri listesine aldı.",
+      "worker_name": "Yusuf Samet Ercan",
+      "worker_age": 23,
+      "employer": "Meram Elektrik Dağıtım A.Ş. (MEDAŞ) alt yüklenici firması",
+      "sector": "Enerji / elektrik altyapısı",
+      "death_date": "2025-11-03",
+      "cause": "Elektrik direğinde çalışma yaparken akıma kapılma",
+      "legal_status": "İHA olayla ilgili tahkikat başlatıldığını, Karaman Haberleri kazanın nasıl meydana geldiğine ilişkin soruşturma başlatıldığını aktardı; sonraki adli/idari süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "yusuf-samet-ercan-kilbasan-elektrik-diregi",
+          "label": "Kılbasan köyünde elektrik direği çalışması",
+          "province_key": "KARAMAN",
+          "province": "Karaman",
+          "district": "Merkez",
+          "lat": 37.320562,
+          "lng": 33.186668,
+          "geocode_precision": "village_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayın Karaman merkeze bağlı Kılbasan köyünde elektrik direğinde meydana geldiğini aktardı; açık adres veya direk noktası doğrulanamadığı için Yandex Maps’in Kılbasan Köyü koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-03",
+          "status": "fatality_recorded",
+          "note": "Yusuf Samet Ercan Kılbasan köyünde elektrik direğinde çalışma yaparken akıma kapıldı; sağlık ekibi olay yerinde yaşamını yitirdiğini belirledi."
+        },
+        {
+          "date": "2025-11-03",
+          "status": "investigation_opened",
+          "note": "Karaman Haberleri olayın ardından kazanın nasıl meydana geldiğine ilişkin soruşturma başlatıldığını aktardı."
+        },
+        {
+          "date": "2025-11-04",
+          "status": "reported_by_press",
+          "note": "İHA, Ercan’ın MEDAŞ alt yüklenici firması çalışanı olduğunu ve cenazesinin Karaman Eğitim ve Araştırma Hastanesi morguna kaldırıldığını bildirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Yusuf Samet Ercan’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Elektrik akımına kapılan genç hayatını kaybetti",
+          "url": "https://www.iha.com.tr/karaman-haberleri/elektrik-akimina-kapilan-genc-hayatini-kaybetti-326182984",
+          "publisher": "İhlas Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "Karaman'da genç elektrikçi akıma kapılarak hayatını kaybetti",
+          "url": "https://www.sondakika.com/haber/haber-karaman-da-genc-elektrikci-akima-kapilarak-hayatin-19217402/",
+          "publisher": "Son Dakika / İHA",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "Karaman’da Acı Kayıp: İş kazasında bir genç yaşamını yitirdi!",
+          "url": "https://www.karamanhaberleri.com/karaman-da-aci-kayip-is-kazasinda-bir-genc-yasamini-yitirdi/7417/",
+          "publisher": "Karaman Haberleri",
+          "type": "news",
+          "published_at": "2025-11-03"
+        },
+        {
+          "title": "Kılbasan Köyü — harita, nasıl gidilir, koordinatlar",
+          "url": "https://yandex.com.tr/maps/103848/karaman/geo/kilbasan_koyu/2215949291/",
+          "publisher": "Yandex Maps",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
