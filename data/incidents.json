@@ -6655,6 +6655,78 @@
       ]
     },
     {
+      "id": "kubbettin-kaya-yuregir-ptt-evleri-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Kubbettin Kaya Yüreğir’de çalıştığı inşaatın 4. katından düşerek yaşamını yitirdi",
+      "summary": "Adana’nın Yüreğir ilçesi PTT Evleri Mahallesi’nde 15 Kasım 2025’te beş katlı bir inşaatta çalışan 45 yaşındaki Kubbettin Kaya, dengesini kaybederek 4. kattan düştü; sağlık ekipleri olay yerinde yaşamını yitirdiğini belirledi.",
+      "worker_name": "Kubbettin Kaya",
+      "worker_age": 45,
+      "employer": "PTT Evleri Mahallesi’ndeki beş katlı inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-15",
+      "cause": "Çalıştığı inşaatın 4. katından düşme",
+      "legal_status": "Kaynaklar olay yerinde polis ekiplerinin inceleme başlattığını, inşaattaki çalışmaların durdurulduğunu ve cenazenin otopsi için Adana Adli Tıp Kurumu morguna kaldırıldığını aktardı; işveren veya adli/idari süreç ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-15",
+      "locations": [
+        {
+          "id": "kubbettin-kaya-yuregir-ptt-evleri-insaat",
+          "label": "PTT Evleri Mahallesi’ndeki beş katlı inşaat",
+          "province_key": "ADANA",
+          "province": "Adana",
+          "district": "Yüreğir",
+          "lat": 36.992863,
+          "lng": 35.364883,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Cumhuriyet ve Akdeniz Gazetesi olayı Adana Yüreğir PTT Evleri Mahallesi’ndeki beş katlı inşaatta verdi; sokak, parsel veya şantiye girişi kaynaklarda belirtilmediği için HaritaTR’nin PTT Evleri Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-15",
+          "status": "fatality_recorded",
+          "note": "Yüreğir PTT Evleri Mahallesi’nde yapımı devam eden beş katlı inşaatta çalışan Kubbettin Kaya, 4. kattan dengesini kaybederek zemine düştü ve olay yerinde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-15",
+          "status": "investigation_opened",
+          "note": "Polis ekipleri olayla ilgili inceleme başlattı; Cumhuriyet haberinde inşaattaki çalışmaların durdurulduğu bildirildi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Çalıştığı inşaattan düşen işçi hayatını kaybetti",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/calistigi-insaattan-dusen-isci-hayatini-kaybetti-2452969",
+          "publisher": "Cumhuriyet / ANKA",
+          "type": "news",
+          "published_at": "2025-11-15"
+        },
+        {
+          "title": "Adana’da İnşaat Faciası: 4. Kattan Düşen İşçi Hayatını Kaybetti",
+          "url": "https://www.akdenizgazetesi.com/adanada-insaat-faciasi-4-kattan-dusen-isci-hayatini-kaybetti",
+          "publisher": "Akdeniz Gazetesi / AA",
+          "type": "local_news",
+          "published_at": "2025-11-15"
+        },
+        {
+          "title": "Ptt Evleri Mahallesi Haritası",
+          "url": "https://www.haritatr.com/ptt-evleri-mahallesi-haritasi-m80",
+          "publisher": "HaritaTR",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
