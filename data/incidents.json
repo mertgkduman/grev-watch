@@ -6406,6 +6406,85 @@
       ]
     },
     {
+      "id": "sedat-kurt-haliliye-kisas-insaat-gocuk-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Sedat Kurt Haliliye Kısas’ta inşaat göçüğünde yaşamını yitirdi",
+      "summary": "Şanlıurfa’nın Haliliye ilçesine bağlı Kısas Mahallesi’nde 16 Kasım 2025’te beton dökümü yapılan tek katlı işyeri inşaatında kalıpların ve tavan tablasının çökmesi sonucu beş işçi beton ve demir yığını altında kaldı. Hastaneye kaldırılan 15 yaşındaki Sedat Kurt ve 16 yaşındaki Yakup Güneş yapılan müdahalelere rağmen kurtarılamadı.",
+      "worker_name": "Sedat Kurt",
+      "worker_age": 15,
+      "employer": "Kısas Mahallesi’ndeki işyeri inşaatı / inşaat sahibi A.K. (Ahmet Kurt olarak haberleştirildi)",
+      "sector": "İnşaat",
+      "death_date": "2025-11-16",
+      "cause": "Beton dökümü sırasında inşaat kalıplarının ve tavan tablasının çökmesi / göçük",
+      "legal_status": "Şanlıurfa Cumhuriyet Başsavcılığı’nın soruşturma başlattığı, soruşturma kapsamında inşaat sahibi A.K.’nin gözaltına alındığı haberleştirildi. DHA/Haberler, Sedat Kurt’un inşaat sahibi Ahmet Kurt’un oğlu olduğunu aktardı. Kaynaklarda Sedat’ın yaşı 15 ve bazı haberlerde 16 olarak geçti; Bianet ve DHA/Haberler’deki 15 yaş bilgisi esas alındı.",
+      "linked_incident_count": 2,
+      "last_verified_at": "2025-11-18",
+      "locations": [
+        {
+          "id": "sedat-kurt-haliliye-kisas-insaat",
+          "label": "Kısas Mahallesi işyeri inşaatı",
+          "province_key": "SANLIURFA",
+          "province": "Şanlıurfa",
+          "district": "Haliliye",
+          "lat": 37.10381,
+          "lng": 38.93343,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Haliliye’ye bağlı Kısas Mahallesi’nde, mahalle girişindeki yapımı süren işyeri inşaatında verdi; açık parsel veya kapı numarası doğrulanamadığı için Kısas Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-16",
+          "status": "fatality_recorded",
+          "note": "Kısas Mahallesi’ndeki inşaatta beton dökümü sırasında göçük meydana geldi; Sedat Kurt ve Yakup Güneş hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-18",
+          "status": "investigation_opened",
+          "note": "Haberlerde soruşturma kapsamında inşaat sahibi A.K.’nin gözaltına alındığı aktarıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Urfa’da beton dökümü sırasında inşaat çöktü: İki çocuk işçi hayatını kaybetti",
+          "url": "https://bianet.org/haber/urfa-da-beton-dokumu-sirasinda-insaat-coktu-iki-cocuk-isci-hayatini-kaybetti-313581",
+          "publisher": "Bianet",
+          "type": "news",
+          "published_at": "2025-11-16"
+        },
+        {
+          "title": "Şanlıurfa’da İnşaat Göçüğü: İki Genç İşçi Hayatını Kaybetti",
+          "url": "https://www.haberler.com/guncel/sanliurfa-da-insaat-gocugu-iki-genc-isci-hayatini-kaybetti-19260936-haberi/",
+          "publisher": "Haberler.com / DHA",
+          "type": "news",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Şanlıurfa’da Çöken İnşaat: 2 İşçi Hayatını Kaybetti, Sahibine Gözaltı",
+          "url": "https://www.haberler.com/amp/sanliurfa-da-coken-insaat-2-isci-hayatini-kaybetti-sahibine-gozalti-19263549-haberi/",
+          "publisher": "Haberler.com",
+          "type": "news",
+          "published_at": "2025-11-18"
+        },
+        {
+          "title": "Kısas Mahallesi Nerede, Hangi İlçeye Bağlı? Haliliye, Şanlıurfa",
+          "url": "https://kmhesaplama.com/sanliurfa/haliliye/kisas/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
