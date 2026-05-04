@@ -7977,6 +7977,90 @@
       ]
     },
     {
+      "id": "ali-karadag-yesilyurt-tecde-villa-insaat-merdiven-boslugu-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ali Karadağ Yeşilyurt’ta villa inşaatında merdiven boşluğuna düşerek yaşamını yitirdi",
+      "summary": "Malatya’nın Yeşilyurt ilçesi Tecde Şentepe Mahallesi Beyrut Sokak üzerinde yapımı süren üç katlı bir villa inşaatında alçı ustası olarak çalışan 44 yaşındaki Ali Karadağ, 7 Kasım 2025 akşamı merdiven boşluğuna düşerek ağır yaralandı. Mesai bitiminde durumu fark eden işçilerin ihbarı üzerine hastaneye kaldırılan Karadağ, doktorların müdahalesine rağmen yaşamını yitirdi; olayla ilgili soruşturma başlatıldı.",
+      "worker_name": "Ali Karadağ",
+      "worker_age": 44,
+      "employer": "Tecde Şentepe Mahallesi Beyrut Sokak’taki villa inşaatı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-07",
+      "cause": "Villa inşaatında merdiven boşluğuna düşme",
+      "legal_status": "DHA ve Malatya Pencere haberlerinde olayla ilgili soruşturma başlatıldığı aktarıldı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "ali-karadag-yesilyurt-tecde-villa-insaat",
+          "label": "Tecde Şentepe Mahallesi Beyrut Sokak’taki villa inşaatı",
+          "province_key": "MALATYA",
+          "province": "Malatya",
+          "district": "Yeşilyurt",
+          "lat": 38.31571,
+          "lng": 38.27421,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Malatya Pencere olay yerini Yeşilyurt Tecde Şentepe Mahallesi Beyrut Sokak üzerindeki üç katlı villa inşaatı olarak verdi; açık şantiye koordinatı doğrulanamadığı için Kmhesaplama’nın Tecde Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-07",
+          "status": "fatality_recorded",
+          "note": "Yeşilyurt Tecde’de bir villa inşaatında alçı ustası Ali Karadağ merdiven boşluğuna düştü; kaldırıldığı hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-07",
+          "status": "investigation_opened",
+          "note": "DHA ve yerel haberler olayla ilgili soruşturma başlatıldığını aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Ali Karadağ’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Malatya'da İnşaat Kazası: Ali Karadağ Hayatını Kaybetti",
+          "url": "https://www.sondakika.com/haber/haber-malatya-da-insaat-kazasi-ali-karadag-hayatini-kayb-19230972/",
+          "publisher": "SonDakika.com / DHA",
+          "type": "news",
+          "published_at": "2025-11-07"
+        },
+        {
+          "title": "Malatya’da İnşaat Faciası: 44 Yaşındaki Usta Hayatını Kaybetti",
+          "url": "https://malatyapencere.com/malatyada-insaat-faciasi-44-yasindaki-usta-hayatini-kaybetti/",
+          "publisher": "Malatya Pencere",
+          "type": "news",
+          "published_at": "2025-11-08"
+        },
+        {
+          "title": "Önce hayat!",
+          "url": "https://www.birgun.net/makale/once-hayat-669387",
+          "publisher": "BirGün",
+          "type": "labor_news",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Tecde Mahallesi - Yeşilyurt, Malatya",
+          "url": "https://kmhesaplama.com/malatya/yesilyurt/tecde/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
