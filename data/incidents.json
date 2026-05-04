@@ -10271,6 +10271,107 @@
       ]
     },
     {
+      "id": "levent-bayram-akcaabat-minibus-duragi-silahli-saldiri-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Levent Bayram Akçaabat Minibüs Durağı’ndaki silahlı kavgada yaşamını yitirdi",
+      "summary": "Trabzon’un Akçaabat ilçesinde, Akçaabat Minibüs Durağı’nda minibüs sırası/kura çekimi nedeniyle çıkan tartışma silahlı kavgaya dönüştü. 41 yaşındaki dolmuş/minibüs şoförü Levent Bayram tabancayla vurularak ağır yaralandı; KTÜ Tıp Fakültesi Farabi Hastanesi’ne kaldırıldı ancak 24 Kasım 2025’te yapılan müdahalelere rağmen yaşamını yitirdi. İHA aktarımı ve yerel kaynaklar olayla ilgili soruşturmanın sürdüğünü, M.Ç. ve oğlu H.Ç.’nin gözaltına alındığını aktardı.",
+      "worker_name": "Levent Bayram",
+      "worker_age": 41,
+      "employer": "Akçaabat Minibüs Durağı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / dolmuş-minibüs şoförlüğü",
+      "death_date": "2025-11-24",
+      "cause": "Akçaabat Minibüs Durağı’nda sıra/kura tartışması sırasında silahla vurulma",
+      "legal_status": "İHA aktarımı olayla ilgili soruşturmanın sürdüğünü ve M.Ç. ile oğlu H.Ç.’nin gözaltına alındığını bildirdi; Akçaabat Haber baba-oğlun Akçaabat Emniyet Müdürlüğü’nde sorgusunun sürdüğünü aktardı. Sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "levent-bayram-akcaabat-minibus-duragi",
+          "label": "Akçaabat Minibüs Durağı / hal yanı",
+          "province_key": "TRABZON",
+          "province": "Trabzon",
+          "district": "Akçaabat",
+          "lat": 41.029112,
+          "lng": 39.563593,
+          "geocode_precision": "venue_approx",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Akçaabat Minibüs Durağı’nda, Taka Gazetesi ise hal yanında bulunan minibüs durağında verdi; açık kapı numarası belirtilmediği için Yandex Maps’in Akçaabat Minibüs Durağı/Minibüs Durağı sokak koordinatı kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-23",
+          "status": "injury_reported",
+          "note": "Akçaabat Minibüs Durağı’nda sıra/kura tartışması silahlı kavgaya dönüştü; Levent Bayram tabancayla vurularak ağır yaralandı ve KTÜ Farabi Hastanesi’ne kaldırıldı."
+        },
+        {
+          "date": "2025-11-24",
+          "status": "fatality_recorded",
+          "note": "Levent Bayram hastanede yapılan tüm müdahalelere rağmen yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-24",
+          "status": "reported_by_press",
+          "note": "Akçaabat Haber, Taka Gazetesi, Haberler/İHA ve Son Dakika/İHA Bayram’ın ölümünü ve olayın Akçaabat Minibüs Durağı’ndaki sıra/kura tartışmasıyla bağlantısını haberleştirdi."
+        },
+        {
+          "date": "2025-11-24",
+          "status": "investigation_opened",
+          "note": "İHA aktarımı M.Ç. ve oğlu H.Ç.’nin gözaltına alındığını ve soruşturmanın sürdüğünü bildirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Levent Bayram’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Trabzon'da dolmuşçuların sıra kavgasında kan aktı",
+          "url": "https://www.haberler.com/3-sayfa/trabzon-da-durakta-kavga-dolmus-soforu-tabancayla-vurularak-hayatini-kaybetti-19286634-haberi/",
+          "publisher": "Haberler / İhlas Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Yaşam Savaşını Kaybetti",
+          "url": "https://www.akcaabathaber.com/haberler/yasam-savasini-kaybettii-21069h",
+          "publisher": "Akçaabat Haber",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Akçaabat'ta Minibüsçülerin Sıra Tartışması Kanlı Bitti: Levent Bayram Öldü",
+          "url": "https://www.takagazete.com.tr/akcaabatta-minibusculerin-sira-tartismasi-kanli-bitti-levent-bayram-oldu",
+          "publisher": "Taka Gazetesi",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Akçaabat’ta Minibüs Sırası Kavgası Kanlı Bitti! Şoför Silahla Ateş Etti: Bir Ağır Yaralı",
+          "url": "https://www.takagazete.com.tr/akcaabatta-minibus-sirasi-kavgasi-kanli-bitti-sofor-silahla-ates-etti-bir-agir-yarali",
+          "publisher": "Taka Gazetesi",
+          "type": "news",
+          "published_at": "2025-11-23"
+        },
+        {
+          "title": "Minibüs Durağı, 12",
+          "url": "https://yandex.com/maps/104781/akcaabat/house/minibus_duragi_no_12/Z0AYcwFjTEwEQFprfXxzeH1iZg%3D%3D/",
+          "publisher": "Yandex Maps",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
