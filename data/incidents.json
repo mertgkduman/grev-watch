@@ -9798,6 +9798,95 @@
       ]
     },
     {
+      "id": "akif-asilkan-mut-sertavul-tir-devrilmesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Akif Asilkan Mut-Karaman yolunda TIR’ın devrilmesi sonucu yaşamını yitirdi",
+      "summary": "Mersin’in Mut ilçesinde, Mut-Karaman kara yolu Sertavul Yaylası/mevkiinde seyir halindeki TNP 584 yabancı plakalı TIR’ın kontrolden çıkarak şarampole/devrilmesi sonucu 51 yaşındaki TIR sürücüsü Akif Asilkan yaşamını yitirdi. İHA, DHA ve yerel kaynaklar sağlık ekiplerinin Asilkan’ın olay yerinde yaşamını yitirdiğini belirlediğini, cenazesinin Mut Devlet Hastanesi morguna kaldırıldığını ve kazayla ilgili soruşturma/inceleme başlatıldığını aktardı. Haberler 28 Kasım 2025’te yayımlandı, ancak kaza zamanı gece/önceki gece olarak verildiği için ölüm tarihi İSİG rapor ayı olan 2025-11 olarak kaydedildi.",
+      "worker_name": "Akif Asilkan",
+      "worker_age": 51,
+      "employer": "TNP 584 yabancı plakalı TIR / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / TIR sürücülüğü",
+      "death_date": "2025-11",
+      "cause": "Mut-Karaman kara yolu Sertavul mevkiinde TIR’ın kontrolden çıkarak şarampole/devrilmesi",
+      "legal_status": "İHA ve Gazete Duvar olayla ilgili soruşturmanın sürdüğünü, DHA kazayla ilgili inceleme başlatıldığını aktardı; sonraki adli/idari süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "akif-asilkan-mut-karaman-yolu-sertavul",
+          "label": "Mut-Karaman kara yolu Sertavul Yaylası/mevkii",
+          "province_key": "MERSIN",
+          "province": "Mersin",
+          "district": "Mut",
+          "lat": 36.88316,
+          "lng": 33.28024,
+          "geocode_precision": "road_landmark_nearby",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar kazanın Mut-Karaman kara yolu Sertavul Yaylası/mevkiinde meydana geldiğini aktardı; açık kilometre veya kaza noktası verilmediği için topographic-map.com’un Sertavul Yaylası alan merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "Akif Asilkan’ın kullandığı yabancı plakalı TIR Mut-Karaman kara yolu Sertavul mevkiinde kontrolden çıkarak devrildi; sağlık ekipleri Asilkan’ın olay yerinde yaşamını yitirdiğini belirledi."
+        },
+        {
+          "date": "2025-11-28",
+          "status": "reported_by_press",
+          "note": "İHA, DHA, Gazete Duvar ve yerel kaynaklar kazayı 28 Kasım 2025’te haberleştirdi; haberlerde kaza zamanı gece/önceki gece olarak geçtiği için kesin ölüm günü ayrıca doğrulanamadı."
+        },
+        {
+          "date": "2025-11-28",
+          "status": "investigation_opened",
+          "note": "İHA ve Gazete Duvar kazayla ilgili soruşturmanın sürdüğünü, DHA kazayla ilgili inceleme başlatıldığını bildirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Akif Asilkan’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Devrilen tırın sürücüsü hayatını kaybetti",
+          "url": "https://www.iha.com.tr/mersin-haberleri/devrilen-tirin-surucusu-hayatini-kaybetti-338299181",
+          "publisher": "İhlas Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-28"
+        },
+        {
+          "title": "Şarampole devrilen TIR'ın sürücüsü öldü",
+          "url": "https://www.dha.com.tr/yerel-haberler/mersin/mut/sarampole-devrilen-tirin-surucusu-oldu-2767498",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-28"
+        },
+        {
+          "title": "Mersin Mut’ta yabancı plakalı tır devrildi: Sürücü hayatını kaybetti",
+          "url": "https://www.gazeteduvar.com.tr/mersin-mutta-yabanci-plakali-tir-devrildi-surucu-hayatini-kaybetti-haber-1765009",
+          "publisher": "Gazete Duvar",
+          "type": "news",
+          "published_at": "2025-11-28"
+        },
+        {
+          "title": "Sertavul Yaylası topographic map, elevation, terrain",
+          "url": "https://en-gb.topographic-map.com/map-4zp11h/Sertavul-Yaylas%C4%B1/",
+          "publisher": "topographic-map.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
