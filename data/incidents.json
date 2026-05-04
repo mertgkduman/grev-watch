@@ -8311,6 +8311,83 @@
       ]
     },
     {
+      "id": "ahmet-besili-alanya-payallar-otel-insaat-beton-pompasi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ahmet Besili Alanya’da otel inşaatında beton pompası kolunun çarpması sonucu yaşamını yitirdi",
+      "summary": "Antalya’nın Alanya ilçesi Payallar Mahallesi’nde yapımı süren bir otel inşaatında çalışan 45 yaşındaki Ahmet Besili, 5 Kasım 2025 saat 11.30 sıralarında beton dökümü sırasında beton pompası ya da mikser kolunun çarpması sonucu dengesini kaybederek inşaat demirlerinin üzerine düştü. Ağır yaralanan Besili hastaneye kaldırıldı ancak kurtarılamadı; haberler jandarma ekiplerinin olayla ilgili inceleme/soruşturma başlattığını aktardı.",
+      "worker_name": "Ahmet Besili",
+      "worker_age": 45,
+      "employer": "Alanya Payallar Mahallesi’ndeki otel inşaatı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-05",
+      "cause": "Beton pompası/mikseri kolunun çarpması sonucu inşaat demirlerinin üzerine düşme",
+      "legal_status": "DHA ve İHA kaynaklı haberlerde jandarma ekiplerinin olayla ilgili inceleme ya da detaylı soruşturma başlattığı aktarıldı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "ahmet-besili-alanya-payallar-otel-insaat",
+          "label": "Payallar Mahallesi’ndeki otel inşaatı",
+          "province_key": "ANTALYA",
+          "province": "Antalya",
+          "district": "Alanya",
+          "lat": 36.61739,
+          "lng": 31.86724,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "DHA ve İHA kaynaklı haberler olay yerini Alanya Payallar Mahallesi’nde bulunan/yapımı süren bir otel inşaatı olarak verdi; açık şantiye adresi doğrulanamadığı için Kmhesaplama’nın Payallar Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-05",
+          "status": "fatality_recorded",
+          "note": "Alanya Payallar Mahallesi’nde bir otel inşaatında Ahmet Besili beton pompası/mikseri kolunun çarpması sonrası inşaat demirlerinin üzerine düştü; hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-05",
+          "status": "investigation_opened",
+          "note": "Haberler jandarma ekiplerinin olayla ilgili inceleme/soruşturma başlattığını aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Ahmet Besili’yi ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Beton mikserinin çarptığı işçi hayatını kaybetti",
+          "url": "https://www.yenibakishaber.com/beton-mikserinin-carptigi-isci-hayatini-kaybetti",
+          "publisher": "Yeni Bakış / İHA",
+          "type": "news",
+          "published_at": "2025-11-05"
+        },
+        {
+          "title": "Antalya'da inşaattaki iş kazasında hayatını kaybetti",
+          "url": "https://www.gunhaber.com.tr/haber/Antalya-da-insaattaki-is-kazasinda-hayatini-kaybetti/560015",
+          "publisher": "Gün Haber / DHA",
+          "type": "news",
+          "published_at": "2025-11-05"
+        },
+        {
+          "title": "Payallar Mahallesi - Alanya, Antalya",
+          "url": "https://kmhesaplama.com/antalya/alanya/payallar/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
