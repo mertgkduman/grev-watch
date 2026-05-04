@@ -5036,6 +5036,66 @@
       ]
     },
     {
+      "id": "mustafa-alic-dulkadiroglu-dogalgaz-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mustafa Alıç Dulkadiroğlu’nda doğal gaz montajı sırasında yüksekten düşerek yaşamını yitirdi",
+      "summary": "Kahramanmaraş Dulkadiroğlu Bayazıtlı Mahallesi’nde doğal gaz tesisat ustası olarak çalışan 45 yaşındaki Mustafa Alıç, montaj yaptığı binada dengesini kaybederek yüksekten düştü; sağlık ekipleri olay yerinde yaşamını yitirdiğini belirledi.",
+      "worker_name": "Mustafa Alıç",
+      "worker_age": 45,
+      "employer": "Doğal gaz tesisat işi / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Enerji / doğal gaz tesisatı",
+      "death_date": "2025-12-31",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynaklarda işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-31",
+      "locations": [
+        {
+          "id": "mustafa-alic-bayazitli-dulkadiroglu-dogalgaz-montaji",
+          "label": "Bayazıtlı Mahallesi’nde doğal gaz montajı yapılan bina",
+          "province_key": "KAHRAMANMARAS",
+          "province": "Kahramanmaraş",
+          "district": "Dulkadiroğlu",
+          "lat": 37.598827,
+          "lng": 36.946045,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Bayazıtlı Mahallesi’nde verdi; açık bina adresi belirtilmediği için mahalle merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-31",
+          "status": "fatality_recorded",
+          "note": "Mustafa Alıç doğal gaz montajı sırasında çalıştığı binada yüksekten düşerek olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kahramanmaraş’ta kahreden olay: Doğalgaz ustası öldü!",
+          "url": "https://www.kanal46.com/kahramanmarasta-kahreden-olay-dogalgaz-ustasi-oldu",
+          "publisher": "Kanal46",
+          "type": "local_news",
+          "published_at": "2025-12-31"
+        },
+        {
+          "title": "Yüksekten düşen tesisat ustası hayatını kaybetti",
+          "url": "https://www.elbistaninsesi.com/haber/27152740/yuksekten-dusen-tesisat-ustasi-hayatini-kaybetti",
+          "publisher": "Elbistanın Sesi",
+          "type": "local_news",
+          "published_at": "2025-12-31"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",

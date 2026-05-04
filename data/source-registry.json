@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 473,
-      "remaining_individual_case_target": 484
+      "mapped_individual_fatalities_in_these_months": 474,
+      "remaining_individual_case_target": 483
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 473,
-      "remaining_known_target_before_april_report": 313,
+      "mapped_individual_fatalities_before_pending_april_report": 474,
+      "remaining_known_target_before_april_report": 312,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -912,7 +912,7 @@
         "2025-09": 0,
         "2025-10": 0,
         "2025-11": 8,
-        "2025-12": 44
+        "2025-12": 45
       },
       "remaining_after_this_pass": {
         "2025-01": 180,
@@ -926,11 +926,11 @@
         "2025-09": 208,
         "2025-10": 171,
         "2025-11": 211,
-        "2025-12": 91
+        "2025-12": 90
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 52,
-      "total_remaining_after_this_pass": 2053,
+      "total_mapped_after_this_pass": 53,
+      "total_remaining_after_this_pass": 2052,
       "current_month": "2025-12",
       "processed_this_pass": [
         {
@@ -1184,6 +1184,12 @@
           "worker_name": "Erdem Gündüz",
           "record_id": "erdem-gunduz-yesilyurt-aritma-tesisi-is-cinayeti-2025",
           "remaining_in_period_after_record": 91
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Mustafa Alıç",
+          "record_id": "mustafa-alic-dulkadiroglu-dogalgaz-is-cinayeti-2025",
+          "remaining_in_period_after_record": 90
         }
       ]
     }
