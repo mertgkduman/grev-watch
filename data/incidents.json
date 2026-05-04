@@ -6334,6 +6334,78 @@
       ]
     },
     {
+      "id": "ozcan-akkaya-sivasli-eldeniz-kepce-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Özcan Akkaya Sivaslı’da iş makinesinin devrilmesi sonucu yaşamını yitirdi",
+      "summary": "Uşak’ın Sivaslı ilçesine bağlı Eldeniz Köyü’nde, kendisine ait tavuk çiftliği için menfez yapımı çalışması yürüttüğü belirtilen Özcan Akkaya, 17 Kasım 2025’te kepçenin / iş makinesinin devrilmesiyle aracın altında kalarak olay yerinde yaşamını yitirdi.",
+      "worker_name": "Özcan Akkaya",
+      "worker_age": 53,
+      "employer": "Kendisine ait tavuk çiftliği menfez çalışması / formel işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / iş makinesi",
+      "death_date": "2025-11-17",
+      "cause": "Kepçe / iş makinesinin devrilmesi sonucu aracın altında kalma",
+      "legal_status": "Haberlerde AFAD, jandarma, itfaiye ve sağlık ekiplerinin olay yerine sevk edildiği; olay yeri incelemesinden sonra cenazenin Sivaslı Devlet Hastanesi morguna kaldırıldığı ve soruşturma başlatıldığı aktarıldı. Kaynaklarda yaş 53 ve 58 olarak farklı geçti; 1972 doğum bilgisi veren yerel kaynak esas alındı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-17",
+      "locations": [
+        {
+          "id": "ozcan-akkaya-sivasli-eldeniz-koyu",
+          "label": "Eldeniz Köyü’ndeki tavuk çiftliği menfez çalışması",
+          "province_key": "USAK",
+          "province": "Uşak",
+          "district": "Sivaslı",
+          "lat": 38.540707,
+          "lng": 29.724945,
+          "geocode_precision": "village_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Sivaslı’ya bağlı Eldeniz Köyü’nde, tavuk çiftliği için yürütülen menfez çalışması sırasında verdi; açık parsel veya tesis adresi doğrulanamadığı için Eldeniz Köyü koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-17",
+          "status": "fatality_recorded",
+          "note": "Özcan Akkaya, Eldeniz Köyü’nde menfez çalışması sırasında iş makinesinin devrilmesi sonucu aracın altında kalarak olay yerinde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-17",
+          "status": "investigation_opened",
+          "note": "Olay yerine AFAD, jandarma, itfaiye ve sağlık ekipleri sevk edildi; haberlerde soruşturma başlatıldığı belirtildi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sivaslı’da İş Makinesinin Altında Kalan Özcan Akkaya Vefat Etti",
+          "url": "https://www.yesilsivasligazetesi.com/sivaslida-is-makinesinin-altinda-kalan-ozcan-akkaya-vefat-etti",
+          "publisher": "Yeşil Sivaslı Gazetesi",
+          "type": "local_news",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Uşak’ta Kepçe Kazası: 58 Yaşındaki Operatör Hayatını Kaybetti",
+          "url": "https://www.haberler.com/3-sayfa/usak-ta-kepce-kazasi-58-yasindaki-operator-hayatini-kaybetti-19262392-haberi/",
+          "publisher": "Haberler.com / İHA",
+          "type": "news",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Eldeniz Köyü Haritası Sivaslı Uşak",
+          "url": "https://www.haritatr.com/eldeniz-koyu-haritasi-maf58",
+          "publisher": "Harita TR",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
