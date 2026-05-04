@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 58,
-      "remaining_individual_case_target": 899
+      "mapped_individual_fatalities_in_these_months": 452,
+      "remaining_individual_case_target": 505
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 58,
-      "remaining_known_target_before_april_report": 728,
+      "mapped_individual_fatalities_before_pending_april_report": 452,
+      "remaining_known_target_before_april_report": 334,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -912,7 +912,7 @@
         "2025-09": 0,
         "2025-10": 0,
         "2025-11": 8,
-        "2025-12": 12
+        "2025-12": 23
       },
       "remaining_after_this_pass": {
         "2025-01": 180,
@@ -926,11 +926,11 @@
         "2025-09": 208,
         "2025-10": 171,
         "2025-11": 211,
-        "2025-12": 123
+        "2025-12": 112
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 20,
-      "total_remaining_after_this_pass": 2085,
+      "total_mapped_after_this_pass": 31,
+      "total_remaining_after_this_pass": 2074,
       "current_month": "2025-12",
       "processed_this_pass": [
         {
@@ -992,6 +992,72 @@
           "worker_name": "Muhammed Işık",
           "record_id": "muhammed-isik-denizli-insaat-is-cinayeti-2025",
           "remaining_in_period_after_record": 123
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "K.Y.",
+          "record_id": "k-y-cubuk-tas-ocagi-is-cinayeti-2025",
+          "remaining_in_period_after_record": 122
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Celal Akıncı",
+          "record_id": "celal-akinci-viransehir-insaat-is-cinayeti-2025",
+          "remaining_in_period_after_record": 121
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Suat Peker",
+          "record_id": "suat-peker-arnavutkoy-asansor-is-cinayeti-2025",
+          "remaining_in_period_after_record": 120
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Şaban S.",
+          "record_id": "saban-s-catalca-tas-ocagi-is-cinayeti-2025",
+          "remaining_in_period_after_record": 119
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Miraç Köse",
+          "record_id": "mirac-kose-tekkekoy-silaj-is-cinayeti-2025",
+          "remaining_in_period_after_record": 118
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Osman Seven",
+          "record_id": "osman-seven-viransehir-elektrik-is-cinayeti-2025",
+          "remaining_in_period_after_record": 117
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Nimet Cengiz",
+          "record_id": "nimet-cengiz-ilisu-hes-is-cinayeti-2025",
+          "remaining_in_period_after_record": 116
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Nasır Çabaş",
+          "record_id": "nasir-cabas-burdur-seker-fabrikasi-is-cinayeti-2025",
+          "remaining_in_period_after_record": 115
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Kadir Güven",
+          "record_id": "kadir-guven-malatya-toki-kamyon-is-cinayeti-2025",
+          "remaining_in_period_after_record": 114
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Bayram Kodad",
+          "record_id": "bayram-kodad-elazig-cop-kamyonu-is-cinayeti-2025",
+          "remaining_in_period_after_record": 113
+        },
+        {
+          "period": "2025-12",
+          "worker_name": "Yasin Turgut",
+          "record_id": "yasin-turgut-inegol-talas-silosu-is-cinayeti-2025",
+          "remaining_in_period_after_record": 112
         }
       ]
     }

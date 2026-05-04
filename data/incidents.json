@@ -3170,6 +3170,640 @@
       ]
     },
     {
+      "id": "k-y-cubuk-tas-ocagi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "K.Y. Çubuk taş ocağındaki iş kazasının ardından yaşamını yitirdi",
+      "summary": "Ankara Çubuk'ta bir taş ocağında 20 Aralık 2025'te kayaç kırma makinesini kullandığı sırada ağır yaralanan 53 yaşındaki K.Y., kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "K.Y.",
+      "worker_age": 53,
+      "employer": "Taş ocağı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Madencilik / taş ocağı",
+      "death_date": "2025-12",
+      "cause": "Kayaç kırma makinesinde yaralanma",
+      "legal_status": "Kaynaklar işyerinde sorumlu müdür olarak çalışan U.K.'nin tutuklandığını ve soruşturmanın sürdüğünü aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-01",
+      "locations": [
+        {
+          "id": "k-y-cubuk-tas-ocagi",
+          "label": "Çubuk taş ocağı",
+          "province_key": "ANKARA",
+          "province": "Ankara",
+          "district": "Çubuk",
+          "lat": 40.2386,
+          "lng": 33.0327,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynakta olay yeri Çubuk'ta bir taş ocağı olarak verildi; tekil ocak adresi bu geçişte doğrulanamadı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-20",
+          "status": "fatality_recorded",
+          "note": "K.Y. taş ocağında kayaç kırma makinesini kullanırken ağır yaralandı."
+        },
+        {
+          "date": "2025-12",
+          "status": "fatality_recorded",
+          "note": "K.Y. hastanede yaşamını yitirdi; kesin ölüm günü kaynaklarda doğrulanamadığından ay bazı kullanıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Çubuk'ta taş ocağında yaşanan iş kazasında yaralanan işçi hayatını kaybetti",
+          "url": "https://www.haberankara.com/ankara/cubukta-tas-ocaginda-yasanan-is-kazasinda-yaralanan-isci-hayatini-kaybetti-308625",
+          "publisher": "Haber Ankara / İHA",
+          "type": "labor_news",
+          "published_at": null
+        },
+        {
+          "title": "Ankara’da taş ocağındaki kazada acı haber geldi: Yaralanan işçi hayatını kaybetti",
+          "url": "https://www.ankaranethaber.com/ankarada-tas-ocagindaki-kazada-aci-haber-geldi-yaralanan-isci-hayatini-kaybetti",
+          "publisher": "Ankara Net Haber",
+          "type": "labor_news",
+          "published_at": null
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "celal-akinci-viransehir-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Celal Akıncı Viranşehir'de inşaattan düşerek yaşamını yitirdi",
+      "summary": "Şanlıurfa Viranşehir Dumlupınar Mahallesi'nde bir inşaatın ikinci katında çalışan 46 yaşındaki Celal Akıncı, dengesini kaybederek zemine düştü; kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "Celal Akıncı",
+      "worker_age": 46,
+      "employer": "İnşaat / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-02",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynak olayla ilgili soruşturma başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-02",
+      "locations": [
+        {
+          "id": "celal-akinci-dumlupinar-viransehir",
+          "label": "Dumlupınar Mahallesi inşaat alanı",
+          "province_key": "SANLIURFA",
+          "province": "Şanlıurfa",
+          "district": "Viranşehir",
+          "lat": 37.235,
+          "lng": 39.763,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynak Dumlupınar Mahallesi bilgisini verdi; mahalle koordinatı bu geçişte doğrulanamadığından Viranşehir ilçe merkezi kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-02",
+          "status": "fatality_recorded",
+          "note": "Celal Akıncı inşaatın ikinci katından düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Şanlıurfa'da feci iş kazası! Bir işçi öldü",
+          "url": "https://www.turkiyegazetesi.com.tr/3-sayfa/sanliurfada-feci-is-kazasi-bir-isci-oldu-1752044",
+          "publisher": "Türkiye Gazetesi / İHA",
+          "type": "labor_news",
+          "published_at": "2025-12-02"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "suat-peker-arnavutkoy-asansor-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Suat Peker Arnavutköy'de asansör boşluğuna düşerek yaşamını yitirdi",
+      "summary": "İstanbul Arnavutköy Hacımaşlı Mahallesi'ndeki bir konut projesi inşaatında çalışan Suat Peker, asansör boşluğuna düşerek yaşamını yitirdi; cenazesi memleketi Hakkari'ye gönderildi.",
+      "worker_name": "Suat Peker",
+      "employer": "Konut projesi inşaatı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-08",
+      "cause": "Asansör boşluğuna düşme",
+      "legal_status": "Kaynaklar olayla ilgili polis incelemesi ve soruşturma başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-09",
+      "locations": [
+        {
+          "id": "suat-peker-hacimasli-arnavutkoy",
+          "label": "Hacımaşlı Mahallesi konut projesi inşaatı",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Arnavutköy",
+          "lat": 41.1556,
+          "lng": 28.71143,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-08",
+          "status": "fatality_recorded",
+          "note": "Suat Peker inşaatta asansör boşluğuna düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İstanbul'da feci iş kazası! Asansör boşluğuna düşen işçi öldü",
+          "url": "https://www.turkiyegazetesi.com.tr/3-sayfa/istanbulda-feci-is-kazasi-asansor-bosluguna-dusen-isci-oldu-1754064",
+          "publisher": "Türkiye Gazetesi / İHA",
+          "type": "labor_news",
+          "published_at": "2025-12-09"
+        },
+        {
+          "title": "Arnavutköy’de asansör boşluğu faciası! İşçi hayatını kaybetti",
+          "url": "https://www.iscihaber.net/gundem/arnavutkoyde-asansor-boslugu-faciasi-isci-hayatini-kaybetti/192793",
+          "publisher": "İşçi Haber",
+          "type": "labor_news",
+          "published_at": "2025-12-09"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "saban-s-catalca-tas-ocagi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Şaban S. Çatalca taş ocağında hafriyat kamyonunda sıkışarak yaşamını yitirdi",
+      "summary": "İstanbul Çatalca Muratbey Merkez Mahallesi Bilir Caddesi'ndeki bir taş ocağında kum yükleme sırasında hafriyat kamyonu devrildi; 64 yaşındaki kamyon sürücüsü Şaban S. aracın kasa ve şasi kısmı arasında sıkışarak yaşamını yitirdi.",
+      "worker_name": "Şaban S.",
+      "worker_age": 64,
+      "employer": "Taş ocağı / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "Madencilik / taş ocağı",
+      "death_date": "2025-12-15",
+      "cause": "Hafriyat kamyonunun devrilmesi ve sıkışma",
+      "legal_status": "Kaynakta jandarma, sağlık ve itfaiye ekiplerinin sevk edildiği; cenazenin Adli Tıp Kurumu'na kaldırıldığı aktarıldı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-15",
+      "locations": [
+        {
+          "id": "saban-s-muratbey-catalca",
+          "label": "Muratbey Merkez Mahallesi taş ocağı",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Çatalca",
+          "lat": 41.0963,
+          "lng": 28.4923,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-15",
+          "status": "fatality_recorded",
+          "note": "Şaban S. hafriyat kamyonunun devrilmesi sonucu aracın kasa ve şasi kısmı arasında sıkışarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Çatalca'da iş kazası: Taş ocağında bir işçi hayatını kaybetti",
+          "url": "https://www.gundematlas.com/yerel/catalcada-is-kazasi-tas-ocaginda-bir-isci-hayatini-kaybetti/8079",
+          "publisher": "Gündem Atlas",
+          "type": "labor_news",
+          "published_at": "2025-12-15"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "mirac-kose-tekkekoy-silaj-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Miraç Köse silaj makinesine kolunu kaptırarak yaşamını yitirdi",
+      "summary": "Samsun Tekkeköy Büyüklü Mahallesi'nde 10 yaşındaki çocuk işçi Miraç Köse, ahır önünde traktöre bağlı silaj makinesinin şaftına kolunu kaptırdı; kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "Miraç Köse",
+      "worker_age": 10,
+      "employer": "Aile yanında tarımsal/ahır işi",
+      "sector": "Tarım / hayvancılık / çocuk işçilik",
+      "death_date": "2025-12",
+      "cause": "Silaj makinesinin şaftına kolunu kaptırma",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma başlatıldığını aktardı; kesin ölüm günü kaynaklarda netleşmediği için ay bazı kullanıldı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-10",
+      "locations": [
+        {
+          "id": "mirac-kose-buyuklu-tekkekoy",
+          "label": "Büyüklü Mahallesi ahır önü",
+          "province_key": "SAMSUN",
+          "province": "Samsun",
+          "district": "Tekkeköy",
+          "lat": 41.14412,
+          "lng": 36.50265,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-09",
+          "status": "fatality_recorded",
+          "note": "Miraç Köse silaj makinesinin şaftına kolunu kaptırarak ağır yaralandı."
+        },
+        {
+          "date": "2025-12-10",
+          "status": "fatality_recorded",
+          "note": "Miraç Köse’nin hastanede yaşamını yitirdiği haberleştirildi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kolu silaj makinesine kapılan 10 yaşındaki çocuk yaşamını yitirdi",
+          "url": "https://haber.sol.org.tr/haber/kolu-silaj-makinesine-kapilan-10-yasindaki-cocuk-yasamini-yitirdi-404174",
+          "publisher": "soL Haber / DHA",
+          "type": "labor_news",
+          "published_at": "2025-12-10"
+        },
+        {
+          "title": "Kolunu silaj makinesine kaptıran Miraç öldü",
+          "url": "https://www.dha.com.tr/gundem/kolunu-silaj-makinesine-kaptiran-mirac-oldu-2774778",
+          "publisher": "DHA",
+          "type": "labor_news",
+          "published_at": "2025-12-10"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "osman-seven-viransehir-elektrik-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Osman Seven Viranşehir'de elektrik akımına kapılarak yaşamını yitirdi",
+      "summary": "Şanlıurfa Viranşehir kırsal Sağlamlar Mahallesi'nde tamirat işi yapan 53 yaşındaki Osman Seven, elektrik akımına kapıldı; kaldırıldığı Viranşehir Devlet Hastanesi'nde yaşamını yitirdi.",
+      "worker_name": "Osman Seven",
+      "worker_age": 53,
+      "employer": "Tamirat işi / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Tamirat / enerji",
+      "death_date": "2025-12-11",
+      "cause": "Elektrik akımına kapılma",
+      "legal_status": "Kaynakta hukuki süreç ayrıntısı belirtilmedi; cenazenin otopsi işlemlerinin ardından yakınlarına teslim edildiği aktarıldı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-11",
+      "locations": [
+        {
+          "id": "osman-seven-saglamlar-viransehir",
+          "label": "Sağlamlar Mahallesi tamirat yeri",
+          "province_key": "SANLIURFA",
+          "province": "Şanlıurfa",
+          "district": "Viranşehir",
+          "lat": 37.235,
+          "lng": 39.763,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynak kırsal Sağlamlar Mahallesi bilgisini verdi; mahalle koordinatı bu geçişte doğrulanamadığından Viranşehir ilçe merkezi kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-11",
+          "status": "fatality_recorded",
+          "note": "Osman Seven tamirat işi sırasında elektrik akımına kapılarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Şanlıurfa'da elektrik akımı faciası! İşçi hayatını kaybetti",
+          "url": "https://www.iscihaber.net/iscinin-gundemi/sanliurfada-elektrik-akimi-faciasi-isci-hayatini-kaybetti/193146",
+          "publisher": "İşçi Haber / AA",
+          "type": "labor_news",
+          "published_at": "2025-12-11"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "nimet-cengiz-ilisu-hes-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Nimet Cengiz Ilısu HES’te yüksekten düşerek yaşamını yitirdi",
+      "summary": "Mardin Dargeçit Ilısu Barajı’ndaki hidroelektrik santralde çalışan 38 yaşındaki Nimet Cengiz, yüksekten düşerek olay yerinde yaşamını yitirdi.",
+      "worker_name": "Nimet Cengiz",
+      "worker_age": 38,
+      "employer": "Ilısu Barajı ve HES",
+      "sector": "Enerji / hidroelektrik",
+      "death_date": "2025-12-02",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynaklar olayla ilgili inceleme başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-02",
+      "locations": [
+        {
+          "id": "nimet-cengiz-ilisu-hes",
+          "label": "Ilısu Barajı ve HES",
+          "province_key": "MARDIN",
+          "province": "Mardin",
+          "district": "Dargeçit",
+          "lat": 37.524166,
+          "lng": 41.843056,
+          "geocode_precision": "facility_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-02",
+          "status": "fatality_recorded",
+          "note": "Nimet Cengiz Ilısu HES’te yüksekten düşerek olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mardin’de hidrolik santralde düşen işçi yaşamını yitirdi",
+          "url": "https://www.iscihaber.net/gundem/mardinde-hidrolik-santralde-dusen-isci-yasamini-yitirdi/191792",
+          "publisher": "İşçi Haber / İHA",
+          "type": "labor_news",
+          "published_at": "2025-12-02"
+        },
+        {
+          "title": "Ilısu Barajı’nda İş Kazası: Bir İşçi Hayatını Kaybetti",
+          "url": "https://www.haberler.com/amp/ilisu-baraji-nda-is-kazasi-bir-isci-hayatini-kaybetti-19314186-haberi/",
+          "publisher": "Haberler.com / ANKA",
+          "type": "labor_news",
+          "published_at": "2025-12-02"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "nasir-cabas-burdur-seker-fabrikasi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Nasır Çabaş Burdur Şeker Fabrikası’nda yüksekten düşerek yaşamını yitirdi",
+      "summary": "Burdur Şeker Fabrikası’nda şeker ambarının çatısında onarım işi yapan 36 yaşındaki Nasır Çabaş, yaklaşık altı metre yükseklikten düşerek ağır yaralandı; hastanede yaşamını yitirdi.",
+      "worker_name": "Nasır Çabaş",
+      "worker_age": 36,
+      "employer": "Burdur Şeker Fabrikası / çatı onarım işi",
+      "sector": "Gıda / şeker fabrikası / bakım-onarım",
+      "death_date": "2025-12-08",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynaklar olayla ilgili polis tahkikatı başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-08",
+      "locations": [
+        {
+          "id": "nasir-cabas-burdur-seker-fabrikasi",
+          "label": "Burdur Şeker Fabrikası",
+          "province_key": "BURDUR",
+          "province": "Burdur",
+          "district": "Merkez",
+          "lat": 37.58187,
+          "lng": 30.09329,
+          "geocode_precision": "facility_area_nearby",
+          "fatality_count": 1,
+          "location_basis": "Fabrika adresi kaynaklarda Hacılar/Bağlar olarak geçiyor; Hacılar köyü koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-08",
+          "status": "fatality_recorded",
+          "note": "Nasır Çabaş şeker ambarı çatısındaki onarım işi sırasında düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Burdur’da Çatıdan Düşen İşçi Öldü",
+          "url": "https://www.burduryenigun.com/burdurda-catidan-dusen-isci-oldu",
+          "publisher": "Burdur Yenigün",
+          "type": "labor_news",
+          "published_at": "2025-12-08"
+        },
+        {
+          "title": "Şeker Fabrikası’nda İş Kazası: Düşen İşçi Hayatını Kaybetti",
+          "url": "https://www.akdenizgazetesi.com/seker-fabrikasinda-is-kazasi-dusen-isci-hayatini-kaybetti",
+          "publisher": "Akdeniz Gazetesi / İHA",
+          "type": "labor_news",
+          "published_at": "2025-12-08"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "kadir-guven-malatya-toki-kamyon-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Kadir Güven TOKİ inşaatında kamyonun altında kalarak yaşamını yitirdi",
+      "summary": "Malatya Battalgazi Hanımınçiftliği Mahallesi’nde yapımı süren TOKİ inşaatında su tesisatçısı olarak çalışan 64 yaşındaki Kadir Güven, geri manevra yapan kamyonun altında kalarak olay yerinde yaşamını yitirdi.",
+      "worker_name": "Kadir Güven",
+      "worker_age": 64,
+      "employer": "TOKİ inşaatı / taşeron bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat / su tesisatı",
+      "death_date": "2025-12-20",
+      "cause": "Geri manevra yapan kamyonun altında kalma",
+      "legal_status": "Kaynaklar kamyon sürücüsünün gözaltına alındığını ve soruşturma başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-20",
+      "locations": [
+        {
+          "id": "kadir-guven-haniminciftligi-battalgazi",
+          "label": "Hanımınçiftliği Mahallesi TOKİ inşaatı",
+          "province_key": "MALATYA",
+          "province": "Malatya",
+          "district": "Battalgazi",
+          "lat": 38.38082,
+          "lng": 38.34474,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-20",
+          "status": "fatality_recorded",
+          "note": "Kadir Güven mesai bitimi sonrası inşaat sahasından çıkarken geri manevra yapan kamyonun altında kalarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Malatya’da feci kaza: Kamyonun altında kalan işçi öldü",
+          "url": "https://www.iscihaber.net/malatya/malatyada-feci-kaza-kamyonun-altinda-kalan-isci-oldu/194467",
+          "publisher": "İşçi Haber / DHA",
+          "type": "labor_news",
+          "published_at": "2025-12-20"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "bayram-kodad-elazig-cop-kamyonu-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Bayram Kodad çöp kamyonunun altında kalarak yaşamını yitirdi",
+      "summary": "Elazığ Salı Baba Mahallesi’nde belediye temizlik işçisi 54 yaşındaki Bayram Kodad, görev yaptığı çöp kamyonunun dönüşü sırasında aracın altında kalarak olay yerinde yaşamını yitirdi.",
+      "worker_name": "Bayram Kodad",
+      "worker_age": 54,
+      "employer": "Elazığ Belediyesi / temizlik hizmeti",
+      "sector": "Belediye / temizlik",
+      "death_date": "2025-12-15",
+      "cause": "Çöp kamyonunun altında kalma",
+      "legal_status": "Kaynaklar kazayla ilgili soruşturma başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-15",
+      "locations": [
+        {
+          "id": "bayram-kodad-salibaba-elazig",
+          "label": "Salı Baba Mahallesi 14506/14507. Sokaklar",
+          "province_key": "ELAZIG",
+          "province": "Elazığ",
+          "district": "Merkez",
+          "lat": 38.664009,
+          "lng": 39.253143,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-15",
+          "status": "fatality_recorded",
+          "note": "Bayram Kodad çöp kamyonunun dönüşü sırasında aracın altında kalarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Elazığ’da çöp kamyonunun altında kalan belediye işçisi hayatını kaybetti",
+          "url": "https://artigercek.com/emek/elazigda-cop-kamyonunun-altinda-kalan-belediye-iscisi-hayatini-kaybetti-341028h",
+          "publisher": "Artı Gerçek",
+          "type": "labor_news",
+          "published_at": "2025-12-15"
+        },
+        {
+          "title": "Elazığ’da Çöp Kamyonunun Altında Kalan İşçi Hayatını Kaybetti",
+          "url": "https://www.hepsielazig.com/elazigda-cop-kamyonu-altinda-kalarak-hayatini-kaybeden-isci/",
+          "publisher": "Hepsi Elazığ",
+          "type": "labor_news",
+          "published_at": "2025-12-15"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "yasin-turgut-inegol-talas-silosu-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Yasin Turgut talaş silosunda helezona kapılarak yaşamını yitirdi",
+      "summary": "Bursa İnegöl Mobilya İhtisas Organize Sanayi Bölgesi’nde bir mobilya fabrikasında çalışan 31 yaşındaki Yasin Turgut, talaş silosunu temizlediği sırada helezon sistemine kapılarak yaşamını yitirdi.",
+      "worker_name": "Yasin Turgut",
+      "worker_age": 31,
+      "employer": "Airpak / mobilya fabrikası",
+      "sector": "Mobilya / ağaç işleri",
+      "death_date": "2025-12-29",
+      "cause": "Talaş silosunda helezona kapılma",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-30",
+      "locations": [
+        {
+          "id": "yasin-turgut-hamzabey-imosab",
+          "label": "İnegöl Mobilya İhtisas OSB mobilya fabrikası",
+          "province_key": "BURSA",
+          "province": "Bursa",
+          "district": "İnegöl",
+          "lat": 40.13651,
+          "lng": 29.51885,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-29",
+          "status": "fatality_recorded",
+          "note": "Yasin Turgut talaş silosunu temizlediği sırada helezon sistemine kapılarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İnegöl’de Kahreden İş Cinayeti: Talaş Silosunu Temizleyen Genç İşçi Helezona Kapılarak Can Verdi",
+          "url": "https://www.habersendika.com/is-kazasi/inegolde-kahreden-is-cinayeti-talas-silosunu-temizleyen-genc-isci-helezona-kapilarak-can-verdi/2373",
+          "publisher": "Haber Sendika",
+          "type": "labor_news",
+          "published_at": "2025-12-30"
+        },
+        {
+          "title": "Talaş silosuna düşen işçi yaşamını yitirdi",
+          "url": "https://halktv.com.tr/gundem/talas-silosuna-dusen-isci-yasamini-yitirdi-996891h",
+          "publisher": "Halk TV / AA",
+          "type": "labor_news",
+          "published_at": "2025-12-29"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
