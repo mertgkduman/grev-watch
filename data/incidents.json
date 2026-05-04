@@ -7861,6 +7861,70 @@
       ]
     },
     {
+      "id": "sadik-pala-sincan-insaat-yuksekten-dusme-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Sadık Pala Sincan’da inşaatta yüksekten düşerek yaşamını yitirdi",
+      "summary": "BirGün’de 17 Kasım 2025’te yayımlanan iş cinayetleri derlemesi, 30’lu yaşlardaki Sadık Pala’nın Ankara Sincan’da çalıştığı inşaatta yüksekten düşerek yaşamını yitirdiğini aktardı. Kesin olay günü bu geçişte doğrulanamadığı için İSİG Kasım 2025 rapor ayı esas alındı.",
+      "worker_name": "Sadık Pala",
+      "employer": "Ankara Sincan’daki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11",
+      "cause": "İnşaatta yüksekten düşme",
+      "legal_status": "Bu geçişte adli veya idari soruşturma sonucu doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "sadik-pala-sincan-insaat",
+          "label": "Sincan’daki inşaat",
+          "province_key": "ANKARA",
+          "province": "Ankara",
+          "district": "Sincan",
+          "lat": 39.9723,
+          "lng": 32.5841,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "BirGün olay yerini Ankara Sincan’da çalıştığı inşaat olarak verdi; açık şantiye adresi belirtilmediği için Orti/GeoNames Sincan koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "BirGün, Sadık Pala’nın Ankara Sincan’da çalıştığı inşaatta yüksekten düşerek yaşamını yitirdiğini aktardı; kesin gün doğrulanamadığı için Kasım 2025 ayı kullanıldı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Sadık Pala’yı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Önce hayat!",
+          "url": "https://www.birgun.net/makale/once-hayat-669387",
+          "publisher": "BirGün",
+          "type": "news",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Where is Sincan? Sincan İlçesi, Türkiye",
+          "url": "https://orti.se/en/country/turkey/ankara/sincan-ilcesi/sincan",
+          "publisher": "Orti / GeoNames",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
