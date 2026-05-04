@@ -9061,6 +9061,75 @@
       ]
     },
     {
+      "id": "ahmet-cangir-tatvan-is-kazasi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ahmet Cangir Tatvan’da geçirdiği iş kazasının ardından yaşamını yitirdi",
+      "summary": "Bitlis Haber, Bitlis’in Tatvan ilçesinde meydana gelen bir iş kazasında yaralanan Ahmet Cangir’in hastaneye kaldırıldığını, bir süredir tedavi gördüğünü ve doktorların tüm müdahalelerine rağmen yaşamını yitirdiğini aktardı. Haber iş kazasının tam adresini, işkolunu, işvereni ve kaza mekanizmasını belirtmedi. İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Ahmet Cangir’i ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı.",
+      "worker_name": "Ahmet Cangir",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "Tatvan’da meydana gelen iş kazasında yaralanma; kaza mekanizması kaynakta belirtilmedi",
+      "legal_status": "Kaynakta adli veya idari soruşturma bilgisi belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "ahmet-cangir-tatvan-is-kazasi",
+          "label": "Tatvan’daki iş kazası",
+          "province_key": "BITLIS",
+          "province": "Bitlis",
+          "district": "Tatvan",
+          "lat": 38.49221,
+          "lng": 42.28269,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Bitlis Haber olay yerini Tatvan ilçesinde meydana gelen iş kazası olarak verdi; açık adres veya mahalle belirtilmediği için LatLong.info’nun Tatvan ilçe merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "Ahmet Cangir Tatvan’da meydana gelen iş kazasında yaralandıktan sonra kaldırıldığı hastanede yaşamını yitirdi; kesin ölüm günü bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-02",
+          "status": "reported",
+          "note": "Bitlis Haber, Cangir’in iş kazasının ardından bir süredir tedavi gördüğünü ve tüm müdahalelere rağmen kurtarılamadığını haberleştirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Ahmet Cangir’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bitlisli Hemşehrimiz Ahmet Cangir İş Kazasında Vefat Etmiştir",
+          "url": "https://www.bitlishaber13.net/bitlisli-hemsehrimiz-ahmet-cangir-is-kazasinda-vefat-etmistir",
+          "publisher": "Bitlis Haber",
+          "type": "news",
+          "published_at": "2025-11-02"
+        },
+        {
+          "title": "Latitude and longitude of Tatvan",
+          "url": "https://latlong.info/turkey/bitlis/tatvan",
+          "publisher": "LatLong.info",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
