@@ -5156,6 +5156,66 @@
       ]
     },
     {
+      "id": "ahmet-cakir-arnavutkoy-beton-mikseri-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ahmet Çakır Arnavutköy’de beton mikserini temizlerken mikserin içine düşerek yaşamını yitirdi",
+      "summary": "İstanbul Arnavutköy Yavuz Selim Mahallesi Sevban Mehmet Caddesi’nde beton mikseri sürücüsü Ahmet Çakır, 34 NK 5116 plakalı aracın hortumunu temizlemek için durduğu sırada çalışır haldeki mikserin içine düştü; sağlık ekipleri olay yerinde yaşamını yitirdiğini belirledi.",
+      "worker_name": "Ahmet Çakır",
+      "worker_age": 56,
+      "employer": "Beton mikseri / firma bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / beton taşımacılığı",
+      "death_date": "2025-12-10",
+      "cause": "Çalışır haldeki beton mikserinin içine düşme",
+      "legal_status": "Kaynaklar olayla ilgili inceleme ve soruşturma başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-11",
+      "locations": [
+        {
+          "id": "ahmet-cakir-yavuz-selim-sevban-mehmet-beton-mikseri",
+          "label": "Yavuz Selim Mahallesi Sevban Mehmet Caddesi’nde beton mikseri temizliği",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Arnavutköy",
+          "lat": 41.206852,
+          "lng": 28.734377,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Yavuz Selim Mahallesi Sevban Mehmet Caddesi olarak verdi; açık kapı numarası belirtilmediği için mahalle merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-10",
+          "status": "fatality_recorded",
+          "note": "Ahmet Çakır beton mikserinin hortumunu temizlediği sırada çalışır haldeki mikserin içine düşerek olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Arnavutköy’de beton mikseri faciasında sürücünün kimliği belli oldu",
+          "url": "https://www.ankaranethaber.com/arnavutkoyde-beton-mikseri-faciasinda-surucunun-kimligi-belli-oldu",
+          "publisher": "Ankara Net Haber / İHA",
+          "type": "news",
+          "published_at": "2025-12-11"
+        },
+        {
+          "title": "Arnavutköy’de Feci İş Kazası! Samsunlu Sürücü Mikserde Can Verdi",
+          "url": "https://www.hedefhalk.com/arnavutkoy-de-feci-is-kazasi-samsunlu-surucu-mikserde-can-verdi/1804942/",
+          "publisher": "Hedef Halk / İHA",
+          "type": "local_news",
+          "published_at": "2025-12-11"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
