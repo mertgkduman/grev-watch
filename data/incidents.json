@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01",
+  "updated_at": "2026-05-03",
   "description": "Reviewed MVP incident records. Public records must keep at least one source URL.",
   "records": [
     {
@@ -4202,6 +4202,321 @@
           "publisher": "Malatya Söz",
           "type": "local_news",
           "published_at": "2025-12-03"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "taner-erkul-cermik-peynir-tesisi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Taner Erkul Çermik’te peynir tesisindeki patlamada yaşamını yitirdi",
+      "summary": "Diyarbakır Çermik Bintaş Mahallesi’nde peynir üretimi yapılan bir tesiste kalorifer kazanı patladı; ağır yaralanan 26 yaşındaki işçi Taner Erkul, hastanede yaşamını yitirdi.",
+      "worker_name": "Taner Erkul",
+      "worker_age": 26,
+      "employer": "Peynir üretim tesisi / Mehmet Emin Varol tarafından işletildiği kaynaklarda aktarıldı",
+      "sector": "Gıda / süt ürünleri",
+      "death_date": "2025-12-26",
+      "cause": "Kalorifer kazanı patlaması",
+      "legal_status": "Kaynaklar işletmenin ruhsatsız olduğunu ve işletme sahibinin soruşturma kapsamında tutuklandığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-26",
+      "locations": [
+        {
+          "id": "taner-erkul-cermik-bintas-peynir-tesisi",
+          "label": "Bintaş Mahallesi peynir üretim tesisi",
+          "province_key": "DIYARBAKIR",
+          "province": "Diyarbakır",
+          "district": "Çermik",
+          "lat": 38.136,
+          "lng": 39.449,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-25",
+          "status": "injury_reported",
+          "note": "Peynir üretim tesisindeki kalorifer kazanı patlamasında Taner Erkul ağır yaralandı."
+        },
+        {
+          "date": "2025-12-26",
+          "status": "fatality_recorded",
+          "note": "Taner Erkul tedavi gördüğü hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Peynir tesisindeki patlamada ağır yaralanan işçi öldü",
+          "url": "https://www.dha.com.tr/yerel-haberler/diyarbakir/cermik/peynir-tesisindeki-patlamada-agir-yaralanan-isc-2785166",
+          "publisher": "DHA",
+          "type": "local_news",
+          "published_at": "2025-12-26"
+        },
+        {
+          "title": "Diyarbakır’da peynir tesisindeki patlama: Bir işçi hayatını kaybetti",
+          "url": "https://ilketv.com.tr/diyarbakirda-peynir-tesisindeki-patlama-bir-isci-hayatini-kaybetti/",
+          "publisher": "İlke TV",
+          "type": "news",
+          "published_at": "2025-12-26"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "nadir-catalkaya-esme-peynir-fabrikasi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Nadir Çatalkaya Eşme’deki peynir fabrikasında uğradığı saldırı sonrası yaşamını yitirdi",
+      "summary": "Uşak Eşme Kolonkaya’da süt ürünleri ve peynir üretimi yapan bir fabrikada çalışan 34 yaşındaki Nadir Çatalkaya, işyerindeki tartışma sırasında başına demir sopayla vurulması sonucu ağır yaralandı; yoğun bakımda yaşamını yitirdi.",
+      "worker_name": "Nadir Çatalkaya",
+      "worker_age": 34,
+      "employer": "Kolonkaya süt ürünleri / peynir fabrikası, işveren adı kaynaklarda belirtilmedi",
+      "sector": "Gıda / süt ürünleri",
+      "death_date": "2025-12-19",
+      "cause": "İşyerinde şiddet / demir sopayla saldırı",
+      "legal_status": "Kaynaklar Nadir Çatalkaya’nın ölümüne neden olduğu belirtilen şüphelinin tutuklandığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-20",
+      "locations": [
+        {
+          "id": "nadir-catalkaya-esme-kolonkaya-peynir-fabrikasi",
+          "label": "Kolonkaya süt ürünleri ve peynir fabrikası",
+          "province_key": "USAK",
+          "province": "Uşak",
+          "district": "Eşme",
+          "lat": 38.399,
+          "lng": 28.969,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-18",
+          "status": "injury_reported",
+          "note": "Nadir Çatalkaya Kolonkaya’daki peynir fabrikasında başına demir sopayla darbe alması sonucu ağır yaralandı."
+        },
+        {
+          "date": "2025-12-19",
+          "status": "fatality_recorded",
+          "note": "Nadir Çatalkaya yoğun bakımda yaşamını yitirdi."
+        },
+        {
+          "date": "2025-12-20",
+          "status": "legal_process",
+          "note": "Kaynaklar şüpheli Necati A.’nın tutuklandığını aktardı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Uşak Eşme’de kafasına darbe alan Nadir Çatalkaya, kurtarılamadı",
+          "url": "https://www.usakport.com.tr/usak-esmede-kafasina-darbe-alan-nadir-catalkaya-kurtarilamadi",
+          "publisher": "Uşak Port",
+          "type": "local_news",
+          "published_at": "2025-12-19"
+        },
+        {
+          "title": "Uşak Eşme’de genç yaşta hayatını kaybeden Nadir Çatalkaya’nın ölümüne yol açtığı öne sürülen kişi tutuklandı",
+          "url": "https://www.usakport.com.tr/usak-esmede-genc-yasta-hayatini-kaybeden-nadir-catalkayanin-olumune-yol-actigi-onu-surulen-kisi-tutuklandi",
+          "publisher": "Uşak Port",
+          "type": "local_news",
+          "published_at": "2025-12-20"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "gokhan-savucu-derik-bugday-silosu-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Gökhan Savucu Derik’te devrilen buğday silolarının altında kalarak yaşamını yitirdi",
+      "summary": "Mardin Derik Çataltepe kırsal mahallesinde buğday silolarının devrilmesi sonucu 28 yaşındaki işçi Gökhan Savucu metal yığınlarının altında kalarak olay yerinde yaşamını yitirdi.",
+      "worker_name": "Gökhan Savucu",
+      "worker_age": 28,
+      "employer": "Buğday silosu / şirket adı kaynaklarda belirtilmedi",
+      "sector": "Tarım / depolama",
+      "death_date": "2025-12-15",
+      "cause": "Buğday silolarının devrilmesi / ezilme",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-16",
+      "locations": [
+        {
+          "id": "gokhan-savucu-derik-cataltepe-bugday-silosu",
+          "label": "Çataltepe kırsal mahallesi buğday silosu",
+          "province_key": "MARDIN",
+          "province": "Mardin",
+          "district": "Derik",
+          "lat": 37.363,
+          "lng": 40.269,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-15",
+          "status": "fatality_recorded",
+          "note": "Gökhan Savucu devrilen buğday silolarının altında kalarak olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mardin’de buğday siloları devrildi; bir işçi hayatını kaybetti",
+          "url": "https://mardinhaber.com.tr/haber/27036681/mardinde-bugday-silolari-devrildi-bir-isci-hayatini-kaybetti",
+          "publisher": "Mardin Haber Gazetesi",
+          "type": "local_news",
+          "published_at": "2025-12-15"
+        },
+        {
+          "title": "3 Günlük Baba, Enkaz Faciasında Hayatını Kaybetti",
+          "url": "https://www.vanekspres.com.tr/3-gunluk-baba-enkaz-faciasinda-hayatini-kaybetti",
+          "publisher": "Van Ekspres",
+          "type": "local_news",
+          "published_at": "2025-12-16"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "erkan-akkas-alanya-tunel-insaati-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Erkan Akkaş Alanya’da tünel inşaatında düştükten sonra yaşamını yitirdi",
+      "summary": "Antalya Alanya Karapınar Mahallesi’ndeki tünel inşaatında 1 Aralık’ta iskelenin kırılması sonucu düşerek ağır yaralanan 43 yaşındaki işçi Erkan Akkaş, yaklaşık 20 gün sonra hastanede yaşamını yitirdi.",
+      "worker_name": "Erkan Akkaş",
+      "worker_age": 43,
+      "employer": "Tünel inşaatı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / tünel",
+      "death_date": "2025-12-22",
+      "cause": "İskelenin kırılması sonucu yüksekten düşme",
+      "legal_status": "Kaynaklar kazaya ilişkin incelemenin sürdüğünü aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-22",
+      "locations": [
+        {
+          "id": "erkan-akkas-alanya-karapinar-tunel-insaati",
+          "label": "Karapınar Mahallesi tünel inşaatı",
+          "province_key": "ANTALYA",
+          "province": "Antalya",
+          "district": "Alanya",
+          "lat": 36.544,
+          "lng": 31.999,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-01",
+          "status": "injury_reported",
+          "note": "Erkan Akkaş tünel inşaatında iskelenin kırılması sonucu düşerek ağır yaralandı."
+        },
+        {
+          "date": "2025-12-22",
+          "status": "fatality_recorded",
+          "note": "Erkan Akkaş hastanedeki tedavisine rağmen yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alanya’daki Tünel İnşaatında Acı Son: İşçi Hayatını Kaybetti",
+          "url": "https://www.mansetalanya.com/alanyadaki-tunel-insaatinda-aci-son-isci-hayatini-kaybetti",
+          "publisher": "Manşet Alanya",
+          "type": "local_news",
+          "published_at": "2025-12-22"
+        },
+        {
+          "title": "Alanya’da tünel inşaatında düşen işçi yaşam savaşını kaybetti",
+          "url": "https://www.gercekalanya.com/alanyada-tunel-insaatinda-dusen-isci-yasam-savasini-kaybetti",
+          "publisher": "Gerçek Alanya",
+          "type": "local_news",
+          "published_at": "2025-12-22"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "ozcan-zorlu-hatsan-tersanesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Özcan Zorlu Hat-San Tersanesi’nde vinç bomunun altında kalarak yaşamını yitirdi",
+      "summary": "Yalova Altınova’daki Hat-San Tersanesi’nde vinç operatörü olarak çalışan 40 yaşındaki Özcan Zorlu, söküm çalışmaları sırasında vinç bomunun üzerine düşmesi sonucu yaşamını yitirdi.",
+      "worker_name": "Özcan Zorlu",
+      "worker_age": 40,
+      "employer": "Hat-San Tersanesi",
+      "sector": "Gemi / tersane",
+      "death_date": "2025-12-21",
+      "cause": "Vinç bomunun üzerine düşmesi",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma veya inceleme başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-22",
+      "locations": [
+        {
+          "id": "ozcan-zorlu-yalova-hatsan-tersanesi",
+          "label": "Hat-San Tersanesi",
+          "province_key": "YALOVA",
+          "province": "Yalova",
+          "district": "Altınova",
+          "lat": 40.702,
+          "lng": 29.49,
+          "geocode_precision": "facility_approx",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-21",
+          "status": "fatality_recorded",
+          "note": "Özcan Zorlu söküm çalışması sırasında vinç bomunun üzerine düşmesi sonucu yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Yalova’da tersanede yine ölümlü iş kazası",
+          "url": "https://www.denizhaber.net/mobi/news_detail.php?id=122820",
+          "publisher": "Deniz Haber Ajansı",
+          "type": "sector_news",
+          "published_at": "2025-12-22"
+        },
+        {
+          "title": "Gurbetten acı haber: Ünyeli operatör hayatını kaybetti",
+          "url": "https://unyemedya.com/haber/gurbetten_aci_haber_unyeli_operator_hayatini_kaybetti-9450.html",
+          "publisher": "Ünye Medya",
+          "type": "local_news",
+          "published_at": "2025-12-22"
         },
         {
           "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
