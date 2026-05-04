@@ -5096,6 +5096,66 @@
       ]
     },
     {
+      "id": "sefer-kucuk-gulnar-silindir-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Sefer Küçük Gülnar’da yol çalışmasında silindirin altında kalarak yaşamını yitirdi",
+      "summary": "Mersin Gülnar Kuskan Mahallesi’nde yol yapım çalışması sırasında Gülnar Belediyesi iş makinesi operatörü Sefer Küçük, kullandığı asfalt sıkıştırma silindirinin devrilmesi sonucu aracın altında kaldı; sağlık ekipleri olay yerinde yaşamını yitirdiğini belirledi.",
+      "worker_name": "Sefer Küçük",
+      "worker_age": 45,
+      "employer": "Gülnar Belediyesi / asfalt ekibi",
+      "sector": "Belediye / yol yapım",
+      "death_date": "2025-12-04",
+      "cause": "Devrilen asfalt sıkıştırma silindirinin altında kalma",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma başlatıldığını aktardı. Bazı ajans aktarımlarında yaş 31 olarak geçerken yerel kaynaklarda 45 olarak verildi; kayıtta belediye personeli bilgisini de aktaran yerel kaynak yaşı esas alındı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "sefer-kucuk-kuskan-gulnar-yol-calismasi",
+          "label": "Kuskan Mahallesi yol yapım çalışması",
+          "province_key": "MERSIN",
+          "province": "Mersin",
+          "district": "Gülnar",
+          "lat": 36.48913,
+          "lng": 33.26911,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olay? Kuskan Mahallesi’ndeki yol yapım çalışması olarak verdi; açık yol noktas? belirtilmediği için mahalle merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-04",
+          "status": "fatality_recorded",
+          "note": "Sefer Küçük yol yapım çalışmasında devrilen silindirin altında kalarak olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mersin’de silindirin altında kalan işçi hayatını kaybetti",
+          "url": "https://www.mersinhabermerkezi.com/mersinde-silindirin-altinda-kalan-isci-hayatini-kaybetti",
+          "publisher": "Mersin Haber Merkezi",
+          "type": "local_news",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "Devrilen silindirin altında kalan operatör öldü",
+          "url": "https://www.haberler.com/guncel/mersin-de-asfalt-sikistirma-silindiri-devrildi-operator-hayatini-kaybetti-19323003-haberi/",
+          "publisher": "Haberler.com / DHA",
+          "type": "news",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
