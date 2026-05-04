@@ -9983,6 +9983,102 @@
       ]
     },
     {
+      "id": "zeki-salapa-dilovasi-d100-motosiklet-carpmasi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Zeki Salapa Dilovası D-100’de motosiklet çarpması sonucu yaşamını yitirdi",
+      "summary": "Kocaeli’nin Dilovası ilçesinde, Ankara yönünde seyreden 34 EKB 140 plakalı TIR’ını D-100 kara yolu Mimar Sinan Mahallesi mevkisinde yol kenarına park eden 65 yaşındaki TIR şoförü Zeki Salapa, araçtan inip yolun karşısına geçmeye çalışırken 41 AOR 903 plakalı motosikletin çarpması sonucu ağır yaralandı. DHA ve İHA, Salapa’nın sağlık ekiplerinin ilk müdahalesinin ardından hastaneye kaldırıldığını ancak kurtarılamadığını; kazada motosiklet sürücüsü Hakan Baycan’ın da yaşamını yitirdiğini ve olayla ilgili soruşturma başlatıldığını/sürdüğünü aktardı.",
+      "worker_name": "Zeki Salapa",
+      "worker_age": 65,
+      "employer": "34 EKB 140 plakalı TIR / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "Taşımacılık / TIR sürücülüğü",
+      "death_date": "2025-11-25",
+      "cause": "D-100 kara yolu Dilovası Mimar Sinan Mahallesi mevkisinde TIR’dan indikten sonra yolun karşısına geçmeye çalışırken motosiklet çarpması",
+      "legal_status": "DHA olayla ilgili soruşturmanın sürdüğünü; İHA ve Gazete Duvar adli soruşturma başlatıldığını aktardı. Sonraki adli/idari süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "zeki-salapa-dilovasi-d100-mimar-sinan",
+          "label": "D-100 kara yolu Mimar Sinan Mahallesi mevkisi",
+          "province_key": "KOCAELI",
+          "province": "Kocaeli",
+          "district": "Dilovası",
+          "lat": 40.790195,
+          "lng": 29.539562,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "DHA ve İHA kazayı D-100 kara yolu Dilovası geçişi Mimar Sinan Mahallesi mevkisinde verdi; açık kilometre veya nokta belirtilmediği için Yandex Maps’in Mimar Sinan Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-25",
+          "status": "fatality_recorded",
+          "note": "Zeki Salapa, park ettiği TIR’dan indikten sonra D-100 kara yolunda karşıya geçmeye çalışırken motosiklet çarpması sonucu ağır yaralandı; kaldırıldığı hastanede kurtarılamadı."
+        },
+        {
+          "date": "2025-11-25",
+          "status": "reported_by_press",
+          "note": "DHA ve İHA kazayı 25 Kasım 2025 akşamı haberleştirdi; yerel Kocaeli kaynakları aynı gün ve ertesi gün ayrıntılı aktarımlar yaptı."
+        },
+        {
+          "date": "2025-11-25",
+          "status": "investigation_opened",
+          "note": "DHA soruşturmanın sürdüğünü, İHA olayla ilgili adli soruşturma başlatıldığını bildirdi."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Zeki Salapa’yı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Yolun karşısına geçmeye çalışan TIR şoförüne motosiklet çarptı; 2 ölü",
+          "url": "https://www.dha.com.tr/gundem/yolun-karsisina-gecmeye-calisan-tir-soforune-motosiklet-carpti-2-olu-2765769",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-25"
+        },
+        {
+          "title": "Kocaeli’de feci kaza: 2 ölü",
+          "url": "https://www.iha.com.tr/kocaeli-haberleri/kocaelide-feci-kaza-2-olu-337047853",
+          "publisher": "İhlas Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-25"
+        },
+        {
+          "title": "Dilovası’nda feci kaza: Tır sürücüsü ve motosikletli hayatını kaybetti",
+          "url": "https://www.gazeteduvar.com.tr/dilovasinda-feci-kaza-tir-surucusu-ve-motosikletli-hayatini-kaybetti-haber-1764987",
+          "publisher": "Gazete Duvar",
+          "type": "news",
+          "published_at": "2025-11-26"
+        },
+        {
+          "title": "Dilovası'nda feci kaza! 2 kişi hayatını kaybetti",
+          "url": "https://www.cagdaskocaeli.com.tr/haber/26899850/dilovasinda-feci-kaza-2-kisi-hayatini-kaybetti",
+          "publisher": "Çağdaş Kocaeli Gazetesi",
+          "type": "news",
+          "published_at": "2025-11-25"
+        },
+        {
+          "title": "Mimar Sinan Mah.",
+          "url": "https://yandex.com.tr/maps/107791/dilovasi/geo/mimar_sinan_mah_/2215930284/",
+          "publisher": "Yandex Maps",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
