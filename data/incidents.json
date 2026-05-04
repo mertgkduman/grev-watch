@@ -6791,6 +6791,90 @@
       ]
     },
     {
+      "id": "seyithan-alkan-batman-kuyubasi-insaat-kalip-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Seyithan Alkan Batman Kuyubaşı’nda beton kalıbı çökmesi sonucu yaşamını yitirdi",
+      "summary": "Batman Merkez Kuyubaşı Mahallesi/Köyü’nde 14 Kasım 2025 saat 16.00 sıralarında yapımı süren bir bina inşaatında kalıp sökümü sırasında beton kalıbı/parçaları işçilerin üzerine düştü. Van Başkale nüfusuna kayıtlı 23 yaşındaki Seyithan Alkan hastanede yapılan müdahalelere rağmen yaşamını yitirdi; R.A. adlı bir diğer işçinin ağır yaralandığı bildirildi.",
+      "worker_name": "Seyithan Alkan",
+      "worker_age": 23,
+      "employer": "Kuyubaşı’ndaki bina inşaatı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-14",
+      "cause": "Kalıp sökümü sırasında beton kalıbı/parçalarının üzerine düşmesi",
+      "legal_status": "Kaynaklar olay yerine sağlık, jandarma ve itfaiye ekiplerinin sevk edildiğini ve olayla ilgili soruşturma/inceleme başlatıldığını aktardı; işveren veya idari yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 2,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "seyithan-alkan-batman-kuyubasi-insaat",
+          "label": "Kuyubaşı Mahallesi/Köyü’ndeki bina inşaatı",
+          "province_key": "BATMAN",
+          "province": "Batman",
+          "district": "Merkez",
+          "lat": 37.84141,
+          "lng": 41.08226,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Van65 Haber, Şehrivan ve Neden İş Güvenliği olay yerini Batman Merkez Kuyubaşı Mahallesi/Köyü’ndeki inşaat olarak verdi; açık inşaat adresi belirtilmediği için Kmhesaplama’nın Kuyubaşı mahalle koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-14",
+          "status": "fatality_recorded",
+          "note": "Kuyubaşı’ndaki bina inşaatında kalıp sökümü sırasında beton parçaları Seyithan Alkan ve R.A.’nın üzerine düştü; Alkan kaldırıldığı hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-14",
+          "status": "investigation_opened",
+          "note": "Kaynaklar olayla ilgili soruşturma/inceleme başlatıldığını ve diğer işçinin hayati tehlikesinin sürdüğünü aktardı."
+        },
+        {
+          "date": "2025-11-16",
+          "status": "reported",
+          "note": "Şehrivan, Seyithan Alkan’ın cenazesinin Van Başkale Saçan köyünde toprağa verildiğini haberleştirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Batman’da İnşaat Kazası: Bir İşçi Hayatını Kaybetti, Bir İşçi Ağır Yaralı",
+          "url": "https://www.van65haber.com/batmanda-insaat-kazasi-bir-isci-hayatini-kaybetti-bir-isci-agir-yarali/amp",
+          "publisher": "Van65 Haber",
+          "type": "local_news",
+          "published_at": "2025-11-14"
+        },
+        {
+          "title": "Üzerine beton parçaları düşen Vanlı işçi yaşamını yitirdi",
+          "url": "https://www.sehrivangazetesi.com/uzerine-beton-parcalari-dusen-vanli-isci-yasamini-yitirdi",
+          "publisher": "Şehrivan Gazetesi / İHA",
+          "type": "local_news",
+          "published_at": "2025-11-16"
+        },
+        {
+          "title": "Batman’da inşaatta beton düştü: 1 işçi yaşamını kaybetti",
+          "url": "https://nedenisguvenligi.com/batmanda-insaatta-beton-dustu-1-isci-yasamini-kaybetti/",
+          "publisher": "Neden İş Güvenliği",
+          "type": "labor_news",
+          "published_at": ""
+        },
+        {
+          "title": "Kuyubaşı Mahallesi - Batman",
+          "url": "https://kmhesaplama.com/batman/merkez/kuyubasi/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
