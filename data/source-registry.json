@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 515,
-      "remaining_individual_case_target": 442
+      "mapped_individual_fatalities_in_these_months": 516,
+      "remaining_individual_case_target": 441
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 515,
-      "remaining_known_target_before_april_report": 271,
+      "mapped_individual_fatalities_before_pending_april_report": 516,
+      "remaining_known_target_before_april_report": 270,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -911,7 +911,7 @@
         "2025-08": 0,
         "2025-09": 0,
         "2025-10": 0,
-        "2025-11": 47,
+        "2025-11": 48,
         "2025-12": 47
       },
       "remaining_after_this_pass": {
@@ -925,12 +925,12 @@
         "2025-08": 196,
         "2025-09": 208,
         "2025-10": 171,
-        "2025-11": 172,
+        "2025-11": 171,
         "2025-12": 88
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 94,
-      "total_remaining_after_this_pass": 2011,
+      "total_mapped_after_this_pass": 95,
+      "total_remaining_after_this_pass": 2010,
       "current_month": "2025-11",
       "processed_this_pass": [
         {
@@ -1436,6 +1436,12 @@
           "worker_name": "Emin İdem",
           "record_id": "emin-idem-beylikduzu-insaat-yuksekten-dusme-is-cinayeti-2025",
           "remaining_in_period_after_record": 172
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Hamza Dikmen",
+          "record_id": "hamza-dikmen-erdemli-sarikaya-arkit-insaat-elektrik-is-cinayeti-2025",
+          "remaining_in_period_after_record": 171
         }
       ]
     }

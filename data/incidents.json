@@ -8138,6 +8138,96 @@
       ]
     },
     {
+      "id": "hamza-dikmen-erdemli-sarikaya-arkit-insaat-elektrik-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Hamza Dikmen Erdemli’de beton dökerken elektrik akımına kapılarak yaşamını yitirdi",
+      "summary": "Mersin’in Erdemli ilçesinde bir inşaat şantiyesinde beton dökümü sırasında mikserin pompa kolunun yüksek gerilim hattına temas etmesi sonucu pompa ucundan betonu yönlendiren işçi Hamza Dikmen, 6 Kasım 2025 sabahı elektrik akımına kapıldı. Sağlık ekiplerince Erdemli Devlet Hastanesi’ne kaldırılan Dikmen kurtarılamadı; haberler evli ve üç çocuk babası olduğunu, cenazesinin otopsi için morga/adli tıpa kaldırıldığını ve olayla ilgili soruşturma başlatıldığını aktardı. DHA ve İHA kaynaklı haberler yaşı 45, AA kaynaklı haber 47 olarak verdi; olay yeri de kaynaklarda Arkıt Mahallesi veya Sarıkaya Mahallesi Arkıt Mevkii olarak geçti.",
+      "worker_name": "Hamza Dikmen",
+      "employer": "Erdemli Sarıkaya/Arkıt bölgesindeki inşaat şantiyesi / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-06",
+      "cause": "Beton dökümü sırasında mikser pompa kolunun yüksek gerilim hattına temas etmesi sonucu elektrik akımına kapılma",
+      "legal_status": "DHA, İHA ve yerel haberlerde olayla ilgili soruşturma başlatıldığı aktarıldı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "hamza-dikmen-erdemli-sarikaya-arkit-insaat",
+          "label": "Sarıkaya Mahallesi / Arkıt Mevkii inşaat şantiyesi",
+          "province_key": "MERSIN",
+          "province": "Mersin",
+          "district": "Erdemli",
+          "lat": 36.76185,
+          "lng": 34.1124,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "AA kaynaklı haber Sarıkaya Mahallesi’nde yayla evi inşaatı, Erdemli Ajans Sarıkaya Mahallesi Arkıt Mevkii, DHA/Sözcü-Birgün ve İHA kaynaklı haberler Arkıt/Koramşalı hattında inşaat şantiyesi bilgisi verdi; açık şantiye adresi doğrulanamadığı için Kmhesaplama’nın Sarıkaya Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-06",
+          "status": "fatality_recorded",
+          "note": "Erdemli’de beton dökümü sırasında mikser pompa kolunun yüksek gerilim hattına temas etmesi sonucu Hamza Dikmen elektrik akımına kapıldı; hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-06",
+          "status": "investigation_opened",
+          "note": "Haberler cenazenin otopsi/adli tıp işlemlerine gönderildiğini ve olayla ilgili soruşturma başlatıldığını aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Hamza Dikmen’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İnşaatta beton dökerken elektrik akımına kapılan işçi öldü",
+          "url": "https://www.birgun.net/haber/insaatta-beton-dokerken-elektrik-akimina-kapilan-isci-oldu-666865",
+          "publisher": "BirGün / DHA",
+          "type": "news",
+          "published_at": "2025-11-06"
+        },
+        {
+          "title": "Evli ve 3 Çocuk Babası İnşaatta Hayatını Kaybetti",
+          "url": "https://www.akdenizgazetesi.com/evli-ve-3-cocuk-babasi-hamza-dikmen-insaatta-hayatini-kaybetti",
+          "publisher": "Akdeniz Gazetesi / AA",
+          "type": "news",
+          "published_at": "2025-11-06"
+        },
+        {
+          "title": "Erdemli’de İnşaatta Elektrik Akımına Kapılan İşçi Hayatını Kaybetti",
+          "url": "https://www.haberkenti.com/erdemlide-insaatta-elektrik-akimina-kapilan-isci-hayatini-kaybetti-673128",
+          "publisher": "Haber Kenti / İHA",
+          "type": "news",
+          "published_at": "2025-11-06"
+        },
+        {
+          "title": "İnşaatta Beton Dökerken Elektrik Çarpan İşçi Hayatını Kaybetti",
+          "url": "https://www.erdemliajans.com.tr/haber-insaatta-beton-dokerken-elektrik-carpan-isci-hayatini-kaybetti-6955.html",
+          "publisher": "Erdemli Ajans",
+          "type": "news",
+          "published_at": "2025-11-06"
+        },
+        {
+          "title": "Sarıkaya Mahallesi - Erdemli, Mersin",
+          "url": "https://kmhesaplama.com/mersin/erdemli/sarikaya/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
