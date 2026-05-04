@@ -10430,6 +10430,114 @@
       ]
     },
     {
+      "id": "ayhan-arikan-cal-belevi-otobus-servis-carpismasi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ayhan Arıkan Çal’da yolcu otobüsü kazasında yaşamını yitirdi",
+      "summary": "Denizli’nin Çal ilçesinde, Fethiye-İstanbul seferini yapan Kamil Koç firmasına ait 26 AJS 579 plakalı yolcu otobüsünün şoförü Ayhan Arıkan, Denizli-Uşak kara yolunda işçileri bıraktıktan sonra dönüşe geçen servis minibüsüyle çarpıştı. 42 yaşındaki Arıkan ağır yaralı olarak Çal Devlet Hastanesi’ne kaldırıldı ancak yapılan müdahalelere rağmen yaşamını yitirdi; kazada 13-14 kişinin daha yaralandığı ve soruşturmanın sürdüğü aktarıldı.",
+      "worker_name": "Ayhan Arıkan",
+      "worker_age": 42,
+      "employer": "Kamil Koç / şehirlerarası yolcu otobüsü",
+      "sector": "Taşımacılık / şehirlerarası yolcu otobüsü şoförlüğü",
+      "death_date": "2025-11-24",
+      "cause": "Denizli-Uşak kara yolunda yolcu otobüsünün servis minibüsüyle çarpışması",
+      "legal_status": "DHA, Habertürk ve yerel kaynaklar kazayla ilgili soruşturma başlatıldığını veya sürdüğünü aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "ayhan-arikan-cal-denizli-usak-karayolu",
+          "label": "Denizli-Uşak kara yolu / Belevi-Denizler Mahallesi kavşak hattı",
+          "province_key": "DENIZLI",
+          "province": "Denizli",
+          "district": "Çal",
+          "lat": 37.91494,
+          "lng": 29.40506,
+          "geocode_precision": "road_corridor_approximate",
+          "fatality_count": 1,
+          "location_basis": "DHA ve Habertürk kazayı Denizler Mahallesi Denizli-Uşak kara yolunda, Gazete Duvar ve Denizli Yeni Olay ise Belevi Mahallesi/Sırtköy yol kavşağı hattında verdi. Açık koordinat doğrulanamadığı için Belevi Mahallesi koordinatı, Çal içindeki kaza koridoru için yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-23",
+          "status": "injury_reported",
+          "note": "Saat 21.00 sıralarında Ayhan Arıkan’ın kullandığı Fethiye-İstanbul seferindeki Kamil Koç yolcu otobüsü, Denizli-Uşak kara yolunda servis minibüsüyle çarpıştı."
+        },
+        {
+          "date": "2025-11-24",
+          "status": "fatality_recorded",
+          "note": "Ağır yaralı olarak Çal Devlet Hastanesi’ne kaldırılan Ayhan Arıkan yapılan müdahalelere rağmen yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-24",
+          "status": "investigation_opened",
+          "note": "DHA ve yerel haberler kazayla ilgili soruşturmanın başlatıldığını veya sürdüğünü aktardı."
+        },
+        {
+          "date": "2025-11-25",
+          "status": "funeral_notice",
+          "note": "Uşak Belediyesi Ayhan Arıkan’ın cenaze ilanını yayımladı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Ayhan Arıkan’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Yolcu otobüsü ile servis minibüsü çarpıştı: 1 ölü, 14 yaralı",
+          "url": "https://www.dha.com.tr/gundem/yolcu-otobusu-ile-servis-minibusu-carpisti-1-olu-14-yarali-2764511",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Denizli’de minibüs ile yolcu otobüsü çarpıştı: 1 ölü, 13 yaralı",
+          "url": "https://www.gazeteduvar.com.tr/denizlide-minibus-ile-yolcu-otobusu-carpisti-1-olu-13-yarali-haber-1764978",
+          "publisher": "Gazete Duvar",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Denizli’de otobüsle minibüs kafa kafaya çarpıştı",
+          "url": "https://denizliyeniolay.com/asayis/118056-denizlide-otobusle-minibus-kafa-kafaya-carpisti",
+          "publisher": "Denizli Yeni Olay / İHA",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Denizli'de can pazarı! Ölü ve yaralılar var",
+          "url": "https://www.sonmuhur.com/denizlide-can-pazari-olu-ve-yaralilar-var",
+          "publisher": "Son Mühür / DHA",
+          "type": "news",
+          "published_at": "2025-11-24"
+        },
+        {
+          "title": "Ayhan Arıkan",
+          "url": "https://www.usak.bel.tr/cenaze-ilani/ayhan-arikan",
+          "publisher": "T.C. Uşak Belediyesi",
+          "type": "obituary",
+          "published_at": "2025-11-25"
+        },
+        {
+          "title": "Belevi Mahallesi - Çal, Denizli",
+          "url": "https://kmhesaplama.com/denizli/cal/belevi/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
