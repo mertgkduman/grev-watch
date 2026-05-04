@@ -96,11 +96,12 @@ const PROVINCES = [
 const PROVINCE_BY_KEY = Object.fromEntries(PROVINCES.map((item) => [item.key, item]));
 const PROVINCE_BY_NAME = Object.fromEntries(PROVINCES.map((item) => [item.name, item]));
 
-const RECORD_TYPES = ["worker_death", "strike", "action_call", "mesem_school", "union_labor_arrest"];
+const RECORD_TYPES = ["worker_death", "strike", "labor_retaliation", "action_call", "mesem_school", "union_labor_arrest"];
 const ACTION_TYPES = ["legal_strike", "fiili_wildcat", "protest", "bargaining_dispute", "solidarity_action"];
 const LAYER_ORDER = [
   "worker_death_recent",
   "strike_ongoing",
+  "labor_retaliation",
   "strike_ended",
   "action_call_upcoming",
   "action_call_happened",
@@ -119,6 +120,7 @@ const MONTH_RANGE_START = "2025-01";
 const LAYER_COLORS = {
   worker_death_recent: "#111111",
   strike_ongoing: "#d72d2d",
+  labor_retaliation: "#9f1239",
   strike_ended: "#2f8f4e",
   action_call_upcoming: "#1d4ed8",
   action_call_happened: "#60a5fa",
@@ -169,6 +171,7 @@ const COPY = {
     recordType: {
       worker_death: "İş cinayeti",
       strike: "Grev / işçi eylemi",
+      labor_retaliation: "Emek misillemesi",
       action_call: "Eylem / dayanışma çağrısı",
       mesem_school: "MESEM okulu",
       union_labor_arrest: "Emek tutuklaması",
@@ -179,6 +182,8 @@ const COPY = {
       ongoing: "Sürüyor",
       ended: "Sona erdi",
       postponed_banned: "Ertelendi / yasaklandı",
+      labor_retaliation_reported: "Emek misillemesi bildirildi",
+      labor_retaliation_reversed: "Yargıdan döndü",
       action_call_upcoming: "Çağrı",
       action_call_happened: "Gerçekleşti",
       active_school: "Aktif okul",
@@ -189,6 +194,7 @@ const COPY = {
     layer: {
       worker_death_recent: "İş cinayeti",
       strike_ongoing: "Süren grev",
+      labor_retaliation: "Emek misillemesi",
       strike_ended: "Sona eren grev",
       action_call_upcoming: "Eylem ve dayanışma çağrısı",
       action_call_happened: "Gerçekleşen eylem",
@@ -223,6 +229,7 @@ const COPY = {
       legalStatus: "Hukuki süreç",
       union: "Sendika / örgüt",
       actionType: "Eylem türü",
+      retaliationType: "Misilleme türü",
       workers: "Yaklaşık katılımcı",
       demands: "Talepler / konular",
       decisionDate: "Karar tarihi",
@@ -324,6 +331,7 @@ const COPY = {
     recordType: {
       worker_death: "Workplace killing",
       strike: "Strike / labor action",
+      labor_retaliation: "Labor retaliation",
       action_call: "Action / solidarity call",
       mesem_school: "MESEM school",
       union_labor_arrest: "Labor arrest",
@@ -334,6 +342,8 @@ const COPY = {
       ongoing: "Ongoing",
       ended: "Ended",
       postponed_banned: "Postponed / banned",
+      labor_retaliation_reported: "Labor retaliation reported",
+      labor_retaliation_reversed: "Blocked by court",
       action_call_upcoming: "Call",
       action_call_happened: "Held",
       active_school: "Active school",
@@ -344,6 +354,7 @@ const COPY = {
     layer: {
       worker_death_recent: "Workplace killing",
       strike_ongoing: "Ongoing strike",
+      labor_retaliation: "Labor retaliation",
       strike_ended: "Ended strike",
       action_call_upcoming: "Action / solidarity call",
       action_call_happened: "Action held",
@@ -378,6 +389,7 @@ const COPY = {
       legalStatus: "Legal process",
       union: "Union / organization",
       actionType: "Action type",
+      retaliationType: "Retaliation type",
       workers: "Approx. participants",
       demands: "Demands / issues",
       decisionDate: "Decision date",
@@ -594,11 +606,14 @@ function normalizeRecord(raw) {
     end_date: raw.end_date || null,
     event_date: raw.event_date || null,
     death_date: raw.death_date || null,
+    retaliation_date: raw.retaliation_date || null,
+    retaliation_type: raw.retaliation_type || "",
     detention_date: raw.detention_date || raw.arrest_date || null,
     known_active_date: raw.known_active_date || raw.active_date || null,
     custody_status: raw.custody_status || raw.detention_status || "",
     accusation: raw.accusation || "",
     legal_status: raw.legal_status || "",
+    linked_incident_id: raw.linked_incident_id || "",
     linked_incident_count: raw.linked_incident_count ?? null,
     last_verified_at: raw.last_verified_at || raw.updated_at || null,
     locations,
@@ -640,6 +655,7 @@ function getLayer(record) {
   if (record.record_type === "union_labor_arrest") {
     return isCurrentArrestRecord(record) ? "union_arrest_current" : "union_arrest_released";
   }
+  if (record.record_type === "labor_retaliation") return "labor_retaliation";
   if (record.status === "ended") return "strike_ended";
   if (record.status === "decision_taken") return "strike_decision";
   if (record.status === "postponed_banned") return "strike_postponed";
@@ -963,6 +979,7 @@ function recordMatchesDateRange(record) {
 function recordUsesDateRange(record) {
   return record.record_type === "worker_death"
     || record.record_type === "action_call"
+    || record.record_type === "labor_retaliation"
     || record.layer === "strike_ended"
     || record.layer === "strike_postponed";
 }
@@ -1137,6 +1154,7 @@ function recordListMeta(record) {
 function recordDateValue(record) {
   if (record.record_type === "worker_death") return record.death_date || record.last_verified_at || "";
   if (record.record_type === "action_call") return record.event_date || record.start_date || record.decision_date || record.last_verified_at || "";
+  if (record.record_type === "labor_retaliation") return record.retaliation_date || record.last_verified_at || "";
   if (record.record_type === "union_labor_arrest") return record.detention_date || record.last_verified_at || "";
   if (record.record_type === "mesem_school") return record.known_active_date || record.last_verified_at || "";
   if (record.status === "ended") return record.end_date || record.last_verified_at || record.start_date || record.decision_date || "";
@@ -1235,6 +1253,18 @@ function renderTypeStats(record) {
       detailStat(t("detail.sector"), record.sector),
       detailStat(t("detail.actionType"), record.action_type ? t(`actionType.${record.action_type}`) : ""),
       detailStat(t("detail.eventDate"), formatDate(record.event_date || record.start_date)),
+      detailStat(t("detail.lastVerified"), formatDate(record.last_verified_at)),
+    ].join("");
+  }
+  if (record.record_type === "labor_retaliation") {
+    return [
+      detailStat(t("detail.employer"), record.employer),
+      detailStat(t("detail.union"), record.labor_organization),
+      detailStat(t("detail.sector"), record.sector),
+      detailStat(t("detail.retaliationType"), record.retaliation_type || record.cause),
+      detailStat(t("detail.date"), formatDate(record.retaliation_date || record.last_verified_at)),
+      detailStat(t("detail.legalStatus"), record.legal_status),
+      detailStat(t("detail.linkedIncidents"), record.linked_incident_id),
       detailStat(t("detail.lastVerified"), formatDate(record.last_verified_at)),
     ].join("");
   }
@@ -1407,8 +1437,10 @@ function buildSearchBlob(record) {
     record.labor_organization,
     record.sector,
     record.cause,
+    record.retaliation_type,
     record.legal_status,
     record.accusation,
+    record.linked_incident_id,
     ...record.demands,
     ...record.locations.flatMap((location) => [location.label, location.province, location.district]),
     ...record.sources.flatMap((source) => [source.title, source.publisher]),

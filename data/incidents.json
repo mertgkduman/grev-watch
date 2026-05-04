@@ -8,7 +8,7 @@
       "status": "ongoing",
       "action_type": "legal_strike",
       "title": "Özel İtalyan Lisesi öğretmenleri grevi",
-      "summary": "İstanbul Beyoğlu'ndaki Özel İtalyan Lisesi'nde Tez-Koop-İş üyesi öğretmenlerin toplu sözleşme ve özlük hakları için 2 Şubat 2026'da başlattığı grev sürüyor; ücret ve çalışma koşullarında sözlü uzlaşı sağlansa da öğretmenler toplu iş sözleşmesinin hukuken resmileştirilmediğini belirtiyor.",
+      "summary": "İstanbul Beyoğlu'ndaki Özel İtalyan Lisesi'nde Tez-Koop-İş üyesi öğretmenlerin toplu sözleşme ve özlük hakları için 2 Şubat 2026'da başlattığı grev sürüyor; ücret ve çalışma koşullarında sözlü uzlaşı sağlansa da öğretmenler toplu iş sözleşmesinin hukuken resmileştirilmediğini belirtiyor. Grev sırasında MEB'in geçici öğretmen görevlendirmesi mahkemece grev hakkını engelleyici nitelikte bulunarak yürütmesi durduruldu.",
       "employer": "Özel İtalyan Lisesi",
       "labor_organization": "Tez-Koop-İş",
       "sector": "Eğitim",
@@ -19,9 +19,10 @@
         "Toplu iş sözleşmesi",
         "Ücret eşitsizliğinin giderilmesi",
         "Çalışma koşulları",
-        "Toplu iş sözleşmesinin bağlayıcı metinle imzalanması"
+        "Toplu iş sözleşmesinin bağlayıcı metinle imzalanması",
+        "Grev kırıcılığı niteliğindeki geçici öğretmen görevlendirmelerinin durdurulması"
       ],
-      "last_verified_at": "2026-05-01",
+      "last_verified_at": "2026-05-04",
       "locations": [
         {
           "id": "italyan-lisesi-beyoglu",
@@ -46,6 +47,11 @@
           "note": "Grev uygulaması başladı."
         },
         {
+          "date": "2026-03-24",
+          "status": "labor_retaliation_reported",
+          "note": "Bianet, MEB'in grevdeki öğretmenlerin yerine geçici görevlendirme yaptığını, görevlendirilen öğretmenlerin okulda işbaşı yaptığını ve Tez-Koop-İş'in bunu grev kırıcılığı olarak nitelediğini aktardı."
+        },
+        {
           "date": "2026-03-31",
           "status": "ongoing",
           "note": "24 Saat Gazetesi, MEB görevlendirmeleri ve protokolün imza beklemesi nedeniyle grevin sürdüğünü aktardı."
@@ -64,9 +70,28 @@
           "date": "2026-05-01",
           "status": "ongoing",
           "note": "DW Türkçe, öğretmenlerin yaklaşık üç aydır toplu sözleşme ve özlük hakları için grevde olduğunu ve TİS’in resmileştirilmediğini 1 Mayıs dosyasında özetledi."
+        },
+        {
+          "date": "2026-05-04",
+          "status": "labor_retaliation_reversed",
+          "note": "Bianet, Ankara 4. İdare Mahkemesi'nin MEB Özel Öğretim Kurumları Genel Müdürlüğü'nün 5 Mart 2026 tarihli geçici görevlendirme işlemi hakkında yürütmeyi durdurma kararı verdiğini bildirdi."
         }
       ],
       "sources": [
+        {
+          "title": "MEB grev kırıcısı oldu, grevdeki öğretmenlerin yerine atama yaptı",
+          "url": "https://bianet.org/haber/meb-grev-kiricisi-oldu-grevdeki-ogretmenlerin-yerine-atama-yapti-317985",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-24"
+        },
+        {
+          "title": "MEB’in grev kırıcılığı yargıdan döndü",
+          "url": "https://bianet.org/haber/mebin-grev-kiriciligi-yargidan-dondu-319302",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-05-04"
+        },
         {
           "title": "İtalyan Lisesi öğretmenleri: Müdür işten çıkarmaya yetkili, TİS'e gelince yetkisiz",
           "url": "https://bianet.org/haber/italyan-lisesi-ogretmenleri-mudur-isten-cikarmaya-yetkili-tise-gelince-yetkisiz-319129",
@@ -94,6 +119,61 @@
           "publisher": "DW Türkçe",
           "type": "labor_news",
           "published_at": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "italyan-lisesi-meb-grev-kiriciligi-2026",
+      "record_type": "labor_retaliation",
+      "status": "labor_retaliation_reversed",
+      "title": "MEB’in Özel İtalyan Lisesi grevindeki geçici öğretmen görevlendirmesi",
+      "summary": "Özel İtalyan Lisesi'nde Tez-Koop-İş üyesi Türkiyeli öğretmenlerin grevi sürerken MEB, grevdeki 14 öğretmenin yerine farklı devlet okullarından 26 öğretmeni kısmi zamanlı görevlendirdi. Tez-Koop-İş bu işlemi grev kırıcılığı olarak yargıya taşıdı; Ankara 4. İdare Mahkemesi görevlendirmenin grev hakkını engelleyici nitelikte olduğuna hükmederek yürütmeyi durdurdu.",
+      "employer": "Özel İtalyan Lisesi / Milli Eğitim Bakanlığı",
+      "labor_organization": "Tez-Koop-İş",
+      "sector": "Eğitim",
+      "retaliation_type": "Grev kırıcılığı / geçici öğretmen görevlendirmesi",
+      "retaliation_date": "2026-03-05",
+      "legal_status": "Ankara 4. İdare Mahkemesi, MEB Özel Öğretim Kurumları Genel Müdürlüğü'nün 5 Mart 2026 tarihli kısmi zamanlı öğretmen görevlendirme işlemi hakkında yürütmeyi durdurma kararı verdi.",
+      "linked_incident_id": "italyan-lisesi-grevi-2026",
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "italyan-lisesi-beyoglu-retaliation",
+          "label": "Özel İtalyan Lisesi",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Beyoğlu",
+          "lat": 41.0311,
+          "lng": 28.9785,
+          "geocode_precision": "exact"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-03-24",
+          "status": "labor_retaliation_reported",
+          "note": "Bianet, Beyoğlu İlçe Milli Eğitim Müdürlüğü'nün grevdeki öğretmenlerin yerine geçici görevlendirme yaptığını ve Tez-Koop-İş'in MEB'i protesto ettiğini bildirdi."
+        },
+        {
+          "date": "2026-05-04",
+          "status": "labor_retaliation_reversed",
+          "note": "Bianet, Ankara 4. İdare Mahkemesi'nin 26 öğretmene ilişkin kısmi zamanlı görevlendirme işleminde yürütmeyi durdurduğunu aktardı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "MEB grev kırıcısı oldu, grevdeki öğretmenlerin yerine atama yaptı",
+          "url": "https://bianet.org/haber/meb-grev-kiricisi-oldu-grevdeki-ogretmenlerin-yerine-atama-yapti-317985",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-03-24"
+        },
+        {
+          "title": "MEB’in grev kırıcılığı yargıdan döndü",
+          "url": "https://bianet.org/haber/mebin-grev-kiriciligi-yargidan-dondu-319302",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-05-04"
         }
       ]
     },
