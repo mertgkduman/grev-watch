@@ -6262,6 +6262,78 @@
       ]
     },
     {
+      "id": "abdulkerim-badur-midyat-golcuk-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Abdülkerim Badur Midyat’ta çalıştığı inşaatta yüksekten düşerek yaşamını yitirdi",
+      "summary": "Mardin’in Midyat ilçesine bağlı Gölcük Mahallesi 458. Sokak’ta bulunan bir inşaatta kalıp işçisi olarak çalışan Abdülkerim Badur, 17 Kasım 2025 sabahı yüksekten düşerek ağır yaralandı. Midyat Devlet Hastanesi’ne kaldırılan Badur yapılan müdahalelere rağmen yaşamını yitirdi.",
+      "worker_name": "Abdülkerim Badur",
+      "worker_age": 52,
+      "employer": "Gölcük Mahallesi 458. Sokak’taki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-17",
+      "cause": "Çalıştığı inşaatta 3. kattan / yüksekten düşme",
+      "legal_status": "Yerel kaynak, olay sonrası polis ekiplerinin güvenlik önlemi aldığını, cenazenin otopsi için morga kaldırıldığını, kazanın yaşandığı inşaattaki çalışmaların durdurulduğunu ve soruşturmanın sürdüğünü aktardı. İşveren bilgisi bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-17",
+      "locations": [
+        {
+          "id": "abdulkerim-badur-midyat-golcuk-458-sokak",
+          "label": "Gölcük Mahallesi 458. Sokak’taki inşaat",
+          "province_key": "MARDIN",
+          "province": "Mardin",
+          "district": "Midyat",
+          "lat": 37.41156,
+          "lng": 41.37119,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Yerel kaynak olayı Midyat Gölcük Mahallesi 458. Sokak’taki bir inşaat olarak verdi; açık kapı numarası doğrulanamadığı için Gölcük Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-17",
+          "status": "fatality_recorded",
+          "note": "Abdülkerim Badur, Midyat Gölcük Mahallesi’ndeki inşaatta çalışırken yüksekten düşerek ağır yaralandı ve Midyat Devlet Hastanesi’nde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-17",
+          "status": "investigation_opened",
+          "note": "Haberlerde olayla ilgili inceleme başlatıldığı ve kazanın yaşandığı inşaattaki çalışmaların durdurulduğu aktarıldı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Midyat’ta İnşaattan Düşen İşçi Hayatını Kaybetti",
+          "url": "https://www.midyatgundem.com/midyatta-insaattan-dusen-isci-hayatini-kaybetti",
+          "publisher": "Midyat Gündem",
+          "type": "local_news",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Mardin’de inşaattan düşen işçi hayatını kaybetti",
+          "url": "https://www.birgun.net/haber/mardin-de-insaattan-dusen-isci-hayatini-kaybetti-669498",
+          "publisher": "BirGün",
+          "type": "news",
+          "published_at": "2025-11-17"
+        },
+        {
+          "title": "Gölcük Nerede Nereye Bağlı Midyat",
+          "url": "https://kmhesaplama.com/mardin/midyat/golcuk/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
