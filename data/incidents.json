@@ -8861,6 +8861,102 @@
       ]
     },
     {
+      "id": "mustafa-mustafa-karakopru-batikent-insaat-cocuk-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mustafa Mustafa Karaköprü’de çalıştırıldığı inşaatın 5. katından düşerek yaşamını yitirdi",
+      "summary": "Şanlıurfa’nın Karaköprü ilçesi Batıkent Mahallesi’nde 14 yaşındaki Suriyeli çocuk işçi Mustafa Mustafa, 2 Kasım 2025’te kalıpçı olarak çalıştırıldığı inşaatın 5. katından düşerek ağır yaralandı. Mehmet Akif İnan Eğitim ve Araştırma Hastanesi’ne kaldırılan Mustafa, yapılan tüm müdahalelere rağmen yaşamını yitirdi. İSİG Meclisi bu ölümü 2025 başından bu yana öğrenilebilen 71. çocuk işçi ölümü olarak duyurdu; yerel haberler olayla ilgili inşaat sahibi ve bir kişinin daha gözaltına alındığını, soruşturma açıldığını aktardı.",
+      "worker_name": "Mustafa Mustafa",
+      "worker_age": 14,
+      "employer": "Karaköprü Batıkent Mahallesi’ndeki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / çocuk işçilik",
+      "death_date": "2025-11-02",
+      "cause": "İnşaatın 5. katından düşme",
+      "legal_status": "Urfa Değişim ve Gerçek Urfa olayla ilgili inşaat sahibi ile bir kişinin gözaltına alındığını ve soruşturma açıldığını aktardı; sonraki adli süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "mustafa-mustafa-karakopru-batikent-insaat",
+          "label": "Batıkent Mahallesi’ndeki inşaat",
+          "province_key": "SANLIURFA",
+          "province": "Şanlıurfa",
+          "district": "Karaköprü",
+          "lat": 37.21442,
+          "lng": 38.78307,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Bianet, BirGün ve yerel haberler olay yerini Karaköprü Batıkent Mahallesi’nde bulunan bir inşaat olarak verdi; açık şantiye adresi doğrulanamadığı için Kmhesaplama’nın Batıkent Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-02",
+          "status": "fatality_recorded",
+          "note": "Mustafa Mustafa, Şanlıurfa Karaköprü Batıkent Mahallesi’nde kalıpçı olarak çalıştırıldığı inşaatın 5. katından düştü ve Mehmet Akif İnan Eğitim ve Araştırma Hastanesi’nde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-02",
+          "status": "investigation_opened",
+          "note": "Yerel haberler olayla ilgili inşaat sahibi ve bir kişinin daha gözaltına alındığını, soruşturma açıldığını aktardı."
+        },
+        {
+          "date": "2025-11-03",
+          "status": "bar_statement_recorded",
+          "note": "Urfa Barosu Emek Komisyonu ve Çocuk Hakları Komisyonu, 15 yaşından küçük çocukların çalıştırılmasının yasak olduğunu vurgulayarak olayın tüm yönleriyle araştırılması ve sorumlular hakkında yasal işlem başlatılması çağrısı yaptı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Mustafa Mustafa’yı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Şanlıurfa'da bir inşaatta çocuk işçi düşerek hayatını kaybetti",
+          "url": "https://www.urfadegisim.com.tr/sanliurfada-bir-insaatta-cocuk-isci-duserek-hayatini-kaybetti/149418",
+          "publisher": "Urfa Değişim",
+          "type": "news",
+          "published_at": "2025-11-02"
+        },
+        {
+          "title": "Şanlıurfa’da İnşaatta Feci Olay! 14 Yaşındaki Çocuk İşçi Hayatını Kaybetti",
+          "url": "https://www.gercekurfa.com/sanliurfa-da-insaatta-feci-olay-14-yasindaki-cocuk-isci-hayatini-kaybetti/63339",
+          "publisher": "Gerçek Urfa",
+          "type": "news",
+          "published_at": "2025-11-02"
+        },
+        {
+          "title": "14 yaşındaki çocuk çalıştırıldığı inşaatta hayatını kaybetti",
+          "url": "https://bianet.org/haber/14-yasindaki-cocuk-calistirildigi-insaatta-hayatini-kaybetti-313155",
+          "publisher": "bianet",
+          "type": "news",
+          "published_at": "2025-11-03"
+        },
+        {
+          "title": "İki günde iki, 11 ayda 71 çocuk iş cinayetlerinde yaşamını yitirdi",
+          "url": "https://www.birgun.net/haber/iki-gunde-iki-11-ayda-71-cocuk-is-cinayetlerinde-yasamini-yitirdi-666079",
+          "publisher": "BirGün",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "Batıkent Mahallesi Nerede, Hangi İlçeye Bağlı? Karaköprü, Şanlıurfa",
+          "url": "https://kmhesaplama.com/sanliurfa/karakopru/batikent/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
