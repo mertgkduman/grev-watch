@@ -5649,6 +5649,80 @@
       ]
     },
     {
+      "id": "harun-kavalar-bingol-simani-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Harun Kavalar Bingöl’de çalıştığı inşaatın çatısından düşerek yaşamını yitirdi",
+      "summary": "Bingöl Merkez Simani Mahallesi’nde, Şehit Zafer Kurt Mesleki ve Teknik Anadolu Lisesi karşısındaki bir inşaatta usta olarak çalışan Harun Kavalar, sabah saatlerinde dengesini kaybederek binanın çatısından yere düştü. Arkadaşları ve çevredekiler tarafından ilk müdahalesi yapılan Kavalar, kaldırıldığı Bingöl Devlet Hastanesi’nde kurtarılamadı.",
+      "worker_name": "Harun Kavalar",
+      "worker_age": 25,
+      "employer": "Şehit Zafer Kurt MTAL karşısındaki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / çatı işi",
+      "death_date": "2025-11-21",
+      "cause": "Çalıştığı inşaatın çatısından düşme",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma başlatıldığını ve kaza nedenleriyle güvenlik önlemlerinin araştırıldığını aktardı; bir kaynak ilk bulguların güvenlik kemeri kullanılmadığına işaret ettiğini yazdı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-21",
+      "locations": [
+        {
+          "id": "harun-kavalar-simani-sehit-zafer-kurt-mtal-karsisi-insaat",
+          "label": "Şehit Zafer Kurt MTAL karşısındaki inşaat",
+          "province_key": "BINGOL",
+          "province": "Bingöl",
+          "district": "Merkez",
+          "lat": 38.91171131387948,
+          "lng": 40.567266428326974,
+          "geocode_precision": "facility_approx",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Bingöl Merkez Simani Mahallesi’nde Şehit Zafer Kurt Mesleki ve Teknik Anadolu Lisesi karşısındaki inşaat olarak verdi; inşaatın açık kapı numarası belirtilmediği için MEB okul haritasındaki yakın landmark koordinatı kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-21",
+          "status": "fatality_recorded",
+          "note": "Harun Kavalar Simani Mahallesi’ndeki inşaatta çatıdan düşerek ağır yaralandı ve Bingöl Devlet Hastanesi’nde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bingöl’de Acı Kayıp: İnşaattan Düşen Usta Hayatını Kaybetti",
+          "url": "https://www.bingolsurmanset.com/bingolde-aci-kayip-insaattan-dusen-usta-hayatini-kaybetti",
+          "publisher": "Bingöl Sürmanşet",
+          "type": "local_news",
+          "published_at": "2025-11-21"
+        },
+        {
+          "title": "Bingöl’de inşaattan düşen işçi hayatını kaybetti",
+          "url": "https://www.bingolkenthaber.com/bingolde-insaattan-dusen-isci-hayatini-kaybetti",
+          "publisher": "Bingöl Kent Haber",
+          "type": "local_news",
+          "published_at": "2025-11-21"
+        },
+        {
+          "title": "Bingöl’de İş Cinayeti: 25 Yaşındaki Kavalar Çatıdan Düştü",
+          "url": "https://cewlik.net/bingolde-is-cinayeti-25-yasindaki-kavalar-catidan-dustu/",
+          "publisher": "Çewlik.Net",
+          "type": "local_news",
+          "published_at": "2025-11-21"
+        },
+        {
+          "title": "İletişim - Şehit Zafer Kurt Mesleki ve Teknik Anadolu Lisesi",
+          "url": "https://sehitzaferkurtmtal.meb.k12.tr/tema/iletisim.php",
+          "publisher": "MEB",
+          "type": "location_reference",
+          "published_at": null
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
