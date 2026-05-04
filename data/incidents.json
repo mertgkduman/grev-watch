@@ -6205,6 +6205,63 @@
       ]
     },
     {
+      "id": "irfan-fidan-ankara-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İrfan Fidan Ankara’da çalıştığı inşaatın 6. katından düşerek yaşamını yitirdi",
+      "summary": "Samsunlu işçi İrfan Fidan, yaklaşık iki ay önce çalışmak için gittiği Ankara’da 18 Kasım saat 16.00 sıralarında çalıştığı inşaatın 6. katından düşerek olay yerinde yaşamını yitirdi. Cenazesinin Samsun’un Çarşamba ilçesine bağlı Gülseren Köyü’nde defnedileceği bildirildi.",
+      "worker_name": "İrfan Fidan",
+      "employer": "Ankara’daki inşaat / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-18",
+      "cause": "Çalıştığı inşaatın 6. katından düşme",
+      "legal_status": "Kaynak olayla ilgili Ankara’da ilgili kolluk birimlerince soruşturma başlatıldığını aktardı; işveren ve şantiye adresi ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-19",
+      "locations": [
+        {
+          "id": "irfan-fidan-ankara-insaat",
+          "label": "Ankara’da çalıştığı inşaat",
+          "province_key": "ANKARA",
+          "province": "Ankara",
+          "district": "",
+          "lat": 39.92,
+          "lng": 32.85,
+          "geocode_precision": "province_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynak olayı Ankara’da bir inşaatta 6. kattan düşme olarak verdi; ilçe, mahalle veya açık şantiye adresi belirtilmediği için Ankara il merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-18",
+          "status": "fatality_recorded",
+          "note": "İrfan Fidan Ankara’da çalıştığı inşaatın 6. katından düşerek olay yerinde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-19",
+          "status": "reported",
+          "note": "Cenazesinin Çarşamba Gülseren Köyü’nde, Dibekler Camii’nde kılınacak cenaze namazının ardından defnedileceği duyuruldu."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Samsunlu işçi İrfan Fidan'ın gurbette feci ölümü!",
+          "url": "https://www.samsungazetesi.com/samsunlu-isci-irfan-fidanin-gurbette-feci-olumu",
+          "publisher": "Samsun Gazetesi",
+          "type": "local_news",
+          "published_at": "2025-11-19"
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
