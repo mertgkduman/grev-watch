@@ -7612,6 +7612,119 @@
       ]
     },
     {
+      "id": "mehmet-sirin-yalciner-kulp-mus-viyaduk-iskele-cokmesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mehmet Şirin Yalçıner Kulp-Muş yolundaki viyadük inşaatında iskele çökmesi sonrası hastanede yaşamını yitirdi",
+      "summary": "Diyarbakır’ın Kulp ilçesinde, Kulp-Muş kara yolu üzerindeki viyadük inşaatında 11 Kasım 2025’te beton dökümü sırasında iskele çöktü. İlk haberlerde ağır yaralı olarak Kulp Devlet Hastanesi’ne, ardından Dicle Üniversitesi Hastanesi’ne sevk edildiği aktarılan 50 yaşındaki Mehmet Şirin Yalçıner, yapılan müdahalelere rağmen yaşamını yitirdi. Aynı olayda Şeyhmus Anuştekin, Tahsin Dere ve Salih Lale de hayatını kaybetti, Cüneyt N. ağır yaralandı.",
+      "worker_name": "Mehmet Şirin Yalçıner",
+      "worker_age": 50,
+      "employer": "Kulp-Muş kara yolu viyadük inşaatı / yüklenici ve taşeron bilgisi bu geçişte doğrulanamadı",
+      "sector": "İnşaat",
+      "death_date": "2025-11-11",
+      "cause": "Viyadük inşaatında beton dökümü sırasında iskelenin çökmesi sonrası hastanede ölüm",
+      "legal_status": "Diyarbakır Cumhuriyet Başsavcılığı’nın taksirle ölüme ve yaralamaya sebebiyet verme suçundan başlattığı soruşturmada bilirkişi raporunun hazırlandığı, iddianamede 10 sanık hakkında 2 yıldan 15 yıla kadar hapis cezası istendiği, yargılamanın başladığı ve davadaki tek tutuklu sanığın tahliye edildiği haberleştirildi. Nihai yargı sonucu bu geçişte doğrulanamadı.",
+      "linked_incident_count": 4,
+      "last_verified_at": "2026-04-15",
+      "locations": [
+        {
+          "id": "mehmet-sirin-yalciner-kulp-mus-karabulak-viyaduk",
+          "label": "Kulp-Muş yolu Karabulak/Kupka yakınındaki viyadük inşaatı",
+          "province_key": "DIYARBAKIR",
+          "province": "Diyarbakır",
+          "district": "Kulp",
+          "lat": 38.5357,
+          "lng": 41.0927,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Haber7 ve Gazete Detay kaynakları olayı Kulp-Muş kara yolu üzerinde, Tepecik ve Karabulak mahalleleri arasında/Kupa mezrası yakınındaki köprü-viyadük inşaatı olarak verdi; açık viyadük koordinatı doğrulanamadığı için Karabulak mahalle koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-11",
+          "status": "injury_reported",
+          "note": "Kulp-Muş kara yolundaki viyadük inşaatında iskele çöktü; Mehmet Şirin Yalçıner ağır yaralı olarak hastaneye kaldırıldı."
+        },
+        {
+          "date": "2025-11-11",
+          "status": "fatality_recorded",
+          "note": "Dicle Üniversitesi Hastanesi’ne kaldırılan Mehmet Şirin Yalçıner yapılan tüm müdahalelere rağmen yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-12",
+          "status": "reported",
+          "note": "Yerel vefat kaydı Yalçıner’in 12 Kasım 2025’te Yeniköy Asri Mezarlığı’nda defnedildiğini aktardı."
+        },
+        {
+          "date": "2026-01-29",
+          "status": "expert_report",
+          "note": "Bilirkişi raporunda kazanın beton dökümü sırasında aşırı yüklenme ve yetersiz iskele bağlantısı nedeniyle meydana geldiği haberleştirildi."
+        },
+        {
+          "date": "2026-04-15",
+          "status": "trial_started",
+          "note": "Nefes, 10 sanıklı davada yargılamanın başladığını ve tek tutuklu sanığın tahliye edildiğini aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Mehmet Şirin Yalçıner’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Diyarbakır’daki köprü kazasında ölen işçi sayısı 4’e yükseldi!",
+          "url": "https://www.mucadelegazetesi.com.tr/diyarbakirdaki-kopru-kazasinda-olen-isci-sayisi-4e-yukseldi",
+          "publisher": "Mücadele Gazetesi / İHA",
+          "type": "local_news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "Mehmet Şirin Yalçıner",
+          "url": "https://www.mucadelegazetesi.com.tr/vefat/mehmet-sirin-yalciner",
+          "publisher": "Mücadele Gazetesi",
+          "type": "local_reference",
+          "published_at": "2025-11-12"
+        },
+        {
+          "title": "Kulp-Muş yolunda viyadük faciası: Şeyhmus Anuştekin, Tahsin Dere, Salih Lale, Mehmet Şirin Yalçıner hayatını kaybetti",
+          "url": "https://www.memurhaber365.com/kulp-mus-yolunda-viyaduk-faciasi-seyhmus-anustekin-tahsin-dere-salih-lale-mehmet-sirin-yalciner-hayatini-kaybetti/",
+          "publisher": "Memurhaber365",
+          "type": "news",
+          "published_at": "2025-11-12"
+        },
+        {
+          "title": "Köprü inşaatında çökme! 3 ölü, 2 yaralı",
+          "url": "https://www.haber7.com/guncel/haber/3578853-kopru-insaatinda-cokme-3-olu-2-yarali",
+          "publisher": "Haber7 / DHA",
+          "type": "news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "Dört işçi öldüğüyle kaldı",
+          "url": "https://www.nefes.com.tr/dort-isci-olduguyle-kaldi-118191",
+          "publisher": "Nefes",
+          "type": "news",
+          "published_at": "2026-04-15"
+        },
+        {
+          "title": "Karabulak, Kulp",
+          "url": "https://en.wikipedia.org/wiki/Karabulak%2C_Kulp",
+          "publisher": "Wikipedia",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
