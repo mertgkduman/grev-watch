@@ -5336,6 +5336,66 @@
       ]
     },
     {
+      "id": "adnan-akyol-kesap-serenti-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Adnan Akyol Keşap'ta vinçle taşınan serentinin devrilmesi sonucu yaşamını yitirdi",
+      "summary": "Giresun Keşap'a bağlı Çamlıca köyü Kabacayatak mevkiinde bir serentinin vinç yardımıyla taşınması sırasında vincin ayağı altındaki takozun kaymasıyla yapı devrildi. Alanda çalışmakta olan 59 yaşındaki Adnan Akyol yapının altında kalarak ağır yaralandı; sevk edildiği Giresun Eğitim ve Araştırma Hastanesi'nde yapılan müdahalelere rağmen kurtarılamadı.",
+      "worker_name": "Adnan Akyol",
+      "worker_age": 59,
+      "employer": "Serenti taşıma işi / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat / vinçle yapı taşıma",
+      "death_date": "2025-11-23",
+      "cause": "Vinçle taşınan serentinin devrilmesi sonucu altında kalma",
+      "legal_status": "Kaynak olayla ilgili savcılık tarafından geniş çaplı soruşturma başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-23",
+      "locations": [
+        {
+          "id": "adnan-akyol-camlica-kabacayatak-kesap-serenti",
+          "label": "Çamlıca köyü Kabacayatak mevkiinde serenti taşıma çalışması",
+          "province_key": "GIRESUN",
+          "province": "Giresun",
+          "district": "Keşap",
+          "lat": 40.779823,
+          "lng": 38.537128,
+          "geocode_precision": "village_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynak olayı Çamlıca köyü Kabacayatak mevkii olarak verdi; açık nokta belirtilmediği için Çamlıca köyü merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-23",
+          "status": "fatality_recorded",
+          "note": "Adnan Akyol vinçle taşınan serentinin devrilmesi sonucu altında kalarak ağır yaralandı ve hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "SON DAKİKA: Giresun Keşap’ta Serenti Dehşeti! Vinçle Taşınan Yapı Devrildi",
+          "url": "https://vadihaber.com.tr/son-dakika-giresun-kesapta-serenti-dehseti-vincle-tasinan-yapi-devrildi/amp/",
+          "publisher": "Vadi Haber / Giresun Sondakika",
+          "type": "local_news",
+          "published_at": "2025-11-23"
+        },
+        {
+          "title": "Çamlıca Haritası",
+          "url": "https://www.haritamap.com/yer/camlica-kesap",
+          "publisher": "Haritamap",
+          "type": "location_reference",
+          "published_at": null
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
