@@ -4041,9 +4041,9 @@
       "id": "y-o-bodrum-havuz-bakim-is-cinayeti-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Y.Ö. havuz bakım çalışması sırasında boş havuza düşerek yaşamını yitirdi",
-      "summary": "Muğla Bodrum Yalıkavak Geriş mevkiinde bir sitede havuz pompası takma işi yapan 57 yaşındaki Y.Ö., yaklaşık 1,5 metre yükseklikten boş havuza düşerek yaşamını yitirdi.",
-      "worker_name": "Y.Ö.",
+      "title": "Yaşar Öztürk havuz bakım çalışması sırasında boş havuza düşerek yaşamını yitirdi",
+      "summary": "Muğla Bodrum Yalıkavak Geriş Mahallesi’nde bir sitede havuz pompası takma işi yapan 57 yaşındaki Yaşar Öztürk, yaklaşık 1,5 metre yükseklikten boş havuza düşerek yaşamını yitirdi.",
+      "worker_name": "Yaşar Öztürk",
       "worker_age": 57,
       "employer": "Site havuz bakım işi / işveren bilgisi kaynakta belirtilmedi",
       "sector": "Hizmet / bakım",
@@ -4069,10 +4069,17 @@
         {
           "date": "2025-12-03",
           "status": "fatality_recorded",
-          "note": "Y.Ö. havuz bakım çalışması sırasında boş havuza düşerek yaşamını yitirdi."
+          "note": "Yaşar Öztürk havuz bakım çalışması sırasında boş havuza düşerek yaşamını yitirdi."
         }
       ],
       "sources": [
+        {
+          "title": "Havuza Düşen İşçi Yaşamını Yitirdi",
+          "url": "https://kenttv.net/haber/26953004/havuza-dusen-isci-yasamini-yitirdi",
+          "publisher": "Bodrum Kent TV",
+          "type": "local_news",
+          "published_at": "2025-12-03"
+        },
         {
           "title": "Muğla’da Havuz Bakımı Facia ile Sonuçlandı: 57 Yaşındaki İşçi Hayatını Kaybetti",
           "url": "https://www.muglagazetesi.com.tr/bodrum-haberleri/muglada-havuz-bakimi-facia-ile-sonuclandi-57-yasindaki-isci-hayatini-202758h",
@@ -4907,6 +4914,117 @@
           "publisher": "DHA",
           "type": "news",
           "published_at": "2025-12-04"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "ismail-akkiren-pendik-insaat-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İsmail Akkiren Pendik’te inşaatta yüksekten düşerek yaşamını yitirdi",
+      "summary": "İstanbul Pendik’te bir inşaatta çalışan 65 yaşındaki Bartınlı işçi İsmail Akkiren, 8. kattan 4. kattaki asma balkona yaklaşık 15 metre düşerek ağır yaralandı; olay yerindeki müdahaleye rağmen kurtarılamadı.",
+      "worker_name": "İsmail Akkiren",
+      "worker_age": 65,
+      "employer": "Pendik inşaatı / işveren bilgisi kaynakta belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-12-27",
+      "cause": "Yüksekten düşme",
+      "legal_status": "Kaynak olayla ilgili inceleme başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-27",
+      "locations": [
+        {
+          "id": "ismail-akkiren-pendik-insaat",
+          "label": "Pendik inşaatı",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Pendik",
+          "lat": 40.875,
+          "lng": 29.235,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-27",
+          "status": "fatality_recorded",
+          "note": "İsmail Akkiren Pendik’te çalıştığı inşaatta yaklaşık 15 metre yüksekten düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Feci iş kazası!",
+          "url": "https://www.bartinhalkgazetesi.com.tr/feci-is-kazasi/48263/",
+          "publisher": "Bartın Halk Gazetesi",
+          "type": "local_news",
+          "published_at": "2025-12-27"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "erdem-gunduz-yesilyurt-aritma-tesisi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Erdem Gündüz Yeşilyurt’ta arıtma tesisi inşaatında dereye düşerek yaşamını yitirdi",
+      "summary": "Malatya Yeşilyurt Duranlar Mahallesi İkizce bölgesinde yapımı süren arıtma tesisinde çalıştığı aktarılan 19 yaşındaki Erdem Gündüz, dereye düşerek su altı arama kurtarma ekiplerince çıkarıldı; sağlık ekipleri yaşamını yitirdiğini belirledi.",
+      "worker_name": "Erdem Gündüz",
+      "worker_age": 19,
+      "employer": "İkizce arıtma tesisi inşaatı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat / altyapı",
+      "death_date": "2025-12-20",
+      "cause": "Dereye düşme / boğulma",
+      "legal_status": "Kaynaklar olayla ilgili soruşturma başlatıldığını aktardı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-20",
+      "locations": [
+        {
+          "id": "erdem-gunduz-yesilyurt-ikizce-aritma-tesisi",
+          "label": "Duranlar Mahallesi İkizce arıtma tesisi inşaatı",
+          "province_key": "MALATYA",
+          "province": "Malatya",
+          "district": "Yeşilyurt",
+          "lat": 38.296,
+          "lng": 38.245,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-20",
+          "status": "fatality_recorded",
+          "note": "Erdem Gündüz Yeşilyurt’ta çalıştığı arıtma tesisi inşaatı bölgesinde dereye düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Yeşilyurt’ta İşçi Düşerek Hayatını Kaybetti: Arıtma Tesisi İnşaatında Korkunç Kaza",
+          "url": "https://www.diyarbakirolay.com.tr/mobil/haber/yesilyurt-ta-isci-duserek-hayatini-kaybetti-aritma-tesisi-insaatinda-korkunc-kaza-184421.html",
+          "publisher": "Diyarbakır Olay",
+          "type": "local_news",
+          "published_at": "2025-12-20"
+        },
+        {
+          "title": "Dereye Düşen Genç İşçi Hayatını Kaybetti",
+          "url": "https://malatyapencere.com/dereye-dusen-genc-isci-hayatini-kaybetti/",
+          "publisher": "Malatya Pencere",
+          "type": "local_news",
+          "published_at": "2025-12-20"
         },
         {
           "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
