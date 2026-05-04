@@ -7777,6 +7777,90 @@
       ]
     },
     {
+      "id": "ghahraman-soleiman-kel-turgutlu-ataturk-celik-kalip-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ghahraman Soleiman Kel Turgutlu’da üzerine çelik kalıp düşmesi sonucu yaşamını yitirdi",
+      "summary": "Manisa’nın Turgutlu ilçesi Atatürk Mahallesi Eski Manisa Yolu üzerindeki bir iş merkezi inşaatında çalışan 34 yaşındaki İran uyruklu işçi Ghahraman Soleiman Kel’in üzerine 8 Kasım 2025 saat 18.00 sıralarında çelik kalıp düştü. Olay yerindeki ilk müdahalenin ardından Turgutlu Devlet Hastanesi’ne kaldırılan Kel, doktorların müdahalesine rağmen yaşamını yitirdi; polis olayla ilgili iş kazası soruşturması başlattı.",
+      "worker_name": "Ghahraman Soleiman Kel",
+      "worker_age": 34,
+      "employer": "Turgutlu Atatürk Mahallesi’ndeki iş merkezi inşaatı / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-08",
+      "cause": "İnşaatta üzerine çelik kalıp düşmesi",
+      "legal_status": "DHA kaynaklı haberlerde polis ekiplerinin olayla ilgili iş kazası soruşturması başlattığı aktarıldı; işveren veya idari/adli yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "ghahraman-soleiman-kel-turgutlu-ataturk-insaat",
+          "label": "Atatürk Mahallesi Eski Manisa Yolu üzerindeki iş merkezi inşaatı",
+          "province_key": "MANISA",
+          "province": "Manisa",
+          "district": "Turgutlu",
+          "lat": 38.5043,
+          "lng": 27.69543,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "DHA ve AA kaynaklı haberler olay yerini Turgutlu Atatürk Mahallesi Eski Manisa Yolu üzerindeki bir iş merkezi inşaatı olarak verdi; açık şantiye adresi belirtilmediği için Kmhesaplama’nın Atatürk Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-08",
+          "status": "fatality_recorded",
+          "note": "Turgutlu Atatürk Mahallesi Eski Manisa Yolu üzerindeki iş merkezi inşaatında Ghahraman Soleiman Kel’in üzerine çelik kalıp düştü; hastanede yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-08",
+          "status": "investigation_opened",
+          "note": "DHA kaynaklı haberler polis ekiplerinin olayla ilgili iş kazası soruşturması başlattığını aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Ghahraman Soleiman Kel’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İnşaatta üzerine çelik kapı düşen yabancı uyruklu işçi, öldü",
+          "url": "https://www.dha.com.tr/yerel-haberler/manisa/turgutlu/insaatta-uzerine-celik-kapi-dusen-yabanci-uyruk-2754780",
+          "publisher": "DHA",
+          "type": "news",
+          "published_at": "2025-11-08"
+        },
+        {
+          "title": "Manisa'da üzerine çelik kalıp düşen işçi hayatını kaybetti",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/manisa-da-uzerine-celik-kalip-dusen-isci-hayatini-kaybetti-2451030",
+          "publisher": "Cumhuriyet / AA",
+          "type": "news",
+          "published_at": "2025-11-08"
+        },
+        {
+          "title": "İnşaatta Çelik Kalıp Düşmesi Sonucu İranlı İşçi Hayatını Kaybetti",
+          "url": "https://www.haberler.com/guncel/insaatta-celik-kalip-dusmesi-sonucu-iranli-isci-hayatini-kaybetti-19233915-haberi/",
+          "publisher": "Haberler / DHA",
+          "type": "news",
+          "published_at": "2025-11-08"
+        },
+        {
+          "title": "Atatürk Mahallesi Nerede, Hangi İlçeye Bağlı? Turgutlu, Manisa",
+          "url": "https://kmhesaplama.com/manisa/turgutlu/ataturk/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
