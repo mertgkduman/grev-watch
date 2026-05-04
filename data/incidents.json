@@ -7300,6 +7300,102 @@
       ]
     },
     {
+      "id": "seyhmus-anustekin-kulp-mus-viyaduk-iskele-cokmesi-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Şeyhmus Anuştekin Kulp-Muş yolundaki viyadük inşaatında iskele çökmesi sonucu yaşamını yitirdi",
+      "summary": "Diyarbakır’ın Kulp ilçesinde, Kulp-Muş kara yolu üzerindeki viyadük inşaatında 11 Kasım 2025’te beton dökümü sırasında iskele çöktü. Kaynaklara göre 45 yaşındaki Şeyhmus Anuştekin olay yerinde yaşamını yitiren üç işçiden biriydi; aynı olayda Tahsin Dere, Salih Lale ve hastanede Mehmet Şirin Yalçıner de hayatını kaybetti, Cüneyt N. ağır yaralandı. Olayla ilgili Diyarbakır Cumhuriyet Başsavcılığı soruşturma başlattı ve şantiye/taşeron/İSG sorumluları hakkında gözaltılar haberleştirildi.",
+      "worker_name": "Şeyhmus Anuştekin",
+      "worker_age": 45,
+      "employer": "Kulp-Muş kara yolu viyadük inşaatı / yüklenici ve taşeron bilgisi bu geçişte doğrulanamadı",
+      "sector": "İnşaat",
+      "death_date": "2025-11-11",
+      "cause": "Viyadük inşaatında beton dökümü sırasında iskelenin çökmesi",
+      "legal_status": "Diyarbakır Cumhuriyet Başsavcılığı’nın taksirle ölüme ve yaralamaya sebebiyet verme suçundan soruşturma başlattığı; soruşturma kapsamında şantiye şefi, alt/üst taşeron ve iş sağlığı güvenliği sorumlularını da içeren gözaltılar yapıldığı haberleştirildi. Nihai yargı sonucu bu geçişte doğrulanamadı.",
+      "linked_incident_count": 4,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "seyhmus-anustekin-kulp-mus-karabulak-viyaduk",
+          "label": "Kulp-Muş yolu Karabulak/Kupka yakınındaki viyadük inşaatı",
+          "province_key": "DIYARBAKIR",
+          "province": "Diyarbakır",
+          "district": "Kulp",
+          "lat": 38.5357,
+          "lng": 41.0927,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "Diyarbakır.net ve Adalet Bakanı açıklamasını aktaran ANKA/Haberler kaynakları olayı Kulp-Muş kara yolu üzerinde, Tepecik ile Karabulak mahalleleri arasında ve Karabulak Mahallesi Kupka mezrası yakınında verdi; açık viyadük koordinatı doğrulanamadığı için Karabulak mahalle koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-11",
+          "status": "fatality_recorded",
+          "note": "Kulp-Muş kara yolundaki viyadük inşaatında beton dökümü sırasında iskele çöktü; Şeyhmus Anuştekin olay yerinde yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-11",
+          "status": "investigation_opened",
+          "note": "Diyarbakır Cumhuriyet Başsavcılığı’nın soruşturma başlattığı, bilirkişi heyeti oluşturulduğu ve şantiye/taşeron/İSG sorumluları hakkında gözaltılar yapıldığı haberleştirildi."
+        },
+        {
+          "date": "2025-11-12",
+          "status": "reported",
+          "note": "Haberlerde aynı kazada Şeyhmus Anuştekin, Tahsin Dere, Salih Lale ve Mehmet Şirin Yalçıner’in yaşamını yitirdiği; Cüneyt N.’nin ağır yaralandığı aktarıldı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Şeyhmus Anuştekin’i ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kulp’ta Viyadük Çöktü: 4 İşçi Hayatını Kaybetti",
+          "url": "https://www.sondakika.com/haber/haber-kulp-ta-viyaduk-coktu-4-isci-hayatini-kaybetti-19244131/",
+          "publisher": "Son Dakika / ANKA",
+          "type": "news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "Kulp’ta Viadük İnşaatında Çökme: 3 Şüpheli Gözaltına Alındı",
+          "url": "https://www.haberler.com/guncel/kulp-ta-viaduk-insaatinda-cokme-3-supheli-gozaltina-alindi-19244508-haberi/",
+          "publisher": "Haberler / ANKA",
+          "type": "news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "Çok acı kare! Birlikte poz verdikleri iskele çöktü, 4’ü hayatını kaybetti!",
+          "url": "https://www.haberturk.com/cok-aci-kare-birlikte-poz-verdikleri-iskele-coktu-4-u-hayatini-kaybetti-3837795",
+          "publisher": "Habertürk / İHA",
+          "type": "news",
+          "published_at": "2025-11-12"
+        },
+        {
+          "title": "Köprü inşaatında kötü haber geldi: 3 işçi hayatını kaybetti!",
+          "url": "https://www.diyarbakir.net/kopru-insaatinda-kotu-haber-geldi-3-isci-hayatini-kaybetti",
+          "publisher": "Diyarbakır.net / İHA",
+          "type": "local_news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "Karabulak, Kulp",
+          "url": "https://en.wikipedia.org/wiki/Karabulak%2C_Kulp",
+          "publisher": "Wikipedia",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
