@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 526,
-      "remaining_individual_case_target": 431
+      "mapped_individual_fatalities_in_these_months": 527,
+      "remaining_individual_case_target": 430
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 526,
-      "remaining_known_target_before_april_report": 260,
+      "mapped_individual_fatalities_before_pending_april_report": 527,
+      "remaining_known_target_before_april_report": 259,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -911,7 +911,7 @@
         "2025-08": 0,
         "2025-09": 0,
         "2025-10": 0,
-        "2025-11": 58,
+        "2025-11": 59,
         "2025-12": 47
       },
       "remaining_after_this_pass": {
@@ -925,12 +925,12 @@
         "2025-08": 196,
         "2025-09": 208,
         "2025-10": 171,
-        "2025-11": 161,
+        "2025-11": 160,
         "2025-12": 88
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 105,
-      "total_remaining_after_this_pass": 2000,
+      "total_mapped_after_this_pass": 106,
+      "total_remaining_after_this_pass": 1999,
       "current_month": "2025-11",
       "processed_this_pass": [
         {
@@ -1502,6 +1502,12 @@
           "worker_name": "Eresh Gurbanov",
           "record_id": "eresh-gurbanov-isig-kasim-2025",
           "remaining_in_period_after_record": 161
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Zafer Özdemir",
+          "record_id": "zafer-ozdemir-isig-kasim-2025",
+          "remaining_in_period_after_record": 160
         }
       ]
     }

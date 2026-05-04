@@ -9009,6 +9009,58 @@
       ]
     },
     {
+      "id": "zafer-ozdemir-isig-kasim-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Zafer Özdemir Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
+      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Zafer Özdemir’i ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu geçişte adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "worker_name": "Zafer Özdemir",
+      "employer": "Kaynakta belirtilmedi",
+      "sector": "Kaynakta belirtilmedi",
+      "death_date": "2025-11",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
+      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "zafer-ozdemir-isig-kasim-2025-turkiye",
+          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
+          "province_key": "TURKIYE",
+          "province": "Türkiye",
+          "district": "",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "geocode_precision": "unknown",
+          "fatality_count": 1,
+          "location_basis": "İSİG Kasım 2025 raporu Zafer Özdemir adını listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11",
+          "status": "fatality_recorded",
+          "note": "İSİG Meclisi Zafer Özdemir’i Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        },
+        {
+          "title": "İSİG: Kasım ayında en az 216 işçi hayatını kaybetti!",
+          "url": "https://iscigazetesi.org/isig-kasim-ayinda-en-az-216-isci-hayatini-kaybetti",
+          "publisher": "İşçi Gazetesi",
+          "type": "report_mirror",
+          "published_at": "2025-12-05"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
