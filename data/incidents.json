@@ -9416,6 +9416,107 @@
       ]
     },
     {
+      "id": "ihsan-durmus-ozalp-elektrik-diregi-yuksek-gerilim-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İhsan Durmuş Özalp’ta elektrik direği dikme çalışmasında akıma kapılarak yaşamını yitirdi",
+      "summary": "Van’ın Özalp ilçesinde Vangölü Elektrik Dağıtım A.Ş. (VEDAŞ) bünyesinde çalışan 48 yaşındaki enerji işçisi İhsan Durmuş, 3 Kasım 2025’te enerji hattı çalışmaları sırasında elektrik direğini dikerken direğin mevcut yüksek gerilim tellerine temas etmesi sonucu akıma kapıldı. Van Olay ve Bölge Gazetesi Van, aynı olayda mesai arkadaşı Abdullah Kaya’nın da akıma kapılıp yaralandığını, Durmuş’un hastaneye kaldırıldıktan sonra tüm müdahalelere rağmen yaşamını yitirdiğini ve olayla ilgili inceleme/soruşturma başlatıldığını aktardı. Durmuş’un Ağrı Patnos Örendik (Kurdegaz) Köyü nüfusuna kayıtlı olduğu ve cenazesinin köyünde defnedileceği bildirildi.",
+      "worker_name": "İhsan Durmuş",
+      "worker_age": 48,
+      "employer": "Vangölü Elektrik Dağıtım A.Ş. (VEDAŞ)",
+      "sector": "Enerji / elektrik altyapısı",
+      "death_date": "2025-11-03",
+      "cause": "Elektrik direği dikme ve bağlantı çalışması sırasında direğin mevcut yüksek gerilim tellerine temas etmesi sonucu akıma kapılma",
+      "legal_status": "Van Olay yetkililerin olayla ilgili inceleme başlattığını, Bölge Gazetesi Van detaylı soruşturma başlatıldığını aktardı; sonraki adli/idari süreç bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "ihsan-durmus-ozalp-elektrik-diregi-calismasi",
+          "label": "Özalp’ta enerji hattı / elektrik direği çalışması",
+          "province_key": "VAN",
+          "province": "Van",
+          "district": "Özalp",
+          "lat": 38.65455,
+          "lng": 43.98869,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar iş kazasının Van’ın Özalp ilçesinde enerji hattı/elektrik direği çalışması sırasında meydana geldiğini aktardı; açık mahalle veya çalışma noktası doğrulanamadığı için LatLong.info’nun Özalp koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-03",
+          "status": "fatality_recorded",
+          "note": "İhsan Durmuş Özalp’ta elektrik direği dikme ve akım bağlantısı hazırlığı sırasında direğin mevcut tellere temas etmesi sonucu akıma kapıldı."
+        },
+        {
+          "date": "2025-11-03",
+          "status": "injury_recorded",
+          "note": "Bölge Gazetesi Van, aynı olayda Abdullah Kaya adlı mesai arkadaşının da akıma kapılıp yaralandığını ve hastaneye kaldırıldığını bildirdi."
+        },
+        {
+          "date": "2025-11-03",
+          "status": "investigation_opened",
+          "note": "Bölge Gazetesi Van olayla ilgili detaylı soruşturma başlatıldığını, Durmuş’un cenazesinin otopsi için Van Dursun Odabaşı Tıp Merkezi’ne götürüldüğünü yazdı."
+        },
+        {
+          "date": "2025-11-04",
+          "status": "reported_by_press",
+          "note": "Van Olay ve Van 65 Haber, İhsan Durmuş’un VEDAŞ/elektrik firması çalışması sırasında akıma kapılarak yaşamını yitirdiğini aktardı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu İhsan Durmuş’u ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Van'da Yüksek Gerilim Hattı Çalışmasında Facia: 1 Ölü, 1 Yaralı!",
+          "url": "https://www.bolgegazetesivan.com/vanda-yuksek-gerilim-hatti-calismasinda-facia-1-olu-1-yarali",
+          "publisher": "Bölge Gazetesi Van",
+          "type": "news",
+          "published_at": "2025-11-03"
+        },
+        {
+          "title": "Patnoslu Elektrik İşçisi Geçirdiği Kaza Sonucu Hayatını Kaybetti",
+          "url": "https://www.patnoshabergazetesi.com/patnoslu-elektrik-iscisi-gecirdigi-kaza-sonucu-hayatini-kaybetti/90396",
+          "publisher": "Patnos Haber Gazetesi",
+          "type": "news",
+          "published_at": "2025-11-03"
+        },
+        {
+          "title": "Van’da elektrik direği çalışmasında feci kaza! İşçi hayatını kaybetti",
+          "url": "https://www.vanolay.com/vanda-elektrik-diregi-calismasinda-feci-kaza-isci-hayatini-kaybetti",
+          "publisher": "Van Olay",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "Elektrik İşçisi Van'da Elektrik Akımına Kapılarak Hayatını Kaybetti!",
+          "url": "https://www.van65haber.com/elektrik-iscisi-vanda-elektrik-akimina-kapilarak-hayatini-kaybetti",
+          "publisher": "Van 65 Haber",
+          "type": "news",
+          "published_at": "2025-11-04"
+        },
+        {
+          "title": "Latitude et longitude de Özalp",
+          "url": "https://latlong.info/fr/turkey/van/ozalp",
+          "publisher": "LatLong.info",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
