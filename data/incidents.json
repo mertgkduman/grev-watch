@@ -5216,6 +5216,59 @@
       ]
     },
     {
+      "id": "bayram-ali-aydin-posof-yol-yapim-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Bayram Ali Aydın Posof'ta yol yapım kamyonunun uçuruma yuvarlanması sonucu yaşamını yitirdi",
+      "summary": "Ardahan Posof'ta Yurtbekler köyü yolu yakınlarındaki yol yapım çalışmasında çalışan 60 yaşındaki kamyon şoförü Bayram Ali Aydın'ın kullandığı kamyon kontrolden çıkarak uçuruma yuvarlandı; sağlık ekipleri olay yerinde yaşamını yitirdiğini belirledi. Kaynak, kamyonun İl Özel İdaresi yol yapım işlerini yürüten taşeron firmada çalıştığını aktardı.",
+      "worker_name": "Bayram Ali Aydın",
+      "worker_age": 60,
+      "employer": "İl Özel İdaresi yol yapım işi / taşeron firma (kaynakta firma adı belirtilmedi)",
+      "sector": "Yol yapım / taşımacılık",
+      "death_date": "2025-11-25",
+      "cause": "Yol yapım kamyonunun uçuruma yuvarlanması",
+      "legal_status": "Kaynak olayla ilgili soruşturma başlatıldığını aktardı; işveren veya idari süreç ayrıntısı belirtilmedi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-11-25",
+      "locations": [
+        {
+          "id": "bayram-ali-aydin-yurtbekler-posof-yol-yapim",
+          "label": "Yurtbekler köyü yolu yakınlarında yol yapım çalışması",
+          "province_key": "ARDAHAN",
+          "province": "Ardahan",
+          "district": "Posof",
+          "lat": 41.520351,
+          "lng": 42.797146,
+          "geocode_precision": "village_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynak olayı Yurtbekler köyü yakınlarındaki yol yapım çalışması olarak verdi; açık yol noktası belirtilmediği için Yurtbekler köyü merkezi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-25",
+          "status": "fatality_recorded",
+          "note": "Bayram Ali Aydın yol yapım çalışmasında kullandığı kamyonun uçuruma yuvarlanması sonucu olay yerinde yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Posof'ta Kamyon Uçuruma Yuvarlandı: Sürücü Hayatını Kaybetti",
+          "url": "https://www.haberler.com/guncel/posof-ta-kamyon-ucuruma-yuvarlandi-surucu-hayatini-kaybetti-19292344-haberi/",
+          "publisher": "Haberler.com / DHA",
+          "type": "news",
+          "published_at": "2025-11-25"
+        },
+        {
+          "title": "2025 yılında en az 2105 işçi iş cinayetlerinde hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21536-is-cinayetlerine-ve-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2026-01-09"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",

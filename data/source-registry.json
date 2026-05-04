@@ -234,8 +234,8 @@
         "2026-03"
       ],
       "target_fatality_count": 957,
-      "mapped_individual_fatalities_in_these_months": 476,
-      "remaining_individual_case_target": 481
+      "mapped_individual_fatalities_in_these_months": 477,
+      "remaining_individual_case_target": 480
     },
     "rolling_current_backlog": {
       "periods": [
@@ -247,8 +247,8 @@
         "2026-04"
       ],
       "known_target_without_pending_april_report": 786,
-      "mapped_individual_fatalities_before_pending_april_report": 476,
-      "remaining_known_target_before_april_report": 310,
+      "mapped_individual_fatalities_before_pending_april_report": 477,
+      "remaining_known_target_before_april_report": 309,
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
@@ -911,7 +911,7 @@
         "2025-08": 0,
         "2025-09": 0,
         "2025-10": 0,
-        "2025-11": 8,
+        "2025-11": 9,
         "2025-12": 47
       },
       "remaining_after_this_pass": {
@@ -925,13 +925,13 @@
         "2025-08": 196,
         "2025-09": 208,
         "2025-10": 171,
-        "2025-11": 211,
+        "2025-11": 210,
         "2025-12": 88
       },
       "total_target": 2105,
-      "total_mapped_after_this_pass": 55,
-      "total_remaining_after_this_pass": 2050,
-      "current_month": "2025-12",
+      "total_mapped_after_this_pass": 56,
+      "total_remaining_after_this_pass": 2049,
+      "current_month": "2025-11",
       "processed_this_pass": [
         {
           "period": "2025-12",
@@ -1202,6 +1202,12 @@
           "worker_name": "Ahmet Çakır",
           "record_id": "ahmet-cakir-arnavutkoy-beton-mikseri-is-cinayeti-2025",
           "remaining_in_period_after_record": 88
+        },
+        {
+          "period": "2025-11",
+          "worker_name": "Bayram Ali Aydın",
+          "record_id": "bayram-ali-aydin-posof-yol-yapim-is-cinayeti-2025",
+          "remaining_in_period_after_record": 210
         }
       ]
     }
