@@ -7127,6 +7127,90 @@
       ]
     },
     {
+      "id": "basar-batran-caybasi-ilkuvez-insaat-asansor-boslugu-is-cinayeti-2025",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Başar Batran Çaybaşı İlküvez’de inşaatta asansör boşluğuna düşerek yaşamını yitirdi",
+      "summary": "Ordu’nun Çaybaşı ilçesi İlküvez Mahallesi’nde 11 Kasım 2025’te bir inşaatta çalışan 24 yaşındaki Başar Batran, asansör boşluğuna düşerek ağır yaralandı. Kaynaklara göre dış cephe mantolama işi yapan ve bir çocuk babası olan Batran, çalıştığı binanın hemen karşısındaki İlküvez Sağlık Merkezi’ne kaldırıldı ancak yapılan müdahalelere rağmen yaşamını yitirdi; olayla ilgili jandarma ve savcılık incelemesi başlatıldı.",
+      "worker_name": "Başar Batran",
+      "worker_age": 24,
+      "employer": "Çaybaşı İlküvez’deki inşaat / işveren bilgisi kaynaklarda belirtilmedi",
+      "sector": "İnşaat",
+      "death_date": "2025-11-11",
+      "cause": "İnşaatta asansör boşluğuna düşme",
+      "legal_status": "İHA ve DHA kaynaklı haberler olay yerine jandarma ve Cumhuriyet Savcısı’nın geldiğini, inceleme/soruşturma başlatıldığını aktardı; işveren veya idari yaptırım ayrıntısı bu geçişte doğrulanamadı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2025-12-04",
+      "locations": [
+        {
+          "id": "basar-batran-caybasi-ilkuvez-insaat",
+          "label": "İlküvez Mahallesi Ünye Caddesi’ndeki inşaat",
+          "province_key": "ORDU",
+          "province": "Ordu",
+          "district": "Çaybaşı",
+          "lat": 40.94525,
+          "lng": 37.00413,
+          "geocode_precision": "neighborhood_centroid",
+          "fatality_count": 1,
+          "location_basis": "İHA/Haberler olay yerini Çaybaşı İlküvez Mahallesi Ünye Caddesi üzerindeki ve İlküvez Sağlık Merkezi’nin karşısındaki bir inşaat olarak verdi; açık şantiye adresi belirtilmediği için Kmhesaplama’nın İlküvez Mahallesi koordinatları kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-11",
+          "status": "fatality_recorded",
+          "note": "Çaybaşı İlküvez Mahallesi’nde inşaatta çalışan Başar Batran asansör boşluğuna düştü; İlküvez Sağlık Merkezi’nde yapılan müdahalelere rağmen yaşamını yitirdi."
+        },
+        {
+          "date": "2025-11-11",
+          "status": "investigation_opened",
+          "note": "Haberlerde Cumhuriyet Savcısı’nın olay yerinde inceleme yaptığı, jandarma ve savcılık incelemesinin başlatıldığı aktarıldı."
+        },
+        {
+          "date": "2025-12-04",
+          "status": "reported_by_isig",
+          "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Başar Batran’ı ayın iş cinayeti kayıtları arasında andı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ordu’da inşaattan düşen genç işçi hayatını kaybetti",
+          "url": "https://www.orducu.com/haber-orduda-insaattan-dusen-genc-isci-hayatini-kaybetti-43786.html",
+          "publisher": "Orducu / Ordu Haber Ajansı",
+          "type": "local_news",
+          "published_at": "2025-11-12"
+        },
+        {
+          "title": "Çaybaşı’nda İnşaat İşçisi Asansör Boşluğuna Düştü, Hayatını Kaybetti",
+          "url": "https://www.haberler.com/3-sayfa/caybasi-nda-insaat-iscisi-asansor-bosluguna-dustu-hayatini-kaybetti-19244235-haberi/",
+          "publisher": "Haberler / İHA",
+          "type": "news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "İnşaatta Düşme Faciası: 24 Yaşındaki Genç Hayatını Kaybetti",
+          "url": "https://www.haberler.com/guncel/insaatta-dusme-faciasi-24-yasindaki-genc-hayatini-kaybetti-19244260-haberi/",
+          "publisher": "Haberler / DHA",
+          "type": "news",
+          "published_at": "2025-11-11"
+        },
+        {
+          "title": "İlküvez Mahallesi Nerede, Hangi İlçeye Bağlı? Çaybaşı, Ordu",
+          "url": "https://kmhesaplama.com/ordu/caybasi/ilkuvez/",
+          "publisher": "Kmhesaplama.com",
+          "type": "geocoding_reference",
+          "published_at": ""
+        },
+        {
+          "title": "Kasım ayında 216, yılın ilk on bir ayında en az 1956 işçi hayatını kaybetti",
+          "url": "https://www.isigmeclisi.org/21492-is-cinayetlerine-",
+          "publisher": "İSİG Meclisi",
+          "type": "report",
+          "published_at": "2025-12-04"
+        }
+      ]
+    },
+    {
       "id": "fatma-nur-celik-ogretmen-olumu-2026",
       "record_type": "worker_death",
       "status": "fatality_recorded",
