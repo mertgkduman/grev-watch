@@ -10456,28 +10456,28 @@
       "record_type": "worker_death",
       "status": "fatality_recorded",
       "title": "Kerim Çal Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Kerim Çal’ı ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Amasya Belediyesi’nin vefat kaydı Kerim Çal’ın ölüm tarihini 24 Kasım 2025, doğum tarihini 1 Nisan 1983 olarak verdi; ancak bu geçişte tekil olay yeri, işkolu, işveren ve ölüm nedeni bağımsız haberle doğrulanamadı.",
+      "summary": "İSİG Meclisi Kerim Çal'ı Kasım 2025 iş cinayetleri listesinde andı. Amasya Belediyesi vefat kaydı yerel defin/vefat bilgisini doğruluyor; olayın gerçekleştiği işyeri veya açık adres bu kaynaklarda doğrulanamadı.",
       "worker_name": "Kerim Çal",
       "worker_age": 42,
       "employer": "Kaynakta belirtilmedi",
       "sector": "Kaynakta belirtilmedi",
       "death_date": "2025-11-24",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; Amasya Belediyesi vefat kaydı kişi için yerel defin bilgisini doğruluyor",
+      "legal_status": "İş cinayetine ilişkin bağımsız olay yeri veya hukuki süreç bilgisi bu geçişte bulunamadı.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "kerim-cal-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "kerim-cal-amasya-vefat-kaydi",
+          "label": "Amasya Belediyesi vefat kaydı (olay yeri doğrulanamadı)",
+          "province_key": "AMASYA",
+          "province": "Amasya",
+          "district": "Merkez",
+          "lat": 40.6533,
+          "lng": 35.8331,
+          "geocode_precision": "death_record_locality",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Kerim Çal adını listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor. Amasya Belediyesi vefat kaydı ölüm ve defin bilgisi verdiği halde iş cinayetinin gerçekleştiği yeri belirtmediği için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Amasya Belediyesi vefat kaydı Kerim Çal için yerel defin/vefat bilgisini verdi; İSİG kaydıyla birlikte kişi eşleştirildi, ancak olayın gerçekleştiği işyeri veya açık adres doğrulanamadı."
         }
       ],
       "timeline": [
@@ -10490,6 +10490,11 @@
           "date": "2025-12-04",
           "status": "reported_by_isig",
           "note": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu Kerim Çal’ı ayın iş cinayeti kayıtları arasında andı."
+        },
+        {
+          "date": "2025-11-24",
+          "status": "location_verified",
+          "note": "Kerim Çal için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Amasya Belediyesi vefat kaydı (olay yeri doğrulanamadı) konumuna güncellendi."
         }
       ],
       "sources": [
@@ -11315,28 +11320,28 @@
       "id": "orhan-cekic-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Orhan Çekiç Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Orhan Çekiç adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Orhan Çekiç Sinop Boyabat yolunda sevkiyat kamyonu kazasında yaşamını yitirdi",
+      "summary": "Sevkiyat şoförü Orhan Çekiç'in kullandığı kamyon, kaynaklara göre Sinop Boyabat yolu üzerinde kaza yaptı. Çekiç ve eşi yaşamını yitirirken, çocuklarının yaralı olarak tedaviye alındığı bildirildi.",
       "worker_name": "Orhan Çekiç",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Sevkiyat şoförü",
+      "sector": "Taşımacılık",
+      "death_date": "2025-11-12",
+      "cause": "Sinop Boyabat yolu üzerinde kamyon kazası",
+      "legal_status": "Kaza sonrası soruşturma bilgisi kaynaklarda sınırlı; çocuğun yaralı olarak tedaviye alındığı bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "orhan-cekic-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "orhan-cekic-sinop-boyabat-yolu",
+          "label": "Sinop Boyabat yolu üzerinde kamyon kazası",
+          "province_key": "SINOP",
+          "province": "Sinop",
+          "district": "Boyabat",
+          "lat": 41.4689,
+          "lng": 34.7667,
+          "geocode_precision": "district_centroid",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Orhan Çekiç adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Yerel kaynaklar Orhan Çekiç'in sevkiyat şoförlüğü yaptığı kamyonla Sinop Boyabat yolu üzerinde kaza geçirdiğini aktarıyor; açık yol kilometresi verilmediği için Boyabat ilçe merkezi kullanıldı."
         }
       ],
       "timeline": [
@@ -11344,6 +11349,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Orhan Çekiç adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-12",
+          "status": "location_verified",
+          "note": "Orhan Çekiç için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Sinop Boyabat yolu üzerinde kamyon kazası konumuna güncellendi."
         }
       ],
       "sources": [
@@ -11360,6 +11370,20 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Kartepe’nin sevilen çifti kazada hayatlarını kaybetti",
+          "url": "https://www.bizimyaka.com/haber/26802443/kartepenin-sevilen-cifti-kazada-hayatlarini-kaybetti",
+          "publisher": "Bizim Yaka",
+          "type": "news",
+          "published_at": "2025-11-12"
+        },
+        {
+          "title": "Kartepe’ye Sinop’tan acı haber: Orhan Çekiç ve eşi kazada hayatını kaybetti",
+          "url": "https://kartepesehir.com/haber/26801480/kartepeye-sinoptan-aci-haber-orhan-cekic-ve-esi-kazada-hayatini-kaybetti",
+          "publisher": "Kartepe Şehir",
+          "type": "news",
+          "published_at": "2025-11-12"
         }
       ]
     },
@@ -11496,28 +11520,28 @@
       "id": "mehmet-cilasin-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Mehmet Cılasın Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Mehmet Cılasın adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "İETT şoförü Mehmet Cılasın Beşiktaş'ta direksiyon başında kalp krizi geçirerek yaşamını yitirdi",
+      "summary": "İETT otobüsünü kullanan Mehmet Cılasın, İstanbul Beşiktaş Yıldız Mahallesi Yıldız Caddesi-Barbaros Bulvarı hattında seyir halindeyken kalp krizi geçirdi. Hastaneye kaldırılan Cılasın yapılan müdahalelere rağmen kurtarılamadı.",
       "worker_name": "Mehmet Cılasın",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "İETT / özel halk otobüsü hattı",
+      "sector": "Taşımacılık",
+      "death_date": "2025-11-10",
+      "cause": "Seyir halindeyken kalp krizi",
+      "legal_status": "Olayla ilgili inceleme sürdüğü haberleştirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "mehmet-cilasin-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "mehmet-cilasin-besiktas-yildiz-caddesi",
+          "label": "İstanbul Beşiktaş Yıldız Caddesi / Barbaros Bulvarı",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Beşiktaş",
+          "lat": 41.0472,
+          "lng": 29.0072,
+          "geocode_precision": "street_approx",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Mehmet Cılasın adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak olay yerini Beşiktaş Yıldız Mahallesi Yıldız Caddesi-Barbaros Bulvarı hattı olarak verdi; açık nokta doğrulanamadığı için cadde kavşağı çevresi yaklaşık koordinatlandı."
         }
       ],
       "timeline": [
@@ -11525,6 +11549,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Mehmet Cılasın adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-10",
+          "status": "location_verified",
+          "note": "Mehmet Cılasın için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla İstanbul Beşiktaş Yıldız Caddesi / Barbaros Bulvarı konumuna güncellendi."
         }
       ],
       "sources": [
@@ -11541,35 +11570,43 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Direksiyon başında kalp krizi geçiren şoför kurtarılamadı",
+          "url": "https://www.denizli24haber.com/denizli/direksiyon-basinda-kalp-krizi-geciren-sofor-kurtarilamadi/71244",
+          "publisher": "Denizli 24 Haber",
+          "type": "news",
+          "published_at": "2025-11-12"
         }
-      ]
+      ],
+      "worker_age": 54
     },
     {
       "id": "muslum-kayan-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Müslüm Kayan Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Müslüm Kayan adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Tır şoförü Müslüm Kayan direksiyon başında kalp krizi geçirerek yaşamını yitirdi",
+      "summary": "Şanlıurfa Suruç Yukarı Alacık nüfusuna kayıtlı tır şoförü Müslüm Kayan'ın seyir halindeyken fenalaştığı ve aracın refüje çarptığı haberleştirildi. Kaynak açık yol/il bilgisi vermediği için kayıt Suruç düzeyinde konumlandırıldı.",
       "worker_name": "Müslüm Kayan",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Tır şoförü",
+      "sector": "Taşımacılık",
+      "death_date": "2025-11-08",
+      "cause": "Direksiyon başında kalp krizi",
+      "legal_status": "Olayla ilgili soruşturmanın sürdüğü bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "muslum-kayan-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "muslum-kayan-suruc-yukari-alacik",
+          "label": "Şanlıurfa Suruç / Yukarı Alacık bağlantılı tır şoförü ölümü",
+          "province_key": "SANLIURFA",
+          "province": "Şanlıurfa",
+          "district": "Suruç",
+          "lat": 36.9761,
+          "lng": 38.4253,
+          "geocode_precision": "district_centroid",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Müslüm Kayan adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak Müslüm Kayan'ın Suruç Yukarı Alacık Mahallesi nüfusuna kayıtlı olduğunu, direksiyon başında fenalaştığını ve refüje çarptığını aktardı; yol/il açık verilmediği için Suruç ilçe merkezi geçici konum olarak kullanıldı."
         }
       ],
       "timeline": [
@@ -11577,6 +11614,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Müslüm Kayan adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-08",
+          "status": "location_verified",
+          "note": "Müslüm Kayan için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Şanlıurfa Suruç / Yukarı Alacık bağlantılı tır şoförü ölümü konumuna güncellendi."
         }
       ],
       "sources": [
@@ -11593,6 +11635,13 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Şanlıurfalı tır şoförünün talihsiz ölümü!",
+          "url": "https://www.gazeteipekyol.com/haber/15723661/sanliurfali-tir-soforunun-talihsiz-olumu",
+          "publisher": "Gazete İpekyol",
+          "type": "news",
+          "published_at": "2025-11-08"
         }
       ]
     },
@@ -11600,28 +11649,28 @@
       "id": "ugurcan-evcek-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Uğurcan Evcek Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Uğurcan Evcek adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Uğurcan Evcek Kuzey Marmara Otoyolu Arnavutköy ayrımındaki kazada yaşamını yitirdi",
+      "summary": "Kuzey Marmara Otoyolu Arnavutköy ayrımında geri manevra yapan tıra kamyonetin çarpması sonucu kamyonette bulunan 26 yaşındaki Uğurcan Evcek olay yerinde yaşamını yitirdi.",
       "worker_name": "Uğurcan Evcek",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Kamyonet yolcusu / taşımacılık işi",
+      "sector": "Taşımacılık",
+      "death_date": "2025-11-06",
+      "cause": "Kuzey Marmara Otoyolu'nda kamyonetin tıra çarpması",
+      "legal_status": "Trafik ekiplerinin inceleme yaptığı bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "ugurcan-evcek-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "ugurcan-evcek-kmo-arnavutkoy-ayrimi",
+          "label": "Kuzey Marmara Otoyolu Arnavutköy ayrımı",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Arnavutköy",
+          "lat": 41.183,
+          "lng": 28.7402,
+          "geocode_precision": "road_interchange_approx",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Uğurcan Evcek adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak kaza yerini Kuzey Marmara Otoyolu Arnavutköy ayrımı ve Mahmutbey istikameti olarak verdi; açık kilometre verilmediği için ayrım çevresi yaklaşık koordinatlandı."
         }
       ],
       "timeline": [
@@ -11629,6 +11678,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Uğurcan Evcek adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-06",
+          "status": "location_verified",
+          "note": "Uğurcan Evcek için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Kuzey Marmara Otoyolu Arnavutköy ayrımı konumuna güncellendi."
         }
       ],
       "sources": [
@@ -11645,35 +11699,43 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Körfez’i yasa boğan kaza: 26 yaşındaki Uğurcan Evcek yaşamını yitirdi",
+          "url": "https://www.kocaelikoz.com/haber/26758204/korfezi-yasa-bogan-kaza-26-yasindaki-ugurcan-evcek-yasamini-yitirdi",
+          "publisher": "Kocaeli Koz",
+          "type": "news",
+          "published_at": "2025-11-06"
         }
-      ]
+      ],
+      "worker_age": 26
     },
     {
       "id": "kamil-kamuran-yilmaz-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Kamil Kamuran Yılmaz Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Kamil Kamuran Yılmaz adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Kamil Kamuran Yılmaz Anadolu Otoyolu Arifiye kesiminde tır devrilmesi sonucu yaşamını yitirdi",
+      "summary": "Anadolu Otoyolu İstanbul istikameti Arifiye/Fatih mevkiinde konteyner yüklü tırın bariyerlere çarpıp devrilmesi sonucu Kamil Kamuran Yılmaz yaşamını yitirdi; sürücü yaralı olarak hastaneye kaldırıldı.",
       "worker_name": "Kamil Kamuran Yılmaz",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Konteyner yüklü tır",
+      "sector": "Taşımacılık",
+      "death_date": "2025-11-06",
+      "cause": "Anadolu Otoyolu'nda tırın devrilmesi",
+      "legal_status": "Yaralı sürücünün hastaneye kaldırıldığı, olayla ilgili inceleme yapıldığı bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "kamil-kamuran-yilmaz-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "kamil-kamuran-yilmaz-arifiye-fatih",
+          "label": "Anadolu Otoyolu Arifiye Fatih mevkii",
+          "province_key": "SAKARYA",
+          "province": "Sakarya",
+          "district": "Arifiye",
+          "lat": 40.7134,
+          "lng": 30.364,
+          "geocode_precision": "road_corridor_approximate",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Kamil Kamuran Yılmaz adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak kaza yerini Anadolu Otoyolu İstanbul istikameti Arifiye/Fatih mevkii olarak verdi; açık kilometre verilmediği için mevki yaklaşık koordinatlandı."
         }
       ],
       "timeline": [
@@ -11681,6 +11743,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Kamil Kamuran Yılmaz adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-06",
+          "status": "location_verified",
+          "note": "Kamil Kamuran Yılmaz için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Anadolu Otoyolu Arifiye Fatih mevkii konumuna güncellendi."
         }
       ],
       "sources": [
@@ -11697,6 +11764,13 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Korkunç kazada can verdi!",
+          "url": "https://www.duzceninsesi.com.tr/haber/26753119/korkunc-kazada-can-verdi",
+          "publisher": "Düzcenin Sesi",
+          "type": "news",
+          "published_at": "2025-11-06"
         }
       ]
     },
@@ -11762,28 +11836,28 @@
       "id": "hamza-gumus-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Hamza Gümüş Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Hamza Gümüş adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Hamza Gümüş Kızıltepe'de tır lastiğini değiştirirken aracın altında kalarak yaşamını yitirdi",
+      "summary": "Mardin Kızıltepe kırsal Eşme Mahallesi'nde patlayan tır lastiğini değiştirmeye çalışan şoför Hamza Gümüş, aracın kayması sonucu altında kaldı. Hastaneye kaldırılan Gümüş üç gün sonra yaşamını yitirdi.",
       "worker_name": "Hamza Gümüş",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Tır şoförü",
+      "sector": "Taşımacılık",
+      "death_date": "2025-11-03",
+      "cause": "Patlayan tır lastiğini değiştirirken tırın altında kalma",
+      "legal_status": "Olayla ilgili soruşturma başlatıldığı bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "hamza-gumus-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "hamza-gumus-kiziltepe-esme",
+          "label": "Mardin Kızıltepe kırsal Eşme Mahallesi",
+          "province_key": "MARDIN",
+          "province": "Mardin",
+          "district": "Kızıltepe",
+          "lat": 37.1931,
+          "lng": 40.5861,
+          "geocode_precision": "district_centroid",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Hamza Gümüş adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak olayın Kızıltepe kırsal Eşme Mahallesi'nde gerçekleştiğini aktardı; mahalle koordinatı doğrulanamadığı için Kızıltepe ilçe merkezi kullanıldı."
         }
       ],
       "timeline": [
@@ -11791,6 +11865,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Hamza Gümüş adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-03",
+          "status": "location_verified",
+          "note": "Hamza Gümüş için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Mardin Kızıltepe kırsal Eşme Mahallesi konumuna güncellendi."
         }
       ],
       "sources": [
@@ -11807,8 +11886,16 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Lastiğini değiştirdiği TIR'ın altında kalan şoför hayatını kaybetti",
+          "url": "https://www.yenisafak.com/gundem/lastigini-degistirdigi-tirin-altinda-kalan-sofor-hayatini-kaybetti-4765146",
+          "publisher": "Yeni Şafak",
+          "type": "news",
+          "published_at": "2025-11-03"
         }
-      ]
+      ],
+      "worker_age": 44
     },
     {
       "id": "yusuf-tetkik-isig-kasim-2025",
@@ -11866,28 +11953,28 @@
       "id": "oruc-sezgin-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Oruç Sezgin Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Oruç Sezgin adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Oruç Sezgin TEM Otoyolu Bolu Gerede geçişinde arızalı tıra çarparak yaşamını yitirdi",
+      "summary": "TEM Otoyolu Bolu geçişi Cankurtaran mevkiinde arıza nedeniyle duran tıra arkadan çarpan kamyonun sürücüsü Oruç Sezgin olay yerinde yaşamını yitirdi.",
       "worker_name": "Oruç Sezgin",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Kamyon şoförü",
+      "sector": "Taşımacılık",
+      "death_date": "2025-11-01",
+      "cause": "TEM Otoyolu'nda arızalı tıra arkadan çarpma",
+      "legal_status": "Olay yerine jandarma ve sağlık ekipleri sevk edildiği, kazayla ilgili inceleme yapıldığı bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "oruc-sezgin-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "oruc-sezgin-gerede-cankurtaran",
+          "label": "Bolu Gerede / TEM Otoyolu Cankurtaran mevkii",
+          "province_key": "BOLU",
+          "province": "Bolu",
+          "district": "Gerede",
+          "lat": 40.8008,
+          "lng": 32.1967,
+          "geocode_precision": "district_centroid",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Oruç Sezgin adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak kaza yerini TEM Otoyolu Bolu geçişi Cankurtaran mevkii olarak verdi; açık kilometre verilmediği için Gerede ilçe merkezi kullanıldı."
         }
       ],
       "timeline": [
@@ -11895,6 +11982,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Oruç Sezgin adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-01",
+          "status": "location_verified",
+          "note": "Oruç Sezgin için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Bolu Gerede / TEM Otoyolu Cankurtaran mevkii konumuna güncellendi."
         }
       ],
       "sources": [
@@ -11911,35 +12003,43 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Bolu Gerede'de Arıza Yapan Tıra Çarpan Kamyon Sürücüsü Hayatını Kaybetti",
+          "url": "https://www.mersinhaber.com/haber-bolu-geredede-ariza-yapan-tira-carpan-kamyon-surucusu-hayatini-kaybetti/449120",
+          "publisher": "Mersin Haber / İHA",
+          "type": "news",
+          "published_at": "2025-11-01"
         }
-      ]
+      ],
+      "worker_age": 58
     },
     {
       "id": "resat-dogan-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Reşat Doğan Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Reşat Doğan adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Liman serdümeni Reşat Doğan İzmir Alsancak Limanı'nda gemi ambarına düşerek yaşamını yitirdi",
+      "summary": "TCDD Alsancak Limanı'nda görev yapan 55 yaşındaki liman serdümeni Reşat Doğan, yük gemisinde görev sırasında korkuluğun kırılmasıyla gemi ambarına düşerek yaşamını yitirdi.",
       "worker_name": "Reşat Doğan",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "TCDD Alsancak Limanı",
+      "sector": "Gemi, tersane, deniz, liman",
+      "death_date": "2025-11-24",
+      "cause": "Görev sırasında gemi ambarına düşme",
+      "legal_status": "Olayla ilgili soruşturma başlatıldığı bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "resat-dogan-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "resat-dogan-alsancak-limani",
+          "label": "İzmir TCDD Alsancak Limanı",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Konak",
+          "lat": 38.4397,
+          "lng": 27.1516,
+          "geocode_precision": "facility_approx",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Reşat Doğan adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak olayın TCDD Alsancak Limanı'nda bulunan bir yük gemisinde meydana geldiğini aktardı; açık rıhtım/gemi koordinatı verilmediği için liman alanı yaklaşık koordinatlandı."
         }
       ],
       "timeline": [
@@ -11947,6 +12047,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Reşat Doğan adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-24",
+          "status": "location_verified",
+          "note": "Reşat Doğan için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla İzmir TCDD Alsancak Limanı konumuna güncellendi."
         }
       ],
       "sources": [
@@ -11963,8 +12068,16 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "İzmir'de İş Kazasında Liman Serdümeni Hayatını Kaybetti",
+          "url": "https://www.haberler.com/amp/izmir-de-is-kazasinda-liman-serdumeni-hayatini-kaybetti-19289113-haberi/",
+          "publisher": "Haberler.com / İHA",
+          "type": "news",
+          "published_at": "2025-11-25"
         }
-      ]
+      ],
+      "worker_age": 55
     },
     {
       "id": "urashev-zavr-isig-kasim-2025",
@@ -12093,28 +12206,28 @@
       "id": "ugur-baskaya-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Uğur Başkaya Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Uğur Başkaya adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Eczane çalışanı Uğur Başkaya Akyazı'da köye ilaç götürürken geçirdiği kazada yaşamını yitirdi",
+      "summary": "Sakarya Akyazı D-140 karayolu Balballı kavşağında iki hafif ticari aracın çarpışması sonucu yaralanan eczane çalışanı Uğur Başkaya, hastanede yapılan müdahalelere rağmen yaşamını yitirdi.",
       "worker_name": "Uğur Başkaya",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Eczane çalışanı",
+      "sector": "Ticaret, büro, eğitim, sinema",
+      "death_date": "2025-11-25",
+      "cause": "Köye ilaç götürürken trafik kazası",
+      "legal_status": "Kazayla ilgili inceleme başlatıldığı bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "ugur-baskaya-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "ugur-baskaya-akyazi-balbali",
+          "label": "Sakarya Akyazı D-140 Balballı kavşağı",
+          "province_key": "SAKARYA",
+          "province": "Sakarya",
+          "district": "Akyazı",
+          "lat": 40.686,
+          "lng": 30.623,
+          "geocode_precision": "road_intersection_approx",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Uğur Başkaya adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak kaza yerini D-140 karayolu Balbalı/Balballı kavşağı olarak verdi; açık nokta doğrulanamadığı için Akyazı ilçe merkezi çevresi yaklaşık kullanıldı."
         }
       ],
       "timeline": [
@@ -12122,6 +12235,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Uğur Başkaya adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-25",
+          "status": "location_verified",
+          "note": "Uğur Başkaya için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Sakarya Akyazı D-140 Balballı kavşağı konumuna güncellendi."
         }
       ],
       "sources": [
@@ -12138,8 +12256,16 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Köye ilaç götürürken kazada hayatını kaybetti",
+          "url": "https://www.akyazihaber.com/akyazi/koye-ilac-gotururken-kazada-hayatini-kaybetti",
+          "publisher": "Akyazı Haber",
+          "type": "news",
+          "published_at": "2025-11-25"
         }
-      ]
+      ],
+      "worker_age": 33
     },
     {
       "id": "mehmet-ozcan-ikinci-kasim-isig-kasim-2025",
@@ -12262,35 +12388,40 @@
       "id": "nazmiye-demirel-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Nazmiye Demirel Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Nazmiye Demirel adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Paramedik Nazmiye Demirel Rize'de vaka dönüşü kamyonetin çarpması sonucu yaşamını yitirdi",
+      "summary": "Rize Merkez Portakallık Mahallesi Recep Tayyip Erdoğan Bulvarı'nda vaka dönüşü yolun karşısına geçmeye çalışan paramedik Nazmiye Demirel'e kamyonet çarptı. Demirel beş günlük yoğun bakım tedavisinin ardından 1 Kasım 2025'te yaşamını yitirdi.",
       "worker_name": "Nazmiye Demirel",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Merkez 2 No'lu Acil Sağlık Hizmetleri İstasyonu",
+      "sector": "Sağlık, sosyal hizmetler",
+      "death_date": "2025-11-01",
+      "cause": "Vaka dönüşünde yolun karşısına geçerken kamyonetin çarpması",
+      "legal_status": "Olayla ilgili adli süreç bilgisi bu geçişte bulunamadı.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "nazmiye-demirel-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "nazmiye-demirel-rize-portakallik",
+          "label": "Rize Merkez Portakallık Mahallesi Recep Tayyip Erdoğan Bulvarı",
+          "province_key": "RIZE",
+          "province": "Rize",
+          "district": "Merkez",
+          "lat": 41.025,
+          "lng": 40.517,
+          "geocode_precision": "neighborhood_road_approx",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Nazmiye Demirel adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak kazanın Portakallık Mahallesi Recep Tayyip Erdoğan Bulvarı'nda meydana geldiğini aktardı; açık yaya geçidi noktası doğrulanamadığı için mahalle/yol çevresi yaklaşık koordinatlandı."
         }
       ],
       "timeline": [
         {
-          "date": "2025-11",
+          "date": "2025-10-27",
+          "status": "injured",
+          "note": "Vaka dönüşünde yolun karşısına geçerken kamyonetin çarpması sonucu ağır yaralandı."
+        },
+        {
+          "date": "2025-11-01",
           "status": "fatality_recorded",
-          "note": "İSİG Meclisi Nazmiye Demirel adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+          "note": "Yoğun bakımda süren tedavisine rağmen yaşamını yitirdi."
         }
       ],
       "sources": [
@@ -12307,8 +12438,16 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Rize'de Kamyonetin Çarptığı Paramedik Hayatını Kaybetti",
+          "url": "https://www.caytvhaber.com/rize/rizede-kamyonetin-carptigi-paramedik-hayatini-kaybetti-68761h",
+          "publisher": "Çay TV Haber",
+          "type": "news",
+          "published_at": "2025-11-01"
         }
-      ]
+      ],
+      "worker_age": 37
     },
     {
       "id": "muratcan-pekeroglu-pamukkale-motokurye-carpisma-is-cinayeti-2025",
@@ -12431,28 +12570,28 @@
       "id": "serkan-alkaya-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Serkan Alkaya Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Serkan Alkaya adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Güvenlik görevlisi Serkan Alkaya Milas'ta nöbet yerinde ölü bulundu",
+      "summary": "Milas Müze Müdürlüğü'nde görevli güvenlik görevlisi Serkan Alkaya, Hekatomnos Mezar Anıtı ve Milas Halı Müzesi çevresindeki nöbet değişiminde cansız halde bulundu. Kesin ölüm nedeni için adli inceleme başlatıldı.",
       "worker_name": "Serkan Alkaya",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Milas Müze Müdürlüğü",
+      "sector": "Savunma, güvenlik",
+      "death_date": "2025-11-17",
+      "cause": "Nöbet yerinde ölü bulunma",
+      "legal_status": "Kesin ölüm nedeni için cenazenin adli tıp kurumuna gönderildiği ve soruşturmanın sürdüğü bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "serkan-alkaya-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "serkan-alkaya-milas-muze",
+          "label": "Milas Hekatomnos Mezar Anıtı ve Milas Halı Müzesi çevresi",
+          "province_key": "MUGLA",
+          "province": "Muğla",
+          "district": "Milas",
+          "lat": 37.312,
+          "lng": 27.781,
+          "geocode_precision": "facility_approx",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Serkan Alkaya adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak güvenlik görevlisinin Hekatomnos Mezar Anıtı ve Milas Halı Müzesi çevresinde nöbet değişiminde cansız bulunduğunu aktardı; müze çevresi yaklaşık koordinatlandı."
         }
       ],
       "timeline": [
@@ -12460,6 +12599,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Serkan Alkaya adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-17",
+          "status": "location_verified",
+          "note": "Serkan Alkaya için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Milas Hekatomnos Mezar Anıtı ve Milas Halı Müzesi çevresi konumuna güncellendi."
         }
       ],
       "sources": [
@@ -12476,8 +12620,16 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Milas'ta güvenlik görevlisi nöbet yerinde hayatını kaybetti",
+          "url": "https://www.saraymedya.com/haber/milas-ta-guvenlik-gorevlisi-nobet-yerinde-hayatini-kaybetti_216600/",
+          "publisher": "Saray Medya / İHA",
+          "type": "news",
+          "published_at": "2025-11-17"
         }
-      ]
+      ],
+      "worker_age": 45
     },
     {
       "id": "adem-ozcelik-isig-kasim-2025",
@@ -12535,28 +12687,28 @@
       "id": "tahsin-goker-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Tahsin Göker Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Tahsin Göker adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Otel güvenlik görevlisi Tahsin Göker Antalya Kaleiçi'nde bıçaklanarak yaşamını yitirdi",
+      "summary": "Antalya Muratpaşa Selçuk Mahallesi Musalla Sokak'ta çalıştığı otelin önünde oturan kişileri uyaran güvenlik görevlisi Tahsin Göker, çıkan tartışmada bıçaklandı ve hastanede yaşamını yitirdi.",
       "worker_name": "Tahsin Göker",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Kaleiçi'nde otel",
+      "sector": "Savunma, güvenlik",
+      "death_date": "2025-11-09",
+      "cause": "Otel önünde uyardığı kişilerle çıkan tartışmada bıçaklanma",
+      "legal_status": "Şüphelilerin yakalandığı ve olayla ilgili soruşturma yürütüldüğü bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "tahsin-goker-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "tahsin-goker-muratpasa-selcuk",
+          "label": "Antalya Muratpaşa Selçuk Mahallesi Musalla Sokak",
+          "province_key": "ANTALYA",
+          "province": "Antalya",
+          "district": "Muratpaşa",
+          "lat": 36.887,
+          "lng": 30.706,
+          "geocode_precision": "street_approx",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Tahsin Göker adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "DHA olay yerini Muratpaşa Selçuk Mahallesi Musalla Sokak'taki otelin önü olarak verdi; otel adı/açık kapı numarası doğrulanamadığı için sokak çevresi yaklaşık koordinatlandı."
         }
       ],
       "timeline": [
@@ -12564,6 +12716,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Tahsin Göker adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-09",
+          "status": "location_verified",
+          "note": "Tahsin Göker için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Antalya Muratpaşa Selçuk Mahallesi Musalla Sokak konumuna güncellendi."
         }
       ],
       "sources": [
@@ -12580,35 +12737,43 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "2 hafta sonra düğünü olan Tahsin, 'otel önünde içki içmeyin' diye uyardı, bıçaklanarak öldürüldü",
+          "url": "https://www.dha.com.tr/foto-galeri/2-hafta-sonra-dugunu-olan-tahsin-otel-onunde-icki-icmeyin-diye-uyardi-bicaklanarak-olduruldu-2755083",
+          "publisher": "DHA",
+          "type": "news",
+          "published_at": "2025-11-09"
         }
-      ]
+      ],
+      "worker_age": 26
     },
     {
       "id": "ersin-gencer-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Ersin Gencer Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Ersin Gencer adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Ersin Gencer Fethiye'de çalıştığı işletmedeki yangına müdahale ederken yaşamını yitirdi",
+      "summary": "Muğla Fethiye Foça Mahallesi Barış Manço Bulvarı'ndaki Pera adlı işletmede çıkan yangına müdahale eden mutfak personeli Ersin Gencer ağır yaralandı ve hastanede yaşamını yitirdi.",
       "worker_name": "Ersin Gencer",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Pera adlı işletme",
+      "sector": "Konaklama, eğlence",
+      "death_date": "2025-11-01",
+      "cause": "İşletmede çıkan yangına müdahale ederken ağır yaralanma",
+      "legal_status": "Yangının çıkış nedeni için inceleme ve soruşturma başlatıldığı bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "ersin-gencer-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "ersin-gencer-fethiye-pera",
+          "label": "Muğla Fethiye Foça Mahallesi Barış Manço Bulvarı",
+          "province_key": "MUGLA",
+          "province": "Muğla",
+          "district": "Fethiye",
+          "lat": 36.659,
+          "lng": 29.123,
+          "geocode_precision": "street_approx",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Ersin Gencer adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak işletmeyi Foça Mahallesi Barış Manço Bulvarı'ndaki Pera adlı işletme olarak verdi; açık kapı numarası doğrulanamadığı için bulvar çevresi yaklaşık koordinatlandı."
         }
       ],
       "timeline": [
@@ -12616,6 +12781,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Ersin Gencer adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-01",
+          "status": "location_verified",
+          "note": "Ersin Gencer için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Muğla Fethiye Foça Mahallesi Barış Manço Bulvarı konumuna güncellendi."
         }
       ],
       "sources": [
@@ -12632,42 +12802,55 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Fethiye’deki İşletme Yangını Can Aldı! Ersin Gencer Hayatını Kaybetti",
+          "url": "https://www.muglagazetesi.com.tr/fethiye-haberleri/fethiyedeki-isletme-yangini-can-aldi-ersin-gencer-hayatini-kaybetti-200176h",
+          "publisher": "Muğla Gazetesi",
+          "type": "news",
+          "published_at": "2025-11-01"
         }
-      ]
+      ],
+      "worker_age": 33
     },
     {
       "id": "hatice-unal-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Hatice Ünal Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Hatice Ünal adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Polis memuru Hatice Ünal Alaşehir'deki görev kazasında yaralandıktan sonra yaşamını yitirdi",
+      "summary": "Manisa Alaşehir'de görevli polis memurlarını taşıyan ekip aracının park halindeki tıra çarpması sonucu ağır yaralanan Hatice Ünal, 14 günlük tedavinin ardından yaşamını yitirdi.",
       "worker_name": "Hatice Ünal",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Alaşehir Bölge Trafik Denetleme İstasyonu",
+      "sector": "Savunma, güvenlik",
+      "death_date": "2025-11-29",
+      "cause": "Görevdeyken ekip aracının park halindeki tıra çarpması sonucu yaralanma ve hastanede ölüm",
+      "legal_status": "Kazada Ali Barut olay yerinde yaşamını yitirdi; Hatice Ünal 14 günlük tedavinin ardından yaşamını yitirdi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "hatice-unal-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "hatice-unal-alasehir-suleyman-demirel",
+          "label": "Manisa Alaşehir Süleyman Demirel Bulvarı",
+          "province_key": "MANISA",
+          "province": "Manisa",
+          "district": "Alaşehir",
+          "lat": 38.35,
+          "lng": 28.517,
+          "geocode_precision": "road_corridor_approximate",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Hatice Ünal adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynaklar kazayı Alaşehir-Sarıgöl kara yolu / Süleyman Demirel Bulvarı üzerinde verdi; açık nokta doğrulanamadığı için Alaşehir merkezi yakın yol koridoru kullanıldı."
         }
       ],
       "timeline": [
         {
-          "date": "2025-11",
+          "date": "2025-11-15",
+          "status": "injured",
+          "note": "Görevli ekip aracının park halindeki tıra çarpması sonucu ağır yaralandı."
+        },
+        {
+          "date": "2025-11-29",
           "status": "fatality_recorded",
-          "note": "İSİG Meclisi Hatice Ünal adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+          "note": "Tedavi gördüğü hastanede yaşamını yitirdi."
         }
       ],
       "sources": [
@@ -12684,35 +12867,43 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Şehit polis Hatice Ünal kimdir, kaç yaşında ve nereli?",
+          "url": "https://www.iscihaber.net/gundem/sehit-polis-hatice-unal-kimdir-kac-yasinda-ve-nereli/191516",
+          "publisher": "İşçi Haber",
+          "type": "news",
+          "published_at": "2025-11-29"
         }
-      ]
+      ],
+      "worker_age": 24
     },
     {
       "id": "ali-barut-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Ali Barut Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Ali Barut adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Polis memuru Ali Barut Alaşehir'de görev aracının tıra çarpması sonucu yaşamını yitirdi",
+      "summary": "Manisa Alaşehir Süleyman Demirel Bulvarı'nda trafik polislerinin bulunduğu ekip aracının park halindeki tıra çarpması sonucu polis memuru Ali Barut olay yerinde yaşamını yitirdi.",
       "worker_name": "Ali Barut",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Alaşehir Bölge Trafik Denetleme İstasyonu",
+      "sector": "Savunma, güvenlik",
+      "death_date": "2025-11-15",
+      "cause": "Görevdeyken ekip aracının park halindeki tıra çarpması",
+      "legal_status": "Manisa Valiliği kazada bir polis memurunun yaşamını yitirdiğini ve bir polis memurunun yaralandığını açıkladı.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "ali-barut-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "ali-barut-alasehir-suleyman-demirel",
+          "label": "Manisa Alaşehir Süleyman Demirel Bulvarı",
+          "province_key": "MANISA",
+          "province": "Manisa",
+          "district": "Alaşehir",
+          "lat": 38.3502,
+          "lng": 28.5172,
+          "geocode_precision": "road_corridor_approximate",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Ali Barut adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynaklar kazayı Alaşehir Süleyman Demirel Bulvarı'nda park halindeki tıra çarpma olarak verdi; açık nokta doğrulanamadığı için Alaşehir merkezi yakın yol koridoru kullanıldı."
         }
       ],
       "timeline": [
@@ -12720,6 +12911,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Ali Barut adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-15",
+          "status": "location_verified",
+          "note": "Ali Barut için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Manisa Alaşehir Süleyman Demirel Bulvarı konumuna güncellendi."
         }
       ],
       "sources": [
@@ -12736,35 +12932,43 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Trafik polisi aracı TIR'a çarptı: 1 şehit, 1 ağır yaralı",
+          "url": "https://www.samsungazetesi.com/trafik-polisi-araci-tira-carpti-1-sehit-1-agir-yarali",
+          "publisher": "Samsun Gazetesi / AA",
+          "type": "news",
+          "published_at": "2025-11-15"
         }
-      ]
+      ],
+      "worker_age": 34
     },
     {
       "id": "faruk-sahin-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Faruk Şahin Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Faruk Şahin adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Polis memuru Faruk Şahin Osmaniye'de görevi başında kalp krizi geçirerek yaşamını yitirdi",
+      "summary": "Osmaniye İl Emniyet Müdürlüğü Trafik Tescil ve Denetleme Şube Müdürlüğü'nde görevli polis memuru Faruk Şahin, görev esnasında geçirdiği kalp krizi sonrası hastaneye kaldırıldı ancak kurtarılamadı.",
       "worker_name": "Faruk Şahin",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Osmaniye İl Emniyet Müdürlüğü Trafik Tescil ve Denetleme Şube Müdürlüğü",
+      "sector": "Savunma, güvenlik",
+      "death_date": "2025-11-10",
+      "cause": "Görev esnasında kalp krizi",
+      "legal_status": "Osmaniye İl Emniyet Müdürlüğü önünde tören düzenlendiği ve naaşının İstanbul'a uğurlandığı bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "faruk-sahin-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "faruk-sahin-osmaniye-emniyet",
+          "label": "Osmaniye İl Emniyet Müdürlüğü / Trafik Tescil ve Denetleme Şube Müdürlüğü",
+          "province_key": "OSMANIYE",
+          "province": "Osmaniye",
+          "district": "Merkez",
+          "lat": 37.073,
+          "lng": 36.247,
+          "geocode_precision": "facility_approx",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Faruk Şahin adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak görev yerini Osmaniye İl Emniyet Müdürlüğü Trafik Tescil ve Denetleme Şube Müdürlüğü olarak verdi; şube açık koordinatı doğrulanamadığı için il merkezi/emniyet çevresi yaklaşık kullanıldı."
         }
       ],
       "timeline": [
@@ -12772,6 +12976,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Faruk Şahin adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-10",
+          "status": "location_verified",
+          "note": "Faruk Şahin için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Osmaniye İl Emniyet Müdürlüğü / Trafik Tescil ve Denetleme Şube Müdürlüğü konumuna güncellendi."
         }
       ],
       "sources": [
@@ -12788,8 +12997,16 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Görevi başında kalp krizi geçiren polis memuru şehit oldu",
+          "url": "https://www.haberturk.com/osmaniye-haberleri/115350985-gorevi-basinda-kalp-krizi-geciren-polis-memuru-sehit-oldu",
+          "publisher": "Habertürk / İHA",
+          "type": "news",
+          "published_at": "2025-11-11"
         }
-      ]
+      ],
+      "worker_age": 34
     },
     {
       "id": "ali-k-isig-kasim-2025",
@@ -13223,28 +13440,28 @@
       "id": "ibrahim-durak-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "İbrahim Durak Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, İbrahim Durak adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Belediye işçisi İbrahim Durak Mustafakemalpaşa'da üzerine ağaç devrilmesi sonucu yaşamını yitirdi",
+      "summary": "Mustafakemalpaşa Belediyesi İşletme ve İştirakler Müdürlüğü bünyesinde temizlik işçisi olarak çalışan İbrahim Durak, Suuçtu Şelalesi Mesire Alanı'nda üzerine ağaç devrilmesi sonucu ağır yaralandı ve hastanede yaşamını yitirdi.",
       "worker_name": "İbrahim Durak",
-      "employer": "Kaynakta belirtilmedi",
-      "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "employer": "Mustafakemalpaşa Belediyesi İşletme ve İştirakler Müdürlüğü",
+      "sector": "Belediye, genel işler",
+      "death_date": "2025-11-05",
+      "cause": "Mesire alanında üzerine ağaç devrilmesi",
+      "legal_status": "Olayla ilgili tahkikatın sürdüğü bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "ibrahim-durak-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "ibrahim-durak-suuctu-selalesi",
+          "label": "Bursa Mustafakemalpaşa Suuçtu Şelalesi Mesire Alanı",
+          "province_key": "BURSA",
+          "province": "Bursa",
+          "district": "Mustafakemalpaşa",
+          "lat": 39.993,
+          "lng": 28.53,
+          "geocode_precision": "landmark_approx",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu İbrahim Durak adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak olayın Mustafakemalpaşa Suuçtu Şelalesi Mesire Alanı'nda yaşandığını aktardı; açık nokta doğrulanamadığı için mesire alanı yaklaşık koordinatlandı."
         }
       ],
       "timeline": [
@@ -13252,6 +13469,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi İbrahim Durak adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-05",
+          "status": "location_verified",
+          "note": "İbrahim Durak için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Bursa Mustafakemalpaşa Suuçtu Şelalesi Mesire Alanı konumuna güncellendi."
         }
       ],
       "sources": [
@@ -13268,35 +13490,43 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Üzerine ağaç düşen belediye işçisi hayatını kaybetti",
+          "url": "https://www.tontv.com.tr/haber/26751223/uzerine-agac-dusen-belediye-iscisi-hayatini-kaybetti",
+          "publisher": "Ton TV / İHA",
+          "type": "news",
+          "published_at": "2025-11-05"
         }
-      ]
+      ],
+      "worker_age": 48
     },
     {
       "id": "can-perkanat-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Can Perkanat Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Can Perkanat adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Can Perkanat daha önce geçirdiği iş kazasının ardından Fatsa'da yaşamını yitirdi",
+      "summary": "Ordu Fatsa'da daha önce geçirdiği iş kazası nedeniyle uzun süredir yatağa bağımlı yaşayan Can Perkanat yaşamını yitirdi. İş kazasının açık işyeri ve tarihi bu kaynaklarda doğrulanamadı.",
       "worker_name": "Can Perkanat",
       "employer": "Kaynakta belirtilmedi",
       "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "death_date": "2025-11-27",
+      "cause": "Daha önce geçirdiği iş kazasının ardından yatağa bağımlı yaşarken ölüm",
+      "legal_status": "İş kazasının tarihi ve işyeri ayrıntısı bu geçişte doğrulanamadı.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "can-perkanat-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "can-perkanat-fatsa-yalikoy",
+          "label": "Ordu Fatsa Yalıköy / Belice mevkii",
+          "province_key": "ORDU",
+          "province": "Ordu",
+          "district": "Fatsa",
+          "lat": 41.035,
+          "lng": 37.462,
+          "geocode_precision": "neighborhood_centroid",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Can Perkanat adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak Can Perkanat'ın Fatsa Yalıköy Belice Mahallesi'nden olduğunu ve daha önce geçirdiği iş kazası nedeniyle yaşamını yitirdiğini aktardı; iş kazasının açık yeri doğrulanamadığı için yerel mahalle bilgisi kullanıldı."
         }
       ],
       "timeline": [
@@ -13304,6 +13534,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Can Perkanat adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-27",
+          "status": "location_verified",
+          "note": "Can Perkanat için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Ordu Fatsa Yalıköy / Belice mevkii konumuna güncellendi."
         }
       ],
       "sources": [
@@ -13320,6 +13555,13 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Ordu'da iş kazası mağduru Can Perkanat hayatını kaybetti",
+          "url": "https://www.ordugazete.com/orduda-is-kazasi-magduru-can-perkanat-hayatini-kaybetti/49086",
+          "publisher": "Ordu Gazete",
+          "type": "news",
+          "published_at": "2025-11-27"
         }
       ]
     },
@@ -13328,27 +13570,27 @@
       "record_type": "worker_death",
       "status": "fatality_recorded",
       "title": "Bülent Yumşak Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Bülent Yumşak adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "summary": "İSİG Meclisi Bülent Yumşak'ı Kasım 2025 iş cinayetleri listesinde andı. Osmaniye yerel vefat kaydı defin yerini Düziçi olarak veriyor; olayın gerçekleştiği işyeri veya açık adres bu kaynaklarda doğrulanamadı.",
       "worker_name": "Bülent Yumşak",
       "employer": "Kaynakta belirtilmedi",
       "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "death_date": "2025-11-26",
+      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; yerel vefat kaydı defin yerini Düziçi olarak veriyor",
+      "legal_status": "İş cinayetine ilişkin bağımsız olay ayrıntısı veya hukuki süreç bilgisi bu geçişte bulunamadı.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "bulent-yumsak-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "bulent-yumsak-osmaniye-duzici-defin",
+          "label": "Osmaniye / Düziçi defin bilgisi (olay yeri doğrulanamadı)",
+          "province_key": "OSMANIYE",
+          "province": "Osmaniye",
+          "district": "Düziçi",
+          "lat": 37.2504,
+          "lng": 36.4645,
+          "geocode_precision": "death_record_locality",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Bülent Yumşak adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Osmaniye yerel vefat kaydı Bülent Yumşak için defin yerini Düziçi olarak verdi; İSİG kaydıyla kişi eşleştirildi, ancak olayın gerçekleştiği işyeri veya açık adres doğrulanamadı."
         }
       ],
       "timeline": [
@@ -13356,6 +13598,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Bülent Yumşak adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-26",
+          "status": "location_verified",
+          "note": "Bülent Yumşak için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Osmaniye / Düziçi defin bilgisi (olay yeri doğrulanamadı) konumuna güncellendi."
         }
       ],
       "sources": [
@@ -13372,6 +13619,13 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Osmaniye'de 26 Kasım 2025 Çarşamba Günü Vefat Edenler",
+          "url": "https://www.hasretgazetesi.com.tr/osmaniyede-26-kasim-2025-carsamba-gunu-vefat-edenler",
+          "publisher": "Hasret Gazetesi",
+          "type": "local_death_record",
+          "published_at": "2025-11-26"
         }
       ]
     },
@@ -13379,28 +13633,28 @@
       "id": "nasir-bicer-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Nasır Biçer Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Nasır Biçer adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Nasır Biçer İzmir'de çalıştığı fabrikada ölü bulundu",
+      "summary": "Yüksekova'dan İzmir'e çalışmak için gelen 22 yaşındaki Nasır Biçer, çalıştığı fabrikada asılı halde ölü bulundu. Kaynaklar fabrika adı veya ilçe belirtmediği için kayıt İzmir il düzeyinde konumlandırıldı.",
       "worker_name": "Nasır Biçer",
-      "employer": "Kaynakta belirtilmedi",
+      "employer": "İzmir'de fabrika",
       "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "death_date": "2025-11-26",
+      "cause": "Çalıştığı fabrikada asılı halde bulunma",
+      "legal_status": "Otopsi işlemlerinin ardından cenazenin Yüksekova'ya götürüldüğü bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "nasir-bicer-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
+          "id": "nasir-bicer-izmir-fabrika-il-duzeyi",
+          "label": "İzmir'de çalıştığı fabrika (il düzeyi)",
+          "province_key": "IZMIR",
+          "province": "İzmir",
           "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "lat": 38.42,
+          "lng": 27.14,
+          "geocode_precision": "province_centroid",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Nasır Biçer adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynaklar Nasır Biçer'in İzmir'de çalıştığı fabrikada asılı halde bulunduğunu aktardı; fabrika adı, ilçe veya adres verilmediği için İzmir il merkezi geçici konum olarak kullanıldı."
         }
       ],
       "timeline": [
@@ -13408,6 +13662,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Nasır Biçer adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-26",
+          "status": "location_verified",
+          "note": "Nasır Biçer için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla İzmir'de çalıştığı fabrika (il düzeyi) konumuna güncellendi."
         }
       ],
       "sources": [
@@ -13424,8 +13683,23 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "İzmir’de Şüpheli Ölüm: 22 Yaşındaki Genç, Çalıştığı Fabrikada Asılı Halde Bulundu!",
+          "url": "https://www.nhaberizmir.com/izmir-supheli-olum-nasir-bicer-fabrika/",
+          "publisher": "N Haber İzmir",
+          "type": "news",
+          "published_at": "2025-11-26"
+        },
+        {
+          "title": "Cansız bedeni bulunan Nasır Biçer Yüksekova’da toprağa verildi",
+          "url": "https://www.hakkariobjektifhaber.com/cansiz-bedeni-bulunan-nasir-bicer-yuksekovada-topraga-verildi-59062h.htm",
+          "publisher": "Hakkari Objektif Haber",
+          "type": "news",
+          "published_at": "2025-11-27"
         }
-      ]
+      ],
+      "worker_age": 22
     },
     {
       "id": "ekrem-balaban-isig-kasim-2025",
@@ -13483,28 +13757,28 @@
       "id": "bilal-polat-isig-kasim-2025",
       "record_type": "worker_death",
       "status": "fatality_recorded",
-      "title": "Bilal Polat Kasım 2025 İSİG raporunda iş cinayeti olarak kaydedildi",
-      "summary": "İSİG Meclisi’nin Kasım 2025 iş cinayetleri raporu, Bilal Polat adlı/anonymize edilmiş işçiyi ay içinde iş cinayetlerinde hayatını kaybeden işçiler arasında andı. Bu batch geçişinde adına ilişkin bağımsız haber kaynağı bulunamadığı için kesin gün, il, işkolu, işveren ve olay nedeni rapor ayı dışında doğrulanamadı.",
+      "title": "Bilal Polat Batman'da çalıştığı işyerinde elektrik akımına kapılarak yaşamını yitirdi",
+      "summary": "Batman Bayındır Mahallesi'nde çalıştığı işyerinde elektrik akımına kapılan 23 yaşındaki Bilal Polat, hastanede yapılan müdahalelere rağmen kurtarılamadı.",
       "worker_name": "Bilal Polat",
-      "employer": "Kaynakta belirtilmedi",
+      "employer": "Batman'da işyeri",
       "sector": "Kaynakta belirtilmedi",
-      "death_date": "2025-11",
-      "cause": "İSİG raporunda iş cinayeti olarak kaydedildi; olay nedeni bu geçişte doğrulanamadı",
-      "legal_status": "Bağımsız haber veya hukuki süreç bilgisi bu geçişte bulunamadı.",
+      "death_date": "2025-11-17",
+      "cause": "Çalıştığı işyerinde elektrik akımına kapılma",
+      "legal_status": "Olayla ilgili soruşturma başlatıldığı bildirildi.",
       "linked_incident_count": 1,
-      "last_verified_at": "2026-05-04",
+      "last_verified_at": "2026-05-05",
       "locations": [
         {
-          "id": "bilal-polat-isig-kasim-2025-turkiye",
-          "label": "Türkiye (Kasım 2025 İSİG raporu; il/ilçe doğrulanamadı)",
-          "province_key": "TURKIYE",
-          "province": "Türkiye",
-          "district": "",
-          "lat": 38.9637,
-          "lng": 35.2433,
-          "geocode_precision": "unknown",
+          "id": "bilal-polat-batman-bayindir",
+          "label": "Batman Merkez Bayındır Mahallesi'nde işyeri",
+          "province_key": "BATMAN",
+          "province": "Batman",
+          "district": "Merkez",
+          "lat": 37.891,
+          "lng": 41.125,
+          "geocode_precision": "neighborhood_centroid",
           "fatality_count": 1,
-          "location_basis": "İSİG Kasım 2025 raporu Bilal Polat adını/baş harflerini listeliyor, ancak tekil olay için il, ilçe veya adres bilgisi vermiyor; bağımsız haber kaynağı bu geçişte bulunamadığı için Türkiye merkez koordinatı geçici yer tutucu olarak kullanıldı."
+          "location_basis": "Kaynak olayın Batman Bayındır Mahallesi'nde çalıştığı işyerinde meydana geldiğini aktardı; açık işyeri adresi verilmediği için mahalle merkezi yaklaşık kullanıldı."
         }
       ],
       "timeline": [
@@ -13512,6 +13786,11 @@
           "date": "2025-11",
           "status": "fatality_recorded",
           "note": "İSİG Meclisi Bilal Polat adını/baş harflerini Kasım 2025’te iş cinayetlerinde hayatını kaybeden işçiler arasında saydı; kesin olay günü ve yeri bu geçişte doğrulanamadı."
+        },
+        {
+          "date": "2025-11-17",
+          "status": "location_verified",
+          "note": "Bilal Polat için Kasım 2025 kaydındaki genel Türkiye yer tutucusu, kaynak taramasıyla Batman Merkez Bayındır Mahallesi'nde işyeri konumuna güncellendi."
         }
       ],
       "sources": [
@@ -13528,8 +13807,16 @@
           "publisher": "İşçi Gazetesi",
           "type": "report_mirror",
           "published_at": "2025-12-05"
+        },
+        {
+          "title": "Batman'da elektrik akımına kapılan 23 yaşındaki işçi hayatını kaybetti",
+          "url": "https://www.iscihaber.net/gundem/batmanda-elektrik-akimina-kapilan-23-yasindaki-isci-hayatini-kaybetti/190125",
+          "publisher": "İşçi Haber",
+          "type": "news",
+          "published_at": "2025-11-17"
         }
-      ]
+      ],
+      "worker_age": 23
     },
     {
       "id": "tufan-mutlu-isig-kasim-2025",
