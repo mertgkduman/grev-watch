@@ -21,7 +21,11 @@
       <button class="ghost-btn mobile-filter-btn" id="mobile-filter-btn" type="button" data-i18n="nav.filters">Filtre</button>
       <button class="ghost-btn desktop-nav" id="methodology-btn" type="button" data-i18n="nav.methodology">Yöntem</button>
       <button class="ghost-btn desktop-nav" id="sources-btn" type="button" data-i18n="nav.sources">Kaynaklar</button>
-      <button class="ghost-btn" id="lang-btn" type="button" aria-label="Switch language">EN</button>
+      <div class="language-options" role="group" aria-label="Language preference" data-i18n-aria-label="language.preference">
+        <button class="ghost-btn lang-btn active" type="button" data-lang="tr" aria-pressed="true" aria-label="Türkçe">TR</button>
+        <button class="ghost-btn lang-btn" type="button" data-lang="en" aria-pressed="false" aria-label="English">EN</button>
+        <button class="ghost-btn lang-btn" type="button" data-lang="kmr" aria-pressed="false" aria-label="Kurdish (Kurmanji / Northern Kurdish)">KMR</button>
+      </div>
       <button class="primary-btn" id="open-submit-btn" type="button" data-i18n="nav.submit">+ Bildir</button>
     </nav>
   </header>

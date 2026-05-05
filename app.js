@@ -131,9 +131,18 @@ const LAYER_COLORS = {
   union_arrest_released: "#7c6f64",
 };
 
+const LANGUAGES = ["tr", "en", "kmr"];
+const LANGUAGE_META = {
+  tr: { label: "TR", aria: "Türkçe", htmlLang: "tr", locale: "tr-TR" },
+  en: { label: "EN", aria: "English", htmlLang: "en", locale: "en" },
+  kmr: { label: "KMR", aria: "Kurdish (Kurmanji / Northern Kurdish)", htmlLang: "kmr-Latn", locale: "kmr-Latn-TR" },
+};
+const KMR_MONTHS = ["rêbendanê", "reşemiyê", "adarê", "avrêlê", "gulana", "pûşperê", "tîrmehê", "gelawêjê", "rezberê", "kewçêrê", "sermawezê", "berfanbarê"];
+
 const COPY = {
   tr: {
     nav: { filters: "Filtre", listAll: "Listele", methodology: "Yöntem", sources: "Kaynaklar", submit: "+ Bildir" },
+    language: { preference: "Dil tercihi" },
     common: { cancel: "Vazgeç", close: "Kapat", notSpecified: "Belirtilmedi", source: "Kaynak" },
     stats: { label: "Genel görünüm", total: "Toplam kayıt", deaths: "İş cinayeti", strikes: "Süren grev", arrests: "Tutuklu emekçi" },
     filters: {
@@ -226,6 +235,7 @@ const COPY = {
       date: "Tarih",
       cause: "Ölüm nedeni / olay",
       fatalityCount: "İş cinayeti sayısı",
+      fatalities: "iş cinayeti",
       legalStatus: "Hukuki süreç",
       union: "Sendika / örgüt",
       actionType: "Eylem türü",
@@ -294,6 +304,7 @@ const COPY = {
   },
   en: {
     nav: { filters: "Filter", listAll: "List", methodology: "Method", sources: "Sources", submit: "+ Report" },
+    language: { preference: "Language preference" },
     common: { cancel: "Cancel", close: "Close", notSpecified: "Not specified", source: "Source" },
     stats: { label: "Overview", total: "Total records", deaths: "Workplace killings", strikes: "Ongoing strikes", arrests: "Jailed labor figures" },
     filters: {
@@ -386,6 +397,7 @@ const COPY = {
       date: "Date",
       cause: "Cause / incident",
       fatalityCount: "Fatalities",
+      fatalities: "fatalities",
       legalStatus: "Legal process",
       union: "Union / organization",
       actionType: "Action type",
@@ -452,6 +464,551 @@ const COPY = {
     },
     sources: { label: "Sources", title: "Initial source pool" },
   },
+  kmr: {
+    nav: { filters: "Fîltre", listAll: "Lîste", methodology: "Rêbaz", sources: "Çavkanî", submit: "+ Ragihîne" },
+    language: { preference: "Vebijarka zimanê" },
+    common: { cancel: "Betal bike", close: "Bigire", notSpecified: "Nehatiye destnîşankirin", source: "Çavkanî" },
+    stats: { label: "Dîtina giştî", total: "Hemû tomar", deaths: "Kuştinên kar", strikes: "Grevên didomin", arrests: "Kesên kedê yên girtî" },
+    filters: {
+      panel: "Fîltre",
+      panelTitle: "Tomaran teng bike",
+      search: "Bigere",
+      searchPlaceholder: "Kardêr, sendîka, dibistan, parêzgeh...",
+      dateRange: "Navbera dîrokan",
+      months: "Meh",
+      province: "Parêzgeh",
+      sector: "Sektor",
+      dateRanges: {
+        all: "Hemû dîrok",
+        last_30_days: "30 rojên dawî",
+        last_3_months: "3 mehên dawî",
+        last_6_months: "6 mehên dawî",
+      },
+      allProvinces: "Hemû parêzgeh",
+      allSectors: "Hemû sektor",
+      layers: "Qat",
+      actionType: "Cureyê grevê / çalakiyê",
+    },
+    map: { results: "encam" },
+    empty: {
+      title: "Ji nexşeyê tomarek hilbijêre",
+      text: "Nexşeya standard kuştinên kar ên di navbera dîrokên hilbijartî de, grevên didomin, bangên çalakiyê yên nêzîk û girtinên heyî yên kedê nîşan dide.",
+      context: "Çavkaniyên têkildar",
+    },
+    list: {
+      label: "Lîsteya tomaran",
+      title: "Tomarên fîltrekirî",
+      countLabel: "tomar",
+      empty: "Di van fîltreyên de tomar tune.",
+    },
+    recordType: {
+      worker_death: "Kuştina kar",
+      strike: "Grev / çalakiya karkeran",
+      labor_retaliation: "Bersiva cezayî ya li dijî kedê",
+      action_call: "Bangewaziya çalakî / piştgiriyê",
+      mesem_school: "Dibistana MESEM",
+      union_labor_arrest: "Girtina kedê",
+    },
+    status: {
+      fatality_recorded: "Tomara kuştina kar",
+      decision_taken: "Biryarê grevê hat girtin",
+      ongoing: "Didome",
+      ended: "Bi dawî bû",
+      postponed_banned: "Hat paşxistin / qedexekirin",
+      labor_retaliation_reported: "Bersiva cezayî ya li dijî kedê hate ragihandin",
+      labor_retaliation_reversed: "Ji aliyê dadgehê ve hate vegerandin",
+      action_call_upcoming: "Bang",
+      action_call_happened: "Pêk hat",
+      active_school: "Dibistana çalak",
+      currently_arrested: "Girtî",
+      released: "Berdan",
+      unknown: "Nayê zanîn",
+    },
+    layer: {
+      worker_death_recent: "Kuştina kar",
+      strike_ongoing: "Grevê didome",
+      labor_retaliation: "Bersiva cezayî ya li dijî kedê",
+      strike_ended: "Grevê bi dawî bû",
+      action_call_upcoming: "Bangewaziya çalakî / piştgiriyê",
+      action_call_happened: "Çalakiya pêkhatî",
+      strike_decision: "Biryarê grevê",
+      strike_postponed: "Grevê hatiye paşxistin / qedexekirin",
+      mesem_school: "Dibistana MESEM",
+      union_arrest_current: "Girtî",
+      union_arrest_released: "Berdan",
+    },
+    quickLayer: {
+      worker_death_recent: "Kuştin",
+      strike_ongoing: "Grev",
+      action_call_upcoming: "Bang",
+      union_arrest_current: "Girtî",
+    },
+    actionType: {
+      legal_strike: "Grevê qanûnî",
+      fiili_wildcat: "Fiilî / bê biryara fermî",
+      protest: "Xwepêşandan",
+      bargaining_dispute: "Nakokiya peymana komî / danûstandinê",
+      solidarity_action: "Çalakiya piştgiriyê",
+    },
+    detail: {
+      summary: "Kurte",
+      workerName: "Karker",
+      age: "Temen",
+      employer: "Kardêr / sazî",
+      sector: "Sektor",
+      date: "Dîrok",
+      cause: "Sedem / bûyer",
+      fatalityCount: "Hejmara kuştinên kar",
+      fatalities: "kuştina kar",
+      legalStatus: "Pêvajoya hiqûqî",
+      union: "Sendîka / rêxistin",
+      actionType: "Cureyê çalakiyê",
+      retaliationType: "Cureyê bersiva cezayî",
+      workers: "Beşdarên nêzîkî",
+      demands: "Daxwaz / mijar",
+      decisionDate: "Dîroka biryarê",
+      eventDate: "Dîroka çalakiyê",
+      startDate: "Destpêk",
+      endDate: "Dawî",
+      schoolName: "Navê dibistanê",
+      institutionCode: "Koda sazîyê",
+      activeDate: "Çalakiya tê zanîn",
+      linkedIncidents: "Hejmara bûyerên girêdayî",
+      person: "Kes / kom",
+      role: "Rol",
+      detentionDate: "Dîroka girtinê",
+      custodyStatus: "Rewşa heyî",
+      accusation: "Tawanbarî / rewşa hiqûqî",
+      locations: "Cih",
+      timeline: "Rêza demê",
+      sources: "Çavkanî",
+      lastVerified: "Teyîda dawî",
+      geocode: "Rastiya cihê",
+    },
+    geocodePrecision: {
+      exact: "koordinata rast",
+      venue_approx: "cihê civînê nêzîkî",
+      district_centroid: "navenda navçeyê",
+      province_centroid: "navenda parêzgehê",
+      unknown: "nayê zanîn",
+    },
+    submit: {
+      label: "Rêza nirxandinê",
+      title: "Çalakî an çavkaniyê ragihîne",
+      recordType: "Cureyê tomarê",
+      province: "Parêzgeh",
+      caseTitle: "Sernav",
+      caseTitlePlaceholder: "Mînak: Mamosteyên Lîseya Îtalyan di grevê de ne",
+      summary: "Kurteya kin",
+      summaryPlaceholder: "Çi qewimî, kî tê de ye, kîjan daxwaz an binpêkirina mafê heye?",
+      location: "Navê cihê",
+      locationPlaceholder: "Fabrîka, dibistan, dadgeh, meydan...",
+      date: "Dîrok",
+      sourceUrl: "URL ya çavkaniyê",
+      sourceTitle: "Sernavê çavkaniyê",
+      contact: "Têkilî",
+      contactPlaceholder: "E-nameya bijarte",
+      note: "Ragihandin piştî nirxandina edîtorî tên weşandin. Medyaya civakî an vegotina şahidan bi tena serê xwe wek tomara piştrastkirî nayê qebûlkirin.",
+      send: "Ji bo nirxandinê bişîne",
+      successTitle: "Ragihandin hate wergirtin",
+      successLocal: "Ji ber ku Supabase nehatiye saz kirin, ragihandin di vê gerokê de di rêza demo de hate tomarkirin.",
+      successRemote: "Ragihandin di rêza nirxandina Supabase de hate tomarkirin.",
+      missing: "Cureyê tomarê, sernav, kurte, parêzgeh û URL ya çavkaniyê pêwîst in.",
+      badUrl: "URL ya çavkaniyê divê bi http an https dest pê bike.",
+      badCoords: "Koordînat divê bi hev re bên nivîsîn û hejmar bin.",
+    },
+    methodology: {
+      label: "Rêbaz",
+      title: "Rêgezên tomar û piştrastkirinê",
+      p1: "GrevTakip grev, çalakiyên fiilî yên karkeran, kuştinên kar, dibistanên MESEM û girtinên li dijî rêxistinên kedê di yek şopînerê nexşeyê de nîşan dide. Her xal mînaka cihê nexşekirî ye; yek doz dikare çend cihan hebîne.",
+      p2: "Tomarên grevê rewşên biryar hate girtin, didome, bi dawî bû û hate paşxistin / qedexekirin ji hev cuda dikin. Tomarên kuştina kar, dibistana MESEM û girtinê etîketên rewşa xwe bi kar tînin.",
+      p3: "Disiplîna çavkaniyê ji pratîka EÇT û Cornellê tê adaptekirin: daxuyaniyên sendîkayê, nûçeyên kedê, belgeyên fermî û raporên lêkolînê wek çavkaniyên bihêz tên dîtin; medyaya civakî û şahidî pêdivî bi piştrastkirina zêde hene.",
+    },
+    sources: { label: "Çavkanî", title: "Hewza destpêkê ya çavkaniyan" },
+  },
+};
+
+const DATA_COPY = {
+  en: {
+    joiner: " · ",
+    listSeparator: ", ",
+    record: {
+      workplaceKillingTitle: "{name} died in a workplace incident",
+      workplaceKillingTitleUnknown: "Workplace killing recorded",
+      mesemTitle: "Vocational Education Center",
+      strikeTitle: "{subject} workers' action",
+      actionCallTitle: "{subject} action call",
+      retaliationTitle: "Labor retaliation at {subject}",
+      arrestTitle: "{subject} arrested",
+      workplaceKillingSummary: "{name} died{date}{place}{employer}. Reported cause / incident: {cause}.{legal}",
+      mesemSummary: "This school appears as a Vocational Education Center in the MEB institution list. Coordinates are approximate at province level until exact school coordinates are reviewed.",
+      strikeSummary: "This record tracks a labor action{subject}{place}. Current status: {status}.{participants}{dates}{demands}",
+      actionCallSummary: "This record tracks an action or solidarity call{subject}{place}.{dates}{demands}",
+      retaliationSummary: "This record tracks reported labor retaliation{subject}{place}. Retaliation type: {type}.{legal}",
+      arrestSummary: "This record tracks the arrest or detention of {subject}.{organization}{role}{legal}",
+      participants: " Participants: {count}.",
+      dates: " Dates: {dates}.",
+      demands: " Demands / issues: {demands}.",
+      legal: " Legal status: {text}.",
+      organization: " Organization: {text}.",
+      role: " Role: {text}.",
+    },
+    timeline: {
+      fatality_recorded: "The workplace killing was recorded from public sources.",
+      decision_taken: "The strike decision was announced.",
+      ongoing: "The action was reported as ongoing.",
+      ended: "The action was reported as ended.",
+      postponed_banned: "The strike was reported as postponed or banned.",
+      labor_retaliation_reported: "Retaliation against the labor action was reported.",
+      labor_retaliation_reversed: "A court or authority reversed the retaliation measure.",
+      action_call_upcoming: "The action call was announced.",
+      action_call_happened: "The action was reported as held.",
+      active_school: "Compiled from the MEB institution list.",
+      currently_arrested: "The person or group was reported as jailed.",
+      released: "The person or group was reported as released.",
+      unknown: "Timeline update recorded.",
+    },
+    exact: {
+      "1 Mayıs Birlik, Mücadele ve Dayanışma Günü": "May Day for Unity, Struggle and Solidarity",
+      "Ağır kargoların kuryelere zorla taşıtılmaması": "Stop forcing couriers to carry heavy cargo",
+      "Banka promosyonlarının eksiksiz ödenmesi": "Full payment of bank promotions",
+      "Basın özgürlüğü": "Press freedom",
+      "Baskı ve tehditlerin son bulması": "End pressure and threats",
+      "Çalışma koşulları": "Working conditions",
+      "Doruk Madencilik işçileriyle dayanışma": "Solidarity with Doruk Madencilik workers",
+      "Düşük zam dayatmasının geri çekilmesi": "Withdrawal of the imposed low raise",
+      "Düşük zam teklifinin geri çekilmesi": "Withdrawal of the low wage offer",
+      "Emek ve dayanışma temalı kültür etkinliği": "Labor and solidarity themed cultural event",
+      "Emek, demokrasi, barış ve adalet talepleri": "Demands for labor, democracy, peace, and justice",
+      "Enflasyon farklarının yatırılması": "Payment of inflation differences",
+      "Gasp edilen yasal hakların verilmesi": "Restoration of seized legal rights",
+      "Gazetecilerin sendikal hakları": "Journalists' union rights",
+      "Geciken maaşların ödenmesi": "Payment of delayed salaries",
+      "Geriye dönük alacakların ödenmesi": "Payment of retroactive receivables",
+      "Grev kırıcılığı niteliğindeki geçici öğretmen görevlendirmelerinin durdurulması": "Stop temporary teacher assignments that function as strikebreaking",
+      "Haftalık 40 saatin 5 güne bölünmesi": "Spread the 40-hour week over 5 days",
+      "Hak gasplarına ve baskılara son verilmesi": "End rights violations and pressure",
+      "İki yıllık sözleşme": "Two-year contract",
+      "İlk altı ay için daha yüksek ücret artışı": "Higher wage increase for the first six months",
+      "İnsanca yaşayacak ücret": "A wage fit for a decent life",
+      "İSİG kurallarına uygun güvenli çalışma ortamı": "Safe work environment compliant with occupational safety rules",
+      "İş durduran işçilerin işten atılmaması": "No dismissal of workers who stopped work",
+      "İşçi hakları ve toplumsal mücadele görünürlüğü": "Visibility for workers' rights and social struggles",
+      "İşe iade veya tazminat haklarının güvenceye alınması": "Guarantee reinstatement or compensation rights",
+      "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması": "Bring all subcontracted warehouse workers onto staff without changing their sector classification",
+      "İşten çıkarılan emekçilerin haklarının korunması": "Protect the rights of dismissed workers",
+      "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi": "Guarantee return to work or compensation for dismissed workers",
+      "İşten çıkarılan işçilerin işe iadesi": "Reinstatement of dismissed workers",
+      "Kazanılmış haklara yönelik karşı tekliflerin geri çekilmesi": "Withdrawal of counteroffers against acquired rights",
+      "Kıdem ve ihbar tazminatlarının ödenmesi": "Payment of severance and notice compensation",
+      "Kod 22 ve benzeri işten çıkarma kodlarının kaldırılması": "Remove Code 22 and similar dismissal codes",
+      "Kolluk baskısı ve grev kırıcılığının son bulması": "End law-enforcement pressure and strikebreaking",
+      "Madenin kamulaştırılması ve iş güvencesi": "Nationalization of the mine and job security",
+      "Net yüzde 50 zam": "Net 50% raise",
+      "Ödenmeyen maaşların ödenmesi": "Payment of unpaid salaries",
+      "Ödenmeyen maaşların yatırılması": "Payment of unpaid salaries",
+      "Ödenmeyen ücret, tazminat ve özlük haklarının ödenmesi": "Payment of unpaid wages, compensation, and employment rights",
+      "Ödenmeyen ücretlerin ödenmesi": "Payment of unpaid wages",
+      "Paket başı ücret ve ödeme sisteminin iyileştirilmesi": "Improve per-package pay and the payment system",
+      "Pazar günü çalışma zorunluluğunun kaldırılması": "End mandatory Sunday work",
+      "Sendika hakkının tanınması": "Recognition of the right to unionize",
+      "Sendikal baskıların ve eylem yasaklarının son bulması": "End anti-union pressure and action bans",
+      "Sendikal faaliyet nedeniyle işten çıkarılan işçilerin işe iadesi": "Reinstatement of workers dismissed for union activity",
+      "Sosyal haklar": "Social benefits",
+      "Sosyal hakların artırılması": "Increase social benefits",
+      "Taksim yasağına karşı toplanma ve yürüyüş çağrısı": "Call to assemble and march against the Taksim ban",
+      "Tazminat ve özlük haklarının ödenmesi": "Payment of compensation and employment rights",
+      "Toplu iş sözleşmesi": "Collective bargaining agreement",
+      "Toplu iş sözleşmesinin bağlayıcı metinle imzalanması": "Signing the collective bargaining agreement as a binding text",
+      "Toplu iş sözleşmesinin imzalanması": "Signing the collective bargaining agreement",
+      "Toplu sözleşme": "Collective agreement",
+      "Toplu sözleşmeden doğan alacakların ödenmesi": "Payment of receivables arising from the collective agreement",
+      "Toplu sözleşmenin yenilenmesi": "Renewal of the collective agreement",
+      "Tutuklu gazetecilerin ve sendikacıların serbest bırakılması": "Release jailed journalists and trade unionists",
+      "Ücret artışı": "Wage increase",
+      "Ücret eşitsizliğinin giderilmesi": "Eliminate wage inequality",
+      "Ücret ve çalışma koşullarının iyileştirilmesi": "Improve wages and working conditions",
+      "Ücretsiz gösterimler": "Free screenings",
+      "Üretim için gerekli malzeme ve iş güvencesi": "Materials needed for production and job security",
+      "Vergi kesintilerinin işveren tarafından karşılanması": "Employer coverage of tax deductions",
+      "Yan hak ve kart ödemelerinin yapılması": "Payment of fringe benefits and card payments",
+      "Yönetici baskısı ve puan/ceza uygulamalarının son bulması": "End manager pressure and point/penalty practices",
+      "Yüzde 28 zam teklifinin geri çekilmesi": "Withdrawal of the 28% raise offer",
+      "Zorla ücretsiz izin uygulamasının sonlandırılması": "End forced unpaid leave",
+      "Mesleki Eğitim Merkezi": "Vocational Education Center",
+      "MEB Mesleğim Hayatım MTEGM kurum listesi": "MEB Mesleğim Hayatım MTEGM institution list",
+      "MEB Mesleğim Hayatım MTEGM kurum listesinden derlendi.": "Compiled from the MEB Mesleğim Hayatım MTEGM institution list.",
+      "Kaynakta belirtilmedi": "Not specified in the source",
+      "Kaynakta ayrıntılandırılmayan": "Not detailed in the source",
+    },
+    replacements: [
+      ["İş cinayeti", "Workplace killing"],
+      ["iş cinayeti", "workplace killing"],
+      ["iş kazası", "workplace accident"],
+      ["yaşamını yitirdi", "died"],
+      ["yaşamını yitirmesi", "death"],
+      ["çalışırken", "while working"],
+      ["çalıştırılırken", "while being made to work"],
+      ["yüksekten düşme", "fall from height"],
+      ["yüksekten düşerek", "after falling from height"],
+      ["asansör boşluğuna düşme", "fall into an elevator shaft"],
+      ["elektrik akımına kapılma", "electric shock"],
+      ["göçük", "collapse"],
+      ["yangın", "fire"],
+      ["patlama", "explosion"],
+      ["kalp krizi", "heart attack"],
+      ["soruşturma başlatıldığı", "an investigation was opened"],
+      ["soruşturma başlatıldığını aktardı", "reported that an investigation was opened"],
+      ["işveren veya idari süreç ayrıntısı belirtilmedi", "employer or administrative-process details were not specified"],
+      ["bu geçişte doğrulanamadı", "could not be verified in this pass"],
+      ["Kamyonetin çarpması", "pickup-truck collision"],
+      ["kamyonetin çarpması", "pickup-truck collision"],
+      ["kamyonun altında kalarak", "after being trapped under a truck"],
+      ["altında kalma", "being trapped underneath"],
+      ["kanalizasyon çalışması", "sewerage work"],
+      ["kanalizasyon", "sewerage"],
+      ["altyapı", "infrastructure"],
+      ["Grev kırıcılığı", "Strikebreaking"],
+      ["geçici öğretmen görevlendirmesi", "temporary teacher assignment"],
+      ["grev kararı", "strike decision"],
+      ["grevi sona erdi", "strike ended"],
+      ["programları ve çağrıları", "programs and calls"],
+      ["fiili grevi", "de facto strike"],
+      ["grevi", "strike"],
+      ["direnişi", "resistance"],
+      ["eylemleri", "actions"],
+      ["eylemi", "action"],
+      ["iş bırakma eylemi", "work stoppage"],
+      ["işçileri", "workers"],
+      ["öğretmenleri", "teachers"],
+      ["emekçileri", "workers"],
+      ["dayanışma eylemleri", "solidarity actions"],
+      ["açlık grevi", "hunger strike"],
+      ["çağrısı", "call"],
+      ["açılışı", "opening"],
+      ["tutuklandı", "arrested"],
+      ["tutuklu", "jailed"],
+      ["Eğitim", "Education"],
+      ["Tekstil", "Textile"],
+      ["hazır giyim", "apparel"],
+      ["Metal", "Metal"],
+      ["Kargo", "Cargo"],
+      ["lojistik", "logistics"],
+      ["Belediye hizmetleri", "Municipal services"],
+      ["Belediye", "Municipal"],
+      ["Madencilik", "Mining"],
+      ["Maden", "Mining"],
+      ["Sağlık", "Health"],
+      ["Depo", "Warehouse"],
+      ["perakende", "retail"],
+      ["Kültür", "Culture"],
+      ["Basın", "Press"],
+      ["medya", "media"],
+      ["Genel emek gündemi", "General labor agenda"],
+      ["Kozmetik", "Cosmetics"],
+      ["kimya", "chemicals"],
+      ["Tarım", "Agriculture"],
+      ["çocuk işçilik", "child labor"],
+      ["Gıda", "Food"],
+      ["Enerji", "Energy"],
+      ["İnşaat", "Construction"],
+      ["Mobilya", "Furniture"],
+      ["imalat", "manufacturing"],
+      ["Taşımacılık", "Transport"],
+      ["bakım-onarım", "maintenance and repair"],
+      ["Özel", "Private"],
+      ["İtalyan Lisesi", "Italian High School"],
+      ["Milli Eğitim Bakanlığı", "Ministry of National Education"],
+    ],
+  },
+  kmr: {
+    joiner: " · ",
+    listSeparator: ", ",
+    record: {
+      workplaceKillingTitle: "{name} di bûyera kar de canê xwe ji dest da",
+      workplaceKillingTitleUnknown: "Kuştina kar hate tomarkirin",
+      mesemTitle: "Navenda Perwerdehiya Pîşeyî",
+      strikeTitle: "Çalakiya karkerên {subject}",
+      actionCallTitle: "Banga çalakiyê ya {subject}",
+      retaliationTitle: "Bersiva cezayî ya li dijî kedê li {subject}",
+      arrestTitle: "{subject} hate girtin",
+      workplaceKillingSummary: "{name}{date}{place}{employer} di bûyera kar de canê xwe ji dest da. Sedema ragihandî / bûyer: {cause}.{legal}",
+      mesemSummary: "Ev dibistan di lîsteya sazîyan a MEB de wek Navenda Perwerdehiya Pîşeyî xuya dike. Heta koordînatên rast bên nirxandin, cih li asta parêzgehê nêzîkî ye.",
+      strikeSummary: "Ev tomar çalakiya kedê{subject}{place} dişopîne. Rewşa heyî: {status}.{participants}{dates}{demands}",
+      actionCallSummary: "Ev tomar banga çalakî an piştgiriyê{subject}{place} dişopîne.{dates}{demands}",
+      retaliationSummary: "Ev tomar bersiva cezayî ya li dijî kedê{subject}{place} dişopîne. Cure: {type}.{legal}",
+      arrestSummary: "Ev tomar girtina {subject} dişopîne.{organization}{role}{legal}",
+      participants: " Beşdar: {count}.",
+      dates: " Dîrok: {dates}.",
+      demands: " Daxwaz / mijar: {demands}.",
+      legal: " Rewşa hiqûqî: {text}.",
+      organization: " Rêxistin: {text}.",
+      role: " Rol: {text}.",
+    },
+    timeline: {
+      fatality_recorded: "Kuştina kar ji çavkaniyên vekirî hate tomarkirin.",
+      decision_taken: "Biryarê grevê hate ragihandin.",
+      ongoing: "Hat ragihandin ku çalakî didome.",
+      ended: "Hat ragihandin ku çalakî bi dawî bû.",
+      postponed_banned: "Hat ragihandin ku grev hate paşxistin an qedexekirin.",
+      labor_retaliation_reported: "Bersiva cezayî ya li dijî çalakiya kedê hate ragihandin.",
+      labor_retaliation_reversed: "Dadgeh an rayedarî vê biryara cezayî vegerand.",
+      action_call_upcoming: "Banga çalakiyê hate ragihandin.",
+      action_call_happened: "Hat ragihandin ku çalakî pêk hat.",
+      active_school: "Ji lîsteya sazîyan a MEB hate berhevkirin.",
+      currently_arrested: "Hat ragihandin ku kes an kom girtî ye.",
+      released: "Hat ragihandin ku kes an kom hat berdan.",
+      unknown: "Nûvekirina rêza demê hate tomarkirin.",
+    },
+    exact: {
+      "1 Mayıs Birlik, Mücadele ve Dayanışma Günü": "Roja 1ê Gulanê ya Yekîtî, Tekoşîn û Piştgiriyê",
+      "Ağır kargoların kuryelere zorla taşıtılmaması": "Nehêle barkirina barên giran bi zorê li ser qasidiyan",
+      "Banka promosyonlarının eksiksiz ödenmesi": "Dayîna bêkêmasî ya promosyonên bankayê",
+      "Basın özgürlüğü": "Azadiya çapemeniyê",
+      "Baskı ve tehditlerin son bulması": "Dawîkirina zext û tehdîdan",
+      "Çalışma koşulları": "Mercên kar",
+      "Doruk Madencilik işçileriyle dayanışma": "Piştgirî bi karkerên Doruk Madencilik re",
+      "Düşük zam dayatmasının geri çekilmesi": "Vekişandina ferzkirina zêdekirina kêm",
+      "Düşük zam teklifinin geri çekilmesi": "Vekişandina pêşniyara zêdekirina kêm",
+      "Emek ve dayanışma temalı kültür etkinliği": "Çalakiya çandî ya bi mijara ked û piştgiriyê",
+      "Emek, demokrasi, barış ve adalet talepleri": "Daxwazên ked, demokrasî, aşîtî û edaletê",
+      "Enflasyon farklarının yatırılması": "Dayîna cudahiyên enflasyonê",
+      "Gasp edilen yasal hakların verilmesi": "Vegerandina mafên qanûnî yên hatine desteserkirin",
+      "Gazetecilerin sendikal hakları": "Mafên sendîkayî yên rojnamevanan",
+      "Geciken maaşların ödenmesi": "Dayîna meaşên derengmayî",
+      "Geriye dönük alacakların ödenmesi": "Dayîna deynên paşdemî",
+      "Grev kırıcılığı niteliğindeki geçici öğretmen görevlendirmelerinin durdurulması": "Rawestandina wezîfedarkirina demkî ya mamosteyan ku wek şikandina grevê kar dike",
+      "Haftalık 40 saatin 5 güne bölünmesi": "Dabeşkirina 40 saetên hefteyê li ser 5 rojan",
+      "Hak gasplarına ve baskılara son verilmesi": "Dawîkirina binpêkirina mafan û zextan",
+      "İki yıllık sözleşme": "Peymana du-salî",
+      "İlk altı ay için daha yüksek ücret artışı": "Zêdekirina meaşê ya bilindtir ji bo şeş mehên yekem",
+      "İnsanca yaşayacak ücret": "Meaşek ji bo jiyana bi rûmet",
+      "İSİG kurallarına uygun güvenli çalışma ortamı": "Jîngeha kar a ewle li gorî rêgezên ewlehiya kar",
+      "İş durduran işçilerin işten atılmaması": "Karkerên ku kar rawestandin neyên derxistin",
+      "İşçi hakları ve toplumsal mücadele görünürlüğü": "Xuyakirina mafên karkeran û tekoşînên civakî",
+      "İşe iade veya tazminat haklarının güvenceye alınması": "Ewlekirina mafê vegera kar an tezmînatê",
+      "İşkolu değişmeden tüm taşeron depo işçilerinin kadroya alınması": "Hemû karkerên depoyê yên taşeron bêyî guhartina şaxa karê bên kadroyê",
+      "İşten çıkarılan emekçilerin haklarının korunması": "Parastina mafên kedkarên derxistin",
+      "İşten çıkarılan işçiler için işe dönüş veya tazminat güvencesi": "Ewlekirina vegera kar an tezmînatê ji bo karkerên derxistin",
+      "İşten çıkarılan işçilerin işe iadesi": "Vegera karkerên derxistin bo kar",
+      "Kazanılmış haklara yönelik karşı tekliflerin geri çekilmesi": "Vekişandina pêşniyarên li dijî mafên qezencbûyî",
+      "Kıdem ve ihbar tazminatlarının ödenmesi": "Dayîna tezmînata qedem û agahdarkirinê",
+      "Kod 22 ve benzeri işten çıkarma kodlarının kaldırılması": "Rakirinên Kod 22 û kodên derxistinê yên wek wê",
+      "Kolluk baskısı ve grev kırıcılığının son bulması": "Dawîkirina zexta hêzên ewlehiyê û şikandina grevê",
+      "Madenin kamulaştırılması ve iş güvencesi": "Neteweyîkirina kanê û ewlehiya kar",
+      "Net yüzde 50 zam": "Zêdekirina safî ya ji sedî 50",
+      "Ödenmeyen maaşların ödenmesi": "Dayîna meaşên nedayî",
+      "Ödenmeyen maaşların yatırılması": "Dayîna meaşên nedayî",
+      "Ödenmeyen ücret, tazminat ve özlük haklarının ödenmesi": "Dayîna meaş, tezmînat û mafên karkirinê yên nedayî",
+      "Ödenmeyen ücretlerin ödenmesi": "Dayîna meaşên nedayî",
+      "Paket başı ücret ve ödeme sisteminin iyileştirilmesi": "Başkirina meaşa ser paketê û pergala dayînê",
+      "Pazar günü çalışma zorunluluğunun kaldırılması": "Rakirinên mecbûriyeta karê roja yekşemê",
+      "Sendika hakkının tanınması": "Naskirina mafê sendîkayê",
+      "Sendikal baskıların ve eylem yasaklarının son bulması": "Dawîkirina zextên sendîkayî û qedexeyên çalakiyê",
+      "Sendikal faaliyet nedeniyle işten çıkarılan işçilerin işe iadesi": "Vegera karkerên ji ber çalakiya sendîkayî derxistin bo kar",
+      "Sosyal haklar": "Mafên civakî",
+      "Sosyal hakların artırılması": "Zêdekirina mafên civakî",
+      "Taksim yasağına karşı toplanma ve yürüyüş çağrısı": "Bang ji bo civîn û meşê li dijî qedexeya Taksimê",
+      "Tazminat ve özlük haklarının ödenmesi": "Dayîna tezmînat û mafên karkirinê",
+      "Toplu iş sözleşmesi": "Peymana kar a komî",
+      "Toplu iş sözleşmesinin bağlayıcı metinle imzalanması": "Îmzekirina peymana kar a komî wek nivîsa girêdayî",
+      "Toplu iş sözleşmesinin imzalanması": "Îmzekirina peymana kar a komî",
+      "Toplu sözleşme": "Peymana komî",
+      "Toplu sözleşmeden doğan alacakların ödenmesi": "Dayîna deynên ji peymana komî derketî",
+      "Toplu sözleşmenin yenilenmesi": "Nûkirina peymana komî",
+      "Tutuklu gazetecilerin ve sendikacıların serbest bırakılması": "Berdana rojnamevan û sendîkavanên girtî",
+      "Ücret artışı": "Zêdekirina meaşê",
+      "Ücret eşitsizliğinin giderilmesi": "Rakirinên newekheviya meaşê",
+      "Ücret ve çalışma koşullarının iyileştirilmesi": "Başkirina meaş û mercên kar",
+      "Ücretsiz gösterimler": "Pêşandanên bêpere",
+      "Üretim için gerekli malzeme ve iş güvencesi": "Malzemeyên ji bo hilberînê û ewlehiya kar",
+      "Vergi kesintilerinin işveren tarafından karşılanması": "Barkirina birrînên bacê ji aliyê kardêr ve",
+      "Yan hak ve kart ödemelerinin yapılması": "Dayîna mafên alîkar û pereyên kartê",
+      "Yönetici baskısı ve puan/ceza uygulamalarının son bulması": "Dawîkirina zexta rêveberan û pergala xal/cezayê",
+      "Yüzde 28 zam teklifinin geri çekilmesi": "Vekişandina pêşniyara zêdekirina ji sedî 28",
+      "Zorla ücretsiz izin uygulamasının sonlandırılması": "Dawîkirina betlaneya bêpere ya bi zorê",
+      "Mesleki Eğitim Merkezi": "Navenda Perwerdehiya Pîşeyî",
+      "MEB Mesleğim Hayatım MTEGM kurum listesi": "Lîsteya sazîyan a MEB Mesleğim Hayatım MTEGM",
+      "MEB Mesleğim Hayatım MTEGM kurum listesinden derlendi.": "Ji lîsteya sazîyan a MEB Mesleğim Hayatım MTEGM hate berhevkirin.",
+      "Kaynakta belirtilmedi": "Di çavkaniyê de nehatiye destnîşankirin",
+      "Kaynakta ayrıntılandırılmayan": "Di çavkaniyê de bi hûrgilî nehatiye gotin",
+    },
+    replacements: [
+      ["İş cinayeti", "Kuştina kar"],
+      ["iş cinayeti", "kuştina kar"],
+      ["iş kazası", "qezaya kar"],
+      ["yaşamını yitirdi", "canê xwe ji dest da"],
+      ["yaşamını yitirmesi", "mirina wî/wê"],
+      ["çalışırken", "dema dixebitî"],
+      ["çalıştırılırken", "dema bi kar dihate xebitandin"],
+      ["yüksekten düşme", "ketina ji bilindahiyê"],
+      ["yüksekten düşerek", "piştî ketina ji bilindahiyê"],
+      ["asansör boşluğuna düşme", "ketina valahiya asansorê"],
+      ["elektrik akımına kapılma", "ketina bin elektrîkê"],
+      ["göçük", "hilweşîn"],
+      ["yangın", "agir"],
+      ["patlama", "teqîn"],
+      ["kalp krizi", "krîza dil"],
+      ["Kamyonetin çarpması", "lêdana kamyonetê"],
+      ["kamyonetin çarpması", "lêdana kamyonetê"],
+      ["kamyonun altında kalarak", "piştî ku di bin kamyonê de ma"],
+      ["altında kalma", "mayîna li binê"],
+      ["kanalizasyon çalışması", "xebata kanalîzasyonê"],
+      ["kanalizasyon", "kanalîzasyon"],
+      ["altyapı", "binesazî"],
+      ["Grev kırıcılığı", "Şikandina grevê"],
+      ["geçici öğretmen görevlendirmesi", "wezîfedarkirina demkî ya mamosteyan"],
+      ["grev kararı", "biryarê grevê"],
+      ["grevi sona erdi", "grev bi dawî bû"],
+      ["programları ve çağrıları", "bername û bang"],
+      ["fiili grevi", "greva fiilî"],
+      ["grevi", "grev"],
+      ["direnişi", "berxwedan"],
+      ["eylemleri", "çalakî"],
+      ["eylemi", "çalakî"],
+      ["iş bırakma eylemi", "çalakiya rawestandina kar"],
+      ["işçileri", "karkerên"],
+      ["öğretmenleri", "mamosteyên"],
+      ["emekçileri", "kedkarên"],
+      ["dayanışma eylemleri", "çalakiyên piştgiriyê"],
+      ["açlık grevi", "greva birçîbûnê"],
+      ["çağrısı", "bang"],
+      ["açılışı", "vekirin"],
+      ["tutuklandı", "hate girtin"],
+      ["tutuklu", "girtî"],
+      ["Eğitim", "Perwerde"],
+      ["Tekstil", "Tekstîl"],
+      ["hazır giyim", "cil û bergên amade"],
+      ["Metal", "Metal"],
+      ["Kargo", "Kargo"],
+      ["lojistik", "lojîstîk"],
+      ["Belediye hizmetleri", "Xizmetên şaredariyê"],
+      ["Belediye", "Şaredarî"],
+      ["Madencilik", "Kankanî"],
+      ["Maden", "Kan"],
+      ["Sağlık", "Tenduristî"],
+      ["Depo", "Depo"],
+      ["perakende", "firotina hûr"],
+      ["Kültür", "Çand"],
+      ["Basın", "Çapemenî"],
+      ["medya", "medya"],
+      ["Genel emek gündemi", "Rojema giştî ya kedê"],
+      ["Kozmetik", "Kozmetîk"],
+      ["kimya", "kîmya"],
+      ["Tarım", "Çandinî"],
+      ["çocuk işçilik", "xebata zarokan"],
+      ["Gıda", "Xwarin"],
+      ["Enerji", "Enerjî"],
+      ["İnşaat", "Avahî"],
+      ["Mobilya", "Mobîlya"],
+      ["imalat", "hilberîn"],
+      ["Taşımacılık", "Veguhestin"],
+      ["bakım-onarım", "lênêrîn û tamîr"],
+      ["Özel", "Taybet"],
+      ["İtalyan Lisesi", "Lîseya Îtalyan"],
+      ["Milli Eğitim Bakanlığı", "Wezareta Perwerdehiya Neteweyî"],
+    ],
+  },
 };
 
 const state = {
@@ -480,6 +1037,7 @@ async function init() {
   await loadRecords();
   populateControls();
   applyTranslations();
+  updateLanguageButtons();
   applyFilters();
 }
 
@@ -570,6 +1128,7 @@ function normalizeRecord(raw) {
     return {
       id: location.id || `${raw.id || raw.public_id || "record"}-${index}`,
       label: location.label || raw.location_label || raw.school_name || raw.employer || raw.title || province,
+      translations: location.translations || location.i18n || {},
       province_key: provinceKey || "",
       province,
       district: cleanTitle(location.district || raw.district || ""),
@@ -588,6 +1147,7 @@ function normalizeRecord(raw) {
     status: raw.status || raw.stage || "unknown",
     action_type: raw.action_type || null,
     title: raw.title || raw.school_name || "İsimsiz kayıt",
+    translations: raw.translations || raw.i18n || {},
     summary: raw.summary || "",
     worker_name: raw.worker_name || "",
     worker_age: raw.worker_age || raw.age || null,
@@ -619,6 +1179,7 @@ function normalizeRecord(raw) {
     locations,
     sources: (raw.sources || []).map((source) => ({
       title: source.title || source.source_title || source.url || "",
+      translations: source.translations || source.i18n || {},
       url: source.url || source.source_url || "",
       publisher: source.publisher || source.source_publisher || "",
       type: source.type || source.source_type || "",
@@ -628,6 +1189,7 @@ function normalizeRecord(raw) {
       date: item.date || null,
       status: item.status || item.stage || raw.status || "unknown",
       note: item.note || "",
+      translations: item.translations || item.i18n || {},
     })),
   };
 
@@ -711,14 +1273,14 @@ function populateControls() {
     ? `${presetOptions}<optgroup label="${escapeAttribute(t("filters.months"))}">${monthOptions}</optgroup>`
     : presetOptions;
 
-  const provinceOptions = [`<option value="">${t("filters.allProvinces")}</option>`]
-    .concat(PROVINCES.map((province) => `<option value="${escapeHtml(province.name)}">${escapeHtml(province.name)}</option>`));
+  const provinceOptions = [`<option value="" ${selectedAttribute(!state.province)}>${t("filters.allProvinces")}</option>`]
+    .concat(PROVINCES.map((province) => `<option value="${escapeAttribute(province.name)}" ${selectedAttribute(province.name === state.province)}>${escapeHtml(province.name)}</option>`));
   document.getElementById("province-filter").innerHTML = provinceOptions.join("");
-  document.getElementById("submission-province").innerHTML = `<option value=""></option>${PROVINCES.map((province) => `<option value="${escapeHtml(province.name)}">${escapeHtml(province.name)}</option>`).join("")}`;
+  document.getElementById("submission-province").innerHTML = `<option value=""></option>${PROVINCES.map((province) => `<option value="${escapeAttribute(province.name)}">${escapeHtml(province.name)}</option>`).join("")}`;
 
-  const sectors = Array.from(new Set(state.records.map((item) => item.sector).filter(Boolean))).sort((a, b) => a.localeCompare(b, "tr"));
-  document.getElementById("sector-filter").innerHTML = [`<option value="">${t("filters.allSectors")}</option>`]
-    .concat(sectors.map((sector) => `<option value="${escapeHtml(sector)}">${escapeHtml(sector)}</option>`)).join("");
+  const sectors = Array.from(new Set(state.records.map((item) => item.sector).filter(Boolean))).sort((a, b) => a.localeCompare(b, localeForLanguage()));
+  document.getElementById("sector-filter").innerHTML = [`<option value="" ${selectedAttribute(!state.sector)}>${t("filters.allSectors")}</option>`]
+    .concat(sectors.map((sector) => `<option value="${escapeAttribute(sector)}" ${selectedAttribute(sector === state.sector)}>${escapeHtml(sector)}</option>`)).join("");
 
   document.getElementById("submission-record-type").innerHTML = RECORD_TYPES
     .map((recordType) => `<option value="${recordType}">${t(`recordType.${recordType}`)}</option>`)
@@ -777,7 +1339,9 @@ function bindStaticEvents() {
   document.getElementById("mobile-filter-btn").addEventListener("click", openFilters);
   document.getElementById("close-filter-btn").addEventListener("click", closeFilters);
   document.getElementById("drawer-scrim").addEventListener("click", closeFilters);
-  document.getElementById("lang-btn").addEventListener("click", toggleLanguage);
+  document.querySelectorAll("[data-lang]").forEach((button) => {
+    button.addEventListener("click", () => setLanguage(button.dataset.lang));
+  });
   document.getElementById("list-records-btn").addEventListener("click", toggleRecordList);
   document.getElementById("open-submit-btn").addEventListener("click", () => openModal("submit-modal"));
   document.getElementById("methodology-btn").addEventListener("click", () => openModal("methodology-modal"));
@@ -805,6 +1369,10 @@ function closeFilters() {
 function optionHtml(value, label) {
   const selected = state.dateRange === value ? "selected" : "";
   return `<option value="${escapeAttribute(value)}" ${selected}>${escapeHtml(label)}</option>`;
+}
+
+function selectedAttribute(selected) {
+  return selected ? "selected" : "";
 }
 
 function toggleRecordList() {
@@ -839,14 +1407,32 @@ function updateListButton() {
   button.setAttribute("aria-label", `${t("nav.listAll")} - ${formatCount(state.filtered.length)} ${t("list.countLabel")}`);
 }
 
-function toggleLanguage() {
-  state.lang = state.lang === "tr" ? "en" : "tr";
-  document.documentElement.lang = state.lang;
-  document.getElementById("lang-btn").textContent = state.lang === "tr" ? "EN" : "TR";
+function setLanguage(lang) {
+  if (!LANGUAGES.includes(lang) || state.lang === lang) {
+    updateLanguageButtons();
+    return;
+  }
+
+  state.lang = lang;
+  document.documentElement.lang = LANGUAGE_META[state.lang].htmlLang;
   populateControls();
   applyTranslations();
+  updateLanguageButtons();
   applyFilters();
   if (state.selectedRecordId) renderDetail(getSelectedRecord());
+}
+
+function updateLanguageButtons() {
+  document.querySelectorAll("[data-lang]").forEach((button) => {
+    const lang = button.dataset.lang;
+    const active = lang === state.lang;
+    const meta = LANGUAGE_META[lang] || {};
+    button.textContent = meta.label || lang.toUpperCase();
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-pressed", active ? "true" : "false");
+    button.setAttribute("aria-label", meta.aria || button.textContent);
+    button.title = meta.aria || "";
+  });
 }
 
 function applyTranslations() {
@@ -856,6 +1442,249 @@ function applyTranslations() {
   document.querySelectorAll("[data-i18n-placeholder]").forEach((node) => {
     node.placeholder = t(node.dataset.i18nPlaceholder);
   });
+  document.querySelectorAll("[data-i18n-aria-label]").forEach((node) => {
+    node.setAttribute("aria-label", t(node.dataset.i18nAriaLabel));
+  });
+}
+
+function localizedRecordTitle(record) {
+  if (!record) return "";
+  const direct = directDataTranslation(record, "title");
+  if (direct) return direct;
+  if (state.lang === "tr") return record.title;
+
+  const copy = dataCopy();
+  if (record.record_type === "worker_death") {
+    const template = record.worker_name ? copy.record.workplaceKillingTitle : copy.record.workplaceKillingTitleUnknown;
+    return fillTemplate(template, { name: record.worker_name || "" });
+  }
+  if (record.record_type === "mesem_school") {
+    return translateDataText(record.school_name || record.title || copy.record.mesemTitle);
+  }
+  if (record.record_type === "strike") {
+    return fillTemplate(copy.record.strikeTitle, { subject: recordSubject(record) });
+  }
+  if (record.record_type === "labor_retaliation") {
+    return fillTemplate(copy.record.retaliationTitle, { subject: recordSubject(record) });
+  }
+  if (record.record_type === "union_labor_arrest") {
+    return fillTemplate(copy.record.arrestTitle, { subject: record.person_name || recordSubject(record) });
+  }
+  if (record.record_type === "action_call") {
+    return translateDataText(record.title) || fillTemplate(copy.record.actionCallTitle, { subject: recordSubject(record) });
+  }
+  return translateDataText(record.title);
+}
+
+function localizedRecordSummary(record) {
+  if (!record) return "";
+  const direct = directDataTranslation(record, "summary");
+  if (direct) return direct;
+  if (state.lang === "tr") return record.summary || t("common.notSpecified");
+
+  const copy = dataCopy();
+  const place = recordPlace(record);
+  const demands = localizedDemands(record).join(copy.listSeparator);
+  const legal = localizedRecordValue(record, record.legal_status ? "legal_status" : "accusation", record.legal_status || record.accusation || "");
+  const dates = localizedDateParts(record).join(copy.listSeparator);
+
+  if (record.record_type === "worker_death") {
+    return fillTemplate(copy.record.workplaceKillingSummary, {
+      name: record.worker_name || workerFallback(),
+      date: record.death_date ? dateFragment(record.death_date) : "",
+      place: place ? placeFragment(place) : "",
+      employer: record.employer ? employerFragment(localizedRecordValue(record, "employer", record.employer)) : "",
+      cause: localizedRecordValue(record, "cause", record.cause || t("common.notSpecified")),
+      legal: legal ? fillTemplate(copy.record.legal, { text: sentenceText(legal) }) : "",
+    });
+  }
+  if (record.record_type === "mesem_school") {
+    return copy.record.mesemSummary;
+  }
+  if (record.record_type === "strike") {
+    return fillTemplate(copy.record.strikeSummary, {
+      subject: record.employer ? subjectFragment(recordSubject(record)) : "",
+      place: place ? placeFragment(place) : "",
+      status: t(`status.${record.status}`),
+      participants: record.participant_count ? fillTemplate(copy.record.participants, { count: formatCount(record.participant_count) }) : "",
+      dates: dates ? fillTemplate(copy.record.dates, { dates }) : "",
+      demands: demands ? fillTemplate(copy.record.demands, { demands }) : "",
+    });
+  }
+  if (record.record_type === "action_call") {
+    return fillTemplate(copy.record.actionCallSummary, {
+      subject: record.labor_organization ? subjectFragment(translateDataText(record.labor_organization)) : "",
+      place: place ? placeFragment(place) : "",
+      dates: dates ? fillTemplate(copy.record.dates, { dates }) : "",
+      demands: demands ? fillTemplate(copy.record.demands, { demands }) : "",
+    });
+  }
+  if (record.record_type === "labor_retaliation") {
+    return fillTemplate(copy.record.retaliationSummary, {
+      subject: record.employer ? subjectFragment(recordSubject(record)) : "",
+      place: place ? placeFragment(place) : "",
+      type: translateDataText(record.retaliation_type || record.cause || t("common.notSpecified")),
+      legal: legal ? fillTemplate(copy.record.legal, { text: sentenceText(legal) }) : "",
+    });
+  }
+  if (record.record_type === "union_labor_arrest") {
+    return fillTemplate(copy.record.arrestSummary, {
+      subject: record.person_name || translateDataText(record.title),
+      organization: record.labor_organization ? fillTemplate(copy.record.organization, { text: translateDataText(record.labor_organization) }) : "",
+      role: record.role ? fillTemplate(copy.record.role, { text: translateDataText(record.role) }) : "",
+      legal: legal ? fillTemplate(copy.record.legal, { text: sentenceText(legal) }) : "",
+    });
+  }
+  return translateDataText(record.summary || t("common.notSpecified"));
+}
+
+function localizedRecordValue(record, field, value) {
+  if (value === 0) return value;
+  if (!value) return value;
+  const direct = directDataTranslation(record, field);
+  if (direct) return direct;
+  if (state.lang === "tr") return value;
+  const translated = translateDataText(value);
+  if (shouldUseGenericRecordValue(field, translated)) return genericRecordValue(field);
+  return translated;
+}
+
+function localizedDemands(record) {
+  return (record.demands || []).map((demand) => translateDataText(demand)).filter(Boolean);
+}
+
+function localizedLocationLabel(location) {
+  const direct = directDataTranslation(location, "label");
+  if (direct) return direct;
+  return state.lang === "tr" ? location.label : translateDataText(location.label);
+}
+
+function localizedLocationBasis(location) {
+  const direct = directDataTranslation(location, "location_basis");
+  if (direct) return direct;
+  return state.lang === "tr" ? location.location_basis : translateDataText(location.location_basis);
+}
+
+function localizedTimelineNote(record, item, index) {
+  const direct = directDataTranslation(item, "note") || directIndexedTranslation(record, "timeline", index, "note");
+  if (direct) return direct;
+  if (state.lang === "tr") return item.note;
+  return dataCopy().timeline[item.status] || dataCopy().timeline.unknown;
+}
+
+function localizedSourceTitle(source) {
+  const direct = directDataTranslation(source, "title");
+  if (direct) return direct;
+  if (state.lang === "tr") return source.title || t("common.source");
+  return [t("common.source"), source.publisher].filter(Boolean).join(": ");
+}
+
+function directDataTranslation(item, field) {
+  if (state.lang === "tr") return "";
+  return item?.translations?.[state.lang]?.[field] || "";
+}
+
+function directIndexedTranslation(record, collection, index, field) {
+  if (state.lang === "tr") return "";
+  return record?.translations?.[state.lang]?.[collection]?.[index]?.[field] || "";
+}
+
+function translateDataText(value) {
+  if (value === 0) return "0";
+  if (!value) return "";
+  if (state.lang === "tr") return String(value);
+  const copy = dataCopy();
+  let output = copy.exact[String(value)] || String(value);
+  const replacements = [...(copy.replacements || [])].sort((a, b) => b[0].length - a[0].length);
+  for (const [from, to] of replacements) {
+    output = output.split(from).join(to);
+  }
+  return output;
+}
+
+function shouldUseGenericRecordValue(field, value) {
+  if (!["cause", "legal_status", "accusation", "retaliation_type"].includes(field)) return false;
+  return hasUntranslatedTurkish(value);
+}
+
+function hasUntranslatedTurkish(value) {
+  return /\b(olay|olayla|ilgili|soruşturma|başlat|haberleştir|kaynak|aktardı|belirtilmedi|çarpması|altında|kalma|kalarak|çalışması|sonucu|sırasında|yaralanma|ölüm|düşme|düşerek|işçi|işçiler|işçisi|hukuki|süreç|ayrıntı|inceleme|tahkikat)\b/i.test(String(value));
+}
+
+function genericRecordValue(field) {
+  const values = {
+    en: {
+      cause: "Workplace incident reported in public sources",
+      legal_status: "Legal or administrative process details were not fully available in the public-source record.",
+      accusation: "Legal accusation or status reported in public sources.",
+      retaliation_type: "Labor-retaliation measure reported in public sources.",
+    },
+    kmr: {
+      cause: "Bûyera kar ji çavkaniyên vekirî hate ragihandin",
+      legal_status: "Hûrgiliyên pêvajoya hiqûqî an îdarî di tomara çavkaniyên vekirî de bi tevahî tune bûn.",
+      accusation: "Tawanbarî an rewşa hiqûqî ji çavkaniyên vekirî hate ragihandin.",
+      retaliation_type: "Tedbîra bersiva cezayî ya li dijî kedê ji çavkaniyên vekirî hate ragihandin.",
+    },
+  };
+  return values[state.lang]?.[field] || values.en[field] || "";
+}
+
+function recordSubject(record) {
+  return translateDataText(record.employer || record.labor_organization || record.person_name || record.school_name || record.title || t("common.notSpecified"));
+}
+
+function recordPlace(record) {
+  const location = displayLocations(record)[0] || record.locations?.[0] || {};
+  return [location.district, location.province].filter(Boolean).join(", ");
+}
+
+function localizedDateParts(record) {
+  const fields = [
+    ["decisionDate", record.decision_date],
+    ["eventDate", record.event_date],
+    ["startDate", record.start_date],
+    ["endDate", record.end_date],
+    ["detentionDate", record.detention_date],
+  ];
+  return fields
+    .filter(([, value]) => value)
+    .map(([label, value]) => `${t(`detail.${label}`)}: ${formatDate(value)}`);
+}
+
+function dateFragment(value) {
+  if (state.lang === "kmr") return ` di ${formatDate(value)} de`;
+  return ` on ${formatDate(value)}`;
+}
+
+function placeFragment(place) {
+  if (state.lang === "kmr") return ` li ${place}`;
+  return ` in ${place}`;
+}
+
+function employerFragment(employer) {
+  if (state.lang === "kmr") return ` li ${employer}`;
+  return ` at ${employer}`;
+}
+
+function subjectFragment(subject) {
+  if (state.lang === "kmr") return ` li ${subject}`;
+  return ` at ${subject}`;
+}
+
+function workerFallback() {
+  return state.lang === "kmr" ? "Karkerek" : "A worker";
+}
+
+function fillTemplate(template, values) {
+  return Object.entries(values).reduce((result, [key, value]) => result.replaceAll(`{${key}}`, value ?? ""), template);
+}
+
+function sentenceText(value) {
+  return String(value || "").replace(/[.!?]+$/g, "");
+}
+
+function dataCopy() {
+  return DATA_COPY[state.lang] || DATA_COPY.en;
 }
 
 function applyFilters() {
@@ -940,7 +1769,7 @@ function renderMarkers() {
             iconSize: [18, 18],
             iconAnchor: [9 - offset.x, 9 - offset.y],
           }),
-          title: record.title,
+          title: localizedRecordTitle(record),
           zIndexOffset: selected ? 2000 : 0,
         }).addTo(state.map);
         marker.on("click", () => selectRecord(record.id, location));
@@ -1048,7 +1877,8 @@ function continuousMonthKeys(startMonth, endMonth) {
 function formatMonthRangeLabel(month) {
   const date = parseDate(`${month}-01`);
   if (!date) return month;
-  const locale = state.lang === "tr" ? "tr-TR" : "en";
+  if (state.lang === "kmr") return `${KMR_MONTHS[date.getMonth()]} ${date.getFullYear()}an`;
+  const locale = localeForLanguage();
   const monthName = new Intl.DateTimeFormat(locale, { month: "long" }).format(date);
   return `${date.getFullYear()} ${monthName}`;
 }
@@ -1125,7 +1955,7 @@ function renderRecordListItem(record) {
     <button class="record-list-item ${selected}" type="button" data-record-list-id="${escapeAttribute(record.id)}">
       <span class="record-list-dot" style="background:${LAYER_COLORS[record.layer]};${record.layer === "strike_decision" ? "border-color:#575047" : ""}"></span>
       <span class="record-list-copy">
-        <strong>${escapeHtml(record.title)}</strong>
+        <strong>${escapeHtml(localizedRecordTitle(record))}</strong>
         <span>${escapeHtml(recordListMeta(record))}</span>
       </span>
     </button>
@@ -1136,7 +1966,7 @@ function sortedFilteredRecords() {
   return [...state.filtered].sort((a, b) => (
     String(recordDateValue(b)).localeCompare(String(recordDateValue(a)))
     || LAYER_ORDER.indexOf(a.layer) - LAYER_ORDER.indexOf(b.layer)
-    || a.title.localeCompare(b.title, state.lang === "tr" ? "tr" : "en")
+    || a.title.localeCompare(b.title, localeForLanguage())
   ));
 }
 
@@ -1148,7 +1978,7 @@ function recordListMeta(record) {
     t(`status.${record.status}`),
     formatDate(recordDateValue(record)),
     place,
-  ].filter(Boolean).join(" · ");
+  ].filter(Boolean).join(dataCopy().joiner);
 }
 
 function recordDateValue(record) {
@@ -1211,11 +2041,11 @@ function renderDetail(record) {
           <button class="icon-btn" type="button" data-close-detail aria-label="${escapeHtml(t("common.close"))}">×</button>
         </div>
       </div>
-      <h2>${escapeHtml(record.title)}</h2>
-      <p class="case-summary">${escapeHtml(record.summary || t("common.notSpecified"))}</p>
+      <h2>${escapeHtml(localizedRecordTitle(record))}</h2>
+      <p class="case-summary">${escapeHtml(localizedRecordSummary(record) || t("common.notSpecified"))}</p>
     </header>
     <div class="detail-stats">${renderTypeStats(record)}</div>
-    ${record.demands.length ? detailSection(t("detail.demands"), `<div class="chip-row">${record.demands.map((demand) => chip(demand)).join("")}</div>`) : ""}
+    ${record.demands.length ? detailSection(t("detail.demands"), `<div class="chip-row">${localizedDemands(record).map((demand) => chip(demand)).join("")}</div>`) : ""}
     ${detailSection(t("detail.locations"), renderLocations(record))}
     ${detailSection(t("detail.timeline"), renderTimeline(record))}
     ${detailSection(t("detail.sources"), renderSources(record))}
@@ -1226,22 +2056,22 @@ function renderDetail(record) {
 function renderTypeStats(record) {
   if (record.record_type === "worker_death") {
     return [
-      detailStat(t("detail.workerName"), record.worker_name),
+      detailStat(t("detail.workerName"), localizedRecordValue(record, "worker_name", record.worker_name)),
       detailStat(t("detail.age"), record.worker_age),
-      detailStat(t("detail.employer"), record.employer),
-      detailStat(t("detail.sector"), record.sector),
+      detailStat(t("detail.employer"), localizedRecordValue(record, "employer", record.employer)),
+      detailStat(t("detail.sector"), localizedRecordValue(record, "sector", record.sector)),
       detailStat(t("detail.date"), formatDate(record.death_date)),
-      detailStat(t("detail.cause"), record.cause),
+      detailStat(t("detail.cause"), localizedRecordValue(record, "cause", record.cause)),
       detailStat(t("detail.fatalityCount"), formatCount(fatalityCount(record))),
-      detailStat(t("detail.legalStatus"), record.legal_status),
+      detailStat(t("detail.legalStatus"), localizedRecordValue(record, "legal_status", record.legal_status)),
       detailStat(t("detail.lastVerified"), formatDate(record.last_verified_at)),
     ].join("");
   }
   if (record.record_type === "mesem_school") {
     return [
-      detailStat(t("detail.schoolName"), record.school_name || record.title),
+      detailStat(t("detail.schoolName"), localizedRecordValue(record, "school_name", record.school_name || record.title)),
       detailStat(t("detail.institutionCode"), record.institution_code),
-      detailStat(t("detail.sector"), record.sector),
+      detailStat(t("detail.sector"), localizedRecordValue(record, "sector", record.sector)),
       detailStat(t("detail.activeDate"), formatDate(record.known_active_date)),
       detailStat(t("detail.linkedIncidents"), record.linked_incident_count),
       detailStat(t("detail.lastVerified"), formatDate(record.last_verified_at)),
@@ -1249,8 +2079,8 @@ function renderTypeStats(record) {
   }
   if (record.record_type === "action_call") {
     return [
-      detailStat(t("detail.union"), record.labor_organization),
-      detailStat(t("detail.sector"), record.sector),
+      detailStat(t("detail.union"), localizedRecordValue(record, "labor_organization", record.labor_organization)),
+      detailStat(t("detail.sector"), localizedRecordValue(record, "sector", record.sector)),
       detailStat(t("detail.actionType"), record.action_type ? t(`actionType.${record.action_type}`) : ""),
       detailStat(t("detail.eventDate"), formatDate(record.event_date || record.start_date)),
       detailStat(t("detail.lastVerified"), formatDate(record.last_verified_at)),
@@ -1258,31 +2088,31 @@ function renderTypeStats(record) {
   }
   if (record.record_type === "labor_retaliation") {
     return [
-      detailStat(t("detail.employer"), record.employer),
-      detailStat(t("detail.union"), record.labor_organization),
-      detailStat(t("detail.sector"), record.sector),
-      detailStat(t("detail.retaliationType"), record.retaliation_type || record.cause),
+      detailStat(t("detail.employer"), localizedRecordValue(record, "employer", record.employer)),
+      detailStat(t("detail.union"), localizedRecordValue(record, "labor_organization", record.labor_organization)),
+      detailStat(t("detail.sector"), localizedRecordValue(record, "sector", record.sector)),
+      detailStat(t("detail.retaliationType"), localizedRecordValue(record, "retaliation_type", record.retaliation_type || record.cause)),
       detailStat(t("detail.date"), formatDate(record.retaliation_date || record.last_verified_at)),
-      detailStat(t("detail.legalStatus"), record.legal_status),
+      detailStat(t("detail.legalStatus"), localizedRecordValue(record, "legal_status", record.legal_status)),
       detailStat(t("detail.linkedIncidents"), record.linked_incident_id),
       detailStat(t("detail.lastVerified"), formatDate(record.last_verified_at)),
     ].join("");
   }
   if (record.record_type === "union_labor_arrest") {
     return [
-      detailStat(t("detail.person"), record.person_name || record.title),
-      detailStat(t("detail.union"), record.labor_organization),
-      detailStat(t("detail.role"), record.role),
+      detailStat(t("detail.person"), localizedRecordValue(record, "person_name", record.person_name || record.title)),
+      detailStat(t("detail.union"), localizedRecordValue(record, "labor_organization", record.labor_organization)),
+      detailStat(t("detail.role"), localizedRecordValue(record, "role", record.role)),
       detailStat(t("detail.detentionDate"), formatDate(record.detention_date)),
       detailStat(t("detail.custodyStatus"), t(`status.${record.status}`)),
-      detailStat(t("detail.accusation"), record.accusation || record.legal_status),
+      detailStat(t("detail.accusation"), localizedRecordValue(record, "accusation", record.accusation || record.legal_status)),
       detailStat(t("detail.lastVerified"), formatDate(record.last_verified_at)),
     ].join("");
   }
   return [
-    detailStat(t("detail.employer"), record.employer),
-    detailStat(t("detail.union"), record.labor_organization),
-    detailStat(t("detail.sector"), record.sector),
+    detailStat(t("detail.employer"), localizedRecordValue(record, "employer", record.employer)),
+    detailStat(t("detail.union"), localizedRecordValue(record, "labor_organization", record.labor_organization)),
+    detailStat(t("detail.sector"), localizedRecordValue(record, "sector", record.sector)),
     detailStat(t("detail.actionType"), record.action_type ? t(`actionType.${record.action_type}`) : ""),
     detailStat(t("detail.workers"), formatCount(record.participant_count)),
     detailStat(t("detail.decisionDate"), formatDate(record.decision_date)),
@@ -1304,33 +2134,33 @@ function detailSection(title, content) {
 function renderLocations(record) {
   return `<div class="location-list">${record.locations.map((location) => `
     <div class="location-row">
-      <strong>${escapeHtml(location.label)}</strong>
+      <strong>${escapeHtml(localizedLocationLabel(location))}</strong>
       <span>${escapeHtml(renderLocationSubtitle(location))}</span><br>
       <span>${escapeHtml(t("detail.geocode"))}: ${escapeHtml(t(`geocodePrecision.${location.geocode_precision || "unknown"}`))}</span>
-      ${location.location_basis ? `<br><span>${escapeHtml(location.location_basis)}</span>` : ""}
+      ${location.location_basis ? `<br><span>${escapeHtml(localizedLocationBasis(location))}</span>` : ""}
     </div>`).join("")}</div>`;
 }
 
 function renderLocationSubtitle(location) {
   const parts = [location.district, location.province].filter(Boolean);
-  if (location.fatality_count) parts.push(`${formatCount(location.fatality_count)} ${state.lang === "tr" ? "iş cinayeti" : "fatalities"}`);
+  if (location.fatality_count) parts.push(`${formatCount(location.fatality_count)} ${t("detail.fatalities")}`);
   return parts.join(", ");
 }
 
 function renderTimeline(record) {
   if (!record.timeline.length) return `<p class="case-summary">${escapeHtml(t("common.notSpecified"))}</p>`;
-  return `<div class="timeline-list">${record.timeline.map((item) => `
+  return `<div class="timeline-list">${record.timeline.map((item, index) => `
     <div class="timeline-row">
       <div class="timeline-date">${escapeHtml(formatDate(item.date) || "")}</div>
-      <div class="timeline-body"><strong>${escapeHtml(t(`status.${item.status}`))}</strong>${escapeHtml(item.note)}</div>
+      <div class="timeline-body"><strong>${escapeHtml(t(`status.${item.status}`))}</strong> ${escapeHtml(localizedTimelineNote(record, item, index))}</div>
     </div>`).join("")}</div>`;
 }
 
 function renderSources(record) {
   return `<div class="source-list">${record.sources.map((source) => `
     <a class="source-row" href="${escapeAttribute(source.url)}" target="_blank" rel="noreferrer">
-      <strong>${escapeHtml(source.title || t("common.source"))}</strong>
-      <span>${escapeHtml([source.publisher, formatDate(source.published_at)].filter(Boolean).join(" · "))}</span>
+      <strong>${escapeHtml(localizedSourceTitle(source))}</strong>
+      <span>${escapeHtml([source.publisher, formatDate(source.published_at)].filter(Boolean).join(dataCopy().joiner))}</span>
     </a>`).join("")}</div>`;
 }
 
@@ -1519,16 +2349,28 @@ function turkeyTodayKey() {
 function formatDate(value) {
   const date = parseDate(value);
   if (!date) return "";
+  if (state.lang === "kmr") return formatKmrDate(date, String(value).length === 7);
   const options = String(value).length === 7
     ? { year: "numeric", month: "short" }
     : { year: "numeric", month: "short", day: "numeric" };
-  return new Intl.DateTimeFormat(state.lang === "tr" ? "tr-TR" : "en", options).format(date);
+  return new Intl.DateTimeFormat(localeForLanguage(), options).format(date);
+}
+
+function formatKmrDate(date, monthOnly = false) {
+  const month = KMR_MONTHS[date.getMonth()];
+  const year = `${date.getFullYear()}an`;
+  if (monthOnly) return `${month} ${year}`;
+  return `${date.getDate()}ê ${month} ${year}`;
 }
 
 function formatCount(value) {
   const number = Number(value);
   if (!Number.isFinite(number)) return "";
-  return new Intl.NumberFormat(state.lang === "tr" ? "tr-TR" : "en").format(number);
+  return new Intl.NumberFormat(localeForLanguage()).format(number);
+}
+
+function localeForLanguage() {
+  return LANGUAGE_META[state.lang]?.locale || "en";
 }
 
 function slugify(value) {
@@ -1541,10 +2383,17 @@ function cryptoRandomId() {
 }
 
 function t(path) {
+  return lookupCopy(COPY[state.lang], path)
+    ?? lookupCopy(COPY.en, path)
+    ?? lookupCopy(COPY.tr, path)
+    ?? path;
+}
+
+function lookupCopy(root, path) {
   const parts = path.split(".");
-  let value = COPY[state.lang];
+  let value = root;
   for (const part of parts) value = value?.[part];
-  return value || path;
+  return typeof value === "string" ? value : null;
 }
 
 function escapeHtml(value) {
