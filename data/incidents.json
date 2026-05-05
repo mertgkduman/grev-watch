@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04",
+  "updated_at": "2026-05-05",
   "description": "Reviewed MVP incident records. Public records must keep at least one source URL.",
   "records": [
     {
@@ -17745,6 +17745,388 @@
           "publisher": "Cumhuriyet / DHA",
           "type": "news",
           "published_at": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "mahir-bugra-karagon-iskenderun-pastane-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Mahir Buğra Karagön İskenderun'da staj yaptığı pastanede yaşamını yitirdi",
+      "summary": "Hatay İskenderun Modernevler Mahallesi'nde İskenderun MESEM Yiyecek İçecek Hizmetleri bölümü 10. sınıf öğrencisi 15 yaşındaki Mahir Buğra Karagön, staj yaptığı pastanede elektrik akımına kapıldı; kaldırıldığı hastanede yaşamını yitirdi.",
+      "worker_name": "Mahir Buğra Karagön",
+      "worker_age": 15,
+      "employer": "Pastane (işveren adı kaynakta belirtilmedi)",
+      "sector": "MESEM / gıda / pastane",
+      "death_date": "2026-05-01",
+      "cause": "Elektrik akımına kapılma",
+      "legal_status": "Olay sonrası pastane sahibinin gözaltına alındığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-05",
+      "locations": [
+        {
+          "id": "mahir-bugra-karagon-iskenderun-modernevler",
+          "label": "Modernevler Mahallesi pastane işyeri",
+          "province_key": "HATAY",
+          "province": "Hatay",
+          "district": "İskenderun / Modernevler",
+          "lat": 36.588,
+          "lng": 36.174,
+          "geocode_precision": "neighborhood_approx",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-01",
+          "status": "fatality_recorded",
+          "note": "Mahir Buğra Karagön staj yaptığı pastanede elektrik akımına kapılarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Staj yaptığı pastanede akıma kapılan 15 yaşındaki öğrenci öldü",
+          "url": "https://www.haberturk.com/yerel-haberler/hatay-haberleri/staj-yaptigi-pastanede-akima-kapilan-15-yasindaki-ogrenci-oldu-117717535",
+          "publisher": "Habertürk / İHA",
+          "type": "news",
+          "published_at": "2026-05-03"
+        }
+      ]
+    },
+    {
+      "id": "satilmis-gucukcavus-arac-orman-kesim-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Satılmış Gücükçavuş Araç'ta orman kesim işinde yaşamını yitirdi",
+      "summary": "Kastamonu Araç Çavuş köyü mevkiinde ormanlık alanda kesim işinde çalışan Satılmış Gücükçavuş, kestiği ağacın devrilmesi sonucu altında kaldı; kaldırıldığı Araç Devlet Hastanesi'nde yaşamını yitirdi.",
+      "worker_name": "Satılmış Gücükçavuş",
+      "employer": "Orman kesim işi (işveren adı kaynakta belirtilmedi)",
+      "sector": "Ormancılık / ağaç kesimi",
+      "death_date": "2026-05-01",
+      "cause": "Kesilen ağacın devrilmesi / altında kalma",
+      "legal_status": "Jandarma ekiplerinin olayla ilgili inceleme başlattığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-05",
+      "locations": [
+        {
+          "id": "satilmis-gucukcavus-arac-cavus-koyu",
+          "label": "Çavuş köyü ormanlık alan",
+          "province_key": "KASTAMONU",
+          "province": "Kastamonu",
+          "district": "Araç / Çavuş köyü",
+          "lat": 41.242,
+          "lng": 33.327,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-01",
+          "status": "fatality_recorded",
+          "note": "Satılmış Gücükçavuş orman kesim işi sırasında devrilen ağacın altında kalarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kastamonu'da Ağaç Kesimi Sırasında İş Cinayeti: 1 Ölü",
+          "url": "https://www.haberler.com/3-sayfa/kestigi-agacin-altinda-kalan-isci-hayatini-19796716-haberi/",
+          "publisher": "Haberler.com / İHA",
+          "type": "news",
+          "published_at": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "azat-ozturk-aliaga-demir-celik-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Azat Öztürk Aliağa'da demir çelik fabrikasında yaşamını yitirdi",
+      "summary": "İzmir Aliağa Çoraklar Mahallesi'ndeki demir çelik fabrikasında yaklaşık iki yıldır çalışan 29 yaşındaki Azat Öztürk, pres makinesinde düzeltme işlemi yaptığı sırada fırlayan demir parçanın göğsüne isabet etmesi sonucu ağır yaralandı; kaldırıldığı Aliağa Devlet Hastanesi'nde yaşamını yitirdi.",
+      "worker_name": "Azat Öztürk",
+      "worker_age": 29,
+      "employer": "Demir çelik fabrikası (işveren adı kaynakta belirtilmedi)",
+      "sector": "Metal / demir çelik",
+      "death_date": "2026-05-04",
+      "cause": "Pres makinesinden fırlayan demir parçanın göğsüne isabet etmesi",
+      "legal_status": "Jandarma ekiplerinin olayla ilgili inceleme başlattığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-05",
+      "locations": [
+        {
+          "id": "azat-ozturk-aliaga-coraklar",
+          "label": "Çoraklar Mahallesi demir çelik fabrikası",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Aliağa / Çoraklar",
+          "lat": 38.799,
+          "lng": 26.972,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Aliağa Çoraklar Mahallesi'ndeki demir çelik fabrikasında bildiriyor; koordinat Aliağa ilçe merkezine yaklaşık yerleştirildi."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-04",
+          "status": "fatality_recorded",
+          "note": "Azat Öztürk pres makinesinden fırlayan demir parçanın göğsüne isabet etmesi sonucu yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İzmir Aliağa’da iş kazası: Fabrikada yaralanan işçi hayatını kaybetti",
+          "url": "https://www.24saatgazetesi.com/izmir-aliagada-is-kazasi-fabrikada-yaralanan-isci-hayatini-kaybetti",
+          "publisher": "24 Saat Gazetesi / AA",
+          "type": "news",
+          "published_at": "2026-05-04"
+        }
+      ]
+    },
+    {
+      "id": "dogtas-kelebek-mobilya-promosyon-eylemi-2026",
+      "record_type": "strike",
+      "status": "ongoing",
+      "action_type": "fiili_wildcat",
+      "title": "Doğtaş ve Kelebek Mobilya işçilerinin promosyon eylemi",
+      "summary": "Doğanlar Holding'e bağlı Çanakkale Biga Doğtaş Mobilya ve Düzce Kelebek Mobilya fabrikalarında Öz Ağaç-İş üyesi yaklaşık 2 bin işçi, toplu iş sözleşmesiyle güvence altına alınan banka promosyonlarının eksik ödenmesi üzerine iş bıraktı; Mayıs başı kaynakları eylemin sürdüğünü aktardı.",
+      "employer": "Doğanlar Holding / Doğtaş Mobilya ve Kelebek Mobilya",
+      "labor_organization": "Öz Ağaç-İş",
+      "sector": "Mobilya",
+      "participant_count": 2000,
+      "start_date": "2026-04-29",
+      "demands": [
+        "Banka promosyonlarının eksik kalan kısmının ödenmesi",
+        "Toplu iş sözleşmesiyle güvence altına alınan hakların uygulanması",
+        "Hak gasbının son bulması"
+      ],
+      "last_verified_at": "2026-05-01",
+      "locations": [
+        {
+          "id": "dogtas-mobilya-biga",
+          "label": "Doğtaş Mobilya Biga fabrikası",
+          "province_key": "CANAKKALE",
+          "province": "Çanakkale",
+          "district": "Biga",
+          "lat": 40.228,
+          "lng": 27.242,
+          "geocode_precision": "district_centroid"
+        },
+        {
+          "id": "kelebek-mobilya-duzce",
+          "label": "Kelebek Mobilya Düzce fabrikası",
+          "province_key": "DUZCE",
+          "province": "Düzce",
+          "district": "Merkez",
+          "lat": 40.843,
+          "lng": 31.156,
+          "geocode_precision": "district_centroid"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-29",
+          "status": "ongoing",
+          "note": "Yaklaşık 2 bin Doğtaş ve Kelebek Mobilya işçisi banka promosyonlarının eksik ödenmesi üzerine iş bıraktı."
+        },
+        {
+          "date": "2026-05-01",
+          "status": "ongoing",
+          "note": "Ege Alternatif, işçilerin banka promosyonu eylemlerinin sürdüğünü aktardı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mobilya işçilerinden banka promosyonu isyanı: Hakkımızı alana dek eylemler sürecek!",
+          "url": "https://www.egealternatif.com/haber/mobilya-iscilerinden-banka-promosyonu-isyani-hakkimizi-alana-dek-eylemler-surecek_72365/",
+          "publisher": "Ege Alternatif",
+          "type": "labor_news",
+          "published_at": "2026-05-01"
+        },
+        {
+          "title": "Hakları ödenmeyen 2 bin mobilya işçisi iş bıraktı",
+          "url": "https://politikahaber.com/haklari-odenmeyen-2-bin-mobilya-iscisi-is-birakti/",
+          "publisher": "Politika Haber / MA",
+          "type": "labor_news",
+          "published_at": "2026-04-29"
+        }
+      ]
+    },
+    {
+      "id": "hapimag-sea-garden-bodrum-grevi-2026",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "legal_strike",
+      "title": "Hapimag Sea Garden Bodrum otel işçileri grevi",
+      "summary": "Muğla Bodrum Yalıçiftlik'teki Hapimag Sea Garden Resort'ta TOLEYİS üyesi 373 işçi, toplu iş sözleşmesi sürecinde işverenin uzlaşmaz tutumu ve sendikal baskı iddiaları üzerine 24 Nisan 2026'da greve çıktı. Grev 8. gününde toplu iş sözleşmesinin imzalanmasıyla kazanımla sona erdi.",
+      "employer": "Hapimag Sea Garden Resort / Hapimag Turistik Yatırım ve Ticaret A.Ş.",
+      "labor_organization": "TOLEYİS",
+      "sector": "Turizm / otel",
+      "participant_count": 373,
+      "decision_date": "2026-04-21",
+      "start_date": "2026-04-24",
+      "end_date": "2026-05-01",
+      "demands": [
+        "Toplu iş sözleşmesi",
+        "Ücret ve sosyal hakların iyileştirilmesi",
+        "Sendikal baskıların son bulması"
+      ],
+      "last_verified_at": "2026-05-04",
+      "locations": [
+        {
+          "id": "hapimag-sea-garden-bodrum-yaliciftlik",
+          "label": "Hapimag Sea Garden Resort",
+          "province_key": "MUGLA",
+          "province": "Muğla",
+          "district": "Bodrum / Yalıçiftlik",
+          "lat": 36.999,
+          "lng": 27.495,
+          "geocode_precision": "venue_approx"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-21",
+          "status": "decision_taken",
+          "note": "TOLEYİS, Hapimag Sea Garden Bodrum oteli için grev kararını duyurdu."
+        },
+        {
+          "date": "2026-04-24",
+          "status": "ongoing",
+          "note": "Hapimag Sea Garden Resort işçileri greve başladı."
+        },
+        {
+          "date": "2026-04-29",
+          "status": "ongoing",
+          "note": "TOLEYİS, 373 işçinin grevinin sürdüğünü ve 1 Mayıs'ı otel önünde karşılayacaklarını bildirdi."
+        },
+        {
+          "date": "2026-05-01",
+          "status": "ended",
+          "note": "Aydınlık, grevin 8. gününde toplu iş sözleşmesiyle kazanımla sonuçlandığını aktardı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "HAPİMAG SEA GARDEN BODRUM OTELİ GREV KARARI HAKKINDA BASIN AÇIKLAMASI",
+          "url": "https://www.toleyis.org.tr/Haberler/HaberDetay/9927",
+          "publisher": "TOLEYİS",
+          "type": "union",
+          "published_at": "2026-04-21"
+        },
+        {
+          "title": "Bodrum’da otel işçileri grevde",
+          "url": "https://www.nefes.com.tr/bodrumda-otel-iscileri-grevde-121565",
+          "publisher": "Nefes / AA",
+          "type": "labor_news",
+          "published_at": "2026-04-29"
+        },
+        {
+          "title": "Bodrum’da grev sona erdi: Mücadele ettik ve kazandık",
+          "url": "https://www.aydinlik.com.tr/haber/bodrumda-grev-sona-erdi-mucadele-ettik-ve-kazandik-575717",
+          "publisher": "Aydınlık",
+          "type": "labor_news",
+          "published_at": "2026-05-04"
+        }
+      ]
+    },
+    {
+      "id": "ses-amed-dicle-universitesi-nobet-ucreti-eylemi-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "protest",
+      "title": "SES Amed Şubesi Dicle Üniversitesi Hastanesi nöbet ücreti protestosu",
+      "summary": "SES Amed Şubesi, Dicle Üniversitesi Hastanesi önünde yaptığı açıklamada sağlık emekçilerinin Mart ve Nisan 2026 fazla mesai/nöbet ücretlerinin ödenmemesini protesto etti; talepler karşılanmazsa iş bırakma dahil mücadeleyi büyüteceklerini duyurdu.",
+      "labor_organization": "SES Amed Şubesi",
+      "sector": "Sağlık",
+      "event_date": "2026-05-04",
+      "demands": [
+        "Mart ve Nisan 2026 fazla mesai/nöbet ücretlerinin ödenmesi",
+        "Ek ödeme sisteminin kaldırılması",
+        "Maaşların tek kalemde, güvenceli ve emekliliğe yansıyacak şekilde düzenlenmesi"
+      ],
+      "last_verified_at": "2026-05-05",
+      "locations": [
+        {
+          "id": "dicle-universitesi-hastanesi-ses-eylemi",
+          "label": "Dicle Üniversitesi Hastanesi önü",
+          "province_key": "DIYARBAKIR",
+          "province": "Diyarbakır",
+          "district": "Sur / Dicle Üniversitesi",
+          "lat": 37.918,
+          "lng": 40.279,
+          "geocode_precision": "venue_approx"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-04",
+          "status": "action_call_happened",
+          "note": "SES Amed Şubesi, Dicle Üniversitesi Hastanesi önünde ödenmeyen fazla mesai/nöbet ücretleri için açıklama yaptı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "SES’ten nöbet ücretlerinin ödenmemesine tepki",
+          "url": "https://politikahaber.com/sesten-nobet-ucretlerinin-odenmemesine-tepki/",
+          "publisher": "Politika Haber / MA",
+          "type": "labor_news",
+          "published_at": "2026-05-04"
+        }
+      ]
+    },
+    {
+      "id": "istanbul-1-mayis-taksim-yuruyusu-gozaltilari-2026",
+      "record_type": "labor_retaliation",
+      "status": "labor_retaliation_reported",
+      "title": "İstanbul 1 Mayıs Taksim yürüyüşüne polis müdahalesi ve gözaltılar",
+      "summary": "İstanbul Valiliği'nin 1 Mayıs Taksim yasağı sonrası sendika ve siyasi-demokratik kurumların Mecidiyeköy buluşmasına polis müdahale etti; Bianet ve ÇHD İstanbul Şubesi 576 gözaltı bildirdi. ÇHD, 2 Mayıs'ta 1 Mayıs günü gözaltına alınanların tamamının serbest bırakıldığını açıkladı.",
+      "employer": "İstanbul Valiliği / kolluk uygulaması",
+      "labor_organization": "1 Mayıs Taksim İnisiyatifi, sendikalar ve demokratik kitle örgütleri",
+      "sector": "Genel emek gündemi / 1 Mayıs",
+      "retaliation_type": "Polis müdahalesi, biber gazı ve toplu gözaltı",
+      "retaliation_date": "2026-05-01",
+      "legal_status": "ÇHD İstanbul Şubesi, 1 Mayıs günü İstanbul'da gözaltına alınan 576 kişinin tamamının serbest bırakıldığını; 28 Nisan operasyonlarında ise 14 kişinin tutuklandığını açıkladı.",
+      "linked_incident_id": "bir-mayis-2026-programlari-ve-cagrilari",
+      "last_verified_at": "2026-05-03",
+      "locations": [
+        {
+          "id": "mecidiyekoy-1-mayis-gozalti-2026",
+          "label": "Mecidiyeköy 1 Mayıs Taksim yürüyüşü",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Şişli / Mecidiyeköy",
+          "lat": 41.063,
+          "lng": 28.992,
+          "geocode_precision": "venue_approx"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-01",
+          "status": "labor_retaliation_reported",
+          "note": "Mecidiyeköy'de Taksim'e yürümek isteyenlere polis müdahale etti; ÇHD İstanbul Şubesi 576 kişinin gözaltına alındığını açıkladı."
+        },
+        {
+          "date": "2026-05-02",
+          "status": "released",
+          "note": "ÇHD, 1 Mayıs günü gözaltına alınan 576 kişinin tamamının serbest bırakıldığını duyurdu."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mecidiyeköy’den 1 Mayıs: Polis Taksim'e yürüyüşü engelledi, gözaltılar var",
+          "url": "https://bianet.org/haber/mecidiyekoyden-1-mayis-polis-taksim-e-yuruyusu-engelledi-gozaltilar-var-319231",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-05-01"
+        },
+        {
+          "title": "1 Mayıs'ta gözaltına alınan 576 kişi serbest bırakıldı",
+          "url": "https://bianet.org/haber/1-mayis-ta-gozaltina-alinan-576-kisi-serbest-birakildi-319263",
+          "publisher": "Bianet",
+          "type": "labor_news",
+          "published_at": "2026-05-02"
         }
       ]
     },
