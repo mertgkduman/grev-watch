@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05",
+  "updated_at": "2026-05-08",
   "purpose": "Regular update checklist and archive of source URLs used in GrevTakip public data. When a source is used for a public record, keep the exact URL, title, publisher, date, source type, and related data file here.",
   "archive_policy": [
     "Prefer source pages with stable article/report URLs over category pages.",
@@ -222,7 +222,7 @@
     }
   ],
   "individual_case_research_progress": {
-    "updated_at": "2026-05-04",
+    "updated_at": "2026-05-08",
     "note": "Report-only worker-death records may use İSİG monthly province/country aggregate centroid locations when individual accident sites are not yet verified; those points must stay marked with location_basis and remain pending detail.",
     "latest_complete_isig_report_months": {
       "periods": [
@@ -252,8 +252,8 @@
       "mapped_april_records_so_far": 27,
       "mapped_april_fatalities_so_far": 29,
       "april_target_status": "pending_full_isig_monthly_report",
-      "mapped_may_2026_records_so_far": 4,
-      "mapped_may_2026_fatalities_so_far": 4
+      "mapped_may_2026_records_so_far": 11,
+      "mapped_may_2026_fatalities_so_far": 11
     },
     "march_2026_first_37_review": {
       "updated_at": "2026-05-01",
@@ -2117,8 +2117,12 @@
         "https://kartepesehir.com/haber/26801480/kartepeye-sinoptan-aci-haber-orhan-cekic-ve-esi-kazada-hayatini-kaybetti",
         "https://medyabar.com/haber/23948877/karasuda-is-kazasi-vincin-altinda-kalan-isci-hayatini-kaybetti",
         "https://medyascope.tv/2026/04/20/doruk-madencilik-iscileri-bakanlik-onunde-aclik-grevine-basladi/",
+        "https://mezopotamyaajansi.com/EKONOMI/content/view/311427",
+        "https://mezopotamyaajansi.com/EKONOMI/content/view/311442",
         "https://mezopotamyaajansi.net/GUNCEL/content/view/310126",
         "https://mezopotamyaajansi35.com/tum-haberler/content/view/303968",
+        "https://mezopotamyapanel.com/EKONOMI/content/view/311551",
+        "https://mezopotamyapanel.com/EKONOMI/content/view/311579",
         "https://nedenisguvenligi.com/tekirdagda-yag-fabrikasinda-patlamada-48-yasindaki-isci-hayatini-kaybetti/",
         "https://olaymedya.com/haber/23902514/gaziantepte-feci-kaza-isci-kemal-kekecin-aci-sonu",
         "https://ozgurgelecek55.net/tokatta-sik-makas-iscileri-ucretlerini-alamayinca-is-durdurdu/",
@@ -2154,6 +2158,7 @@
         "https://www.antalyahurses.com/kayitlarda-meslek-hastaligi-yok-gercekte-is-cinayeti-var/510645/",
         "https://www.aydindenge.com.tr/soke/25/03/2026/sokede-feci-kaza-58-yasindaki-vedat-koc-hayatini-kaybetti",
         "https://www.aydinlik.com.tr/haber/bodrumda-grev-sona-erdi-mucadele-ettik-ve-kazandik-575717",
+        "https://www.aydinlik.com.tr/haber/colinste-grev-var-575851",
         "https://www.aydinlik.com.tr/haber/ozel-maden-sirketleri-isciye-karsi-birlesti-568144",
         "https://www.baskagazete.com/haber/bursa-da-madenciler-icin-destek-eylemi-doruk-madencilik-iscileri-kole-degildir-231110.html",
         "https://www.binbirkanal.com/ozel-okmeydani-hastanesi-telefon-adres-iletisim",
@@ -2164,6 +2169,7 @@
         "https://www.birlesikmetalis.org/smart-solar-grevi-kazanimla-sonuclandi/",
         "https://www.birlesikmetalis.org/totomakta-grev-karari/",
         "https://www.bizimyaka.com/haber/26802443/kartepenin-sevilen-cifti-kazada-hayatlarini-kaybetti",
+        "https://www.bolutakip.com/boluda-viraji-alamayan-hafriyat-kamyonu-devrildi-1-olu",
         "https://www.borsaningundemi.com/haber/isten-atilan-migros-depo-iscilerinden-sert-tepki-1882689",
         "https://www.bursahaberdar.com/bursada-motosiklet-kullanan-kadin-hayatini-kaybetti/",
         "https://www.business-humanrights.org/en/latest-news/turkiye-bestseller-supplier-accused-of-poor-working-conditions-denying-full-compensation-to-over-900-workers-reportedly-laid-off-for-joining-another-union/",
@@ -2171,6 +2177,7 @@
         "https://www.cayhaber.net/cayeli-bakirde-yine-is-kazasi-aci-haber-geldi",
         "https://www.caytvhaber.com/rize/rizede-kamyonetin-carptigi-paramedik-hayatini-kaybetti-68761h",
         "https://www.cnbce.com/sirket-haberleri/migros-depo-iscilerinden-12-ayri-noktada-is-birakma-20ye-yakin-noktada-is-yavaslatma-eylemi-h23731",
+        "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/ege-universitesi-hastanesi-nde-saglik-calisanlari-is-birakti-2501541",
         "https://www.cumhuriyet.com.tr/turkiye/1-mayis-ta-bir-is-cinayeti-daha-uzerine-agac-devrilen-kadin-hayatini-kaybetti-2500248",
         "https://www.cumhuriyet.com.tr/turkiye/avukatlardan-dilovasi-patlamasi-raporu-bu-bir-is-cinayeti-ve-orgutlu-ihmal-rejimi-2459580",
         "https://www.cumhuriyet.com.tr/turkiye/bagimsiz-maden-is-sendikasi-ndan-basaran-aksu-nun-tutuklanmasina-tepki-turkiye-de-isci-sinifina-ve-halka-gozdagi-verilmek-isteniyor-2493983",
@@ -2189,6 +2196,7 @@
         "https://www.dha.com.tr/foto-galeri/2-hafta-sonra-dugunu-olan-tahsin-otel-onunde-icki-icmeyin-diye-uyardi-bicaklanarak-olduruldu-2755083",
         "https://www.dha.com.tr/gundem/bicerdoverin-altinda-kalan-nursefa-hayatini-kaybetti-2756554",
         "https://www.dha.com.tr/gundem/manisada-zincirleme-kaza-1-olu-2si-agir-8-yarali-2763415",
+        "https://www.dha.com.tr/yerel-haberler/mardin/mardinde-insaatin-5inci-katindaki-iskeleden-d-2867419",
         "https://www.dokuz8haber.net/akcayda-1-mayis-cagrisi-edremit-demokrasi-platformundan-maden-iscilerine-destek",
         "https://www.dokuz8haber.net/sik-makas-iscileri-eylemlerinin-100-gununde-basin-aciklamasi-yapti",
         "https://www.duzceninsesi.com.tr/haber/26753119/korkunc-kazada-can-verdi",
@@ -2220,6 +2228,8 @@
         "https://www.haberturk.com/kayseri-haberleri/36550633-kayseride-beton-mikseri-operatoru-is-kazasinda-oldu",
         "https://www.haberturk.com/manisa-akhisar-da-zincirleme-kaza-2-olu-1-i-agir-7-yarali-3839847",
         "https://www.haberturk.com/osmaniye-haberleri/115350985-gorevi-basinda-kalp-krizi-geciren-polis-memuru-sehit-oldu",
+        "https://www.haberturk.com/yerel-haberler/antalya-haberleri/antalyada-otomobille-carpisan-motosikletteki-kurye-oldu-41293953",
+        "https://www.haberturk.com/yerel-haberler/denizli-haberleri/denizlide-insaattan-dusen-duvar-ustasi-hayatini-kaybetti-117782080",
         "https://www.haberturk.com/yerel-haberler/hatay-haberleri/staj-yaptigi-pastanede-akima-kapilan-15-yasindaki-ogrenci-oldu-117717535",
         "https://www.haberyolsuzluk.com/mandarin-rezidans-otel-projesinde-olumlu-is-kazasi/6589/",
         "https://www.hakkariobjektifhaber.com/cansiz-bedeni-bulunan-nasir-bicer-yuksekovada-topraga-verildi-59062h.htm",

@@ -646,6 +646,7 @@ const DATA_COPY = {
       actionCallSummary: "This record tracks an action or solidarity call{subject}{place}.{dates}{demands}",
       retaliationSummary: "This record tracks reported labor retaliation{subject}{place}. Retaliation type: {type}.{legal}",
       arrestSummary: "This record tracks the arrest or detention of {subject}.{organization}{role}{legal}",
+      locationBasis: "The map point is approximate, based on the public-source location details available for this record.",
       participants: " Participants: {count}.",
       dates: " Dates: {dates}.",
       demands: " Demands / issues: {demands}.",
@@ -838,6 +839,7 @@ const DATA_COPY = {
       actionCallSummary: "Ev tomar banga çalakî an piştgiriyê{subject}{place} dişopîne.{dates}{demands}",
       retaliationSummary: "Ev tomar bersiva cezayî ya li dijî kedê{subject}{place} dişopîne. Cure: {type}.{legal}",
       arrestSummary: "Ev tomar girtina {subject} dişopîne.{organization}{role}{legal}",
+      locationBasis: "Xala nexşeyê nêzîkî ye û li gorî agahiyên cihê yên çavkaniyên giştî hatiye danîn.",
       participants: " Beşdar: {count}.",
       dates: " Dîrok: {dates}.",
       demands: " Daxwaz / mijar: {demands}.",
@@ -1550,7 +1552,11 @@ function localizedRecordValue(record, field, value) {
 }
 
 function localizedDemands(record) {
-  return (record.demands || []).map((demand) => translateDataText(demand)).filter(Boolean);
+  return (record.demands || []).map((demand, index) => {
+    const direct = directIndexedTranslation(record, "demands", index, "text")
+      || record?.translations?.[state.lang]?.demands?.[index];
+    return direct || translateDataText(demand);
+  }).filter(Boolean);
 }
 
 function localizedLocationLabel(location) {
@@ -1562,7 +1568,9 @@ function localizedLocationLabel(location) {
 function localizedLocationBasis(location) {
   const direct = directDataTranslation(location, "location_basis");
   if (direct) return direct;
-  return state.lang === "tr" ? location.location_basis : translateDataText(location.location_basis);
+  if (state.lang === "tr") return location.location_basis;
+  const translated = translateDataText(location.location_basis);
+  return hasUntranslatedTurkish(translated) ? dataCopy().record.locationBasis : translated;
 }
 
 function localizedTimelineNote(record, item, index) {

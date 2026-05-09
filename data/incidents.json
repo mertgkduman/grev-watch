@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05",
+  "updated_at": "2026-05-08",
   "description": "Reviewed MVP incident records. Public records must keep at least one source URL.",
   "records": [
     {
@@ -17880,6 +17880,781 @@
           "publisher": "24 Saat Gazetesi / AA",
           "type": "news",
           "published_at": "2026-05-04"
+        }
+      ]
+    },
+    {
+      "id": "ismail-gezen-bolu-ruzgarlar-hafriyat-kamyonu-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "İsmail Gezen Bolu'da hafriyat kamyonunun devrilmesi sonucu yaşamını yitirdi",
+      "summary": "Bolu Merkez'e bağlı Rüzgarlar köyü mevkiinde kum ocağından D-100 kara yoluna seyreden hafriyat kamyonunun devrilmesi sonucu sürücü İsmail Gezen araç ile zemin arasında sıkışarak yaşamını yitirdi.",
+      "translations": {
+        "en": {
+          "title": "İsmail Gezen died after a dump truck overturned in Bolu",
+          "summary": "In the Rüzgarlar village area of central Bolu, a dump truck traveling from a sand quarry toward the D-100 highway overturned. Driver İsmail Gezen was trapped between the vehicle and the ground and died.",
+          "employer": "Excavation and sand quarry transport (employer name not stated in the source)",
+          "sector": "Construction / excavation transport",
+          "cause": "Dump truck rollover / trapped between vehicle and ground",
+          "legal_status": "The source reported that an investigation was opened.",
+          "timeline": [
+            {
+              "note": "İsmail Gezen was trapped between the vehicle and the ground after the dump truck overturned and died."
+            }
+          ]
+        },
+        "kmr": {
+          "title": "Îsmail Gezen li Boluyê piştî wergerandina kamyona hafriyatê jiyana xwe ji dest da",
+          "summary": "Li devera gundê Rüzgarlar a navenda Boluyê, kamyona hafriyatê ku ji kanê qûmê ber bi rêya D-100 ve diçû wergeriya. Ajokar Îsmail Gezen di navbera wesayit û erdê de ma û jiyana xwe ji dest da.",
+          "employer": "Veguhestina hafriyatê û kanê qûmê (navê kardêr di çavkaniyê de nehatiye diyarkirin)",
+          "sector": "Avahî / veguhestina hafriyatê",
+          "cause": "Wergerandina kamyona hafriyatê / man di navbera wesayit û erdê de",
+          "legal_status": "Çavkanî ragihand ku lêkolîn hate destpêkirin.",
+          "timeline": [
+            {
+              "note": "Îsmail Gezen piştî wergerandina kamyona hafriyatê di navbera wesayit û erdê de ma û jiyana xwe ji dest da."
+            }
+          ]
+        }
+      },
+      "worker_name": "İsmail Gezen",
+      "worker_age": 59,
+      "employer": "Hafriyat/kum ocağı taşımacılığı (işveren adı kaynakta belirtilmedi)",
+      "sector": "İnşaat / hafriyat taşımacılığı",
+      "death_date": "2026-05-05",
+      "cause": "Hafriyat kamyonunun devrilmesi / araç ile zemin arasında sıkışma",
+      "legal_status": "Olayla ilgili inceleme başlatıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-08",
+      "locations": [
+        {
+          "id": "ismail-gezen-bolu-ruzgarlar-koyu",
+          "label": "Rüzgarlar köyü mevkii hafriyat yolu",
+          "province_key": "BOLU",
+          "province": "Bolu",
+          "district": "Merkez / Rüzgarlar köyü",
+          "lat": 40.739,
+          "lng": 31.602,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Bolu Merkez'e bağlı Rüzgarlar köyü mevkiinde bildirdi; açık yol noktası verilmediği için Bolu merkez/Rüzgarlar çevresi yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-05",
+          "status": "fatality_recorded",
+          "note": "İsmail Gezen hafriyat kamyonunun devrilmesi sonucu araç ile zemin arasında sıkışarak yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bolu'da virajı alamayan hafriyat kamyonu devrildi: 1 ölü",
+          "url": "https://www.bolutakip.com/boluda-viraji-alamayan-hafriyat-kamyonu-devrildi-1-olu",
+          "publisher": "Bolu Takip / İHA",
+          "type": "news",
+          "published_at": "2026-05-05"
+        }
+      ]
+    },
+    {
+      "id": "hakan-yenisolak-kepez-motokurye-carpisma-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Hakan Yenisolak Kepez'de motokuryelik yaparken yaşamını yitirdi",
+      "summary": "Antalya Kepez Dumlupınar Bulvarı yan yolda kurye olarak çalışan Hakan Yenisolak'ın kullandığı motosiklet otomobille çarpıştı; Yenisolak kaldırıldığı hastanede yaşamını yitirdi.",
+      "translations": {
+        "en": {
+          "title": "Hakan Yenisolak died while working as a motorcycle courier in Kepez",
+          "summary": "On the side road of Dumlupınar Boulevard in Antalya's Kepez district, a motorcycle ridden by courier Hakan Yenisolak collided with a car. Yenisolak died at the hospital where he was taken.",
+          "employer": "Courier work (employer name not stated in the source)",
+          "sector": "Transport / motorcycle courier",
+          "cause": "Collision between a car and a motorcycle",
+          "legal_status": "The source did not give detailed legal-process information; it reported that the body was released to relatives after autopsy procedures.",
+          "timeline": [
+            {
+              "note": "The motorcycle ridden by Hakan Yenisolak collided with a car; Yenisolak died at the hospital."
+            }
+          ]
+        },
+        "kmr": {
+          "title": "Hakan Yenisolak dema wek qasidê motorsîkletê li Kepezê dixebitî jiyana xwe ji dest da",
+          "summary": "Li rêya alî ya Bulvara Dumlupınar a navçeya Kepez a Antalyayê, motorsîkleta qasid Hakan Yenisolak bi otomobîlekê re qezaya trafîkê kir. Yenisolak li nexweşxaneya ku hate rakirin jiyana xwe ji dest da.",
+          "employer": "Karê qasidiyê (navê kardêr di çavkaniyê de nehatiye diyarkirin)",
+          "sector": "Veguhestin / qasidê motorsîkletê",
+          "cause": "Qezaya di navbera otomobîl û motorsîkletê de",
+          "legal_status": "Çavkanî hûrgiliyên pêvajoya hiqûqî neda; ragihand ku cenaze piştî otopsiyê radestî malbatê hate kirin.",
+          "timeline": [
+            {
+              "note": "Motorsîkleta Hakan Yenisolak bi otomobîlekê re qezaya trafîkê kir; Yenisolak li nexweşxaneyê jiyana xwe ji dest da."
+            }
+          ]
+        }
+      },
+      "worker_name": "Hakan Yenisolak",
+      "employer": "Kurye işi (işveren adı kaynakta belirtilmedi)",
+      "sector": "Taşımacılık / motokurye",
+      "death_date": "2026-05-05",
+      "cause": "Otomobil ile motosiklet çarpışması",
+      "legal_status": "Kaynakta hukuki süreç ayrıntısı belirtilmedi; cenazenin otopsi işlemlerinin ardından yakınlarına teslim edildiği aktarıldı.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-08",
+      "locations": [
+        {
+          "id": "hakan-yenisolak-kepez-dumlupinar-bulvari",
+          "label": "Dumlupınar Bulvarı yan yol",
+          "province_key": "ANTALYA",
+          "province": "Antalya",
+          "district": "Kepez / Dumlupınar Bulvarı",
+          "lat": 36.908,
+          "lng": 30.675,
+          "geocode_precision": "road_corridor_approximate",
+          "fatality_count": 1,
+          "location_basis": "Kaynak olayı Kepez ilçesi Dumlupınar Bulvarı yan yolda bildirdi; açık kavşak noktası verilmediği için yol koridoru yaklaşık yerleştirildi."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-05",
+          "status": "fatality_recorded",
+          "note": "Hakan Yenisolak'ın kullandığı motosiklet ile otomobil çarpıştı; Yenisolak hastanede yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Antalya'da otomobille çarpışan motosikletteki kurye öldü",
+          "url": "https://www.haberturk.com/yerel-haberler/antalya-haberleri/antalyada-otomobille-carpisan-motosikletteki-kurye-oldu-41293953",
+          "publisher": "Habertürk / AA",
+          "type": "news",
+          "published_at": "2026-05-05"
+        }
+      ]
+    },
+    {
+      "id": "ercan-saglam-kiziltepe-insaat-iskelesi-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Ercan Sağlam Kızıltepe'de inşaat iskelesinden düşerek yaşamını yitirdi",
+      "summary": "Mardin Kızıltepe Turgut Özal Mahallesi'nde inşaat halindeki binanın 5. katındaki iskelede dış cephe boyası yapan Ercan Sağlam dengesini kaybederek düştü; Kızıltepe Devlet Hastanesi'nde yaşamını yitirdi.",
+      "translations": {
+        "en": {
+          "title": "Ercan Sağlam died after falling from construction scaffolding in Kızıltepe",
+          "summary": "In Turgut Özal neighborhood of Mardin's Kızıltepe district, Ercan Sağlam was painting the exterior facade on scaffolding on the fifth floor of a building under construction when he lost his balance and fell. He died at Kızıltepe State Hospital.",
+          "employer": "Construction site (employer name not stated in the source)",
+          "sector": "Construction / exterior facade painting",
+          "cause": "Fall from height from construction scaffolding",
+          "legal_status": "The source reported that an investigation was opened.",
+          "timeline": [
+            {
+              "note": "Ercan Sağlam fell from scaffolding on the fifth floor of the construction site and died."
+            }
+          ]
+        },
+        "kmr": {
+          "title": "Ercan Sağlam li Kızıltepeyê ji iskeleya avahiyê ket û jiyana xwe ji dest da",
+          "summary": "Li Taxa Turgut Özal a navçeya Kızıltepe ya Mêrdînê, Ercan Sağlam dema li iskeleya qata 5emîn a avahiyekê boyaxa derve dikir hevsengiya xwe winda kir û ket. Ew li Nexweşxaneya Dewletê ya Kızıltepeyê jiyana xwe ji dest da.",
+          "employer": "Avahî (navê kardêr di çavkaniyê de nehatiye diyarkirin)",
+          "sector": "Avahî / boyaxa derve",
+          "cause": "Ketina ji bilindahiyê ji iskeleya avahiyê",
+          "legal_status": "Çavkanî ragihand ku lêkolîn hate destpêkirin.",
+          "timeline": [
+            {
+              "note": "Ercan Sağlam ji iskeleya qata 5emîn a avahiyê ket û jiyana xwe ji dest da."
+            }
+          ]
+        }
+      },
+      "worker_name": "Ercan Sağlam",
+      "worker_age": 32,
+      "employer": "İnşaat (işveren adı kaynakta belirtilmedi)",
+      "sector": "İnşaat / dış cephe boya",
+      "death_date": "2026-05-05",
+      "cause": "İnşaat iskelesinden yüksekten düşme",
+      "legal_status": "Olayla ilgili soruşturma başlatıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-08",
+      "locations": [
+        {
+          "id": "ercan-saglam-kiziltepe-turgut-ozal",
+          "label": "Turgut Özal Mahallesi inşaatı",
+          "province_key": "MARDIN",
+          "province": "Mardin",
+          "district": "Kızıltepe / Turgut Özal",
+          "lat": 37.192,
+          "lng": 40.594,
+          "geocode_precision": "neighborhood_approx",
+          "fatality_count": 1,
+          "location_basis": "Kaynak olayı Kızıltepe Turgut Özal Mahallesi'ndeki inşaatta bildirdi; açık bina adresi verilmediği için mahalle çevresi yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-05",
+          "status": "fatality_recorded",
+          "note": "Ercan Sağlam inşaatın 5. katındaki iskeleden düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mardin'de inşaatın 5'inci katındaki iskeleden düşen işçi öldü",
+          "url": "https://www.dha.com.tr/yerel-haberler/mardin/mardinde-insaatin-5inci-katindaki-iskeleden-d-2867419",
+          "publisher": "Demirören Haber Ajansı",
+          "type": "news",
+          "published_at": "2026-05-05"
+        }
+      ]
+    },
+    {
+      "id": "tarkan-bulut-merkezefendi-insaat-2026",
+      "record_type": "worker_death",
+      "status": "fatality_recorded",
+      "title": "Tarkan Bulut Merkezefendi'de inşaattan düşerek yaşamını yitirdi",
+      "summary": "Denizli Merkezefendi'de bir inşaatta duvar ustası olarak çalışan 31 yaşındaki Tarkan Bulut, çalışma sırasında dengesini kaybederek 2. kattan beton zemine düştü; Denizli Devlet Hastanesi'nde yaşamını yitirdi.",
+      "translations": {
+        "en": {
+          "title": "Tarkan Bulut died after falling from a construction site in Merkezefendi",
+          "summary": "In Denizli's Merkezefendi district, 31-year-old wall mason Tarkan Bulut lost his balance while working at a construction site and fell from the second floor onto concrete. He died at Denizli State Hospital.",
+          "employer": "Construction site (employer name not stated in the source)",
+          "sector": "Construction / masonry",
+          "cause": "Fall from height at a construction site",
+          "legal_status": "The source reported that an inquiry was opened.",
+          "timeline": [
+            {
+              "note": "Tarkan Bulut fell from the second floor onto concrete while doing masonry work and died."
+            }
+          ]
+        },
+        "kmr": {
+          "title": "Tarkan Bulut li Merkezefendiyê ji avahiyê ket û jiyana xwe ji dest da",
+          "summary": "Li navçeya Merkezefendi ya Denizliyê, Tarkan Bulut ê 31 salî ku wek hostayê dîwaran li avahiyekê dixebitî, dema dixebitî hevsengiya xwe winda kir û ji qata 2emîn li ser erda beton ket. Ew li Nexweşxaneya Dewletê ya Denizliyê jiyana xwe ji dest da.",
+          "employer": "Avahî (navê kardêr di çavkaniyê de nehatiye diyarkirin)",
+          "sector": "Avahî / hostatiya dîwaran",
+          "cause": "Ketina ji bilindahiyê li avahiyê",
+          "legal_status": "Çavkanî ragihand ku lêkolîn hate destpêkirin.",
+          "timeline": [
+            {
+              "note": "Tarkan Bulut dema karê dîwaran dikir ji qata 2emîn li ser erda beton ket û jiyana xwe ji dest da."
+            }
+          ]
+        }
+      },
+      "worker_name": "Tarkan Bulut",
+      "worker_age": 31,
+      "employer": "İnşaat (işveren adı kaynakta belirtilmedi)",
+      "sector": "İnşaat / duvar ustası",
+      "death_date": "2026-05-07",
+      "cause": "İnşaatta yüksekten düşme",
+      "legal_status": "Olayla ilgili inceleme başlatıldığı haberleştirildi.",
+      "linked_incident_count": 1,
+      "last_verified_at": "2026-05-08",
+      "locations": [
+        {
+          "id": "tarkan-bulut-denizli-merkezefendi",
+          "label": "Merkezefendi inşaat şantiyesi",
+          "province_key": "DENIZLI",
+          "province": "Denizli",
+          "district": "Merkezefendi",
+          "lat": 37.783,
+          "lng": 29.079,
+          "geocode_precision": "district_centroid",
+          "fatality_count": 1,
+          "location_basis": "Kaynaklar olayı Denizli Merkezefendi ilçesindeki bir inşaatta bildirdi; mahalle veya açık şantiye adresi verilmediği için ilçe merkezi yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-07",
+          "status": "fatality_recorded",
+          "note": "Tarkan Bulut duvar örme işi sırasında 2. kattan beton zemine düşerek yaşamını yitirdi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Denizli'de inşaattan düşen duvar ustası hayatını kaybetti",
+          "url": "https://www.haberturk.com/yerel-haberler/denizli-haberleri/denizlide-insaattan-dusen-duvar-ustasi-hayatini-kaybetti-117782080",
+          "publisher": "Habertürk / İHA",
+          "type": "news",
+          "published_at": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "colins-eroglu-giyim-avcilar-grevi-2026",
+      "record_type": "strike",
+      "status": "ongoing",
+      "action_type": "legal_strike",
+      "title": "Colins Eroğlu Giyim Avcılar grevi",
+      "summary": "İstanbul Avcılar'da faaliyet gösteren Colins Eroğlu Moda Tekstil Sanayi ve Ticaret A.Ş. işçileri, toplu iş sözleşmesi görüşmelerinde uzlaşma sağlanamaması üzerine Öz İplik-İş ile greve çıktı; sendika ücret, çalışma koşulları ve sendika hakkı taleplerini vurguladı.",
+      "translations": {
+        "en": {
+          "title": "Colins Eroğlu Giyim strike in Avcılar",
+          "summary": "Workers at Colins Eroğlu Moda Tekstil Sanayi ve Ticaret A.Ş. in Istanbul's Avcılar district went on strike with Öz İplik-İş after collective bargaining talks failed to reach an agreement; the union emphasized wage, working-conditions, and union-rights demands.",
+          "employer": "Colins Eroğlu Moda Tekstil Sanayi ve Ticaret A.Ş.",
+          "labor_organization": "Öz İplik-İş",
+          "sector": "Textiles / ready-made clothing",
+          "demands": [
+            "Collective bargaining agreement",
+            "Improved wages and working conditions",
+            "Recognition of union rights"
+          ],
+          "timeline": [
+            {
+              "note": "Öz İplik-İş announced that the strike began after a collective bargaining dispute at the Colins Eroğlu Moda Tekstil workplace."
+            }
+          ]
+        },
+        "kmr": {
+          "title": "Greva Colins Eroğlu Giyim li Avcılarê",
+          "summary": "Karkerên Colins Eroğlu Moda Tekstil Sanayi ve Ticaret A.Ş. yên li Avcılar a Stenbolê, piştî ku di danûstandinên peymana kar a komî de lihevhatin pêk nehat, bi Öz İplik-İş re derketin grevê; sendîka daxwazên mûçe, mercên kar û mafê sendîkayê xist pêş.",
+          "employer": "Colins Eroğlu Moda Tekstil Sanayi ve Ticaret A.Ş.",
+          "labor_organization": "Öz İplik-İş",
+          "sector": "Tekstîl / cil û bergên amade",
+          "demands": [
+            "Peymana kar a komî",
+            "Başkirina mûçe û mercên kar",
+            "Naskirina mafê sendîkayê"
+          ],
+          "timeline": [
+            {
+              "note": "Öz İplik-İş ragihand ku li cihê karê Colins Eroğlu Moda Tekstil, piştî nakokiya peymana kar a komî grev dest pê kir."
+            }
+          ]
+        }
+      },
+      "employer": "Colins Eroğlu Moda Tekstil Sanayi ve Ticaret A.Ş.",
+      "labor_organization": "Öz İplik-İş",
+      "sector": "Tekstil / hazır giyim",
+      "start_date": "2026-05-05",
+      "demands": [
+        "Toplu iş sözleşmesi",
+        "Ücret ve çalışma koşullarının iyileştirilmesi",
+        "Sendika hakkının tanınması"
+      ],
+      "last_verified_at": "2026-05-08",
+      "locations": [
+        {
+          "id": "colins-eroglu-giyim-avcilar",
+          "label": "Colins Eroğlu Moda Tekstil, Avcılar",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "Avcılar",
+          "lat": 40.979,
+          "lng": 28.721,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Kaynak işyerini İstanbul Avcılar'da bildirdi; açık tesis adresi doğrulanamadığı için Avcılar ilçe merkezi yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-05",
+          "status": "ongoing",
+          "note": "Öz İplik-İş, Colins Eroğlu Moda Tekstil işyerindeki toplu sözleşme uyuşmazlığı üzerine grevin başladığını duyurdu."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Colins’te grev var",
+          "url": "https://www.aydinlik.com.tr/haber/colinste-grev-var-575851",
+          "publisher": "Aydınlık",
+          "type": "labor_news",
+          "published_at": "2026-05-05"
+        }
+      ]
+    },
+    {
+      "id": "ege-universitesi-hastanesi-saglik-calisanlari-is-birakma-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "protest",
+      "title": "Ege Üniversitesi Hastanesi sağlık çalışanlarının iş bırakma eylemi",
+      "summary": "İzmir Bornova'daki Ege Üniversitesi Hastanesi'nde sağlık çalışanları, ek ücret, artan iş yükü ve haklarının verilmediği gerekçesiyle iş bıraktı; Birlik Sağlık-Sen İzmir Üniversiteler Şube Başkanı Muhammed Danışkan talepler karşılanana kadar mücadeleyi sürdüreceklerini açıkladı.",
+      "translations": {
+        "en": {
+          "title": "Ege University Hospital healthcare workers' work stoppage",
+          "summary": "Healthcare workers at Ege University Hospital in Izmir's Bornova district stopped work over additional pay, rising workload, and unpaid rights. Birlik Sağlık-Sen Izmir Universities Branch President Muhammed Danışkan said they would continue the struggle until their demands are met.",
+          "labor_organization": "Birlik Sağlık-Sen and Ege University Hospital healthcare workers",
+          "sector": "Healthcare",
+          "demands": [
+            "Payment of additional pay and revolving-fund payments",
+            "Working conditions",
+            "Recognition of healthcare workers' rights"
+          ],
+          "timeline": [
+            {
+              "note": "Ege University Hospital healthcare workers stopped work over additional pay, workload, and rights demands."
+            }
+          ]
+        },
+        "kmr": {
+          "title": "Rawestandina kar a xebatkarên tenduristiyê yên Nexweşxaneya Zanîngeha Egeyê",
+          "summary": "Li Nexweşxaneya Zanîngeha Egeyê ya Bornova ya Îzmîrê, xebatkarên tenduristiyê ji ber pereyên zêde, barê karê zêde û mafên ku nehatine dayîn kar rawestand. Serokê Şaxa Zanîngehên Îzmîrê ya Birlik Sağlık-Sen Muhammed Danışkan got ku heta daxwazên wan werin bicihanîn dê têkoşînê bidomînin.",
+          "labor_organization": "Birlik Sağlık-Sen û xebatkarên tenduristiyê yên Nexweşxaneya Zanîngeha Egeyê",
+          "sector": "Tenduristî",
+          "demands": [
+            "Dayîna pereyên zêde û dayînên sermayeya döner",
+            "Mercên kar",
+            "Dayîna mafên xebatkarên tenduristiyê"
+          ],
+          "timeline": [
+            {
+              "note": "Xebatkarên tenduristiyê yên Nexweşxaneya Zanîngeha Egeyê bi daxwazên pereyên zêde, barê kar û mafan kar rawestand."
+            }
+          ]
+        }
+      },
+      "labor_organization": "Birlik Sağlık-Sen ve Ege Üniversitesi Hastanesi sağlık çalışanları",
+      "sector": "Sağlık",
+      "event_date": "2026-05-06",
+      "demands": [
+        "Ek ücret ve döner sermaye ödemelerinin yapılması",
+        "Çalışma koşulları",
+        "Sağlık emekçilerinin haklarının verilmesi"
+      ],
+      "last_verified_at": "2026-05-08",
+      "locations": [
+        {
+          "id": "ege-universitesi-hastanesi-bornova-is-birakma",
+          "label": "Ege Üniversitesi Hastanesi",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Bornova / Ege Üniversitesi",
+          "lat": 38.455,
+          "lng": 27.214,
+          "geocode_precision": "venue_approx"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-06",
+          "status": "action_call_happened",
+          "note": "Ege Üniversitesi Hastanesi sağlık çalışanları ek ücret, iş yükü ve hak talepleriyle iş bıraktı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ege Üniversitesi Hastanesi’nde sağlık çalışanları iş bıraktı",
+          "url": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/ege-universitesi-hastanesi-nde-saglik-calisanlari-is-birakti-2501541",
+          "publisher": "Cumhuriyet / ANKA",
+          "type": "labor_news",
+          "published_at": "2026-05-06"
+        }
+      ]
+    },
+    {
+      "id": "izmir-belediyeleri-tis-is-birakma-eylemleri-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "protest",
+      "title": "İzmir ilçe belediyelerinde TİS iş bırakma eylemleri",
+      "summary": "Buca, Bayraklı ve Karşıyaka belediyelerinde çalışan kamu emekçileri, toplu iş sözleşmesi anlaşmazlığı, sosyal denge tazminatı kesintileri ve TİS alacaklarının ödenmemesi nedeniyle iş bırakma ve belediye önü eylemleri yaptı; 8 Mayıs'ta Karşıyaka Belediyesi'nin yeniden müzakere ve ödeme takvimi sözü verdiği bildirildi.",
+      "translations": {
+        "en": {
+          "title": "Collective-agreement work stoppages in Izmir district municipalities",
+          "summary": "Public employees in Buca, Bayraklı, and Karşıyaka municipalities held work stoppages and municipality-front protests over collective bargaining disputes, social balance compensation cuts, and unpaid collective-agreement receivables. On May 8, Karşıyaka Municipality was reported to have promised renewed negotiations and a payment schedule.",
+          "employer": "Buca, Bayraklı, and Karşıyaka municipalities",
+          "labor_organization": "Tüm Bel-Sen Izmir Branch No. 2, Tüm Yerel-Sen Izmir Branch, and Birlik Yerel-Sen",
+          "sector": "Municipal / public employees",
+          "demands": [
+            "Protection of collective-agreement rights",
+            "Reversal of social balance compensation cuts",
+            "Payment of collective-agreement receivables",
+            "Reopening the bargaining table"
+          ],
+          "timeline": [
+            {
+              "note": "Work stoppages were reported in Buca, Bayraklı, and Karşıyaka municipalities over collective-agreement disputes and unpaid receivables."
+            },
+            {
+              "note": "Mezopotamya Agency reported that after talks with unions, Karşıyaka Municipality management promised renewed negotiations and a schedule for retroactive payments."
+            }
+          ]
+        },
+        "kmr": {
+          "title": "Rawestandina kar ji bo TİSê li şaredariyên navçeyên Îzmîrê",
+          "summary": "Kedkarên giştî yên li şaredariyên Buca, Bayraklı û Karşıyaka ji ber nakokiya peymana kar a komî, birîna tezmînata hevsengiya civakî û nedayîna alacakên TİSê kar rawestand û li ber şaredariyan çalakî kir. Di 8ê Gulanê de hat ragihandin ku Şaredariya Karşıyaka soz da ku danûstandin ji nû ve were destpêkirin û bernameya dayînê were çêkirin.",
+          "employer": "Şaredariyên Buca, Bayraklı û Karşıyaka",
+          "labor_organization": "Şaxa Îzmîrê ya 2emîn a Tüm Bel-Sen, Şaxa Îzmîrê ya Tüm Yerel-Sen û Birlik Yerel-Sen",
+          "sector": "Şaredarî / kedkarên giştî",
+          "demands": [
+            "Parastina mafên peymana kar a komî",
+            "Vegerandina birînên tezmînata hevsengiya civakî",
+            "Dayîna alacakên TİSê",
+            "Vekirina ji nû ve ya maseya danûstandinê"
+          ],
+          "timeline": [
+            {
+              "note": "Hat ragihandin ku li şaredariyên Buca, Bayraklı û Karşıyaka ji ber nakokiyên TİSê û alacakên nedayî kar rawestand."
+            },
+            {
+              "note": "Ajansa Mezopotamya ragihand ku rêveberiya Şaredariya Karşıyaka piştî hevdîtina bi sendîkayan re soz da ku danûstandin ji nû ve dest pê bike û bernameya dayîna alacakên paşde mayî were çêkirin."
+            }
+          ]
+        }
+      },
+      "employer": "Buca, Bayraklı ve Karşıyaka belediyeleri",
+      "labor_organization": "Tüm Bel-Sen İzmir 2 No'lu Şube, Tüm Yerel-Sen İzmir Şubesi ve Birlik Yerel-Sen",
+      "sector": "Belediye / kamu emekçileri",
+      "event_date": "2026-05-07",
+      "demands": [
+        "Toplu iş sözleşmesi haklarının korunması",
+        "Sosyal denge tazminatı kesintilerinin geri alınması",
+        "TİS alacaklarının ödenmesi",
+        "Müzakere masasının yeniden kurulması"
+      ],
+      "last_verified_at": "2026-05-08",
+      "locations": [
+        {
+          "id": "izmir-buca-belediyesi-tis-eylemi",
+          "label": "Buca Belediyesi",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Buca",
+          "lat": 38.384,
+          "lng": 27.174,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Kaynaklar TİS eylemlerini Buca, Bayraklı ve Karşıyaka belediyelerinde bildirdi; açık belediye önü noktaları yerine ilçe merkezleri yaklaşık nokta olarak kullanıldı."
+        },
+        {
+          "id": "izmir-bayrakli-belediyesi-tis-eylemi",
+          "label": "Bayraklı Belediyesi",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Bayraklı",
+          "lat": 38.462,
+          "lng": 27.167,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Kaynaklar TİS eylemlerini Buca, Bayraklı ve Karşıyaka belediyelerinde bildirdi; açık belediye önü noktaları yerine ilçe merkezleri yaklaşık nokta olarak kullanıldı."
+        },
+        {
+          "id": "izmir-karsiyaka-belediyesi-tis-eylemi",
+          "label": "Karşıyaka Belediyesi",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "Karşıyaka",
+          "lat": 38.46,
+          "lng": 27.115,
+          "geocode_precision": "district_centroid",
+          "location_basis": "Kaynaklar TİS eylemlerini Buca, Bayraklı ve Karşıyaka belediyelerinde bildirdi; açık belediye önü noktaları yerine ilçe merkezleri yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-07",
+          "status": "action_call_happened",
+          "note": "Buca, Bayraklı ve Karşıyaka belediyelerinde TİS anlaşmazlığı ve alacaklar nedeniyle iş bırakma eylemlerinin sürdüğü bildirildi."
+        },
+        {
+          "date": "2026-05-08",
+          "status": "action_call_happened",
+          "note": "Mezopotamya Ajansı, Karşıyaka Belediyesi yönetiminin sendikalarla görüşme sonrası yeniden müzakere ve geriye dönük ödeme takvimi sözü verdiğini aktardı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "İzmir belediyelerinde TİS eylemleri büyüyor",
+          "url": "https://mezopotamyaajansi.com/EKONOMI/content/view/311427",
+          "publisher": "Mezopotamya Ajansı",
+          "type": "labor_news",
+          "published_at": "2026-05-07"
+        },
+        {
+          "title": "Çalışanlar CHP’li belediyeye geri adım attırdı",
+          "url": "https://mezopotamyapanel.com/EKONOMI/content/view/311579",
+          "publisher": "Mezopotamya Ajansı",
+          "type": "labor_news",
+          "published_at": "2026-05-08"
+        }
+      ]
+    },
+    {
+      "id": "yusuf-duman-sosyal-hizmet-siddeti-protestolari-2026",
+      "record_type": "action_call",
+      "status": "action_call_happened",
+      "action_type": "protest",
+      "title": "Yusuf Duman'a yönelik saldırı sonrası sosyal hizmetlerde şiddet protestoları",
+      "summary": "Hakkari Aile ve Sosyal Hizmetler İl Müdürlüğü'nde çalışan psikolog Yusuf Duman'ın 6 Mayıs'ta kesici aletle saldırıya uğramasının ardından SES ve meslek örgütleri Hakkari'de ve 8 Mayıs'ta çok sayıda kentte açıklamalar yaparak sağlık ve sosyal hizmet çalışanları için güvenli çalışma, işçi sağlığı ve güvenliği önlemleri ve sosyal risk haritası uygulamasının yeniden değerlendirilmesini talep etti.",
+      "translations": {
+        "en": {
+          "title": "Protests against violence in social services after the attack on Yusuf Duman",
+          "summary": "After psychologist Yusuf Duman, who works at the Hakkari Provincial Directorate of Family and Social Services, was attacked with a cutting instrument on May 6, SES and professional organizations made statements in Hakkari and in multiple cities on May 8. They demanded safe working conditions for health and social-service workers, stronger occupational safety measures, and a reassessment of the social risk map practice.",
+          "labor_organization": "SES, SHUDER, TODAP, the Turkish Psychological Association, and social-service/health workers",
+          "sector": "Healthcare and social services",
+          "demands": [
+            "Prevention of violence in health and social services",
+            "Measures prioritizing worker safety",
+            "Stronger occupational health and safety practices",
+            "Adequate staffing and technical infrastructure",
+            "Reassessment of the social risk map practice"
+          ],
+          "timeline": [
+            {
+              "note": "Psychologist Yusuf Duman, who works at the Hakkari Provincial Directorate of Family and Social Services, was reported to have been attacked with a cutting instrument."
+            },
+            {
+              "note": "SES Hakkari/Colemêrg Branch protested the attack and made a statement against violence and precarity in social services."
+            },
+            {
+              "note": "Organizations including SES, SHUDER, TODAP, and the Turkish Psychological Association held statements in Istanbul, Van, Mersin, Ankara, Batman, Tunceli, and Izmir."
+            }
+          ]
+        },
+        "kmr": {
+          "title": "Piştî êrişa li Yusuf Duman protestoyên li dijî şîdetê di xizmetên civakî de",
+          "summary": "Piştî ku psîkolog Yusuf Duman, ku li Midûriyeta Parêzgehê ya Malbat û Xizmetên Civakî ya Hakkariyê dixebite, di 6ê Gulanê de bi amûra birînê hat êriş kirin, SES û rêxistinên pîşeyî li Hakkariyê û di 8ê Gulanê de li gelek bajaran daxuyanî dan. Wan ji bo xebatkarên tenduristî û xizmetên civakî mercên kar ên ewle, xurtkirina ewlehiya kar û nirxandina ji nû ve ya sepana nexşeya rîska civakî xwest.",
+          "labor_organization": "SES, SHUDER, TODAP, Komeleya Psîkologên Tirkiyeyê û xebatkarên xizmetên civakî/tenduristiyê",
+          "sector": "Tenduristî û xizmetên civakî",
+          "demands": [
+            "Pêşîlêgirtina şîdetê di tenduristî û xizmetên civakî de",
+            "Tedbîrên ku ewlehiya xebatkaran dixin pêş",
+            "Xurtkirina sepana tenduristî û ewlehiya kar",
+            "Personel û altyapıya teknîkî ya têr",
+            "Nirxandina ji nû ve ya sepana nexşeya rîska civakî"
+          ],
+          "timeline": [
+            {
+              "note": "Hat ragihandin ku psîkolog Yusuf Duman, ku li Midûriyeta Parêzgehê ya Malbat û Xizmetên Civakî ya Hakkariyê dixebite, bi amûra birînê hat êriş kirin."
+            },
+            {
+              "note": "Şaxa Hakkari/Colemêrg a SESê êriş protesto kir û li dijî şîdet û bêewlehiyê di xizmetên civakî de daxuyanî da."
+            },
+            {
+              "note": "Rêxistinên wek SES, SHUDER, TODAP û Komeleya Psîkologên Tirkiyeyê li Stenbol, Wan, Mersîn, Enqere, Batman, Dêrsim û Îzmîrê daxuyanî dan."
+            }
+          ]
+        }
+      },
+      "labor_organization": "SES, SHUDER, TODAP, Türk Psikologlar Derneği ve sosyal hizmet/sağlık çalışanları",
+      "sector": "Sağlık ve sosyal hizmetler",
+      "event_date": "2026-05-07",
+      "demands": [
+        "Sağlık ve sosyal hizmetlerde şiddetin önlenmesi",
+        "Çalışan güvenliğini önceleyen tedbirler",
+        "İşçi sağlığı ve güvenliği uygulamalarının güçlendirilmesi",
+        "Yeterli personel ve teknik altyapı",
+        "Sosyal risk haritası uygulamasının yeniden değerlendirilmesi"
+      ],
+      "last_verified_at": "2026-05-08",
+      "locations": [
+        {
+          "id": "hakkari-aile-sosyal-hizmetler-yusuf-duman-protestosu",
+          "label": "Hakkari Aile ve Sosyal Hizmetler İl Müdürlüğü",
+          "province_key": "HAKKARI",
+          "province": "Hakkari",
+          "district": "Merkez",
+          "lat": 37.58,
+          "lng": 43.74,
+          "geocode_precision": "province_centroid",
+          "location_basis": "Kaynak saldırı ve açıklamayı Hakkari/Colemêrg Aile ve Sosyal Hizmetler İl Müdürlüğü ile ilişkilendirdi; açık adres doğrulanamadığı için il merkezi yaklaşık nokta olarak kullanıldı."
+        },
+        {
+          "id": "istanbul-aile-sosyal-hizmetler-yusuf-duman-protestosu",
+          "label": "İstanbul Aile ve Sosyal Hizmetler İl Müdürlüğü önü",
+          "province_key": "ISTANBUL",
+          "province": "İstanbul",
+          "district": "İstanbul",
+          "lat": 41.01,
+          "lng": 28.98,
+          "geocode_precision": "province_centroid",
+          "location_basis": "8 Mayıs çok kentli açıklamalarında İstanbul bildirildi; açık toplanma noktası doğrulanamadığı için il merkezi yaklaşık nokta olarak kullanıldı."
+        },
+        {
+          "id": "van-aile-sosyal-hizmetler-yusuf-duman-protestosu",
+          "label": "Van Aile ve Sosyal Hizmetler İl Müdürlüğü önü",
+          "province_key": "VAN",
+          "province": "Van",
+          "district": "Van",
+          "lat": 38.5,
+          "lng": 43.37,
+          "geocode_precision": "province_centroid",
+          "location_basis": "8 Mayıs çok kentli açıklamalarında Van/Wan bildirildi; açık toplanma noktası doğrulanamadığı için il merkezi yaklaşık nokta olarak kullanıldı."
+        },
+        {
+          "id": "mersin-aile-sosyal-hizmetler-yusuf-duman-protestosu",
+          "label": "Mersin Aile ve Sosyal Hizmetler İl Müdürlüğü önü",
+          "province_key": "MERSIN",
+          "province": "Mersin",
+          "district": "Mersin",
+          "lat": 36.8,
+          "lng": 34.63,
+          "geocode_precision": "province_centroid",
+          "location_basis": "8 Mayıs çok kentli açıklamalarında Mersin bildirildi; açık toplanma noktası doğrulanamadığı için il merkezi yaklaşık nokta olarak kullanıldı."
+        },
+        {
+          "id": "ankara-ashb-yusuf-duman-protestosu",
+          "label": "Aile ve Sosyal Hizmetler Bakanlığı önü",
+          "province_key": "ANKARA",
+          "province": "Ankara",
+          "district": "Ankara",
+          "lat": 39.93,
+          "lng": 32.85,
+          "geocode_precision": "province_centroid",
+          "location_basis": "8 Mayıs çok kentli açıklamalarında Ankara Aile ve Sosyal Hizmetler Bakanlığı önü bildirildi; açık nokta doğrulanmadığı için il merkezi yaklaşık nokta olarak kullanıldı."
+        },
+        {
+          "id": "batman-aile-sosyal-hizmetler-yusuf-duman-protestosu",
+          "label": "Batman Aile ve Sosyal Hizmetler İl Müdürlüğü önü",
+          "province_key": "BATMAN",
+          "province": "Batman",
+          "district": "Batman",
+          "lat": 37.88,
+          "lng": 41.13,
+          "geocode_precision": "province_centroid",
+          "location_basis": "8 Mayıs çok kentli açıklamalarında Batman/Êlih bildirildi; açık toplanma noktası doğrulanamadığı için il merkezi yaklaşık nokta olarak kullanıldı."
+        },
+        {
+          "id": "tunceli-aile-sosyal-hizmetler-yusuf-duman-protestosu",
+          "label": "Tunceli Aile ve Sosyal Hizmetler İl Müdürlüğü önü",
+          "province_key": "TUNCELI",
+          "province": "Tunceli",
+          "district": "Tunceli",
+          "lat": 39.11,
+          "lng": 39.55,
+          "geocode_precision": "province_centroid",
+          "location_basis": "8 Mayıs çok kentli açıklamalarında Dersim/Tunceli bildirildi; açık toplanma noktası doğrulanamadığı için il merkezi yaklaşık nokta olarak kullanıldı."
+        },
+        {
+          "id": "izmir-il-saglik-yusuf-duman-protestosu",
+          "label": "İzmir İl Sağlık Müdürlüğü önü",
+          "province_key": "IZMIR",
+          "province": "İzmir",
+          "district": "İzmir",
+          "lat": 38.42,
+          "lng": 27.14,
+          "geocode_precision": "province_centroid",
+          "location_basis": "8 Mayıs çok kentli açıklamalarında İzmir İl Sağlık Müdürlüğü önü bildirildi; açık nokta doğrulanmadığı için il merkezi yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-06",
+          "status": "action_call_happened",
+          "note": "Hakkari Aile ve Sosyal Hizmetler İl Müdürlüğü'nde çalışan psikolog Yusuf Duman'ın kesici aletli saldırıya uğradığı bildirildi."
+        },
+        {
+          "date": "2026-05-07",
+          "status": "action_call_happened",
+          "note": "SES Hakkari/Colemêrg Şubesi, saldırıyı protesto ederek sosyal hizmetlerde şiddete ve güvencesizliğe karşı açıklama yaptı."
+        },
+        {
+          "date": "2026-05-08",
+          "status": "action_call_happened",
+          "note": "SES, SHUDER, TODAP ve Türk Psikologlar Derneği'nin de aralarında olduğu kurumlar İstanbul, Van, Mersin, Ankara, Batman, Tunceli ve İzmir'de açıklamalar yaptı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sağlık çalışanına saldırı protesto edildi",
+          "url": "https://mezopotamyaajansi.com/EKONOMI/content/view/311442",
+          "publisher": "Mezopotamya Ajansı",
+          "type": "labor_news",
+          "published_at": "2026-05-07"
+        },
+        {
+          "title": "Psikoloğa dönük saldırı protesto edildi",
+          "url": "https://mezopotamyapanel.com/EKONOMI/content/view/311551",
+          "publisher": "Mezopotamya Ajansı",
+          "type": "labor_news",
+          "published_at": "2026-05-08"
         }
       ]
     },
