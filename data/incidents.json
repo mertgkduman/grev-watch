@@ -18803,6 +18803,118 @@
       ]
     },
     {
+      "id": "mersin-evden-eve-nakliyat-iscileri-is-birakma-2022",
+      "record_type": "strike",
+      "status": "ended",
+      "action_type": "fiili_wildcat",
+      "title": "Mersin evden eve nakliyat işçilerinin iş bırakma eylemi",
+      "summary": "Mersin'de evden eve taşımacılık yapan, çoğunluğu Toroslar Kurdali Mahallesi'nde yaşayan ve 70'e yakın firmada sigortasız çalışan nakliyat işçileri, çalışma koşulları protokolünün uygulanmaması ve düşük ücretler nedeniyle 28 Mayıs 2022'de iş bıraktı; GİŞDER ve işçi heyetinin görüşmeleri sonrası eylem ikinci gününde kazanımla sonuçlandı.",
+      "translations": {
+        "en": {
+          "title": "Mersin home-relocation workers' work stoppage",
+          "summary": "In Mersin, home-relocation workers, most of whom lived in Toroslar's Kurdali neighborhood and worked without insurance across nearly 70 firms, stopped work on May 28, 2022 over non-implementation of a working-conditions protocol and low wages. After talks by GİŞDER and a worker delegation, the action ended with gains on the second day.",
+          "employer": "Mersin home-relocation firms, including Star, Doğanay, Ayyıldız, İçel, Esin, and nearly 70 employers",
+          "labor_organization": "Güvencesiz İşçiler Derneği (GİŞDER) and worker delegation",
+          "sector": "Home relocation / transport",
+          "demands": [
+            "Implementation of the agreed working-conditions and wage protocol",
+            "Wage increase for relocation crews",
+            "Protection against uninsured and precarious work"
+          ],
+          "legal_status": "The sources reported that the workers' demands were accepted after talks; no court or administrative process was reported.",
+          "timeline": [
+            {
+              "note": "Home-relocation workers gathered at the work stand in Kurdali neighborhood and stopped work over low pay."
+            },
+            {
+              "note": "After talks with nearly 70 employers, the workers' demands were accepted and the action ended with gains."
+            }
+          ]
+        },
+        "kmr": {
+          "title": "Rawestandina kar a karkerên barkirina malê yên Mersînê",
+          "summary": "Li Mersînê, karkerên barkirina malê ku piraniya wan li taxa Kurdali ya Toroslar dijîn û li nêzî 70 firmayan bê sîgorta dixebitin, ji ber nesepandina protokola mercên kar û mûçeyên kêm di 28ê Gulanê 2022 de kar rawestand. Piştî hevdîtinên GİŞDER û heyeta karkeran, çalakî di roja duyemîn de bi destkeftî bi dawî bû.",
+          "employer": "Firmayên barkirina malê yên Mersînê, di nav de Star, Doğanay, Ayyıldız, İçel, Esin û nêzî 70 kardêr",
+          "labor_organization": "Güvencesiz İşçiler Derneği (GİŞDER) û heyeta karkeran",
+          "sector": "Barkirina malê / veguhestin",
+          "demands": [
+            "Sepandina protokola mercên kar û mûçeyê ya li hev hatî",
+            "Zêdekirina mûçeya ekipên barkirinê",
+            "Parastin li dijî karê bê sîgorta û bêewle"
+          ],
+          "legal_status": "Çavkanî ragihandin ku piştî hevdîtinan daxwazên karkeran hatin qebûlkirin; pêvajoya dadgehê an îdarî nehate ragihandin.",
+          "timeline": [
+            {
+              "note": "Karkerên barkirina malê li rawestgeha kar a taxa Kurdali kom bûn û ji ber mûçeyên kêm kar rawestand."
+            },
+            {
+              "note": "Piştî hevdîtinên bi nêzî 70 kardêran re, daxwazên karkeran hatin qebûlkirin û çalakî bi destkeftî bi dawî bû."
+            }
+          ]
+        }
+      },
+      "employer": "Mersin evden eve nakliyat firmaları (Star, Doğanay, Ayyıldız, İçel, Esin ve yaklaşık 70 firma)",
+      "labor_organization": "Güvencesiz İşçiler Derneği (GİŞDER) ve işçi heyeti",
+      "sector": "Evden eve nakliyat / taşımacılık",
+      "start_date": "2022-05-28",
+      "end_date": "2022-05-29",
+      "demands": [
+        "Çalışma koşulları ve ücret protokolünün uygulanması",
+        "Taşıma ekipleri için ücret artışı",
+        "Sigortasız ve güvencesiz çalışmaya karşı hakların korunması"
+      ],
+      "legal_status": "Kaynaklar görüşmeler sonrası işçilerin taleplerinin kabul edildiğini aktardı; mahkeme veya idari süreç haberleştirilmedi.",
+      "last_verified_at": "2026-05-09",
+      "locations": [
+        {
+          "id": "mersin-toroslar-kurdali-nakliyat-is-duragi",
+          "label": "Kurdali Mahallesi iş durağı",
+          "province_key": "MERSIN",
+          "province": "Mersin",
+          "district": "Toroslar / Kurdali Mahallesi",
+          "lat": 36.827,
+          "lng": 34.626,
+          "geocode_precision": "neighborhood_approx",
+          "location_basis": "Kaynaklar işçilerin Toroslar Kurdali Mahallesi'ndeki iş durağında toplandığını aktardı; açık iş durağı adresi verilmediği için Kurdali Mahallesi yaklaşık noktası kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2022-05-28",
+          "status": "ongoing",
+          "note": "Evden eve nakliyat işçileri düşük ücretler nedeniyle Kurdali Mahallesi'ndeki iş durağında toplanarak iş bıraktı."
+        },
+        {
+          "date": "2022-05-29",
+          "status": "ended",
+          "note": "Yaklaşık 70 firma işvereniyle yapılan görüşmelerin ardından talepler kabul edildi ve eylem kazanımla sonuçlandı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mersin'de Evden Eve Taşımacılık Yapan İşçiler Direnerek Kazandı",
+          "url": "https://www.mersinportal.com/mersinde-evden-eve-tasimacilik-yapan-isciler-direnerek-kazandi",
+          "publisher": "Mersin Portal",
+          "type": "labor_news",
+          "published_at": "2022-05-29"
+        },
+        {
+          "title": "Taşıma işçilerinin yaptığı iş bırakma eylemi sonuç verdi",
+          "url": "https://pirha.org/tasima-iscilerinin-yaptigi-is-birakma-eylemi-sonuc-verdi-video-325656.html/29/05/2022/",
+          "publisher": "PİRHA",
+          "type": "labor_news",
+          "published_at": "2022-05-29"
+        },
+        {
+          "title": "Mersin'de nakliyat işçileri zam talebiyle iş bıraktı",
+          "url": "https://yeniyasamgazetesi9.com/mersinde-nakliyat-iscileri-zam-talebiyle-is-birakti/",
+          "publisher": "Yeni Yaşam Gazetesi",
+          "type": "labor_news",
+          "published_at": "2022-05-28"
+        }
+      ]
+    },
+    {
       "id": "dogtas-kelebek-mobilya-promosyon-eylemi-2026",
       "record_type": "strike",
       "status": "ongoing",
