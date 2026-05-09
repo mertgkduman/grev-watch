@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08",
+  "updated_at": "2026-05-09",
   "description": "Reviewed MVP incident records. Public records must keep at least one source URL.",
   "records": [
     {
@@ -18655,6 +18655,150 @@
           "publisher": "Mezopotamya Ajansı",
           "type": "labor_news",
           "published_at": "2026-05-08"
+        }
+      ]
+    },
+    {
+      "id": "mersin-limani-ozgunes-tasimacilik-direnisi-2026",
+      "record_type": "strike",
+      "status": "ongoing",
+      "action_type": "protest",
+      "title": "Mersin Limanı Özgüneş Taşımacılık işçileri direnişi",
+      "summary": "Mersin Uluslararası Limanı'nda MIP taşeronu Özgüneş Taşımacılık Forklift Hizmetleri'nde yükleme ve boşaltma işlerinde çalışan TÜMTİS üyesi 185 işçi, sendikalı oldukları ve TİS yetkisi alındığı süreçte işten çıkarıldıklarını belirterek MIP A Kapısı önünde işe iade, sendika hakkının tanınması, kadrolu ve sendikalı dönüş ile alacakların ödenmesi talepleriyle direniş sürdürüyor.",
+      "translations": {
+        "en": {
+          "title": "Mersin Port Özgüneş Taşımacılık workers' resistance",
+          "summary": "At Mersin International Port, 185 TÜMTİS-member loading and unloading workers employed by MIP subcontractor Özgüneş Taşımacılık Forklift Hizmetleri say they were dismissed after unionizing and during the collective-bargaining authorization process. They continue their action at MIP Gate A, demanding reinstatement, recognition of union rights, return to secure unionized jobs, and payment of receivables.",
+          "employer": "Özgüneş Taşımacılık Forklift Hizmetleri Tic. ve San. Ltd. Şti. / Mersin International Port subcontracting chain",
+          "labor_organization": "TÜMTİS Mersin Branch",
+          "sector": "Port / loading and unloading / transport",
+          "demands": [
+            "Reinstatement of dismissed workers",
+            "Recognition of union rights",
+            "Return to secure unionized jobs",
+            "Payment of receivables and losses from the resistance period"
+          ],
+          "legal_status": "Workers and TÜMTİS describe the dismissals as anti-union retaliation; the public sources do not report a final court or administrative decision.",
+          "timeline": [
+            {
+              "note": "The workers reported that 185 port workers were dismissed after unionizing at Özgüneş Taşımacılık."
+            },
+            {
+              "note": "Mersin Haber Merkezi reported that more than 180 workers were on the 103rd day of their action at the MIP building/gate area."
+            },
+            {
+              "note": "Mersin Portal reported that TÜMTİS-member Mersin Port workers carried their 119th day of resistance to Ankara."
+            },
+            {
+              "note": "Gazete Nisan reported that the resistance of 185 port workers dismissed by Özgüneş Taşımacılık had passed 120 days and was continuing."
+            }
+          ]
+        },
+        "kmr": {
+          "title": "Berxwedana karkerên Özgüneş Taşımacılık a Limana Mersînê",
+          "summary": "Li Limana Navneteweyî ya Mersînê, 185 karkerên barkirin û dakirinê yên endamên TÜMTİSê ku li taşerona MIPê Özgüneş Taşımacılık Forklift Hizmetleri dixebitin, dibêjin piştî sendîkalîbûnê û di pêvajoya desthilata TİSê de ji kar hatin derxistin. Ew li ber Deriyê A yê MIPê bi daxwazên vegera kar, naskirina mafê sendîkayê, vegera bi statûya kadrolu û sendîkalî û dayîna alacakên xwe çalakiyê didomînin.",
+          "employer": "Özgüneş Taşımacılık Forklift Hizmetleri Tic. ve San. Ltd. Şti. / zincîra taşeroniyê ya Mersin International Port",
+          "labor_organization": "Şaxa Mersînê ya TÜMTİSê",
+          "sector": "Liman / barkirin û dakirin / veguhestin",
+          "demands": [
+            "Vegera karkerên ji kar hatine derxistin",
+            "Naskirina mafê sendîkayê",
+            "Veger bi karên kadrolu û sendîkalî",
+            "Dayîna alacak û zirarên dema berxwedanê"
+          ],
+          "legal_status": "Karker û TÜMTİS vê derxistinê wek bersiva li dijî sendîkayê bi nav dikin; çavkaniyên giştî biryara dawî ya dadgehê an îdarî ragihandin.",
+          "timeline": [
+            {
+              "note": "Karkeran ragihand ku piştî sendîkalîbûnê li Özgüneş Taşımacılık 185 karkerên limanê ji kar hatin derxistin."
+            },
+            {
+              "note": "Mersin Haber Merkezi ragihand ku zêdetirî 180 karker li devera avahi/deriyê MIPê di roja 103emîn a çalakiyê de bûn."
+            },
+            {
+              "note": "Mersin Portal ragihand ku karkerên Limana Mersînê yên endamên TÜMTİSê roja 119emîn a berxwedana xwe birin Enqereyê."
+            },
+            {
+              "note": "Gazete Nisan ragihand ku berxwedana 185 karkerên limanê yên ji aliyê Özgüneş Taşımacılık ve ji kar hatine derxistin 120 rojan derbas kir û didome."
+            }
+          ]
+        }
+      },
+      "employer": "Özgüneş Taşımacılık Forklift Hizmetleri Tic. ve San. Ltd. Şti. / Mersin International Port taşeron zinciri",
+      "labor_organization": "TÜMTİS Mersin Şubesi",
+      "sector": "Liman / yükleme-boşaltma / taşımacılık",
+      "participant_count": 185,
+      "start_date": "2026-01-01",
+      "demands": [
+        "İşten çıkarılan işçilerin işe iadesi",
+        "Sendika hakkının tanınması",
+        "Kadrolu ve sendikalı olarak işe dönüş",
+        "Alacakların ve direniş sürecindeki kayıpların karşılanması"
+      ],
+      "legal_status": "İşçiler ve TÜMTİS işten çıkarmaları sendikal nedenle yapılmış işten çıkarma olarak nitelendiriyor; kamuya açık kaynaklarda kesinleşmiş mahkeme veya idari karar aktarılmadı.",
+      "last_verified_at": "2026-05-09",
+      "locations": [
+        {
+          "id": "mersin-limani-mip-a-kapisi-ozgunes-direnisi",
+          "label": "Mersin Limanı MIP A Kapısı",
+          "province_key": "MERSIN",
+          "province": "Mersin",
+          "district": "Akdeniz / Mersin Limanı",
+          "lat": 36.803,
+          "lng": 34.638,
+          "geocode_precision": "venue_approx",
+          "location_basis": "Kaynaklar direnişin Mersin Limanı MIP A Kapısı/MIP binası önünde sürdüğünü aktarıyor; kapı/liman sahası yaklaşık nokta olarak kullanıldı."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-12-31",
+          "status": "labor_retaliation_reported",
+          "note": "İşçiler, Özgüneş Taşımacılık'ta sendikalı olmaları nedeniyle 185 liman işçisinin işten çıkarıldığını bildirdi."
+        },
+        {
+          "date": "2026-04-13",
+          "status": "ongoing",
+          "note": "Mersin Haber Merkezi, 180'in üzerinde işçinin MIP binası/kapısı önündeki direnişinin 103. gününde olduğunu aktardı."
+        },
+        {
+          "date": "2026-04-29",
+          "status": "ongoing",
+          "note": "Mersin Portal, TÜMTİS üyesi Mersin Limanı işçilerinin 119. günündeki direnişlerini Ankara'ya taşıdığını aktardı."
+        },
+        {
+          "date": "2026-05-05",
+          "status": "ongoing",
+          "note": "Gazete Nisan, Özgüneş Taşımacılık tarafından işten çıkarılan 185 liman işçisinin direnişinin 120 günü aştığını ve sürdüğünü yazdı."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mersin Limanı işçilerinin mücadelesi 103'üncü gününde",
+          "url": "https://www.mersinhabermerkezi.com/mersin-limani-iscilerinin-mucadelesi-103uncu-gununde/amp",
+          "publisher": "Mersin Haber Merkezi",
+          "type": "labor_news",
+          "published_at": "2026-04-13"
+        },
+        {
+          "title": "Mersin Limanı İşçileri Ankara'da Ses Yükseltti",
+          "url": "https://www.mersinportal.com/mersin-limani-iscileri-ankarada-ses-yukseltti",
+          "publisher": "Mersin Portal",
+          "type": "labor_news",
+          "published_at": "2026-04-29"
+        },
+        {
+          "title": "31 Aralık'ta İşsiz Bırakıldılar, Açlığa Mahkûm Edildiler: Mersin'de TÜMTİS Üyesi 185 Liman İşçisi Direnişte",
+          "url": "https://www.habereguven.com/31-aralikta-issiz-birakildilar-acliga-mahkum-edildiler-mersinde-tumtis-uyesi-185-liman-iscisi-direniste",
+          "publisher": "Habere Güven",
+          "type": "labor_news",
+          "published_at": "2026-02-08"
+        },
+        {
+          "title": "Kazanmak için birleşik mücadele şart!",
+          "url": "https://www.gazetenisan.net/2026/05/kazanmak-icin-birlesik-mucadele-sart/",
+          "publisher": "Gazete Nisan",
+          "type": "labor_news",
+          "published_at": "2026-05-05"
         }
       ]
     },
